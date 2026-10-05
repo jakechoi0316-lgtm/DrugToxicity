@@ -1,0 +1,2209 @@
+hsda_code,hsda,health_authority,year,month,oat_clients,population,rate_per_100k_month
+11,East Kootenay,Interior,2015,1,75.0,81527.0,91.99
+11,East Kootenay,Interior,2015,2,72.0,81527.0,88.31
+11,East Kootenay,Interior,2015,3,79.0,81527.0,96.9
+11,East Kootenay,Interior,2015,4,81.0,81527.0,99.35
+11,East Kootenay,Interior,2015,5,85.0,81527.0,104.26
+11,East Kootenay,Interior,2015,6,91.0,81527.0,111.62
+11,East Kootenay,Interior,2015,7,95.0,81527.0,116.53
+11,East Kootenay,Interior,2015,8,96.0,81527.0,117.75
+11,East Kootenay,Interior,2015,9,96.0,81527.0,117.75
+11,East Kootenay,Interior,2015,10,96.0,81527.0,117.75
+11,East Kootenay,Interior,2015,11,95.0,81527.0,116.53
+11,East Kootenay,Interior,2015,12,97.0,81527.0,118.98
+11,East Kootenay,Interior,2016,1,101.0,82956.0,121.75
+11,East Kootenay,Interior,2016,2,103.0,82956.0,124.16
+11,East Kootenay,Interior,2016,3,115.0,82956.0,138.63
+11,East Kootenay,Interior,2016,4,119.0,82956.0,143.45
+11,East Kootenay,Interior,2016,5,123.0,82956.0,148.27
+11,East Kootenay,Interior,2016,6,120.0,82956.0,144.65
+11,East Kootenay,Interior,2016,7,124.0,82956.0,149.48
+11,East Kootenay,Interior,2016,8,126.0,82956.0,151.89
+11,East Kootenay,Interior,2016,9,134.0,82956.0,161.53
+11,East Kootenay,Interior,2016,10,127.0,82956.0,153.09
+11,East Kootenay,Interior,2016,11,123.0,82956.0,148.27
+11,East Kootenay,Interior,2016,12,127.0,82956.0,153.09
+11,East Kootenay,Interior,2017,1,136.0,84075.0,161.76
+11,East Kootenay,Interior,2017,2,136.0,84075.0,161.76
+11,East Kootenay,Interior,2017,3,137.0,84075.0,162.95
+11,East Kootenay,Interior,2017,4,138.0,84075.0,164.14
+11,East Kootenay,Interior,2017,5,140.0,84075.0,166.52
+11,East Kootenay,Interior,2017,6,143.0,84075.0,170.09
+11,East Kootenay,Interior,2017,7,151.0,84075.0,179.6
+11,East Kootenay,Interior,2017,8,150.0,84075.0,178.41
+11,East Kootenay,Interior,2017,9,151.0,84075.0,179.6
+11,East Kootenay,Interior,2017,10,170.0,84075.0,202.2
+11,East Kootenay,Interior,2017,11,170.0,84075.0,202.2
+11,East Kootenay,Interior,2017,12,158.0,84075.0,187.93
+11,East Kootenay,Interior,2018,1,160.0,85514.0,187.1
+11,East Kootenay,Interior,2018,2,162.0,85514.0,189.44
+11,East Kootenay,Interior,2018,3,159.0,85514.0,185.93
+11,East Kootenay,Interior,2018,4,168.0,85514.0,196.46
+11,East Kootenay,Interior,2018,5,171.0,85514.0,199.97
+11,East Kootenay,Interior,2018,6,174.0,85514.0,203.48
+11,East Kootenay,Interior,2018,7,165.0,85514.0,192.95
+11,East Kootenay,Interior,2018,8,161.0,85514.0,188.27
+11,East Kootenay,Interior,2018,9,158.0,85514.0,184.77
+11,East Kootenay,Interior,2018,10,165.0,85514.0,192.95
+11,East Kootenay,Interior,2018,11,171.0,85514.0,199.97
+11,East Kootenay,Interior,2018,12,170.0,85514.0,198.8
+11,East Kootenay,Interior,2019,1,181.0,87249.0,207.45
+11,East Kootenay,Interior,2019,2,179.0,87249.0,205.16
+11,East Kootenay,Interior,2019,3,178.0,87249.0,204.01
+11,East Kootenay,Interior,2019,4,178.0,87249.0,204.01
+11,East Kootenay,Interior,2019,5,186.0,87249.0,213.18
+11,East Kootenay,Interior,2019,6,183.0,87249.0,209.74
+11,East Kootenay,Interior,2019,7,187.0,87249.0,214.33
+11,East Kootenay,Interior,2019,8,181.0,87249.0,207.45
+11,East Kootenay,Interior,2019,9,181.0,87249.0,207.45
+11,East Kootenay,Interior,2019,10,191.0,87249.0,218.91
+11,East Kootenay,Interior,2019,11,183.0,87249.0,209.74
+11,East Kootenay,Interior,2019,12,181.0,87249.0,207.45
+11,East Kootenay,Interior,2020,1,178.0,88432.0,201.28
+11,East Kootenay,Interior,2020,2,179.0,88432.0,202.42
+11,East Kootenay,Interior,2020,3,186.0,88432.0,210.33
+11,East Kootenay,Interior,2020,4,186.0,88432.0,210.33
+11,East Kootenay,Interior,2020,5,190.0,88432.0,214.85
+11,East Kootenay,Interior,2020,6,189.0,88432.0,213.72
+11,East Kootenay,Interior,2020,7,193.0,88432.0,218.25
+11,East Kootenay,Interior,2020,8,195.0,88432.0,220.51
+11,East Kootenay,Interior,2020,9,192.0,88432.0,217.12
+11,East Kootenay,Interior,2020,10,202.0,88432.0,228.42
+11,East Kootenay,Interior,2020,11,216.0,88432.0,244.26
+11,East Kootenay,Interior,2020,12,212.0,88432.0,239.73
+11,East Kootenay,Interior,2021,1,208.0,89830.0,231.55
+11,East Kootenay,Interior,2021,2,207.0,89830.0,230.44
+11,East Kootenay,Interior,2021,3,214.0,89830.0,238.23
+11,East Kootenay,Interior,2021,4,213.0,89830.0,237.11
+11,East Kootenay,Interior,2021,5,215.0,89830.0,239.34
+11,East Kootenay,Interior,2021,6,213.0,89830.0,237.11
+11,East Kootenay,Interior,2021,7,208.0,89830.0,231.55
+11,East Kootenay,Interior,2021,8,206.0,89830.0,229.32
+11,East Kootenay,Interior,2021,9,212.0,89830.0,236.0
+11,East Kootenay,Interior,2021,10,215.0,89830.0,239.34
+11,East Kootenay,Interior,2021,11,223.0,89830.0,248.25
+11,East Kootenay,Interior,2021,12,229.0,89830.0,254.93
+11,East Kootenay,Interior,2022,1,221.0,91761.0,240.84
+11,East Kootenay,Interior,2022,2,227.0,91761.0,247.38
+11,East Kootenay,Interior,2022,3,240.0,91761.0,261.55
+11,East Kootenay,Interior,2022,4,227.0,91761.0,247.38
+11,East Kootenay,Interior,2022,5,228.0,91761.0,248.47
+11,East Kootenay,Interior,2022,6,218.0,91761.0,237.57
+11,East Kootenay,Interior,2022,7,221.0,91761.0,240.84
+11,East Kootenay,Interior,2022,8,215.0,91761.0,234.3
+11,East Kootenay,Interior,2022,9,223.0,91761.0,243.02
+11,East Kootenay,Interior,2022,10,222.0,91761.0,241.93
+11,East Kootenay,Interior,2022,11,219.0,91761.0,238.66
+11,East Kootenay,Interior,2022,12,229.0,91761.0,249.56
+11,East Kootenay,Interior,2023,1,219.0,93625.0,233.91
+11,East Kootenay,Interior,2023,2,226.0,93625.0,241.39
+11,East Kootenay,Interior,2023,3,233.0,93625.0,248.87
+11,East Kootenay,Interior,2023,4,222.0,93625.0,237.12
+11,East Kootenay,Interior,2023,5,231.0,93625.0,246.73
+11,East Kootenay,Interior,2023,6,220.0,93625.0,234.98
+11,East Kootenay,Interior,2023,7,220.0,93625.0,234.98
+11,East Kootenay,Interior,2023,8,225.0,93625.0,240.32
+11,East Kootenay,Interior,2023,9,229.0,93625.0,244.59
+11,East Kootenay,Interior,2023,10,227.0,93625.0,242.46
+11,East Kootenay,Interior,2023,11,221.0,93625.0,236.05
+11,East Kootenay,Interior,2023,12,220.0,93625.0,234.98
+11,East Kootenay,Interior,2024,1,236.0,94912.0,248.65
+11,East Kootenay,Interior,2024,2,232.0,94912.0,244.44
+11,East Kootenay,Interior,2024,3,237.0,94912.0,249.7
+11,East Kootenay,Interior,2024,4,233.0,94912.0,245.49
+11,East Kootenay,Interior,2024,5,232.0,94912.0,244.44
+11,East Kootenay,Interior,2024,6,231.0,94912.0,243.38
+11,East Kootenay,Interior,2024,7,238.0,94912.0,250.76
+11,East Kootenay,Interior,2024,8,220.0,94912.0,231.79
+11,East Kootenay,Interior,2024,9,232.0,94912.0,244.44
+11,East Kootenay,Interior,2024,10,218.0,94912.0,229.69
+11,East Kootenay,Interior,2024,11,214.0,94912.0,225.47
+11,East Kootenay,Interior,2024,12,210.0,94912.0,221.26
+11,East Kootenay,Interior,2025,1,213.0,95383.0,223.31
+11,East Kootenay,Interior,2025,2,210.0,95383.0,220.17
+11,East Kootenay,Interior,2025,3,201.0,95383.0,210.73
+11,East Kootenay,Interior,2025,4,205.0,95383.0,214.92
+11,East Kootenay,Interior,2025,5,212.0,95383.0,222.26
+11,East Kootenay,Interior,2025,6,215.0,95383.0,225.41
+11,East Kootenay,Interior,2025,7,220.0,95383.0,230.65
+11,East Kootenay,Interior,2025,8,204.0,95383.0,213.87
+11,East Kootenay,Interior,2025,9,202.0,95383.0,211.78
+11,East Kootenay,Interior,2025,10,200.0,95383.0,209.68
+11,East Kootenay,Interior,2025,11,209.0,95383.0,219.12
+11,East Kootenay,Interior,2025,12,199.0,95383.0,208.63
+11,East Kootenay,Interior,2026,1,203.0,93769.0,216.49
+11,East Kootenay,Interior,2026,2,197.0,93769.0,210.09
+11,East Kootenay,Interior,2026,3,197.0,93769.0,210.09
+11,East Kootenay,Interior,2026,4,209.0,93769.0,222.89
+11,East Kootenay,Interior,2026,5,199.0,93769.0,212.22
+11,East Kootenay,Interior,2026,6,200.0,93769.0,213.29
+12,Kootenay Boundary,Interior,2015,1,266.0,80011.0,332.45
+12,Kootenay Boundary,Interior,2015,2,275.0,80011.0,343.7
+12,Kootenay Boundary,Interior,2015,3,277.0,80011.0,346.2
+12,Kootenay Boundary,Interior,2015,4,285.0,80011.0,356.2
+12,Kootenay Boundary,Interior,2015,5,293.0,80011.0,366.2
+12,Kootenay Boundary,Interior,2015,6,296.0,80011.0,369.95
+12,Kootenay Boundary,Interior,2015,7,302.0,80011.0,377.45
+12,Kootenay Boundary,Interior,2015,8,292.0,80011.0,364.95
+12,Kootenay Boundary,Interior,2015,9,311.0,80011.0,388.7
+12,Kootenay Boundary,Interior,2015,10,315.0,80011.0,393.7
+12,Kootenay Boundary,Interior,2015,11,324.0,80011.0,404.94
+12,Kootenay Boundary,Interior,2015,12,318.0,80011.0,397.45
+12,Kootenay Boundary,Interior,2016,1,323.0,81308.0,397.25
+12,Kootenay Boundary,Interior,2016,2,313.0,81308.0,384.96
+12,Kootenay Boundary,Interior,2016,3,319.0,81308.0,392.34
+12,Kootenay Boundary,Interior,2016,4,326.0,81308.0,400.94
+12,Kootenay Boundary,Interior,2016,5,323.0,81308.0,397.25
+12,Kootenay Boundary,Interior,2016,6,329.0,81308.0,404.63
+12,Kootenay Boundary,Interior,2016,7,328.0,81308.0,403.4
+12,Kootenay Boundary,Interior,2016,8,339.0,81308.0,416.93
+12,Kootenay Boundary,Interior,2016,9,347.0,81308.0,426.77
+12,Kootenay Boundary,Interior,2016,10,351.0,81308.0,431.69
+12,Kootenay Boundary,Interior,2016,11,349.0,81308.0,429.23
+12,Kootenay Boundary,Interior,2016,12,360.0,81308.0,442.76
+12,Kootenay Boundary,Interior,2017,1,361.0,82196.0,439.19
+12,Kootenay Boundary,Interior,2017,2,363.0,82196.0,441.63
+12,Kootenay Boundary,Interior,2017,3,374.0,82196.0,455.01
+12,Kootenay Boundary,Interior,2017,4,380.0,82196.0,462.31
+12,Kootenay Boundary,Interior,2017,5,393.0,82196.0,478.13
+12,Kootenay Boundary,Interior,2017,6,379.0,82196.0,461.09
+12,Kootenay Boundary,Interior,2017,7,374.0,82196.0,455.01
+12,Kootenay Boundary,Interior,2017,8,382.0,82196.0,464.74
+12,Kootenay Boundary,Interior,2017,9,373.0,82196.0,453.79
+12,Kootenay Boundary,Interior,2017,10,393.0,82196.0,478.13
+12,Kootenay Boundary,Interior,2017,11,410.0,82196.0,498.81
+12,Kootenay Boundary,Interior,2017,12,416.0,82196.0,506.11
+12,Kootenay Boundary,Interior,2018,1,430.0,83378.0,515.72
+12,Kootenay Boundary,Interior,2018,2,427.0,83378.0,512.13
+12,Kootenay Boundary,Interior,2018,3,447.0,83378.0,536.11
+12,Kootenay Boundary,Interior,2018,4,447.0,83378.0,536.11
+12,Kootenay Boundary,Interior,2018,5,436.0,83378.0,522.92
+12,Kootenay Boundary,Interior,2018,6,453.0,83378.0,543.31
+12,Kootenay Boundary,Interior,2018,7,446.0,83378.0,534.91
+12,Kootenay Boundary,Interior,2018,8,460.0,83378.0,551.7
+12,Kootenay Boundary,Interior,2018,9,472.0,83378.0,566.1
+12,Kootenay Boundary,Interior,2018,10,483.0,83378.0,579.29
+12,Kootenay Boundary,Interior,2018,11,483.0,83378.0,579.29
+12,Kootenay Boundary,Interior,2018,12,493.0,83378.0,591.28
+12,Kootenay Boundary,Interior,2019,1,488.0,84245.0,579.26
+12,Kootenay Boundary,Interior,2019,2,471.0,84245.0,559.08
+12,Kootenay Boundary,Interior,2019,3,483.0,84245.0,573.33
+12,Kootenay Boundary,Interior,2019,4,487.0,84245.0,578.08
+12,Kootenay Boundary,Interior,2019,5,487.0,84245.0,578.08
+12,Kootenay Boundary,Interior,2019,6,496.0,84245.0,588.76
+12,Kootenay Boundary,Interior,2019,7,494.0,84245.0,586.38
+12,Kootenay Boundary,Interior,2019,8,499.0,84245.0,592.32
+12,Kootenay Boundary,Interior,2019,9,488.0,84245.0,579.26
+12,Kootenay Boundary,Interior,2019,10,496.0,84245.0,588.76
+12,Kootenay Boundary,Interior,2019,11,502.0,84245.0,595.88
+12,Kootenay Boundary,Interior,2019,12,500.0,84245.0,593.51
+12,Kootenay Boundary,Interior,2020,1,520.0,84958.0,612.07
+12,Kootenay Boundary,Interior,2020,2,515.0,84958.0,606.18
+12,Kootenay Boundary,Interior,2020,3,499.0,84958.0,587.35
+12,Kootenay Boundary,Interior,2020,4,507.0,84958.0,596.77
+12,Kootenay Boundary,Interior,2020,5,482.0,84958.0,567.34
+12,Kootenay Boundary,Interior,2020,6,484.0,84958.0,569.69
+12,Kootenay Boundary,Interior,2020,7,479.0,84958.0,563.81
+12,Kootenay Boundary,Interior,2020,8,470.0,84958.0,553.21
+12,Kootenay Boundary,Interior,2020,9,488.0,84958.0,574.4
+12,Kootenay Boundary,Interior,2020,10,488.0,84958.0,574.4
+12,Kootenay Boundary,Interior,2020,11,480.0,84958.0,564.99
+12,Kootenay Boundary,Interior,2020,12,493.0,84958.0,580.29
+12,Kootenay Boundary,Interior,2021,1,498.0,85952.0,579.39
+12,Kootenay Boundary,Interior,2021,2,500.0,85952.0,581.72
+12,Kootenay Boundary,Interior,2021,3,490.0,85952.0,570.09
+12,Kootenay Boundary,Interior,2021,4,488.0,85952.0,567.76
+12,Kootenay Boundary,Interior,2021,5,497.0,85952.0,578.23
+12,Kootenay Boundary,Interior,2021,6,500.0,85952.0,581.72
+12,Kootenay Boundary,Interior,2021,7,501.0,85952.0,582.88
+12,Kootenay Boundary,Interior,2021,8,499.0,85952.0,580.56
+12,Kootenay Boundary,Interior,2021,9,503.0,85952.0,585.21
+12,Kootenay Boundary,Interior,2021,10,509.0,85952.0,592.19
+12,Kootenay Boundary,Interior,2021,11,514.0,85952.0,598.01
+12,Kootenay Boundary,Interior,2021,12,510.0,85952.0,593.35
+12,Kootenay Boundary,Interior,2022,1,497.0,87139.0,570.35
+12,Kootenay Boundary,Interior,2022,2,487.0,87139.0,558.88
+12,Kootenay Boundary,Interior,2022,3,498.0,87139.0,571.5
+12,Kootenay Boundary,Interior,2022,4,508.0,87139.0,582.98
+12,Kootenay Boundary,Interior,2022,5,496.0,87139.0,569.21
+12,Kootenay Boundary,Interior,2022,6,511.0,87139.0,586.42
+12,Kootenay Boundary,Interior,2022,7,496.0,87139.0,569.21
+12,Kootenay Boundary,Interior,2022,8,514.0,87139.0,589.86
+12,Kootenay Boundary,Interior,2022,9,500.0,87139.0,573.8
+12,Kootenay Boundary,Interior,2022,10,509.0,87139.0,584.12
+12,Kootenay Boundary,Interior,2022,11,512.0,87139.0,587.57
+12,Kootenay Boundary,Interior,2022,12,514.0,87139.0,589.86
+12,Kootenay Boundary,Interior,2023,1,518.0,88361.0,586.23
+12,Kootenay Boundary,Interior,2023,2,492.0,88361.0,556.81
+12,Kootenay Boundary,Interior,2023,3,506.0,88361.0,572.65
+12,Kootenay Boundary,Interior,2023,4,491.0,88361.0,555.68
+12,Kootenay Boundary,Interior,2023,5,497.0,88361.0,562.47
+12,Kootenay Boundary,Interior,2023,6,503.0,88361.0,569.26
+12,Kootenay Boundary,Interior,2023,7,477.0,88361.0,539.83
+12,Kootenay Boundary,Interior,2023,8,482.0,88361.0,545.49
+12,Kootenay Boundary,Interior,2023,9,479.0,88361.0,542.09
+12,Kootenay Boundary,Interior,2023,10,485.0,88361.0,548.88
+12,Kootenay Boundary,Interior,2023,11,486.0,88361.0,550.02
+12,Kootenay Boundary,Interior,2023,12,479.0,88361.0,542.09
+12,Kootenay Boundary,Interior,2024,1,485.0,89437.0,542.28
+12,Kootenay Boundary,Interior,2024,2,479.0,89437.0,535.57
+12,Kootenay Boundary,Interior,2024,3,472.0,89437.0,527.75
+12,Kootenay Boundary,Interior,2024,4,475.0,89437.0,531.1
+12,Kootenay Boundary,Interior,2024,5,482.0,89437.0,538.93
+12,Kootenay Boundary,Interior,2024,6,474.0,89437.0,529.98
+12,Kootenay Boundary,Interior,2024,7,467.0,89437.0,522.16
+12,Kootenay Boundary,Interior,2024,8,456.0,89437.0,509.86
+12,Kootenay Boundary,Interior,2024,9,454.0,89437.0,507.62
+12,Kootenay Boundary,Interior,2024,10,465.0,89437.0,519.92
+12,Kootenay Boundary,Interior,2024,11,473.0,89437.0,528.86
+12,Kootenay Boundary,Interior,2024,12,456.0,89437.0,509.86
+12,Kootenay Boundary,Interior,2025,1,467.0,89850.0,519.76
+12,Kootenay Boundary,Interior,2025,2,446.0,89850.0,496.38
+12,Kootenay Boundary,Interior,2025,3,452.0,89850.0,503.06
+12,Kootenay Boundary,Interior,2025,4,453.0,89850.0,504.17
+12,Kootenay Boundary,Interior,2025,5,468.0,89850.0,520.87
+12,Kootenay Boundary,Interior,2025,6,463.0,89850.0,515.3
+12,Kootenay Boundary,Interior,2025,7,459.0,89850.0,510.85
+12,Kootenay Boundary,Interior,2025,8,443.0,89850.0,493.04
+12,Kootenay Boundary,Interior,2025,9,440.0,89850.0,489.71
+12,Kootenay Boundary,Interior,2025,10,441.0,89850.0,490.82
+12,Kootenay Boundary,Interior,2025,11,441.0,89850.0,490.82
+12,Kootenay Boundary,Interior,2025,12,442.0,89850.0,491.93
+12,Kootenay Boundary,Interior,2026,1,444.0,88190.0,503.46
+12,Kootenay Boundary,Interior,2026,2,447.0,88190.0,506.86
+12,Kootenay Boundary,Interior,2026,3,450.0,88190.0,510.26
+12,Kootenay Boundary,Interior,2026,4,453.0,88190.0,513.66
+12,Kootenay Boundary,Interior,2026,5,452.0,88190.0,512.53
+12,Kootenay Boundary,Interior,2026,6,453.0,88190.0,513.66
+13,Okanagan,Interior,2015,1,1020.0,367755.0,277.36
+13,Okanagan,Interior,2015,2,1037.0,367755.0,281.98
+13,Okanagan,Interior,2015,3,1039.0,367755.0,282.53
+13,Okanagan,Interior,2015,4,1041.0,367755.0,283.07
+13,Okanagan,Interior,2015,5,1054.0,367755.0,286.6
+13,Okanagan,Interior,2015,6,1079.0,367755.0,293.4
+13,Okanagan,Interior,2015,7,1059.0,367755.0,287.96
+13,Okanagan,Interior,2015,8,1041.0,367755.0,283.07
+13,Okanagan,Interior,2015,9,1060.0,367755.0,288.24
+13,Okanagan,Interior,2015,10,1073.0,367755.0,291.77
+13,Okanagan,Interior,2015,11,1074.0,367755.0,292.04
+13,Okanagan,Interior,2015,12,1088.0,367755.0,295.85
+13,Okanagan,Interior,2016,1,1103.0,377011.0,292.56
+13,Okanagan,Interior,2016,2,1101.0,377011.0,292.03
+13,Okanagan,Interior,2016,3,1119.0,377011.0,296.81
+13,Okanagan,Interior,2016,4,1134.0,377011.0,300.79
+13,Okanagan,Interior,2016,5,1172.0,377011.0,310.87
+13,Okanagan,Interior,2016,6,1189.0,377011.0,315.38
+13,Okanagan,Interior,2016,7,1205.0,377011.0,319.62
+13,Okanagan,Interior,2016,8,1258.0,377011.0,333.68
+13,Okanagan,Interior,2016,9,1273.0,377011.0,337.66
+13,Okanagan,Interior,2016,10,1316.0,377011.0,349.06
+13,Okanagan,Interior,2016,11,1355.0,377011.0,359.41
+13,Okanagan,Interior,2016,12,1372.0,377011.0,363.92
+13,Okanagan,Interior,2017,1,1419.0,385262.0,368.32
+13,Okanagan,Interior,2017,2,1430.0,385262.0,371.18
+13,Okanagan,Interior,2017,3,1492.0,385262.0,387.27
+13,Okanagan,Interior,2017,4,1509.0,385262.0,391.68
+13,Okanagan,Interior,2017,5,1534.0,385262.0,398.17
+13,Okanagan,Interior,2017,6,1549.0,385262.0,402.06
+13,Okanagan,Interior,2017,7,1551.0,385262.0,402.58
+13,Okanagan,Interior,2017,8,1584.0,385262.0,411.15
+13,Okanagan,Interior,2017,9,1577.0,385262.0,409.33
+13,Okanagan,Interior,2017,10,1635.0,385262.0,424.39
+13,Okanagan,Interior,2017,11,1628.0,385262.0,422.57
+13,Okanagan,Interior,2017,12,1622.0,385262.0,421.01
+13,Okanagan,Interior,2018,1,1691.0,394590.0,428.55
+13,Okanagan,Interior,2018,2,1681.0,394590.0,426.01
+13,Okanagan,Interior,2018,3,1718.0,394590.0,435.39
+13,Okanagan,Interior,2018,4,1720.0,394590.0,435.9
+13,Okanagan,Interior,2018,5,1700.0,394590.0,430.83
+13,Okanagan,Interior,2018,6,1705.0,394590.0,432.09
+13,Okanagan,Interior,2018,7,1696.0,394590.0,429.81
+13,Okanagan,Interior,2018,8,1716.0,394590.0,434.88
+13,Okanagan,Interior,2018,9,1718.0,394590.0,435.39
+13,Okanagan,Interior,2018,10,1757.0,394590.0,445.27
+13,Okanagan,Interior,2018,11,1771.0,394590.0,448.82
+13,Okanagan,Interior,2018,12,1757.0,394590.0,445.27
+13,Okanagan,Interior,2019,1,1820.0,403088.0,451.51
+13,Okanagan,Interior,2019,2,1840.0,403088.0,456.48
+13,Okanagan,Interior,2019,3,1876.0,403088.0,465.41
+13,Okanagan,Interior,2019,4,1905.0,403088.0,472.6
+13,Okanagan,Interior,2019,5,1912.0,403088.0,474.34
+13,Okanagan,Interior,2019,6,1911.0,403088.0,474.09
+13,Okanagan,Interior,2019,7,1915.0,403088.0,475.08
+13,Okanagan,Interior,2019,8,1960.0,403088.0,486.25
+13,Okanagan,Interior,2019,9,1973.0,403088.0,489.47
+13,Okanagan,Interior,2019,10,1949.0,403088.0,483.52
+13,Okanagan,Interior,2019,11,1956.0,403088.0,485.25
+13,Okanagan,Interior,2019,12,1956.0,403088.0,485.25
+13,Okanagan,Interior,2020,1,2028.0,411364.0,492.99
+13,Okanagan,Interior,2020,2,2050.0,411364.0,498.34
+13,Okanagan,Interior,2020,3,2061.0,411364.0,501.02
+13,Okanagan,Interior,2020,4,2030.0,411364.0,493.48
+13,Okanagan,Interior,2020,5,1957.0,411364.0,475.73
+13,Okanagan,Interior,2020,6,1962.0,411364.0,476.95
+13,Okanagan,Interior,2020,7,1945.0,411364.0,472.82
+13,Okanagan,Interior,2020,8,1959.0,411364.0,476.22
+13,Okanagan,Interior,2020,9,1997.0,411364.0,485.46
+13,Okanagan,Interior,2020,10,2060.0,411364.0,500.77
+13,Okanagan,Interior,2020,11,2066.0,411364.0,502.23
+13,Okanagan,Interior,2020,12,2075.0,411364.0,504.42
+13,Okanagan,Interior,2021,1,2074.0,420049.0,493.75
+13,Okanagan,Interior,2021,2,2101.0,420049.0,500.18
+13,Okanagan,Interior,2021,3,2137.0,420049.0,508.75
+13,Okanagan,Interior,2021,4,2100.0,420049.0,499.94
+13,Okanagan,Interior,2021,5,2132.0,420049.0,507.56
+13,Okanagan,Interior,2021,6,2122.0,420049.0,505.18
+13,Okanagan,Interior,2021,7,2120.0,420049.0,504.7
+13,Okanagan,Interior,2021,8,2129.0,420049.0,506.85
+13,Okanagan,Interior,2021,9,2160.0,420049.0,514.23
+13,Okanagan,Interior,2021,10,2153.0,420049.0,512.56
+13,Okanagan,Interior,2021,11,2189.0,420049.0,521.13
+13,Okanagan,Interior,2021,12,2214.0,420049.0,527.08
+13,Okanagan,Interior,2022,1,2217.0,430723.0,514.72
+13,Okanagan,Interior,2022,2,2199.0,430723.0,510.54
+13,Okanagan,Interior,2022,3,2269.0,430723.0,526.79
+13,Okanagan,Interior,2022,4,2259.0,430723.0,524.47
+13,Okanagan,Interior,2022,5,2229.0,430723.0,517.5
+13,Okanagan,Interior,2022,6,2190.0,430723.0,508.45
+13,Okanagan,Interior,2022,7,2163.0,430723.0,502.18
+13,Okanagan,Interior,2022,8,2172.0,430723.0,504.27
+13,Okanagan,Interior,2022,9,2156.0,430723.0,500.55
+13,Okanagan,Interior,2022,10,2173.0,430723.0,504.5
+13,Okanagan,Interior,2022,11,2219.0,430723.0,515.18
+13,Okanagan,Interior,2022,12,2191.0,430723.0,508.68
+13,Okanagan,Interior,2023,1,2241.0,438559.0,510.99
+13,Okanagan,Interior,2023,2,2231.0,438559.0,508.71
+13,Okanagan,Interior,2023,3,2268.0,438559.0,517.15
+13,Okanagan,Interior,2023,4,2239.0,438559.0,510.54
+13,Okanagan,Interior,2023,5,2271.0,438559.0,517.83
+13,Okanagan,Interior,2023,6,2206.0,438559.0,503.01
+13,Okanagan,Interior,2023,7,2189.0,438559.0,499.13
+13,Okanagan,Interior,2023,8,2206.0,438559.0,503.01
+13,Okanagan,Interior,2023,9,2200.0,438559.0,501.64
+13,Okanagan,Interior,2023,10,2202.0,438559.0,502.1
+13,Okanagan,Interior,2023,11,2183.0,438559.0,497.77
+13,Okanagan,Interior,2023,12,2191.0,438559.0,499.59
+13,Okanagan,Interior,2024,1,2265.0,445125.0,508.85
+13,Okanagan,Interior,2024,2,2212.0,445125.0,496.94
+13,Okanagan,Interior,2024,3,2220.0,445125.0,498.74
+13,Okanagan,Interior,2024,4,2232.0,445125.0,501.43
+13,Okanagan,Interior,2024,5,2214.0,445125.0,497.39
+13,Okanagan,Interior,2024,6,2211.0,445125.0,496.71
+13,Okanagan,Interior,2024,7,2183.0,445125.0,490.42
+13,Okanagan,Interior,2024,8,2169.0,445125.0,487.28
+13,Okanagan,Interior,2024,9,2140.0,445125.0,480.76
+13,Okanagan,Interior,2024,10,2164.0,445125.0,486.16
+13,Okanagan,Interior,2024,11,2145.0,445125.0,481.89
+13,Okanagan,Interior,2024,12,2166.0,445125.0,486.6
+13,Okanagan,Interior,2025,1,2194.0,449105.0,488.53
+13,Okanagan,Interior,2025,2,2194.0,449105.0,488.53
+13,Okanagan,Interior,2025,3,2159.0,449105.0,480.73
+13,Okanagan,Interior,2025,4,2159.0,449105.0,480.73
+13,Okanagan,Interior,2025,5,2155.0,449105.0,479.84
+13,Okanagan,Interior,2025,6,2118.0,449105.0,471.6
+13,Okanagan,Interior,2025,7,2089.0,449105.0,465.15
+13,Okanagan,Interior,2025,8,2046.0,449105.0,455.57
+13,Okanagan,Interior,2025,9,2076.0,449105.0,462.25
+13,Okanagan,Interior,2025,10,2070.0,449105.0,460.92
+13,Okanagan,Interior,2025,11,2082.0,449105.0,463.59
+13,Okanagan,Interior,2025,12,2084.0,449105.0,464.03
+13,Okanagan,Interior,2026,1,2096.0,443225.0,472.9
+13,Okanagan,Interior,2026,2,2101.0,443225.0,474.03
+13,Okanagan,Interior,2026,3,2105.0,443225.0,474.93
+13,Okanagan,Interior,2026,4,2094.0,443225.0,472.45
+13,Okanagan,Interior,2026,5,2076.0,443225.0,468.39
+13,Okanagan,Interior,2026,6,2043.0,443225.0,460.94
+14,Thompson Cariboo Shuswap,Interior,2015,1,690.0,224260.0,307.68
+14,Thompson Cariboo Shuswap,Interior,2015,2,671.0,224260.0,299.21
+14,Thompson Cariboo Shuswap,Interior,2015,3,679.0,224260.0,302.77
+14,Thompson Cariboo Shuswap,Interior,2015,4,668.0,224260.0,297.87
+14,Thompson Cariboo Shuswap,Interior,2015,5,662.0,224260.0,295.19
+14,Thompson Cariboo Shuswap,Interior,2015,6,665.0,224260.0,296.53
+14,Thompson Cariboo Shuswap,Interior,2015,7,669.0,224260.0,298.31
+14,Thompson Cariboo Shuswap,Interior,2015,8,692.0,224260.0,308.57
+14,Thompson Cariboo Shuswap,Interior,2015,9,709.0,224260.0,316.15
+14,Thompson Cariboo Shuswap,Interior,2015,10,724.0,224260.0,322.84
+14,Thompson Cariboo Shuswap,Interior,2015,11,715.0,224260.0,318.83
+14,Thompson Cariboo Shuswap,Interior,2015,12,733.0,224260.0,326.85
+14,Thompson Cariboo Shuswap,Interior,2016,1,735.0,228323.0,321.91
+14,Thompson Cariboo Shuswap,Interior,2016,2,737.0,228323.0,322.79
+14,Thompson Cariboo Shuswap,Interior,2016,3,744.0,228323.0,325.85
+14,Thompson Cariboo Shuswap,Interior,2016,4,768.0,228323.0,336.37
+14,Thompson Cariboo Shuswap,Interior,2016,5,805.0,228323.0,352.57
+14,Thompson Cariboo Shuswap,Interior,2016,6,821.0,228323.0,359.58
+14,Thompson Cariboo Shuswap,Interior,2016,7,833.0,228323.0,364.83
+14,Thompson Cariboo Shuswap,Interior,2016,8,872.0,228323.0,381.92
+14,Thompson Cariboo Shuswap,Interior,2016,9,879.0,228323.0,384.98
+14,Thompson Cariboo Shuswap,Interior,2016,10,874.0,228323.0,382.79
+14,Thompson Cariboo Shuswap,Interior,2016,11,917.0,228323.0,401.62
+14,Thompson Cariboo Shuswap,Interior,2016,12,935.0,228323.0,409.51
+14,Thompson Cariboo Shuswap,Interior,2017,1,955.0,232752.0,410.31
+14,Thompson Cariboo Shuswap,Interior,2017,2,961.0,232752.0,412.89
+14,Thompson Cariboo Shuswap,Interior,2017,3,1004.0,232752.0,431.36
+14,Thompson Cariboo Shuswap,Interior,2017,4,1002.0,232752.0,430.5
+14,Thompson Cariboo Shuswap,Interior,2017,5,1016.0,232752.0,436.52
+14,Thompson Cariboo Shuswap,Interior,2017,6,1026.0,232752.0,440.81
+14,Thompson Cariboo Shuswap,Interior,2017,7,1059.0,232752.0,454.99
+14,Thompson Cariboo Shuswap,Interior,2017,8,1046.0,232752.0,449.41
+14,Thompson Cariboo Shuswap,Interior,2017,9,1025.0,232752.0,440.38
+14,Thompson Cariboo Shuswap,Interior,2017,10,1062.0,232752.0,456.28
+14,Thompson Cariboo Shuswap,Interior,2017,11,1079.0,232752.0,463.58
+14,Thompson Cariboo Shuswap,Interior,2017,12,1103.0,232752.0,473.89
+14,Thompson Cariboo Shuswap,Interior,2018,1,1114.0,238014.0,468.04
+14,Thompson Cariboo Shuswap,Interior,2018,2,1100.0,238014.0,462.16
+14,Thompson Cariboo Shuswap,Interior,2018,3,1142.0,238014.0,479.8
+14,Thompson Cariboo Shuswap,Interior,2018,4,1166.0,238014.0,489.89
+14,Thompson Cariboo Shuswap,Interior,2018,5,1177.0,238014.0,494.51
+14,Thompson Cariboo Shuswap,Interior,2018,6,1180.0,238014.0,495.77
+14,Thompson Cariboo Shuswap,Interior,2018,7,1173.0,238014.0,492.83
+14,Thompson Cariboo Shuswap,Interior,2018,8,1179.0,238014.0,495.35
+14,Thompson Cariboo Shuswap,Interior,2018,9,1207.0,238014.0,507.11
+14,Thompson Cariboo Shuswap,Interior,2018,10,1198.0,238014.0,503.33
+14,Thompson Cariboo Shuswap,Interior,2018,11,1187.0,238014.0,498.71
+14,Thompson Cariboo Shuswap,Interior,2018,12,1170.0,238014.0,491.57
+14,Thompson Cariboo Shuswap,Interior,2019,1,1204.0,241674.0,498.19
+14,Thompson Cariboo Shuswap,Interior,2019,2,1191.0,241674.0,492.81
+14,Thompson Cariboo Shuswap,Interior,2019,3,1202.0,241674.0,497.36
+14,Thompson Cariboo Shuswap,Interior,2019,4,1188.0,241674.0,491.57
+14,Thompson Cariboo Shuswap,Interior,2019,5,1186.0,241674.0,490.74
+14,Thompson Cariboo Shuswap,Interior,2019,6,1191.0,241674.0,492.81
+14,Thompson Cariboo Shuswap,Interior,2019,7,1223.0,241674.0,506.05
+14,Thompson Cariboo Shuswap,Interior,2019,8,1206.0,241674.0,499.02
+14,Thompson Cariboo Shuswap,Interior,2019,9,1238.0,241674.0,512.26
+14,Thompson Cariboo Shuswap,Interior,2019,10,1239.0,241674.0,512.67
+14,Thompson Cariboo Shuswap,Interior,2019,11,1246.0,241674.0,515.57
+14,Thompson Cariboo Shuswap,Interior,2019,12,1248.0,241674.0,516.4
+14,Thompson Cariboo Shuswap,Interior,2020,1,1255.0,244174.0,513.98
+14,Thompson Cariboo Shuswap,Interior,2020,2,1241.0,244174.0,508.24
+14,Thompson Cariboo Shuswap,Interior,2020,3,1250.0,244174.0,511.93
+14,Thompson Cariboo Shuswap,Interior,2020,4,1214.0,244174.0,497.19
+14,Thompson Cariboo Shuswap,Interior,2020,5,1173.0,244174.0,480.4
+14,Thompson Cariboo Shuswap,Interior,2020,6,1169.0,244174.0,478.76
+14,Thompson Cariboo Shuswap,Interior,2020,7,1167.0,244174.0,477.94
+14,Thompson Cariboo Shuswap,Interior,2020,8,1150.0,244174.0,470.98
+14,Thompson Cariboo Shuswap,Interior,2020,9,1162.0,244174.0,475.89
+14,Thompson Cariboo Shuswap,Interior,2020,10,1155.0,244174.0,473.02
+14,Thompson Cariboo Shuswap,Interior,2020,11,1173.0,244174.0,480.4
+14,Thompson Cariboo Shuswap,Interior,2020,12,1166.0,244174.0,477.53
+14,Thompson Cariboo Shuswap,Interior,2021,1,1199.0,246602.0,486.21
+14,Thompson Cariboo Shuswap,Interior,2021,2,1187.0,246602.0,481.34
+14,Thompson Cariboo Shuswap,Interior,2021,3,1184.0,246602.0,480.13
+14,Thompson Cariboo Shuswap,Interior,2021,4,1177.0,246602.0,477.29
+14,Thompson Cariboo Shuswap,Interior,2021,5,1178.0,246602.0,477.69
+14,Thompson Cariboo Shuswap,Interior,2021,6,1210.0,246602.0,490.67
+14,Thompson Cariboo Shuswap,Interior,2021,7,1185.0,246602.0,480.53
+14,Thompson Cariboo Shuswap,Interior,2021,8,1189.0,246602.0,482.15
+14,Thompson Cariboo Shuswap,Interior,2021,9,1188.0,246602.0,481.75
+14,Thompson Cariboo Shuswap,Interior,2021,10,1193.0,246602.0,483.78
+14,Thompson Cariboo Shuswap,Interior,2021,11,1233.0,246602.0,500.0
+14,Thompson Cariboo Shuswap,Interior,2021,12,1236.0,246602.0,501.21
+14,Thompson Cariboo Shuswap,Interior,2022,1,1240.0,251432.0,493.18
+14,Thompson Cariboo Shuswap,Interior,2022,2,1230.0,251432.0,489.2
+14,Thompson Cariboo Shuswap,Interior,2022,3,1260.0,251432.0,501.13
+14,Thompson Cariboo Shuswap,Interior,2022,4,1233.0,251432.0,490.39
+14,Thompson Cariboo Shuswap,Interior,2022,5,1229.0,251432.0,488.8
+14,Thompson Cariboo Shuswap,Interior,2022,6,1240.0,251432.0,493.18
+14,Thompson Cariboo Shuswap,Interior,2022,7,1230.0,251432.0,489.2
+14,Thompson Cariboo Shuswap,Interior,2022,8,1208.0,251432.0,480.45
+14,Thompson Cariboo Shuswap,Interior,2022,9,1244.0,251432.0,494.77
+14,Thompson Cariboo Shuswap,Interior,2022,10,1269.0,251432.0,504.71
+14,Thompson Cariboo Shuswap,Interior,2022,11,1244.0,251432.0,494.77
+14,Thompson Cariboo Shuswap,Interior,2022,12,1243.0,251432.0,494.37
+14,Thompson Cariboo Shuswap,Interior,2023,1,1282.0,255926.0,500.93
+14,Thompson Cariboo Shuswap,Interior,2023,2,1216.0,255926.0,475.14
+14,Thompson Cariboo Shuswap,Interior,2023,3,1282.0,255926.0,500.93
+14,Thompson Cariboo Shuswap,Interior,2023,4,1217.0,255926.0,475.53
+14,Thompson Cariboo Shuswap,Interior,2023,5,1245.0,255926.0,486.47
+14,Thompson Cariboo Shuswap,Interior,2023,6,1270.0,255926.0,496.24
+14,Thompson Cariboo Shuswap,Interior,2023,7,1224.0,255926.0,478.26
+14,Thompson Cariboo Shuswap,Interior,2023,8,1246.0,255926.0,486.86
+14,Thompson Cariboo Shuswap,Interior,2023,9,1217.0,255926.0,475.53
+14,Thompson Cariboo Shuswap,Interior,2023,10,1225.0,255926.0,478.65
+14,Thompson Cariboo Shuswap,Interior,2023,11,1250.0,255926.0,488.42
+14,Thompson Cariboo Shuswap,Interior,2023,12,1207.0,255926.0,471.62
+14,Thompson Cariboo Shuswap,Interior,2024,1,1255.0,258969.0,484.61
+14,Thompson Cariboo Shuswap,Interior,2024,2,1200.0,258969.0,463.38
+14,Thompson Cariboo Shuswap,Interior,2024,3,1221.0,258969.0,471.49
+14,Thompson Cariboo Shuswap,Interior,2024,4,1217.0,258969.0,469.94
+14,Thompson Cariboo Shuswap,Interior,2024,5,1216.0,258969.0,469.55
+14,Thompson Cariboo Shuswap,Interior,2024,6,1192.0,258969.0,460.29
+14,Thompson Cariboo Shuswap,Interior,2024,7,1190.0,258969.0,459.51
+14,Thompson Cariboo Shuswap,Interior,2024,8,1178.0,258969.0,454.88
+14,Thompson Cariboo Shuswap,Interior,2024,9,1138.0,258969.0,439.43
+14,Thompson Cariboo Shuswap,Interior,2024,10,1204.0,258969.0,464.92
+14,Thompson Cariboo Shuswap,Interior,2024,11,1193.0,258969.0,460.67
+14,Thompson Cariboo Shuswap,Interior,2024,12,1191.0,258969.0,459.9
+14,Thompson Cariboo Shuswap,Interior,2025,1,1213.0,259032.0,468.28
+14,Thompson Cariboo Shuswap,Interior,2025,2,1185.0,259032.0,457.47
+14,Thompson Cariboo Shuswap,Interior,2025,3,1192.0,259032.0,460.17
+14,Thompson Cariboo Shuswap,Interior,2025,4,1163.0,259032.0,448.98
+14,Thompson Cariboo Shuswap,Interior,2025,5,1206.0,259032.0,465.58
+14,Thompson Cariboo Shuswap,Interior,2025,6,1149.0,259032.0,443.57
+14,Thompson Cariboo Shuswap,Interior,2025,7,1183.0,259032.0,456.7
+14,Thompson Cariboo Shuswap,Interior,2025,8,1176.0,259032.0,454.0
+14,Thompson Cariboo Shuswap,Interior,2025,9,1149.0,259032.0,443.57
+14,Thompson Cariboo Shuswap,Interior,2025,10,1183.0,259032.0,456.7
+14,Thompson Cariboo Shuswap,Interior,2025,11,1137.0,259032.0,438.94
+14,Thompson Cariboo Shuswap,Interior,2025,12,1179.0,259032.0,455.16
+14,Thompson Cariboo Shuswap,Interior,2026,1,1176.0,253611.0,463.7
+14,Thompson Cariboo Shuswap,Interior,2026,2,1201.0,253611.0,473.56
+14,Thompson Cariboo Shuswap,Interior,2026,3,1189.0,253611.0,468.83
+14,Thompson Cariboo Shuswap,Interior,2026,4,1144.0,253611.0,451.08
+14,Thompson Cariboo Shuswap,Interior,2026,5,1155.0,253611.0,455.42
+14,Thompson Cariboo Shuswap,Interior,2026,6,1150.0,253611.0,453.45
+21,Fraser East,Fraser,2015,1,1417.0,300904.0,470.91
+21,Fraser East,Fraser,2015,2,1367.0,300904.0,454.3
+21,Fraser East,Fraser,2015,3,1400.0,300904.0,465.26
+21,Fraser East,Fraser,2015,4,1410.0,300904.0,468.59
+21,Fraser East,Fraser,2015,5,1438.0,300904.0,477.89
+21,Fraser East,Fraser,2015,6,1471.0,300904.0,488.86
+21,Fraser East,Fraser,2015,7,1477.0,300904.0,490.85
+21,Fraser East,Fraser,2015,8,1465.0,300904.0,486.87
+21,Fraser East,Fraser,2015,9,1470.0,300904.0,488.53
+21,Fraser East,Fraser,2015,10,1479.0,300904.0,491.52
+21,Fraser East,Fraser,2015,11,1476.0,300904.0,490.52
+21,Fraser East,Fraser,2015,12,1488.0,300904.0,494.51
+21,Fraser East,Fraser,2016,1,1518.0,309562.0,490.37
+21,Fraser East,Fraser,2016,2,1494.0,309562.0,482.62
+21,Fraser East,Fraser,2016,3,1541.0,309562.0,497.8
+21,Fraser East,Fraser,2016,4,1581.0,309562.0,510.72
+21,Fraser East,Fraser,2016,5,1590.0,309562.0,513.63
+21,Fraser East,Fraser,2016,6,1605.0,309562.0,518.47
+21,Fraser East,Fraser,2016,7,1598.0,309562.0,516.21
+21,Fraser East,Fraser,2016,8,1627.0,309562.0,525.58
+21,Fraser East,Fraser,2016,9,1639.0,309562.0,529.46
+21,Fraser East,Fraser,2016,10,1637.0,309562.0,528.81
+21,Fraser East,Fraser,2016,11,1681.0,309562.0,543.03
+21,Fraser East,Fraser,2016,12,1699.0,309562.0,548.84
+21,Fraser East,Fraser,2017,1,1727.0,316449.0,545.74
+21,Fraser East,Fraser,2017,2,1728.0,316449.0,546.06
+21,Fraser East,Fraser,2017,3,1768.0,316449.0,558.7
+21,Fraser East,Fraser,2017,4,1750.0,316449.0,553.01
+21,Fraser East,Fraser,2017,5,1767.0,316449.0,558.38
+21,Fraser East,Fraser,2017,6,1796.0,316449.0,567.55
+21,Fraser East,Fraser,2017,7,1795.0,316449.0,567.23
+21,Fraser East,Fraser,2017,8,1822.0,316449.0,575.76
+21,Fraser East,Fraser,2017,9,1839.0,316449.0,581.14
+21,Fraser East,Fraser,2017,10,1858.0,316449.0,587.14
+21,Fraser East,Fraser,2017,11,1865.0,316449.0,589.35
+21,Fraser East,Fraser,2017,12,1834.0,316449.0,579.56
+21,Fraser East,Fraser,2018,1,1855.0,324261.0,572.07
+21,Fraser East,Fraser,2018,2,1846.0,324261.0,569.29
+21,Fraser East,Fraser,2018,3,1894.0,324261.0,584.1
+21,Fraser East,Fraser,2018,4,1892.0,324261.0,583.48
+21,Fraser East,Fraser,2018,5,1930.0,324261.0,595.2
+21,Fraser East,Fraser,2018,6,1924.0,324261.0,593.35
+21,Fraser East,Fraser,2018,7,1934.0,324261.0,596.43
+21,Fraser East,Fraser,2018,8,1932.0,324261.0,595.82
+21,Fraser East,Fraser,2018,9,1923.0,324261.0,593.04
+21,Fraser East,Fraser,2018,10,1970.0,324261.0,607.54
+21,Fraser East,Fraser,2018,11,1981.0,324261.0,610.93
+21,Fraser East,Fraser,2018,12,1940.0,324261.0,598.28
+21,Fraser East,Fraser,2019,1,1999.0,330633.0,604.6
+21,Fraser East,Fraser,2019,2,1993.0,330633.0,602.78
+21,Fraser East,Fraser,2019,3,2065.0,330633.0,624.56
+21,Fraser East,Fraser,2019,4,2041.0,330633.0,617.3
+21,Fraser East,Fraser,2019,5,2056.0,330633.0,621.84
+21,Fraser East,Fraser,2019,6,2053.0,330633.0,620.93
+21,Fraser East,Fraser,2019,7,2085.0,330633.0,630.61
+21,Fraser East,Fraser,2019,8,2082.0,330633.0,629.7
+21,Fraser East,Fraser,2019,9,2102.0,330633.0,635.75
+21,Fraser East,Fraser,2019,10,2112.0,330633.0,638.77
+21,Fraser East,Fraser,2019,11,2121.0,330633.0,641.5
+21,Fraser East,Fraser,2019,12,2072.0,330633.0,626.68
+21,Fraser East,Fraser,2020,1,2134.0,334228.0,638.49
+21,Fraser East,Fraser,2020,2,2158.0,334228.0,645.67
+21,Fraser East,Fraser,2020,3,2199.0,334228.0,657.93
+21,Fraser East,Fraser,2020,4,2161.0,334228.0,646.56
+21,Fraser East,Fraser,2020,5,2145.0,334228.0,641.78
+21,Fraser East,Fraser,2020,6,2157.0,334228.0,645.37
+21,Fraser East,Fraser,2020,7,2203.0,334228.0,659.13
+21,Fraser East,Fraser,2020,8,2167.0,334228.0,648.36
+21,Fraser East,Fraser,2020,9,2157.0,334228.0,645.37
+21,Fraser East,Fraser,2020,10,2175.0,334228.0,650.75
+21,Fraser East,Fraser,2020,11,2207.0,334228.0,660.33
+21,Fraser East,Fraser,2020,12,2190.0,334228.0,655.24
+21,Fraser East,Fraser,2021,1,2249.0,338198.0,665.0
+21,Fraser East,Fraser,2021,2,2223.0,338198.0,657.31
+21,Fraser East,Fraser,2021,3,2259.0,338198.0,667.95
+21,Fraser East,Fraser,2021,4,2271.0,338198.0,671.5
+21,Fraser East,Fraser,2021,5,2257.0,338198.0,667.36
+21,Fraser East,Fraser,2021,6,2234.0,338198.0,660.56
+21,Fraser East,Fraser,2021,7,2220.0,338198.0,656.42
+21,Fraser East,Fraser,2021,8,2212.0,338198.0,654.05
+21,Fraser East,Fraser,2021,9,2211.0,338198.0,653.76
+21,Fraser East,Fraser,2021,10,2253.0,338198.0,666.18
+21,Fraser East,Fraser,2021,11,2260.0,338198.0,668.25
+21,Fraser East,Fraser,2021,12,2275.0,338198.0,672.68
+21,Fraser East,Fraser,2022,1,2343.0,344029.0,681.05
+21,Fraser East,Fraser,2022,2,2311.0,344029.0,671.75
+21,Fraser East,Fraser,2022,3,2360.0,344029.0,685.99
+21,Fraser East,Fraser,2022,4,2374.0,344029.0,690.06
+21,Fraser East,Fraser,2022,5,2355.0,344029.0,684.54
+21,Fraser East,Fraser,2022,6,2319.0,344029.0,674.07
+21,Fraser East,Fraser,2022,7,2301.0,344029.0,668.84
+21,Fraser East,Fraser,2022,8,2283.0,344029.0,663.61
+21,Fraser East,Fraser,2022,9,2252.0,344029.0,654.6
+21,Fraser East,Fraser,2022,10,2248.0,344029.0,653.43
+21,Fraser East,Fraser,2022,11,2298.0,344029.0,667.97
+21,Fraser East,Fraser,2022,12,2278.0,344029.0,662.15
+21,Fraser East,Fraser,2023,1,2280.0,352131.0,647.49
+21,Fraser East,Fraser,2023,2,2250.0,352131.0,638.97
+21,Fraser East,Fraser,2023,3,2341.0,352131.0,664.81
+21,Fraser East,Fraser,2023,4,2303.0,352131.0,654.02
+21,Fraser East,Fraser,2023,5,2356.0,352131.0,669.07
+21,Fraser East,Fraser,2023,6,2342.0,352131.0,665.09
+21,Fraser East,Fraser,2023,7,2296.0,352131.0,652.03
+21,Fraser East,Fraser,2023,8,2312.0,352131.0,656.57
+21,Fraser East,Fraser,2023,9,2295.0,352131.0,651.75
+21,Fraser East,Fraser,2023,10,2348.0,352131.0,666.8
+21,Fraser East,Fraser,2023,11,2336.0,352131.0,663.39
+21,Fraser East,Fraser,2023,12,2307.0,352131.0,655.15
+21,Fraser East,Fraser,2024,1,2339.0,362524.0,645.2
+21,Fraser East,Fraser,2024,2,2320.0,362524.0,639.96
+21,Fraser East,Fraser,2024,3,2330.0,362524.0,642.72
+21,Fraser East,Fraser,2024,4,2350.0,362524.0,648.23
+21,Fraser East,Fraser,2024,5,2328.0,362524.0,642.16
+21,Fraser East,Fraser,2024,6,2310.0,362524.0,637.2
+21,Fraser East,Fraser,2024,7,2318.0,362524.0,639.41
+21,Fraser East,Fraser,2024,8,2315.0,362524.0,638.58
+21,Fraser East,Fraser,2024,9,2302.0,362524.0,634.99
+21,Fraser East,Fraser,2024,10,2350.0,362524.0,648.23
+21,Fraser East,Fraser,2024,11,2304.0,362524.0,635.54
+21,Fraser East,Fraser,2024,12,2267.0,362524.0,625.34
+21,Fraser East,Fraser,2025,1,2321.0,369058.0,628.9
+21,Fraser East,Fraser,2025,2,2287.0,369058.0,619.69
+21,Fraser East,Fraser,2025,3,2285.0,369058.0,619.14
+21,Fraser East,Fraser,2025,4,2307.0,369058.0,625.1
+21,Fraser East,Fraser,2025,5,2315.0,369058.0,627.27
+21,Fraser East,Fraser,2025,6,2300.0,369058.0,623.21
+21,Fraser East,Fraser,2025,7,2278.0,369058.0,617.25
+21,Fraser East,Fraser,2025,8,2266.0,369058.0,614.0
+21,Fraser East,Fraser,2025,9,2244.0,369058.0,608.03
+21,Fraser East,Fraser,2025,10,2257.0,369058.0,611.56
+21,Fraser East,Fraser,2025,11,2244.0,369058.0,608.03
+21,Fraser East,Fraser,2025,12,2288.0,369058.0,619.96
+21,Fraser East,Fraser,2026,1,2284.0,367160.0,622.07
+21,Fraser East,Fraser,2026,2,2230.0,367160.0,607.36
+21,Fraser East,Fraser,2026,3,2320.0,367160.0,631.88
+21,Fraser East,Fraser,2026,4,2305.0,367160.0,627.79
+21,Fraser East,Fraser,2026,5,2277.0,367160.0,620.17
+21,Fraser East,Fraser,2026,6,2284.0,367160.0,622.07
+22,Fraser North,Fraser,2015,1,1708.0,658349.0,259.44
+22,Fraser North,Fraser,2015,2,1733.0,658349.0,263.23
+22,Fraser North,Fraser,2015,3,1784.0,658349.0,270.98
+22,Fraser North,Fraser,2015,4,1772.0,658349.0,269.16
+22,Fraser North,Fraser,2015,5,1771.0,658349.0,269.01
+22,Fraser North,Fraser,2015,6,1801.0,658349.0,273.56
+22,Fraser North,Fraser,2015,7,1839.0,658349.0,279.34
+22,Fraser North,Fraser,2015,8,1828.0,658349.0,277.66
+22,Fraser North,Fraser,2015,9,1836.0,658349.0,278.88
+22,Fraser North,Fraser,2015,10,1871.0,658349.0,284.2
+22,Fraser North,Fraser,2015,11,1839.0,658349.0,279.34
+22,Fraser North,Fraser,2015,12,1841.0,658349.0,279.64
+22,Fraser North,Fraser,2016,1,1857.0,671330.0,276.62
+22,Fraser North,Fraser,2016,2,1925.0,671330.0,286.74
+22,Fraser North,Fraser,2016,3,1970.0,671330.0,293.45
+22,Fraser North,Fraser,2016,4,1998.0,671330.0,297.62
+22,Fraser North,Fraser,2016,5,2016.0,671330.0,300.3
+22,Fraser North,Fraser,2016,6,2074.0,671330.0,308.94
+22,Fraser North,Fraser,2016,7,2108.0,671330.0,314.0
+22,Fraser North,Fraser,2016,8,2102.0,671330.0,313.11
+22,Fraser North,Fraser,2016,9,2144.0,671330.0,319.37
+22,Fraser North,Fraser,2016,10,2205.0,671330.0,328.45
+22,Fraser North,Fraser,2016,11,2200.0,671330.0,327.71
+22,Fraser North,Fraser,2016,12,2207.0,671330.0,328.75
+22,Fraser North,Fraser,2017,1,2276.0,680339.0,334.54
+22,Fraser North,Fraser,2017,2,2279.0,680339.0,334.98
+22,Fraser North,Fraser,2017,3,2312.0,680339.0,339.83
+22,Fraser North,Fraser,2017,4,2307.0,680339.0,339.1
+22,Fraser North,Fraser,2017,5,2366.0,680339.0,347.77
+22,Fraser North,Fraser,2017,6,2291.0,680339.0,336.74
+22,Fraser North,Fraser,2017,7,2346.0,680339.0,344.83
+22,Fraser North,Fraser,2017,8,2396.0,680339.0,352.18
+22,Fraser North,Fraser,2017,9,2404.0,680339.0,353.35
+22,Fraser North,Fraser,2017,10,2426.0,680339.0,356.59
+22,Fraser North,Fraser,2017,11,2428.0,680339.0,356.88
+22,Fraser North,Fraser,2017,12,2356.0,680339.0,346.3
+22,Fraser North,Fraser,2018,1,2412.0,691582.0,348.77
+22,Fraser North,Fraser,2018,2,2356.0,691582.0,340.67
+22,Fraser North,Fraser,2018,3,2418.0,691582.0,349.63
+22,Fraser North,Fraser,2018,4,2429.0,691582.0,351.22
+22,Fraser North,Fraser,2018,5,2480.0,691582.0,358.6
+22,Fraser North,Fraser,2018,6,2468.0,691582.0,356.86
+22,Fraser North,Fraser,2018,7,2482.0,691582.0,358.89
+22,Fraser North,Fraser,2018,8,2467.0,691582.0,356.72
+22,Fraser North,Fraser,2018,9,2499.0,691582.0,361.35
+22,Fraser North,Fraser,2018,10,2527.0,691582.0,365.39
+22,Fraser North,Fraser,2018,11,2508.0,691582.0,362.65
+22,Fraser North,Fraser,2018,12,2482.0,691582.0,358.89
+22,Fraser North,Fraser,2019,1,2522.0,702028.0,359.24
+22,Fraser North,Fraser,2019,2,2532.0,702028.0,360.67
+22,Fraser North,Fraser,2019,3,2555.0,702028.0,363.95
+22,Fraser North,Fraser,2019,4,2555.0,702028.0,363.95
+22,Fraser North,Fraser,2019,5,2565.0,702028.0,365.37
+22,Fraser North,Fraser,2019,6,2513.0,702028.0,357.96
+22,Fraser North,Fraser,2019,7,2525.0,702028.0,359.67
+22,Fraser North,Fraser,2019,8,2493.0,702028.0,355.11
+22,Fraser North,Fraser,2019,9,2466.0,702028.0,351.27
+22,Fraser North,Fraser,2019,10,2467.0,702028.0,351.41
+22,Fraser North,Fraser,2019,11,2460.0,702028.0,350.41
+22,Fraser North,Fraser,2019,12,2443.0,702028.0,347.99
+22,Fraser North,Fraser,2020,1,2509.0,709985.0,353.39
+22,Fraser North,Fraser,2020,2,2478.0,709985.0,349.02
+22,Fraser North,Fraser,2020,3,2537.0,709985.0,357.33
+22,Fraser North,Fraser,2020,4,2494.0,709985.0,351.28
+22,Fraser North,Fraser,2020,5,2454.0,709985.0,345.64
+22,Fraser North,Fraser,2020,6,2444.0,709985.0,344.23
+22,Fraser North,Fraser,2020,7,2466.0,709985.0,347.33
+22,Fraser North,Fraser,2020,8,2424.0,709985.0,341.42
+22,Fraser North,Fraser,2020,9,2469.0,709985.0,347.75
+22,Fraser North,Fraser,2020,10,2560.0,709985.0,360.57
+22,Fraser North,Fraser,2020,11,2570.0,709985.0,361.98
+22,Fraser North,Fraser,2020,12,2587.0,709985.0,364.37
+22,Fraser North,Fraser,2021,1,2594.0,718138.0,361.21
+22,Fraser North,Fraser,2021,2,2590.0,718138.0,360.65
+22,Fraser North,Fraser,2021,3,2623.0,718138.0,365.25
+22,Fraser North,Fraser,2021,4,2563.0,718138.0,356.9
+22,Fraser North,Fraser,2021,5,2574.0,718138.0,358.43
+22,Fraser North,Fraser,2021,6,2535.0,718138.0,353.0
+22,Fraser North,Fraser,2021,7,2573.0,718138.0,358.29
+22,Fraser North,Fraser,2021,8,2590.0,718138.0,360.65
+22,Fraser North,Fraser,2021,9,2564.0,718138.0,357.03
+22,Fraser North,Fraser,2021,10,2595.0,718138.0,361.35
+22,Fraser North,Fraser,2021,11,2614.0,718138.0,364.0
+22,Fraser North,Fraser,2021,12,2652.0,718138.0,369.29
+22,Fraser North,Fraser,2022,1,2664.0,741487.0,359.28
+22,Fraser North,Fraser,2022,2,2608.0,741487.0,351.73
+22,Fraser North,Fraser,2022,3,2627.0,741487.0,354.29
+22,Fraser North,Fraser,2022,4,2621.0,741487.0,353.48
+22,Fraser North,Fraser,2022,5,2617.0,741487.0,352.94
+22,Fraser North,Fraser,2022,6,2584.0,741487.0,348.49
+22,Fraser North,Fraser,2022,7,2551.0,741487.0,344.04
+22,Fraser North,Fraser,2022,8,2544.0,741487.0,343.09
+22,Fraser North,Fraser,2022,9,2489.0,741487.0,335.68
+22,Fraser North,Fraser,2022,10,2508.0,741487.0,338.24
+22,Fraser North,Fraser,2022,11,2503.0,741487.0,337.56
+22,Fraser North,Fraser,2022,12,2490.0,741487.0,335.81
+22,Fraser North,Fraser,2023,1,2454.0,770491.0,318.5
+22,Fraser North,Fraser,2023,2,2429.0,770491.0,315.25
+22,Fraser North,Fraser,2023,3,2505.0,770491.0,325.12
+22,Fraser North,Fraser,2023,4,2426.0,770491.0,314.86
+22,Fraser North,Fraser,2023,5,2446.0,770491.0,317.46
+22,Fraser North,Fraser,2023,6,2420.0,770491.0,314.09
+22,Fraser North,Fraser,2023,7,2366.0,770491.0,307.08
+22,Fraser North,Fraser,2023,8,2331.0,770491.0,302.53
+22,Fraser North,Fraser,2023,9,2299.0,770491.0,298.38
+22,Fraser North,Fraser,2023,10,2344.0,770491.0,304.22
+22,Fraser North,Fraser,2023,11,2326.0,770491.0,301.89
+22,Fraser North,Fraser,2023,12,2294.0,770491.0,297.73
+22,Fraser North,Fraser,2024,1,2322.0,799531.0,290.42
+22,Fraser North,Fraser,2024,2,2325.0,799531.0,290.8
+22,Fraser North,Fraser,2024,3,2317.0,799531.0,289.79
+22,Fraser North,Fraser,2024,4,2332.0,799531.0,291.67
+22,Fraser North,Fraser,2024,5,2331.0,799531.0,291.55
+22,Fraser North,Fraser,2024,6,2257.0,799531.0,282.29
+22,Fraser North,Fraser,2024,7,2230.0,799531.0,278.91
+22,Fraser North,Fraser,2024,8,2199.0,799531.0,275.04
+22,Fraser North,Fraser,2024,9,2195.0,799531.0,274.54
+22,Fraser North,Fraser,2024,10,2178.0,799531.0,272.41
+22,Fraser North,Fraser,2024,11,2085.0,799531.0,260.78
+22,Fraser North,Fraser,2024,12,2096.0,799531.0,262.15
+22,Fraser North,Fraser,2025,1,2124.0,801950.0,264.85
+22,Fraser North,Fraser,2025,2,2063.0,801950.0,257.25
+22,Fraser North,Fraser,2025,3,2043.0,801950.0,254.75
+22,Fraser North,Fraser,2025,4,2029.0,801950.0,253.01
+22,Fraser North,Fraser,2025,5,2000.0,801950.0,249.39
+22,Fraser North,Fraser,2025,6,1999.0,801950.0,249.27
+22,Fraser North,Fraser,2025,7,1982.0,801950.0,247.15
+22,Fraser North,Fraser,2025,8,1962.0,801950.0,244.65
+22,Fraser North,Fraser,2025,9,2004.0,801950.0,249.89
+22,Fraser North,Fraser,2025,10,1988.0,801950.0,247.9
+22,Fraser North,Fraser,2025,11,1972.0,801950.0,245.9
+22,Fraser North,Fraser,2025,12,2008.0,801950.0,250.39
+22,Fraser North,Fraser,2026,1,1986.0,794209.0,250.06
+22,Fraser North,Fraser,2026,2,1938.0,794209.0,244.02
+22,Fraser North,Fraser,2026,3,1971.0,794209.0,248.17
+22,Fraser North,Fraser,2026,4,1947.0,794209.0,245.15
+22,Fraser North,Fraser,2026,5,1933.0,794209.0,243.39
+22,Fraser North,Fraser,2026,6,1942.0,794209.0,244.52
+23,Fraser South,Fraser,2015,1,3032.0,802907.0,377.63
+23,Fraser South,Fraser,2015,2,3020.0,802907.0,376.13
+23,Fraser South,Fraser,2015,3,3114.0,802907.0,387.84
+23,Fraser South,Fraser,2015,4,3071.0,802907.0,382.49
+23,Fraser South,Fraser,2015,5,3107.0,802907.0,386.97
+23,Fraser South,Fraser,2015,6,3099.0,802907.0,385.97
+23,Fraser South,Fraser,2015,7,3162.0,802907.0,393.82
+23,Fraser South,Fraser,2015,8,3145.0,802907.0,391.7
+23,Fraser South,Fraser,2015,9,3146.0,802907.0,391.83
+23,Fraser South,Fraser,2015,10,3163.0,802907.0,393.94
+23,Fraser South,Fraser,2015,11,3188.0,802907.0,397.06
+23,Fraser South,Fraser,2015,12,3229.0,802907.0,402.16
+23,Fraser South,Fraser,2016,1,3259.0,822623.0,396.17
+23,Fraser South,Fraser,2016,2,3229.0,822623.0,392.52
+23,Fraser South,Fraser,2016,3,3273.0,822623.0,397.87
+23,Fraser South,Fraser,2016,4,3314.0,822623.0,402.86
+23,Fraser South,Fraser,2016,5,3349.0,822623.0,407.11
+23,Fraser South,Fraser,2016,6,3346.0,822623.0,406.75
+23,Fraser South,Fraser,2016,7,3373.0,822623.0,410.03
+23,Fraser South,Fraser,2016,8,3438.0,822623.0,417.93
+23,Fraser South,Fraser,2016,9,3469.0,822623.0,421.7
+23,Fraser South,Fraser,2016,10,3465.0,822623.0,421.21
+23,Fraser South,Fraser,2016,11,3521.0,822623.0,428.02
+23,Fraser South,Fraser,2016,12,3499.0,822623.0,425.35
+23,Fraser South,Fraser,2017,1,3549.0,838732.0,423.14
+23,Fraser South,Fraser,2017,2,3550.0,838732.0,423.26
+23,Fraser South,Fraser,2017,3,3605.0,838732.0,429.82
+23,Fraser South,Fraser,2017,4,3577.0,838732.0,426.48
+23,Fraser South,Fraser,2017,5,3677.0,838732.0,438.4
+23,Fraser South,Fraser,2017,6,3694.0,838732.0,440.43
+23,Fraser South,Fraser,2017,7,3665.0,838732.0,436.97
+23,Fraser South,Fraser,2017,8,3695.0,838732.0,440.55
+23,Fraser South,Fraser,2017,9,3677.0,838732.0,438.4
+23,Fraser South,Fraser,2017,10,3700.0,838732.0,441.14
+23,Fraser South,Fraser,2017,11,3805.0,838732.0,453.66
+23,Fraser South,Fraser,2017,12,3783.0,838732.0,451.04
+23,Fraser South,Fraser,2018,1,3842.0,856129.0,448.76
+23,Fraser South,Fraser,2018,2,3814.0,856129.0,445.49
+23,Fraser South,Fraser,2018,3,3871.0,856129.0,452.15
+23,Fraser South,Fraser,2018,4,3898.0,856129.0,455.31
+23,Fraser South,Fraser,2018,5,3910.0,856129.0,456.71
+23,Fraser South,Fraser,2018,6,3926.0,856129.0,458.58
+23,Fraser South,Fraser,2018,7,3900.0,856129.0,455.54
+23,Fraser South,Fraser,2018,8,3980.0,856129.0,464.88
+23,Fraser South,Fraser,2018,9,3956.0,856129.0,462.08
+23,Fraser South,Fraser,2018,10,4014.0,856129.0,468.85
+23,Fraser South,Fraser,2018,11,4031.0,856129.0,470.84
+23,Fraser South,Fraser,2018,12,4031.0,856129.0,470.84
+23,Fraser South,Fraser,2019,1,4129.0,875933.0,471.38
+23,Fraser South,Fraser,2019,2,4088.0,875933.0,466.7
+23,Fraser South,Fraser,2019,3,4194.0,875933.0,478.8
+23,Fraser South,Fraser,2019,4,4171.0,875933.0,476.18
+23,Fraser South,Fraser,2019,5,4257.0,875933.0,486.0
+23,Fraser South,Fraser,2019,6,4203.0,875933.0,479.83
+23,Fraser South,Fraser,2019,7,4220.0,875933.0,481.77
+23,Fraser South,Fraser,2019,8,4191.0,875933.0,478.46
+23,Fraser South,Fraser,2019,9,4226.0,875933.0,482.46
+23,Fraser South,Fraser,2019,10,4243.0,875933.0,484.4
+23,Fraser South,Fraser,2019,11,4211.0,875933.0,480.74
+23,Fraser South,Fraser,2019,12,4169.0,875933.0,475.95
+23,Fraser South,Fraser,2020,1,4264.0,892334.0,477.85
+23,Fraser South,Fraser,2020,2,4201.0,892334.0,470.79
+23,Fraser South,Fraser,2020,3,4283.0,892334.0,479.98
+23,Fraser South,Fraser,2020,4,4154.0,892334.0,465.52
+23,Fraser South,Fraser,2020,5,4158.0,892334.0,465.97
+23,Fraser South,Fraser,2020,6,4216.0,892334.0,472.47
+23,Fraser South,Fraser,2020,7,4293.0,892334.0,481.1
+23,Fraser South,Fraser,2020,8,4241.0,892334.0,475.27
+23,Fraser South,Fraser,2020,9,4215.0,892334.0,472.36
+23,Fraser South,Fraser,2020,10,4301.0,892334.0,481.99
+23,Fraser South,Fraser,2020,11,4259.0,892334.0,477.29
+23,Fraser South,Fraser,2020,12,4285.0,892334.0,480.2
+23,Fraser South,Fraser,2021,1,4377.0,904753.0,483.78
+23,Fraser South,Fraser,2021,2,4360.0,904753.0,481.9
+23,Fraser South,Fraser,2021,3,4469.0,904753.0,493.95
+23,Fraser South,Fraser,2021,4,4409.0,904753.0,487.32
+23,Fraser South,Fraser,2021,5,4361.0,904753.0,482.01
+23,Fraser South,Fraser,2021,6,4382.0,904753.0,484.33
+23,Fraser South,Fraser,2021,7,4345.0,904753.0,480.24
+23,Fraser South,Fraser,2021,8,4396.0,904753.0,485.88
+23,Fraser South,Fraser,2021,9,4412.0,904753.0,487.65
+23,Fraser South,Fraser,2021,10,4391.0,904753.0,485.33
+23,Fraser South,Fraser,2021,11,4428.0,904753.0,489.42
+23,Fraser South,Fraser,2021,12,4398.0,904753.0,486.1
+23,Fraser South,Fraser,2022,1,4443.0,939802.0,472.76
+23,Fraser South,Fraser,2022,2,4374.0,939802.0,465.42
+23,Fraser South,Fraser,2022,3,4418.0,939802.0,470.1
+23,Fraser South,Fraser,2022,4,4363.0,939802.0,464.25
+23,Fraser South,Fraser,2022,5,4343.0,939802.0,462.12
+23,Fraser South,Fraser,2022,6,4335.0,939802.0,461.27
+23,Fraser South,Fraser,2022,7,4329.0,939802.0,460.63
+23,Fraser South,Fraser,2022,8,4295.0,939802.0,457.01
+23,Fraser South,Fraser,2022,9,4260.0,939802.0,453.29
+23,Fraser South,Fraser,2022,10,4248.0,939802.0,452.01
+23,Fraser South,Fraser,2022,11,4228.0,939802.0,449.88
+23,Fraser South,Fraser,2022,12,4140.0,939802.0,440.52
+23,Fraser South,Fraser,2023,1,4168.0,987424.0,422.11
+23,Fraser South,Fraser,2023,2,4080.0,987424.0,413.2
+23,Fraser South,Fraser,2023,3,4185.0,987424.0,423.83
+23,Fraser South,Fraser,2023,4,4076.0,987424.0,412.79
+23,Fraser South,Fraser,2023,5,4179.0,987424.0,423.22
+23,Fraser South,Fraser,2023,6,4168.0,987424.0,422.11
+23,Fraser South,Fraser,2023,7,4115.0,987424.0,416.74
+23,Fraser South,Fraser,2023,8,4168.0,987424.0,422.11
+23,Fraser South,Fraser,2023,9,4114.0,987424.0,416.64
+23,Fraser South,Fraser,2023,10,4144.0,987424.0,419.68
+23,Fraser South,Fraser,2023,11,4101.0,987424.0,415.32
+23,Fraser South,Fraser,2023,12,4075.0,987424.0,412.69
+23,Fraser South,Fraser,2024,1,4078.0,1040300.0,392.0
+23,Fraser South,Fraser,2024,2,4025.0,1040300.0,386.91
+23,Fraser South,Fraser,2024,3,4074.0,1040300.0,391.62
+23,Fraser South,Fraser,2024,4,4055.0,1040300.0,389.79
+23,Fraser South,Fraser,2024,5,4062.0,1040300.0,390.46
+23,Fraser South,Fraser,2024,6,4010.0,1040300.0,385.47
+23,Fraser South,Fraser,2024,7,3994.0,1040300.0,383.93
+23,Fraser South,Fraser,2024,8,3909.0,1040300.0,375.76
+23,Fraser South,Fraser,2024,9,3865.0,1040300.0,371.53
+23,Fraser South,Fraser,2024,10,3920.0,1040300.0,376.81
+23,Fraser South,Fraser,2024,11,3847.0,1040300.0,369.8
+23,Fraser South,Fraser,2024,12,3874.0,1040300.0,372.39
+23,Fraser South,Fraser,2025,1,3953.0,1056156.0,374.28
+23,Fraser South,Fraser,2025,2,3841.0,1056156.0,363.68
+23,Fraser South,Fraser,2025,3,3907.0,1056156.0,369.93
+23,Fraser South,Fraser,2025,4,3849.0,1056156.0,364.43
+23,Fraser South,Fraser,2025,5,3845.0,1056156.0,364.06
+23,Fraser South,Fraser,2025,6,3834.0,1056156.0,363.01
+23,Fraser South,Fraser,2025,7,3771.0,1056156.0,357.05
+23,Fraser South,Fraser,2025,8,3787.0,1056156.0,358.56
+23,Fraser South,Fraser,2025,9,3818.0,1056156.0,361.5
+23,Fraser South,Fraser,2025,10,3811.0,1056156.0,360.84
+23,Fraser South,Fraser,2025,11,3731.0,1056156.0,353.26
+23,Fraser South,Fraser,2025,12,3759.0,1056156.0,355.91
+23,Fraser South,Fraser,2026,1,3749.0,1054480.0,355.53
+23,Fraser South,Fraser,2026,2,3686.0,1054480.0,349.56
+23,Fraser South,Fraser,2026,3,3756.0,1054480.0,356.19
+23,Fraser South,Fraser,2026,4,3716.0,1054480.0,352.4
+23,Fraser South,Fraser,2026,5,3720.0,1054480.0,352.78
+23,Fraser South,Fraser,2026,6,3775.0,1054480.0,358.0
+31,Richmond,Vancouver Coastal,2015,1,206.0,204462.0,100.75
+31,Richmond,Vancouver Coastal,2015,2,200.0,204462.0,97.82
+31,Richmond,Vancouver Coastal,2015,3,210.0,204462.0,102.71
+31,Richmond,Vancouver Coastal,2015,4,204.0,204462.0,99.77
+31,Richmond,Vancouver Coastal,2015,5,198.0,204462.0,96.84
+31,Richmond,Vancouver Coastal,2015,6,207.0,204462.0,101.24
+31,Richmond,Vancouver Coastal,2015,7,219.0,204462.0,107.11
+31,Richmond,Vancouver Coastal,2015,8,203.0,204462.0,99.28
+31,Richmond,Vancouver Coastal,2015,9,207.0,204462.0,101.24
+31,Richmond,Vancouver Coastal,2015,10,209.0,204462.0,102.22
+31,Richmond,Vancouver Coastal,2015,11,211.0,204462.0,103.2
+31,Richmond,Vancouver Coastal,2015,12,214.0,204462.0,104.66
+31,Richmond,Vancouver Coastal,2016,1,214.0,207612.0,103.08
+31,Richmond,Vancouver Coastal,2016,2,208.0,207612.0,100.19
+31,Richmond,Vancouver Coastal,2016,3,214.0,207612.0,103.08
+31,Richmond,Vancouver Coastal,2016,4,224.0,207612.0,107.89
+31,Richmond,Vancouver Coastal,2016,5,234.0,207612.0,112.71
+31,Richmond,Vancouver Coastal,2016,6,237.0,207612.0,114.16
+31,Richmond,Vancouver Coastal,2016,7,243.0,207612.0,117.05
+31,Richmond,Vancouver Coastal,2016,8,250.0,207612.0,120.42
+31,Richmond,Vancouver Coastal,2016,9,252.0,207612.0,121.38
+31,Richmond,Vancouver Coastal,2016,10,250.0,207612.0,120.42
+31,Richmond,Vancouver Coastal,2016,11,256.0,207612.0,123.31
+31,Richmond,Vancouver Coastal,2016,12,251.0,207612.0,120.9
+31,Richmond,Vancouver Coastal,2017,1,262.0,209599.0,125.0
+31,Richmond,Vancouver Coastal,2017,2,261.0,209599.0,124.52
+31,Richmond,Vancouver Coastal,2017,3,264.0,209599.0,125.95
+31,Richmond,Vancouver Coastal,2017,4,258.0,209599.0,123.09
+31,Richmond,Vancouver Coastal,2017,5,262.0,209599.0,125.0
+31,Richmond,Vancouver Coastal,2017,6,260.0,209599.0,124.05
+31,Richmond,Vancouver Coastal,2017,7,261.0,209599.0,124.52
+31,Richmond,Vancouver Coastal,2017,8,270.0,209599.0,128.82
+31,Richmond,Vancouver Coastal,2017,9,266.0,209599.0,126.91
+31,Richmond,Vancouver Coastal,2017,10,263.0,209599.0,125.48
+31,Richmond,Vancouver Coastal,2017,11,270.0,209599.0,128.82
+31,Richmond,Vancouver Coastal,2017,12,271.0,209599.0,129.29
+31,Richmond,Vancouver Coastal,2018,1,272.0,212853.0,127.79
+31,Richmond,Vancouver Coastal,2018,2,256.0,212853.0,120.27
+31,Richmond,Vancouver Coastal,2018,3,277.0,212853.0,130.14
+31,Richmond,Vancouver Coastal,2018,4,269.0,212853.0,126.38
+31,Richmond,Vancouver Coastal,2018,5,272.0,212853.0,127.79
+31,Richmond,Vancouver Coastal,2018,6,276.0,212853.0,129.67
+31,Richmond,Vancouver Coastal,2018,7,279.0,212853.0,131.08
+31,Richmond,Vancouver Coastal,2018,8,278.0,212853.0,130.61
+31,Richmond,Vancouver Coastal,2018,9,283.0,212853.0,132.96
+31,Richmond,Vancouver Coastal,2018,10,272.0,212853.0,127.79
+31,Richmond,Vancouver Coastal,2018,11,275.0,212853.0,129.2
+31,Richmond,Vancouver Coastal,2018,12,269.0,212853.0,126.38
+31,Richmond,Vancouver Coastal,2019,1,280.0,216793.0,129.16
+31,Richmond,Vancouver Coastal,2019,2,291.0,216793.0,134.23
+31,Richmond,Vancouver Coastal,2019,3,291.0,216793.0,134.23
+31,Richmond,Vancouver Coastal,2019,4,297.0,216793.0,137.0
+31,Richmond,Vancouver Coastal,2019,5,290.0,216793.0,133.77
+31,Richmond,Vancouver Coastal,2019,6,299.0,216793.0,137.92
+31,Richmond,Vancouver Coastal,2019,7,309.0,216793.0,142.53
+31,Richmond,Vancouver Coastal,2019,8,318.0,216793.0,146.68
+31,Richmond,Vancouver Coastal,2019,9,316.0,216793.0,145.76
+31,Richmond,Vancouver Coastal,2019,10,317.0,216793.0,146.22
+31,Richmond,Vancouver Coastal,2019,11,313.0,216793.0,144.38
+31,Richmond,Vancouver Coastal,2019,12,315.0,216793.0,145.3
+31,Richmond,Vancouver Coastal,2020,1,316.0,218920.0,144.34
+31,Richmond,Vancouver Coastal,2020,2,317.0,218920.0,144.8
+31,Richmond,Vancouver Coastal,2020,3,327.0,218920.0,149.37
+31,Richmond,Vancouver Coastal,2020,4,312.0,218920.0,142.52
+31,Richmond,Vancouver Coastal,2020,5,321.0,218920.0,146.63
+31,Richmond,Vancouver Coastal,2020,6,326.0,218920.0,148.91
+31,Richmond,Vancouver Coastal,2020,7,316.0,218920.0,144.34
+31,Richmond,Vancouver Coastal,2020,8,306.0,218920.0,139.78
+31,Richmond,Vancouver Coastal,2020,9,296.0,218920.0,135.21
+31,Richmond,Vancouver Coastal,2020,10,303.0,218920.0,138.41
+31,Richmond,Vancouver Coastal,2020,11,311.0,218920.0,142.06
+31,Richmond,Vancouver Coastal,2020,12,318.0,218920.0,145.26
+31,Richmond,Vancouver Coastal,2021,1,320.0,221176.0,144.68
+31,Richmond,Vancouver Coastal,2021,2,314.0,221176.0,141.97
+31,Richmond,Vancouver Coastal,2021,3,313.0,221176.0,141.52
+31,Richmond,Vancouver Coastal,2021,4,316.0,221176.0,142.87
+31,Richmond,Vancouver Coastal,2021,5,320.0,221176.0,144.68
+31,Richmond,Vancouver Coastal,2021,6,329.0,221176.0,148.75
+31,Richmond,Vancouver Coastal,2021,7,329.0,221176.0,148.75
+31,Richmond,Vancouver Coastal,2021,8,321.0,221176.0,145.13
+31,Richmond,Vancouver Coastal,2021,9,318.0,221176.0,143.78
+31,Richmond,Vancouver Coastal,2021,10,316.0,221176.0,142.87
+31,Richmond,Vancouver Coastal,2021,11,317.0,221176.0,143.32
+31,Richmond,Vancouver Coastal,2021,12,322.0,221176.0,145.59
+31,Richmond,Vancouver Coastal,2022,1,317.0,228348.0,138.82
+31,Richmond,Vancouver Coastal,2022,2,305.0,228348.0,133.57
+31,Richmond,Vancouver Coastal,2022,3,316.0,228348.0,138.39
+31,Richmond,Vancouver Coastal,2022,4,308.0,228348.0,134.88
+31,Richmond,Vancouver Coastal,2022,5,305.0,228348.0,133.57
+31,Richmond,Vancouver Coastal,2022,6,316.0,228348.0,138.39
+31,Richmond,Vancouver Coastal,2022,7,312.0,228348.0,136.63
+31,Richmond,Vancouver Coastal,2022,8,312.0,228348.0,136.63
+31,Richmond,Vancouver Coastal,2022,9,315.0,228348.0,137.95
+31,Richmond,Vancouver Coastal,2022,10,320.0,228348.0,140.14
+31,Richmond,Vancouver Coastal,2022,11,312.0,228348.0,136.63
+31,Richmond,Vancouver Coastal,2022,12,299.0,228348.0,130.94
+31,Richmond,Vancouver Coastal,2023,1,301.0,235937.0,127.58
+31,Richmond,Vancouver Coastal,2023,2,306.0,235937.0,129.7
+31,Richmond,Vancouver Coastal,2023,3,310.0,235937.0,131.39
+31,Richmond,Vancouver Coastal,2023,4,317.0,235937.0,134.36
+31,Richmond,Vancouver Coastal,2023,5,316.0,235937.0,133.93
+31,Richmond,Vancouver Coastal,2023,6,312.0,235937.0,132.24
+31,Richmond,Vancouver Coastal,2023,7,313.0,235937.0,132.66
+31,Richmond,Vancouver Coastal,2023,8,292.0,235937.0,123.76
+31,Richmond,Vancouver Coastal,2023,9,300.0,235937.0,127.15
+31,Richmond,Vancouver Coastal,2023,10,300.0,235937.0,127.15
+31,Richmond,Vancouver Coastal,2023,11,293.0,235937.0,124.19
+31,Richmond,Vancouver Coastal,2023,12,295.0,235937.0,125.03
+31,Richmond,Vancouver Coastal,2024,1,289.0,242139.0,119.35
+31,Richmond,Vancouver Coastal,2024,2,287.0,242139.0,118.53
+31,Richmond,Vancouver Coastal,2024,3,274.0,242139.0,113.16
+31,Richmond,Vancouver Coastal,2024,4,275.0,242139.0,113.57
+31,Richmond,Vancouver Coastal,2024,5,275.0,242139.0,113.57
+31,Richmond,Vancouver Coastal,2024,6,263.0,242139.0,108.62
+31,Richmond,Vancouver Coastal,2024,7,265.0,242139.0,109.44
+31,Richmond,Vancouver Coastal,2024,8,265.0,242139.0,109.44
+31,Richmond,Vancouver Coastal,2024,9,276.0,242139.0,113.98
+31,Richmond,Vancouver Coastal,2024,10,260.0,242139.0,107.38
+31,Richmond,Vancouver Coastal,2024,11,265.0,242139.0,109.44
+31,Richmond,Vancouver Coastal,2024,12,263.0,242139.0,108.62
+31,Richmond,Vancouver Coastal,2025,1,282.0,239585.0,117.7
+31,Richmond,Vancouver Coastal,2025,2,260.0,239585.0,108.52
+31,Richmond,Vancouver Coastal,2025,3,275.0,239585.0,114.78
+31,Richmond,Vancouver Coastal,2025,4,269.0,239585.0,112.28
+31,Richmond,Vancouver Coastal,2025,5,282.0,239585.0,117.7
+31,Richmond,Vancouver Coastal,2025,6,281.0,239585.0,117.29
+31,Richmond,Vancouver Coastal,2025,7,278.0,239585.0,116.03
+31,Richmond,Vancouver Coastal,2025,8,280.0,239585.0,116.87
+31,Richmond,Vancouver Coastal,2025,9,275.0,239585.0,114.78
+31,Richmond,Vancouver Coastal,2025,10,275.0,239585.0,114.78
+31,Richmond,Vancouver Coastal,2025,11,277.0,239585.0,115.62
+31,Richmond,Vancouver Coastal,2025,12,274.0,239585.0,114.36
+31,Richmond,Vancouver Coastal,2026,1,282.0,238617.0,118.18
+31,Richmond,Vancouver Coastal,2026,2,280.0,238617.0,117.34
+31,Richmond,Vancouver Coastal,2026,3,284.0,238617.0,119.02
+31,Richmond,Vancouver Coastal,2026,4,286.0,238617.0,119.86
+31,Richmond,Vancouver Coastal,2026,5,289.0,238617.0,121.11
+31,Richmond,Vancouver Coastal,2026,6,284.0,238617.0,119.02
+32,Vancouver,Vancouver Coastal,2015,1,3123.0,673674.0,463.58
+32,Vancouver,Vancouver Coastal,2015,2,3138.0,673674.0,465.8
+32,Vancouver,Vancouver Coastal,2015,3,3236.0,673674.0,480.35
+32,Vancouver,Vancouver Coastal,2015,4,3226.0,673674.0,478.87
+32,Vancouver,Vancouver Coastal,2015,5,3259.0,673674.0,483.77
+32,Vancouver,Vancouver Coastal,2015,6,3274.0,673674.0,485.99
+32,Vancouver,Vancouver Coastal,2015,7,3270.0,673674.0,485.4
+32,Vancouver,Vancouver Coastal,2015,8,3278.0,673674.0,486.59
+32,Vancouver,Vancouver Coastal,2015,9,3261.0,673674.0,484.06
+32,Vancouver,Vancouver Coastal,2015,10,3263.0,673674.0,484.36
+32,Vancouver,Vancouver Coastal,2015,11,3259.0,673674.0,483.77
+32,Vancouver,Vancouver Coastal,2015,12,3253.0,673674.0,482.87
+32,Vancouver,Vancouver Coastal,2016,1,3319.0,683476.0,485.61
+32,Vancouver,Vancouver Coastal,2016,2,3309.0,683476.0,484.14
+32,Vancouver,Vancouver Coastal,2016,3,3388.0,683476.0,495.7
+32,Vancouver,Vancouver Coastal,2016,4,3383.0,683476.0,494.97
+32,Vancouver,Vancouver Coastal,2016,5,3337.0,683476.0,488.24
+32,Vancouver,Vancouver Coastal,2016,6,3332.0,683476.0,487.51
+32,Vancouver,Vancouver Coastal,2016,7,3373.0,683476.0,493.51
+32,Vancouver,Vancouver Coastal,2016,8,3407.0,683476.0,498.48
+32,Vancouver,Vancouver Coastal,2016,9,3448.0,683476.0,504.48
+32,Vancouver,Vancouver Coastal,2016,10,3478.0,683476.0,508.87
+32,Vancouver,Vancouver Coastal,2016,11,3546.0,683476.0,518.82
+32,Vancouver,Vancouver Coastal,2016,12,3578.0,683476.0,523.5
+32,Vancouver,Vancouver Coastal,2017,1,3624.0,689506.0,525.59
+32,Vancouver,Vancouver Coastal,2017,2,3677.0,689506.0,533.28
+32,Vancouver,Vancouver Coastal,2017,3,3736.0,689506.0,541.84
+32,Vancouver,Vancouver Coastal,2017,4,3732.0,689506.0,541.26
+32,Vancouver,Vancouver Coastal,2017,5,3737.0,689506.0,541.98
+32,Vancouver,Vancouver Coastal,2017,6,3736.0,689506.0,541.84
+32,Vancouver,Vancouver Coastal,2017,7,3733.0,689506.0,541.4
+32,Vancouver,Vancouver Coastal,2017,8,3803.0,689506.0,551.55
+32,Vancouver,Vancouver Coastal,2017,9,3794.0,689506.0,550.25
+32,Vancouver,Vancouver Coastal,2017,10,3827.0,689506.0,555.04
+32,Vancouver,Vancouver Coastal,2017,11,3893.0,689506.0,564.61
+32,Vancouver,Vancouver Coastal,2017,12,3928.0,689506.0,569.68
+32,Vancouver,Vancouver Coastal,2018,1,4004.0,699269.0,572.6
+32,Vancouver,Vancouver Coastal,2018,2,3930.0,699269.0,562.02
+32,Vancouver,Vancouver Coastal,2018,3,4004.0,699269.0,572.6
+32,Vancouver,Vancouver Coastal,2018,4,4015.0,699269.0,574.17
+32,Vancouver,Vancouver Coastal,2018,5,4044.0,699269.0,578.32
+32,Vancouver,Vancouver Coastal,2018,6,4053.0,699269.0,579.61
+32,Vancouver,Vancouver Coastal,2018,7,4022.0,699269.0,575.17
+32,Vancouver,Vancouver Coastal,2018,8,3978.0,699269.0,568.88
+32,Vancouver,Vancouver Coastal,2018,9,4023.0,699269.0,575.32
+32,Vancouver,Vancouver Coastal,2018,10,4029.0,699269.0,576.17
+32,Vancouver,Vancouver Coastal,2018,11,4046.0,699269.0,578.6
+32,Vancouver,Vancouver Coastal,2018,12,4041.0,699269.0,577.89
+32,Vancouver,Vancouver Coastal,2019,1,4130.0,714849.0,577.74
+32,Vancouver,Vancouver Coastal,2019,2,4098.0,714849.0,573.27
+32,Vancouver,Vancouver Coastal,2019,3,4137.0,714849.0,578.72
+32,Vancouver,Vancouver Coastal,2019,4,4136.0,714849.0,578.58
+32,Vancouver,Vancouver Coastal,2019,5,4135.0,714849.0,578.44
+32,Vancouver,Vancouver Coastal,2019,6,4152.0,714849.0,580.82
+32,Vancouver,Vancouver Coastal,2019,7,4163.0,714849.0,582.36
+32,Vancouver,Vancouver Coastal,2019,8,4175.0,714849.0,584.04
+32,Vancouver,Vancouver Coastal,2019,9,4148.0,714849.0,580.26
+32,Vancouver,Vancouver Coastal,2019,10,4171.0,714849.0,583.48
+32,Vancouver,Vancouver Coastal,2019,11,4102.0,714849.0,573.83
+32,Vancouver,Vancouver Coastal,2019,12,4160.0,714849.0,581.94
+32,Vancouver,Vancouver Coastal,2020,1,4214.0,721974.0,583.68
+32,Vancouver,Vancouver Coastal,2020,2,4226.0,721974.0,585.34
+32,Vancouver,Vancouver Coastal,2020,3,4313.0,721974.0,597.39
+32,Vancouver,Vancouver Coastal,2020,4,4233.0,721974.0,586.31
+32,Vancouver,Vancouver Coastal,2020,5,4145.0,721974.0,574.12
+32,Vancouver,Vancouver Coastal,2020,6,4136.0,721974.0,572.87
+32,Vancouver,Vancouver Coastal,2020,7,4178.0,721974.0,578.69
+32,Vancouver,Vancouver Coastal,2020,8,4118.0,721974.0,570.38
+32,Vancouver,Vancouver Coastal,2020,9,4129.0,721974.0,571.9
+32,Vancouver,Vancouver Coastal,2020,10,4205.0,721974.0,582.43
+32,Vancouver,Vancouver Coastal,2020,11,4229.0,721974.0,585.76
+32,Vancouver,Vancouver Coastal,2020,12,4276.0,721974.0,592.27
+32,Vancouver,Vancouver Coastal,2021,1,4325.0,717150.0,603.08
+32,Vancouver,Vancouver Coastal,2021,2,4293.0,717150.0,598.62
+32,Vancouver,Vancouver Coastal,2021,3,4379.0,717150.0,610.61
+32,Vancouver,Vancouver Coastal,2021,4,4343.0,717150.0,605.59
+32,Vancouver,Vancouver Coastal,2021,5,4281.0,717150.0,596.95
+32,Vancouver,Vancouver Coastal,2021,6,4328.0,717150.0,603.5
+32,Vancouver,Vancouver Coastal,2021,7,4235.0,717150.0,590.53
+32,Vancouver,Vancouver Coastal,2021,8,4183.0,717150.0,583.28
+32,Vancouver,Vancouver Coastal,2021,9,4165.0,717150.0,580.77
+32,Vancouver,Vancouver Coastal,2021,10,4201.0,717150.0,585.79
+32,Vancouver,Vancouver Coastal,2021,11,4277.0,717150.0,596.39
+32,Vancouver,Vancouver Coastal,2021,12,4261.0,717150.0,594.16
+32,Vancouver,Vancouver Coastal,2022,1,4305.0,729966.0,589.75
+32,Vancouver,Vancouver Coastal,2022,2,4283.0,729966.0,586.74
+32,Vancouver,Vancouver Coastal,2022,3,4358.0,729966.0,597.01
+32,Vancouver,Vancouver Coastal,2022,4,4332.0,729966.0,593.45
+32,Vancouver,Vancouver Coastal,2022,5,4363.0,729966.0,597.7
+32,Vancouver,Vancouver Coastal,2022,6,4342.0,729966.0,594.82
+32,Vancouver,Vancouver Coastal,2022,7,4287.0,729966.0,587.29
+32,Vancouver,Vancouver Coastal,2022,8,4310.0,729966.0,590.44
+32,Vancouver,Vancouver Coastal,2022,9,4260.0,729966.0,583.59
+32,Vancouver,Vancouver Coastal,2022,10,4299.0,729966.0,588.93
+32,Vancouver,Vancouver Coastal,2022,11,4317.0,729966.0,591.4
+32,Vancouver,Vancouver Coastal,2022,12,4272.0,729966.0,585.23
+32,Vancouver,Vancouver Coastal,2023,1,4336.0,754624.0,574.59
+32,Vancouver,Vancouver Coastal,2023,2,4377.0,754624.0,580.02
+32,Vancouver,Vancouver Coastal,2023,3,4414.0,754624.0,584.93
+32,Vancouver,Vancouver Coastal,2023,4,4341.0,754624.0,575.25
+32,Vancouver,Vancouver Coastal,2023,5,4376.0,754624.0,579.89
+32,Vancouver,Vancouver Coastal,2023,6,4405.0,754624.0,583.73
+32,Vancouver,Vancouver Coastal,2023,7,4361.0,754624.0,577.9
+32,Vancouver,Vancouver Coastal,2023,8,4386.0,754624.0,581.22
+32,Vancouver,Vancouver Coastal,2023,9,4393.0,754624.0,582.14
+32,Vancouver,Vancouver Coastal,2023,10,4378.0,754624.0,580.16
+32,Vancouver,Vancouver Coastal,2023,11,4429.0,754624.0,586.91
+32,Vancouver,Vancouver Coastal,2023,12,4419.0,754624.0,585.59
+32,Vancouver,Vancouver Coastal,2024,1,4475.0,772287.0,579.45
+32,Vancouver,Vancouver Coastal,2024,2,4405.0,772287.0,570.38
+32,Vancouver,Vancouver Coastal,2024,3,4508.0,772287.0,583.72
+32,Vancouver,Vancouver Coastal,2024,4,4510.0,772287.0,583.98
+32,Vancouver,Vancouver Coastal,2024,5,4557.0,772287.0,590.07
+32,Vancouver,Vancouver Coastal,2024,6,4467.0,772287.0,578.41
+32,Vancouver,Vancouver Coastal,2024,7,4363.0,772287.0,564.95
+32,Vancouver,Vancouver Coastal,2024,8,4289.0,772287.0,555.36
+32,Vancouver,Vancouver Coastal,2024,9,4269.0,772287.0,552.77
+32,Vancouver,Vancouver Coastal,2024,10,4357.0,772287.0,564.17
+32,Vancouver,Vancouver Coastal,2024,11,4365.0,772287.0,565.2
+32,Vancouver,Vancouver Coastal,2024,12,4326.0,772287.0,560.15
+32,Vancouver,Vancouver Coastal,2025,1,4384.0,763986.0,573.83
+32,Vancouver,Vancouver Coastal,2025,2,4321.0,763986.0,565.59
+32,Vancouver,Vancouver Coastal,2025,3,4331.0,763986.0,566.9
+32,Vancouver,Vancouver Coastal,2025,4,4301.0,763986.0,562.97
+32,Vancouver,Vancouver Coastal,2025,5,4236.0,763986.0,554.46
+32,Vancouver,Vancouver Coastal,2025,6,4233.0,763986.0,554.07
+32,Vancouver,Vancouver Coastal,2025,7,4183.0,763986.0,547.52
+32,Vancouver,Vancouver Coastal,2025,8,4105.0,763986.0,537.31
+32,Vancouver,Vancouver Coastal,2025,9,4086.0,763986.0,534.83
+32,Vancouver,Vancouver Coastal,2025,10,4137.0,763986.0,541.5
+32,Vancouver,Vancouver Coastal,2025,11,4142.0,763986.0,542.16
+32,Vancouver,Vancouver Coastal,2025,12,4154.0,763986.0,543.73
+32,Vancouver,Vancouver Coastal,2026,1,4153.0,759040.0,547.14
+32,Vancouver,Vancouver Coastal,2026,2,4184.0,759040.0,551.22
+32,Vancouver,Vancouver Coastal,2026,3,4220.0,759040.0,555.97
+32,Vancouver,Vancouver Coastal,2026,4,4193.0,759040.0,552.41
+32,Vancouver,Vancouver Coastal,2026,5,4204.0,759040.0,553.86
+32,Vancouver,Vancouver Coastal,2026,6,4188.0,759040.0,551.75
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,1,534.0,290747.0,183.66
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,2,537.0,290747.0,184.7
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,3,523.0,290747.0,179.88
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,4,533.0,290747.0,183.32
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,5,537.0,290747.0,184.7
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,6,555.0,290747.0,190.89
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,7,544.0,290747.0,187.1
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,8,529.0,290747.0,181.95
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,9,544.0,290747.0,187.1
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,10,549.0,290747.0,188.82
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,11,547.0,290747.0,188.14
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,12,561.0,290747.0,192.95
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,1,573.0,296497.0,193.26
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,2,568.0,296497.0,191.57
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,3,564.0,296497.0,190.22
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,4,575.0,296497.0,193.93
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,5,593.0,296497.0,200.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,6,624.0,296497.0,210.46
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,7,621.0,296497.0,209.45
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,8,626.0,296497.0,211.13
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,9,635.0,296497.0,214.17
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,10,642.0,296497.0,216.53
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,11,660.0,296497.0,222.6
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,12,670.0,296497.0,225.97
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,1,667.0,300522.0,221.95
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,2,678.0,300522.0,225.61
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,3,688.0,300522.0,228.93
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,4,699.0,300522.0,232.6
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,5,729.0,300522.0,242.58
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,6,720.0,300522.0,239.58
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,7,719.0,300522.0,239.25
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,8,714.0,300522.0,237.59
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,9,720.0,300522.0,239.58
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,10,725.0,300522.0,241.25
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,11,724.0,300522.0,240.91
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,12,735.0,300522.0,244.57
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,1,742.0,305068.0,243.22
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,2,726.0,305068.0,237.98
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,3,748.0,305068.0,245.19
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,4,736.0,305068.0,241.26
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,5,767.0,305068.0,251.42
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,6,768.0,305068.0,251.75
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,7,776.0,305068.0,254.37
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,8,772.0,305068.0,253.06
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,9,763.0,305068.0,250.11
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,10,775.0,305068.0,254.04
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,11,778.0,305068.0,255.03
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,12,772.0,305068.0,253.06
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,1,783.0,309493.0,252.99
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,2,769.0,309493.0,248.47
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,3,783.0,309493.0,252.99
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,4,803.0,309493.0,259.46
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,5,811.0,309493.0,262.04
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,6,814.0,309493.0,263.01
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,7,815.0,309493.0,263.33
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,8,823.0,309493.0,265.92
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,9,839.0,309493.0,271.09
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,10,860.0,309493.0,277.87
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,11,835.0,309493.0,269.8
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,12,848.0,309493.0,274.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,1,859.0,313659.0,273.86
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,2,859.0,313659.0,273.86
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,3,880.0,313659.0,280.56
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,4,880.0,313659.0,280.56
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,5,879.0,313659.0,280.24
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,6,877.0,313659.0,279.6
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,7,861.0,313659.0,274.5
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,8,859.0,313659.0,273.86
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,9,886.0,313659.0,282.47
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,10,876.0,313659.0,279.28
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,11,869.0,313659.0,277.05
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,12,892.0,313659.0,284.39
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,1,904.0,318377.0,283.94
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,2,891.0,318377.0,279.86
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,3,890.0,318377.0,279.54
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,4,904.0,318377.0,283.94
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,5,894.0,318377.0,280.8
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,6,878.0,318377.0,275.77
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,7,900.0,318377.0,282.68
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,8,912.0,318377.0,286.45
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,9,904.0,318377.0,283.94
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,10,909.0,318377.0,285.51
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,11,901.0,318377.0,283.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,12,920.0,318377.0,288.97
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,1,937.0,325911.0,287.5
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,2,936.0,325911.0,287.19
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,3,940.0,325911.0,288.42
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,4,928.0,325911.0,284.74
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,5,934.0,325911.0,286.58
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,6,930.0,325911.0,285.35
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,7,922.0,325911.0,282.9
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,8,927.0,325911.0,284.43
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,9,902.0,325911.0,276.76
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,10,910.0,325911.0,279.22
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,11,919.0,325911.0,281.98
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,12,915.0,325911.0,280.75
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,1,928.0,334180.0,277.69
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,2,902.0,334180.0,269.91
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,3,929.0,334180.0,277.99
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,4,903.0,334180.0,270.21
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,5,925.0,334180.0,276.8
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,6,911.0,334180.0,272.61
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,7,908.0,334180.0,271.71
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,8,934.0,334180.0,279.49
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,9,903.0,334180.0,270.21
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,10,907.0,334180.0,271.41
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,11,911.0,334180.0,272.61
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,12,908.0,334180.0,271.71
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,1,914.0,341655.0,267.52
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,2,914.0,341655.0,267.52
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,3,895.0,341655.0,261.96
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,4,916.0,341655.0,268.11
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,5,907.0,341655.0,265.47
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,6,903.0,341655.0,264.3
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,7,892.0,341655.0,261.08
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,8,889.0,341655.0,260.2
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,9,864.0,341655.0,252.89
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,10,897.0,341655.0,262.55
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,11,886.0,341655.0,259.33
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,12,872.0,341655.0,255.23
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,1,892.0,339736.0,262.56
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,2,867.0,339736.0,255.2
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,3,884.0,339736.0,260.2
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,4,880.0,339736.0,259.02
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,5,858.0,339736.0,252.55
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,6,863.0,339736.0,254.02
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,7,853.0,339736.0,251.08
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,8,798.0,339736.0,234.89
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,9,838.0,339736.0,246.66
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,10,853.0,339736.0,251.08
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,11,838.0,339736.0,246.66
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,12,836.0,339736.0,246.07
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,1,832.0,335675.0,247.86
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,2,830.0,335675.0,247.26
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,3,851.0,335675.0,253.52
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,4,838.0,335675.0,249.65
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,5,845.0,335675.0,251.73
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,6,860.0,335675.0,256.2
+41,South Vancouver Island,Island,2015,1,1121.0,391242.0,286.52
+41,South Vancouver Island,Island,2015,2,1127.0,391242.0,288.06
+41,South Vancouver Island,Island,2015,3,1122.0,391242.0,286.78
+41,South Vancouver Island,Island,2015,4,1110.0,391242.0,283.71
+41,South Vancouver Island,Island,2015,5,1118.0,391242.0,285.76
+41,South Vancouver Island,Island,2015,6,1122.0,391242.0,286.78
+41,South Vancouver Island,Island,2015,7,1106.0,391242.0,282.69
+41,South Vancouver Island,Island,2015,8,1108.0,391242.0,283.2
+41,South Vancouver Island,Island,2015,9,1102.0,391242.0,281.67
+41,South Vancouver Island,Island,2015,10,1115.0,391242.0,284.99
+41,South Vancouver Island,Island,2015,11,1127.0,391242.0,288.06
+41,South Vancouver Island,Island,2015,12,1125.0,391242.0,287.55
+41,South Vancouver Island,Island,2016,1,1120.0,400792.0,279.45
+41,South Vancouver Island,Island,2016,2,1124.0,400792.0,280.44
+41,South Vancouver Island,Island,2016,3,1147.0,400792.0,286.18
+41,South Vancouver Island,Island,2016,4,1163.0,400792.0,290.18
+41,South Vancouver Island,Island,2016,5,1150.0,400792.0,286.93
+41,South Vancouver Island,Island,2016,6,1157.0,400792.0,288.68
+41,South Vancouver Island,Island,2016,7,1170.0,400792.0,291.92
+41,South Vancouver Island,Island,2016,8,1179.0,400792.0,294.17
+41,South Vancouver Island,Island,2016,9,1203.0,400792.0,300.16
+41,South Vancouver Island,Island,2016,10,1230.0,400792.0,306.89
+41,South Vancouver Island,Island,2016,11,1259.0,400792.0,314.13
+41,South Vancouver Island,Island,2016,12,1279.0,400792.0,319.12
+41,South Vancouver Island,Island,2017,1,1270.0,407299.0,311.81
+41,South Vancouver Island,Island,2017,2,1279.0,407299.0,314.02
+41,South Vancouver Island,Island,2017,3,1343.0,407299.0,329.73
+41,South Vancouver Island,Island,2017,4,1324.0,407299.0,325.07
+41,South Vancouver Island,Island,2017,5,1334.0,407299.0,327.52
+41,South Vancouver Island,Island,2017,6,1337.0,407299.0,328.26
+41,South Vancouver Island,Island,2017,7,1342.0,407299.0,329.49
+41,South Vancouver Island,Island,2017,8,1355.0,407299.0,332.68
+41,South Vancouver Island,Island,2017,9,1378.0,407299.0,338.33
+41,South Vancouver Island,Island,2017,10,1403.0,407299.0,344.46
+41,South Vancouver Island,Island,2017,11,1429.0,407299.0,350.85
+41,South Vancouver Island,Island,2017,12,1461.0,407299.0,358.7
+41,South Vancouver Island,Island,2018,1,1508.0,414228.0,364.05
+41,South Vancouver Island,Island,2018,2,1510.0,414228.0,364.53
+41,South Vancouver Island,Island,2018,3,1543.0,414228.0,372.5
+41,South Vancouver Island,Island,2018,4,1535.0,414228.0,370.57
+41,South Vancouver Island,Island,2018,5,1553.0,414228.0,374.91
+41,South Vancouver Island,Island,2018,6,1577.0,414228.0,380.71
+41,South Vancouver Island,Island,2018,7,1576.0,414228.0,380.47
+41,South Vancouver Island,Island,2018,8,1584.0,414228.0,382.4
+41,South Vancouver Island,Island,2018,9,1607.0,414228.0,387.95
+41,South Vancouver Island,Island,2018,10,1552.0,414228.0,374.67
+41,South Vancouver Island,Island,2018,11,1583.0,414228.0,382.16
+41,South Vancouver Island,Island,2018,12,1560.0,414228.0,376.6
+41,South Vancouver Island,Island,2019,1,1646.0,421633.0,390.39
+41,South Vancouver Island,Island,2019,2,1630.0,421633.0,386.59
+41,South Vancouver Island,Island,2019,3,1667.0,421633.0,395.37
+41,South Vancouver Island,Island,2019,4,1677.0,421633.0,397.74
+41,South Vancouver Island,Island,2019,5,1684.0,421633.0,399.4
+41,South Vancouver Island,Island,2019,6,1713.0,421633.0,406.28
+41,South Vancouver Island,Island,2019,7,1759.0,421633.0,417.19
+41,South Vancouver Island,Island,2019,8,1800.0,421633.0,426.91
+41,South Vancouver Island,Island,2019,9,1874.0,421633.0,444.46
+41,South Vancouver Island,Island,2019,10,2026.0,421633.0,480.51
+41,South Vancouver Island,Island,2019,11,1940.0,421633.0,460.12
+41,South Vancouver Island,Island,2019,12,1903.0,421633.0,451.34
+41,South Vancouver Island,Island,2020,1,1912.0,428098.0,446.63
+41,South Vancouver Island,Island,2020,2,1901.0,428098.0,444.06
+41,South Vancouver Island,Island,2020,3,1875.0,428098.0,437.98
+41,South Vancouver Island,Island,2020,4,1847.0,428098.0,431.44
+41,South Vancouver Island,Island,2020,5,1839.0,428098.0,429.57
+41,South Vancouver Island,Island,2020,6,1845.0,428098.0,430.98
+41,South Vancouver Island,Island,2020,7,1830.0,428098.0,427.47
+41,South Vancouver Island,Island,2020,8,1819.0,428098.0,424.9
+41,South Vancouver Island,Island,2020,9,1849.0,428098.0,431.91
+41,South Vancouver Island,Island,2020,10,1878.0,428098.0,438.68
+41,South Vancouver Island,Island,2020,11,1876.0,428098.0,438.22
+41,South Vancouver Island,Island,2020,12,1901.0,428098.0,444.06
+41,South Vancouver Island,Island,2021,1,1917.0,433327.0,442.39
+41,South Vancouver Island,Island,2021,2,1898.0,433327.0,438.01
+41,South Vancouver Island,Island,2021,3,1961.0,433327.0,452.55
+41,South Vancouver Island,Island,2021,4,1893.0,433327.0,436.85
+41,South Vancouver Island,Island,2021,5,1913.0,433327.0,441.47
+41,South Vancouver Island,Island,2021,6,1883.0,433327.0,434.54
+41,South Vancouver Island,Island,2021,7,1886.0,433327.0,435.24
+41,South Vancouver Island,Island,2021,8,1864.0,433327.0,430.16
+41,South Vancouver Island,Island,2021,9,1920.0,433327.0,443.08
+41,South Vancouver Island,Island,2021,10,1901.0,433327.0,438.7
+41,South Vancouver Island,Island,2021,11,1927.0,433327.0,444.7
+41,South Vancouver Island,Island,2021,12,1949.0,433327.0,449.78
+41,South Vancouver Island,Island,2022,1,1994.0,445012.0,448.08
+41,South Vancouver Island,Island,2022,2,2002.0,445012.0,449.88
+41,South Vancouver Island,Island,2022,3,2027.0,445012.0,455.49
+41,South Vancouver Island,Island,2022,4,2004.0,445012.0,450.32
+41,South Vancouver Island,Island,2022,5,1995.0,445012.0,448.3
+41,South Vancouver Island,Island,2022,6,1987.0,445012.0,446.5
+41,South Vancouver Island,Island,2022,7,1967.0,445012.0,442.01
+41,South Vancouver Island,Island,2022,8,1977.0,445012.0,444.26
+41,South Vancouver Island,Island,2022,9,1957.0,445012.0,439.76
+41,South Vancouver Island,Island,2022,10,1946.0,445012.0,437.29
+41,South Vancouver Island,Island,2022,11,1978.0,445012.0,444.48
+41,South Vancouver Island,Island,2022,12,1962.0,445012.0,440.89
+41,South Vancouver Island,Island,2023,1,1978.0,451622.0,437.98
+41,South Vancouver Island,Island,2023,2,1897.0,451622.0,420.04
+41,South Vancouver Island,Island,2023,3,1983.0,451622.0,439.08
+41,South Vancouver Island,Island,2023,4,1933.0,451622.0,428.01
+41,South Vancouver Island,Island,2023,5,1915.0,451622.0,424.03
+41,South Vancouver Island,Island,2023,6,1900.0,451622.0,420.71
+41,South Vancouver Island,Island,2023,7,1906.0,451622.0,422.03
+41,South Vancouver Island,Island,2023,8,1889.0,451622.0,418.27
+41,South Vancouver Island,Island,2023,9,1875.0,451622.0,415.17
+41,South Vancouver Island,Island,2023,10,1879.0,451622.0,416.06
+41,South Vancouver Island,Island,2023,11,1909.0,451622.0,422.7
+41,South Vancouver Island,Island,2023,12,1931.0,451622.0,427.57
+41,South Vancouver Island,Island,2024,1,1945.0,460829.0,422.07
+41,South Vancouver Island,Island,2024,2,1918.0,460829.0,416.21
+41,South Vancouver Island,Island,2024,3,1896.0,460829.0,411.43
+41,South Vancouver Island,Island,2024,4,1885.0,460829.0,409.05
+41,South Vancouver Island,Island,2024,5,1896.0,460829.0,411.43
+41,South Vancouver Island,Island,2024,6,1845.0,460829.0,400.37
+41,South Vancouver Island,Island,2024,7,1850.0,460829.0,401.45
+41,South Vancouver Island,Island,2024,8,1812.0,460829.0,393.2
+41,South Vancouver Island,Island,2024,9,1786.0,460829.0,387.56
+41,South Vancouver Island,Island,2024,10,1816.0,460829.0,394.07
+41,South Vancouver Island,Island,2024,11,1798.0,460829.0,390.17
+41,South Vancouver Island,Island,2024,12,1784.0,460829.0,387.13
+41,South Vancouver Island,Island,2025,1,1833.0,464081.0,394.97
+41,South Vancouver Island,Island,2025,2,1791.0,464081.0,385.92
+41,South Vancouver Island,Island,2025,3,1821.0,464081.0,392.39
+41,South Vancouver Island,Island,2025,4,1811.0,464081.0,390.23
+41,South Vancouver Island,Island,2025,5,1855.0,464081.0,399.71
+41,South Vancouver Island,Island,2025,6,1786.0,464081.0,384.85
+41,South Vancouver Island,Island,2025,7,1786.0,464081.0,384.85
+41,South Vancouver Island,Island,2025,8,1760.0,464081.0,379.24
+41,South Vancouver Island,Island,2025,9,1741.0,464081.0,375.15
+41,South Vancouver Island,Island,2025,10,1775.0,464081.0,382.48
+41,South Vancouver Island,Island,2025,11,1746.0,464081.0,376.23
+41,South Vancouver Island,Island,2025,12,1768.0,464081.0,380.97
+41,South Vancouver Island,Island,2026,1,1791.0,460282.0,389.11
+41,South Vancouver Island,Island,2026,2,1760.0,460282.0,382.37
+41,South Vancouver Island,Island,2026,3,1755.0,460282.0,381.29
+41,South Vancouver Island,Island,2026,4,1715.0,460282.0,372.6
+41,South Vancouver Island,Island,2026,5,1701.0,460282.0,369.56
+41,South Vancouver Island,Island,2026,6,1712.0,460282.0,371.95
+42,Central Vancouver Island,Island,2015,1,937.0,275085.0,340.62
+42,Central Vancouver Island,Island,2015,2,932.0,275085.0,338.8
+42,Central Vancouver Island,Island,2015,3,937.0,275085.0,340.62
+42,Central Vancouver Island,Island,2015,4,960.0,275085.0,348.98
+42,Central Vancouver Island,Island,2015,5,955.0,275085.0,347.17
+42,Central Vancouver Island,Island,2015,6,958.0,275085.0,348.26
+42,Central Vancouver Island,Island,2015,7,951.0,275085.0,345.71
+42,Central Vancouver Island,Island,2015,8,967.0,275085.0,351.53
+42,Central Vancouver Island,Island,2015,9,963.0,275085.0,350.07
+42,Central Vancouver Island,Island,2015,10,991.0,275085.0,360.25
+42,Central Vancouver Island,Island,2015,11,975.0,275085.0,354.44
+42,Central Vancouver Island,Island,2015,12,966.0,275085.0,351.16
+42,Central Vancouver Island,Island,2016,1,966.0,281096.0,343.65
+42,Central Vancouver Island,Island,2016,2,975.0,281096.0,346.86
+42,Central Vancouver Island,Island,2016,3,980.0,281096.0,348.64
+42,Central Vancouver Island,Island,2016,4,1007.0,281096.0,358.24
+42,Central Vancouver Island,Island,2016,5,1028.0,281096.0,365.71
+42,Central Vancouver Island,Island,2016,6,1053.0,281096.0,374.61
+42,Central Vancouver Island,Island,2016,7,1064.0,281096.0,378.52
+42,Central Vancouver Island,Island,2016,8,1105.0,281096.0,393.1
+42,Central Vancouver Island,Island,2016,9,1147.0,281096.0,408.05
+42,Central Vancouver Island,Island,2016,10,1168.0,281096.0,415.52
+42,Central Vancouver Island,Island,2016,11,1217.0,281096.0,432.95
+42,Central Vancouver Island,Island,2016,12,1231.0,281096.0,437.93
+42,Central Vancouver Island,Island,2017,1,1263.0,286644.0,440.62
+42,Central Vancouver Island,Island,2017,2,1264.0,286644.0,440.97
+42,Central Vancouver Island,Island,2017,3,1299.0,286644.0,453.18
+42,Central Vancouver Island,Island,2017,4,1293.0,286644.0,451.08
+42,Central Vancouver Island,Island,2017,5,1310.0,286644.0,457.01
+42,Central Vancouver Island,Island,2017,6,1339.0,286644.0,467.13
+42,Central Vancouver Island,Island,2017,7,1376.0,286644.0,480.04
+42,Central Vancouver Island,Island,2017,8,1403.0,286644.0,489.46
+42,Central Vancouver Island,Island,2017,9,1387.0,286644.0,483.88
+42,Central Vancouver Island,Island,2017,10,1410.0,286644.0,491.9
+42,Central Vancouver Island,Island,2017,11,1407.0,286644.0,490.85
+42,Central Vancouver Island,Island,2017,12,1409.0,286644.0,491.55
+42,Central Vancouver Island,Island,2018,1,1426.0,291839.0,488.63
+42,Central Vancouver Island,Island,2018,2,1419.0,291839.0,486.23
+42,Central Vancouver Island,Island,2018,3,1472.0,291839.0,504.39
+42,Central Vancouver Island,Island,2018,4,1494.0,291839.0,511.93
+42,Central Vancouver Island,Island,2018,5,1512.0,291839.0,518.09
+42,Central Vancouver Island,Island,2018,6,1504.0,291839.0,515.35
+42,Central Vancouver Island,Island,2018,7,1512.0,291839.0,518.09
+42,Central Vancouver Island,Island,2018,8,1540.0,291839.0,527.69
+42,Central Vancouver Island,Island,2018,9,1536.0,291839.0,526.32
+42,Central Vancouver Island,Island,2018,10,1555.0,291839.0,532.83
+42,Central Vancouver Island,Island,2018,11,1570.0,291839.0,537.97
+42,Central Vancouver Island,Island,2018,12,1537.0,291839.0,526.66
+42,Central Vancouver Island,Island,2019,1,1587.0,296633.0,535.0
+42,Central Vancouver Island,Island,2019,2,1586.0,296633.0,534.67
+42,Central Vancouver Island,Island,2019,3,1635.0,296633.0,551.19
+42,Central Vancouver Island,Island,2019,4,1629.0,296633.0,549.16
+42,Central Vancouver Island,Island,2019,5,1683.0,296633.0,567.37
+42,Central Vancouver Island,Island,2019,6,1683.0,296633.0,567.37
+42,Central Vancouver Island,Island,2019,7,1693.0,296633.0,570.74
+42,Central Vancouver Island,Island,2019,8,1693.0,296633.0,570.74
+42,Central Vancouver Island,Island,2019,9,1697.0,296633.0,572.09
+42,Central Vancouver Island,Island,2019,10,1699.0,296633.0,572.76
+42,Central Vancouver Island,Island,2019,11,1699.0,296633.0,572.76
+42,Central Vancouver Island,Island,2019,12,1721.0,296633.0,580.18
+42,Central Vancouver Island,Island,2020,1,1767.0,300131.0,588.74
+42,Central Vancouver Island,Island,2020,2,1766.0,300131.0,588.41
+42,Central Vancouver Island,Island,2020,3,1805.0,300131.0,601.4
+42,Central Vancouver Island,Island,2020,4,1763.0,300131.0,587.41
+42,Central Vancouver Island,Island,2020,5,1726.0,300131.0,575.08
+42,Central Vancouver Island,Island,2020,6,1727.0,300131.0,575.42
+42,Central Vancouver Island,Island,2020,7,1736.0,300131.0,578.41
+42,Central Vancouver Island,Island,2020,8,1778.0,300131.0,592.41
+42,Central Vancouver Island,Island,2020,9,1782.0,300131.0,593.74
+42,Central Vancouver Island,Island,2020,10,1804.0,300131.0,601.07
+42,Central Vancouver Island,Island,2020,11,1794.0,300131.0,597.74
+42,Central Vancouver Island,Island,2020,12,1830.0,300131.0,609.73
+42,Central Vancouver Island,Island,2021,1,1826.0,303981.0,600.7
+42,Central Vancouver Island,Island,2021,2,1837.0,303981.0,604.31
+42,Central Vancouver Island,Island,2021,3,1859.0,303981.0,611.55
+42,Central Vancouver Island,Island,2021,4,1848.0,303981.0,607.93
+42,Central Vancouver Island,Island,2021,5,1852.0,303981.0,609.25
+42,Central Vancouver Island,Island,2021,6,1877.0,303981.0,617.47
+42,Central Vancouver Island,Island,2021,7,1852.0,303981.0,609.25
+42,Central Vancouver Island,Island,2021,8,1843.0,303981.0,606.29
+42,Central Vancouver Island,Island,2021,9,1921.0,303981.0,631.95
+42,Central Vancouver Island,Island,2021,10,1925.0,303981.0,633.26
+42,Central Vancouver Island,Island,2021,11,1944.0,303981.0,639.51
+42,Central Vancouver Island,Island,2021,12,1963.0,303981.0,645.76
+42,Central Vancouver Island,Island,2022,1,1952.0,309576.0,630.54
+42,Central Vancouver Island,Island,2022,2,1957.0,309576.0,632.15
+42,Central Vancouver Island,Island,2022,3,1995.0,309576.0,644.43
+42,Central Vancouver Island,Island,2022,4,1982.0,309576.0,640.23
+42,Central Vancouver Island,Island,2022,5,1975.0,309576.0,637.97
+42,Central Vancouver Island,Island,2022,6,1981.0,309576.0,639.91
+42,Central Vancouver Island,Island,2022,7,1927.0,309576.0,622.46
+42,Central Vancouver Island,Island,2022,8,1933.0,309576.0,624.4
+42,Central Vancouver Island,Island,2022,9,1951.0,309576.0,630.22
+42,Central Vancouver Island,Island,2022,10,1979.0,309576.0,639.26
+42,Central Vancouver Island,Island,2022,11,1987.0,309576.0,641.85
+42,Central Vancouver Island,Island,2022,12,1997.0,309576.0,645.08
+42,Central Vancouver Island,Island,2023,1,2010.0,313275.0,641.61
+42,Central Vancouver Island,Island,2023,2,1987.0,313275.0,634.27
+42,Central Vancouver Island,Island,2023,3,2043.0,313275.0,652.14
+42,Central Vancouver Island,Island,2023,4,1999.0,313275.0,638.1
+42,Central Vancouver Island,Island,2023,5,1988.0,313275.0,634.59
+42,Central Vancouver Island,Island,2023,6,1965.0,313275.0,627.24
+42,Central Vancouver Island,Island,2023,7,1950.0,313275.0,622.46
+42,Central Vancouver Island,Island,2023,8,1995.0,313275.0,636.82
+42,Central Vancouver Island,Island,2023,9,1949.0,313275.0,622.14
+42,Central Vancouver Island,Island,2023,10,1940.0,313275.0,619.26
+42,Central Vancouver Island,Island,2023,11,1949.0,313275.0,622.14
+42,Central Vancouver Island,Island,2023,12,1921.0,313275.0,613.2
+42,Central Vancouver Island,Island,2024,1,1991.0,317765.0,626.56
+42,Central Vancouver Island,Island,2024,2,1958.0,317765.0,616.18
+42,Central Vancouver Island,Island,2024,3,1982.0,317765.0,623.73
+42,Central Vancouver Island,Island,2024,4,1974.0,317765.0,621.21
+42,Central Vancouver Island,Island,2024,5,1963.0,317765.0,617.75
+42,Central Vancouver Island,Island,2024,6,1938.0,317765.0,609.88
+42,Central Vancouver Island,Island,2024,7,1938.0,317765.0,609.88
+42,Central Vancouver Island,Island,2024,8,1906.0,317765.0,599.81
+42,Central Vancouver Island,Island,2024,9,1904.0,317765.0,599.18
+42,Central Vancouver Island,Island,2024,10,1943.0,317765.0,611.46
+42,Central Vancouver Island,Island,2024,11,1916.0,317765.0,602.96
+42,Central Vancouver Island,Island,2024,12,1919.0,317765.0,603.91
+42,Central Vancouver Island,Island,2025,1,1951.0,320319.0,609.08
+42,Central Vancouver Island,Island,2025,2,1879.0,320319.0,586.6
+42,Central Vancouver Island,Island,2025,3,1883.0,320319.0,587.85
+42,Central Vancouver Island,Island,2025,4,1870.0,320319.0,583.79
+42,Central Vancouver Island,Island,2025,5,1848.0,320319.0,576.92
+42,Central Vancouver Island,Island,2025,6,1857.0,320319.0,579.73
+42,Central Vancouver Island,Island,2025,7,1831.0,320319.0,571.62
+42,Central Vancouver Island,Island,2025,8,1796.0,320319.0,560.69
+42,Central Vancouver Island,Island,2025,9,1787.0,320319.0,557.88
+42,Central Vancouver Island,Island,2025,10,1783.0,320319.0,556.63
+42,Central Vancouver Island,Island,2025,11,1773.0,320319.0,553.51
+42,Central Vancouver Island,Island,2025,12,1798.0,320319.0,561.32
+42,Central Vancouver Island,Island,2026,1,1793.0,316708.0,566.14
+42,Central Vancouver Island,Island,2026,2,1821.0,316708.0,574.98
+42,Central Vancouver Island,Island,2026,3,1800.0,316708.0,568.35
+42,Central Vancouver Island,Island,2026,4,1767.0,316708.0,557.93
+42,Central Vancouver Island,Island,2026,5,1769.0,316708.0,558.56
+42,Central Vancouver Island,Island,2026,6,1798.0,316708.0,567.72
+43,North Vancouver Island,Island,2015,1,421.0,124325.0,338.63
+43,North Vancouver Island,Island,2015,2,423.0,124325.0,340.24
+43,North Vancouver Island,Island,2015,3,432.0,124325.0,347.48
+43,North Vancouver Island,Island,2015,4,426.0,124325.0,342.65
+43,North Vancouver Island,Island,2015,5,428.0,124325.0,344.26
+43,North Vancouver Island,Island,2015,6,438.0,124325.0,352.3
+43,North Vancouver Island,Island,2015,7,442.0,124325.0,355.52
+43,North Vancouver Island,Island,2015,8,438.0,124325.0,352.3
+43,North Vancouver Island,Island,2015,9,449.0,124325.0,361.15
+43,North Vancouver Island,Island,2015,10,451.0,124325.0,362.76
+43,North Vancouver Island,Island,2015,11,449.0,124325.0,361.15
+43,North Vancouver Island,Island,2015,12,458.0,124325.0,368.39
+43,North Vancouver Island,Island,2016,1,462.0,126669.0,364.73
+43,North Vancouver Island,Island,2016,2,474.0,126669.0,374.2
+43,North Vancouver Island,Island,2016,3,479.0,126669.0,378.15
+43,North Vancouver Island,Island,2016,4,476.0,126669.0,375.78
+43,North Vancouver Island,Island,2016,5,480.0,126669.0,378.94
+43,North Vancouver Island,Island,2016,6,492.0,126669.0,388.41
+43,North Vancouver Island,Island,2016,7,506.0,126669.0,399.47
+43,North Vancouver Island,Island,2016,8,506.0,126669.0,399.47
+43,North Vancouver Island,Island,2016,9,518.0,126669.0,408.94
+43,North Vancouver Island,Island,2016,10,525.0,126669.0,414.47
+43,North Vancouver Island,Island,2016,11,536.0,126669.0,423.15
+43,North Vancouver Island,Island,2016,12,532.0,126669.0,419.99
+43,North Vancouver Island,Island,2017,1,551.0,128857.0,427.61
+43,North Vancouver Island,Island,2017,2,560.0,128857.0,434.59
+43,North Vancouver Island,Island,2017,3,573.0,128857.0,444.68
+43,North Vancouver Island,Island,2017,4,561.0,128857.0,435.37
+43,North Vancouver Island,Island,2017,5,600.0,128857.0,465.63
+43,North Vancouver Island,Island,2017,6,617.0,128857.0,478.83
+43,North Vancouver Island,Island,2017,7,614.0,128857.0,476.5
+43,North Vancouver Island,Island,2017,8,621.0,128857.0,481.93
+43,North Vancouver Island,Island,2017,9,638.0,128857.0,495.12
+43,North Vancouver Island,Island,2017,10,659.0,128857.0,511.42
+43,North Vancouver Island,Island,2017,11,663.0,128857.0,514.52
+43,North Vancouver Island,Island,2017,12,635.0,128857.0,492.79
+43,North Vancouver Island,Island,2018,1,680.0,131089.0,518.73
+43,North Vancouver Island,Island,2018,2,695.0,131089.0,530.17
+43,North Vancouver Island,Island,2018,3,701.0,131089.0,534.75
+43,North Vancouver Island,Island,2018,4,718.0,131089.0,547.72
+43,North Vancouver Island,Island,2018,5,701.0,131089.0,534.75
+43,North Vancouver Island,Island,2018,6,716.0,131089.0,546.19
+43,North Vancouver Island,Island,2018,7,716.0,131089.0,546.19
+43,North Vancouver Island,Island,2018,8,734.0,131089.0,559.92
+43,North Vancouver Island,Island,2018,9,734.0,131089.0,559.92
+43,North Vancouver Island,Island,2018,10,742.0,131089.0,566.03
+43,North Vancouver Island,Island,2018,11,751.0,131089.0,572.89
+43,North Vancouver Island,Island,2018,12,748.0,131089.0,570.6
+43,North Vancouver Island,Island,2019,1,790.0,132938.0,594.26
+43,North Vancouver Island,Island,2019,2,764.0,132938.0,574.7
+43,North Vancouver Island,Island,2019,3,783.0,132938.0,589.0
+43,North Vancouver Island,Island,2019,4,788.0,132938.0,592.76
+43,North Vancouver Island,Island,2019,5,794.0,132938.0,597.27
+43,North Vancouver Island,Island,2019,6,785.0,132938.0,590.5
+43,North Vancouver Island,Island,2019,7,814.0,132938.0,612.32
+43,North Vancouver Island,Island,2019,8,820.0,132938.0,616.83
+43,North Vancouver Island,Island,2019,9,821.0,132938.0,617.58
+43,North Vancouver Island,Island,2019,10,821.0,132938.0,617.58
+43,North Vancouver Island,Island,2019,11,813.0,132938.0,611.56
+43,North Vancouver Island,Island,2019,12,802.0,132938.0,603.29
+43,North Vancouver Island,Island,2020,1,820.0,134355.0,610.32
+43,North Vancouver Island,Island,2020,2,803.0,134355.0,597.67
+43,North Vancouver Island,Island,2020,3,824.0,134355.0,613.3
+43,North Vancouver Island,Island,2020,4,799.0,134355.0,594.69
+43,North Vancouver Island,Island,2020,5,797.0,134355.0,593.2
+43,North Vancouver Island,Island,2020,6,799.0,134355.0,594.69
+43,North Vancouver Island,Island,2020,7,803.0,134355.0,597.67
+43,North Vancouver Island,Island,2020,8,793.0,134355.0,590.23
+43,North Vancouver Island,Island,2020,9,822.0,134355.0,611.81
+43,North Vancouver Island,Island,2020,10,842.0,134355.0,626.7
+43,North Vancouver Island,Island,2020,11,852.0,134355.0,634.14
+43,North Vancouver Island,Island,2020,12,853.0,134355.0,634.89
+43,North Vancouver Island,Island,2021,1,860.0,136151.0,631.65
+43,North Vancouver Island,Island,2021,2,864.0,136151.0,634.59
+43,North Vancouver Island,Island,2021,3,867.0,136151.0,636.79
+43,North Vancouver Island,Island,2021,4,854.0,136151.0,627.24
+43,North Vancouver Island,Island,2021,5,850.0,136151.0,624.31
+43,North Vancouver Island,Island,2021,6,863.0,136151.0,633.86
+43,North Vancouver Island,Island,2021,7,867.0,136151.0,636.79
+43,North Vancouver Island,Island,2021,8,869.0,136151.0,638.26
+43,North Vancouver Island,Island,2021,9,848.0,136151.0,622.84
+43,North Vancouver Island,Island,2021,10,852.0,136151.0,625.78
+43,North Vancouver Island,Island,2021,11,874.0,136151.0,641.93
+43,North Vancouver Island,Island,2021,12,867.0,136151.0,636.79
+43,North Vancouver Island,Island,2022,1,876.0,138794.0,631.15
+43,North Vancouver Island,Island,2022,2,863.0,138794.0,621.78
+43,North Vancouver Island,Island,2022,3,878.0,138794.0,632.59
+43,North Vancouver Island,Island,2022,4,875.0,138794.0,630.43
+43,North Vancouver Island,Island,2022,5,872.0,138794.0,628.27
+43,North Vancouver Island,Island,2022,6,852.0,138794.0,613.86
+43,North Vancouver Island,Island,2022,7,863.0,138794.0,621.78
+43,North Vancouver Island,Island,2022,8,857.0,138794.0,617.46
+43,North Vancouver Island,Island,2022,9,847.0,138794.0,610.26
+43,North Vancouver Island,Island,2022,10,856.0,138794.0,616.74
+43,North Vancouver Island,Island,2022,11,857.0,138794.0,617.46
+43,North Vancouver Island,Island,2022,12,869.0,138794.0,626.11
+43,North Vancouver Island,Island,2023,1,876.0,140404.0,623.91
+43,North Vancouver Island,Island,2023,2,873.0,140404.0,621.78
+43,North Vancouver Island,Island,2023,3,908.0,140404.0,646.71
+43,North Vancouver Island,Island,2023,4,840.0,140404.0,598.27
+43,North Vancouver Island,Island,2023,5,850.0,140404.0,605.4
+43,North Vancouver Island,Island,2023,6,865.0,140404.0,616.08
+43,North Vancouver Island,Island,2023,7,844.0,140404.0,601.12
+43,North Vancouver Island,Island,2023,8,870.0,140404.0,619.64
+43,North Vancouver Island,Island,2023,9,858.0,140404.0,611.09
+43,North Vancouver Island,Island,2023,10,869.0,140404.0,618.93
+43,North Vancouver Island,Island,2023,11,864.0,140404.0,615.37
+43,North Vancouver Island,Island,2023,12,875.0,140404.0,623.2
+43,North Vancouver Island,Island,2024,1,903.0,142264.0,634.74
+43,North Vancouver Island,Island,2024,2,885.0,142264.0,622.08
+43,North Vancouver Island,Island,2024,3,901.0,142264.0,633.33
+43,North Vancouver Island,Island,2024,4,891.0,142264.0,626.3
+43,North Vancouver Island,Island,2024,5,884.0,142264.0,621.38
+43,North Vancouver Island,Island,2024,6,859.0,142264.0,603.81
+43,North Vancouver Island,Island,2024,7,851.0,142264.0,598.18
+43,North Vancouver Island,Island,2024,8,871.0,142264.0,612.24
+43,North Vancouver Island,Island,2024,9,832.0,142264.0,584.83
+43,North Vancouver Island,Island,2024,10,855.0,142264.0,601.0
+43,North Vancouver Island,Island,2024,11,845.0,142264.0,593.97
+43,North Vancouver Island,Island,2024,12,813.0,142264.0,571.47
+43,North Vancouver Island,Island,2025,1,852.0,143305.0,594.54
+43,North Vancouver Island,Island,2025,2,853.0,143305.0,595.23
+43,North Vancouver Island,Island,2025,3,858.0,143305.0,598.72
+43,North Vancouver Island,Island,2025,4,854.0,143305.0,595.93
+43,North Vancouver Island,Island,2025,5,849.0,143305.0,592.44
+43,North Vancouver Island,Island,2025,6,835.0,143305.0,582.67
+43,North Vancouver Island,Island,2025,7,829.0,143305.0,578.49
+43,North Vancouver Island,Island,2025,8,841.0,143305.0,586.86
+43,North Vancouver Island,Island,2025,9,836.0,143305.0,583.37
+43,North Vancouver Island,Island,2025,10,842.0,143305.0,587.56
+43,North Vancouver Island,Island,2025,11,838.0,143305.0,584.77
+43,North Vancouver Island,Island,2025,12,829.0,143305.0,578.49
+43,North Vancouver Island,Island,2026,1,828.0,141350.0,585.78
+43,North Vancouver Island,Island,2026,2,835.0,141350.0,590.73
+43,North Vancouver Island,Island,2026,3,842.0,141350.0,595.68
+43,North Vancouver Island,Island,2026,4,837.0,141350.0,592.15
+43,North Vancouver Island,Island,2026,5,838.0,141350.0,592.85
+43,North Vancouver Island,Island,2026,6,850.0,141350.0,601.34
+51,Northwest,Northern,2015,1,58.0,74412.0,77.94
+51,Northwest,Northern,2015,2,67.0,74412.0,90.04
+51,Northwest,Northern,2015,3,63.0,74412.0,84.66
+51,Northwest,Northern,2015,4,57.0,74412.0,76.6
+51,Northwest,Northern,2015,5,61.0,74412.0,81.98
+51,Northwest,Northern,2015,6,64.0,74412.0,86.01
+51,Northwest,Northern,2015,7,64.0,74412.0,86.01
+51,Northwest,Northern,2015,8,65.0,74412.0,87.35
+51,Northwest,Northern,2015,9,66.0,74412.0,88.7
+51,Northwest,Northern,2015,10,74.0,74412.0,99.45
+51,Northwest,Northern,2015,11,81.0,74412.0,108.85
+51,Northwest,Northern,2015,12,77.0,74412.0,103.48
+51,Northwest,Northern,2016,1,84.0,74543.0,112.69
+51,Northwest,Northern,2016,2,87.0,74543.0,116.71
+51,Northwest,Northern,2016,3,88.0,74543.0,118.05
+51,Northwest,Northern,2016,4,89.0,74543.0,119.39
+51,Northwest,Northern,2016,5,93.0,74543.0,124.76
+51,Northwest,Northern,2016,6,97.0,74543.0,130.13
+51,Northwest,Northern,2016,7,99.0,74543.0,132.81
+51,Northwest,Northern,2016,8,112.0,74543.0,150.25
+51,Northwest,Northern,2016,9,115.0,74543.0,154.27
+51,Northwest,Northern,2016,10,111.0,74543.0,148.91
+51,Northwest,Northern,2016,11,118.0,74543.0,158.3
+51,Northwest,Northern,2016,12,129.0,74543.0,173.05
+51,Northwest,Northern,2017,1,126.0,74443.0,169.26
+51,Northwest,Northern,2017,2,144.0,74443.0,193.44
+51,Northwest,Northern,2017,3,142.0,74443.0,190.75
+51,Northwest,Northern,2017,4,141.0,74443.0,189.41
+51,Northwest,Northern,2017,5,144.0,74443.0,193.44
+51,Northwest,Northern,2017,6,135.0,74443.0,181.35
+51,Northwest,Northern,2017,7,138.0,74443.0,185.38
+51,Northwest,Northern,2017,8,134.0,74443.0,180.0
+51,Northwest,Northern,2017,9,139.0,74443.0,186.72
+51,Northwest,Northern,2017,10,134.0,74443.0,180.0
+51,Northwest,Northern,2017,11,144.0,74443.0,193.44
+51,Northwest,Northern,2017,12,151.0,74443.0,202.84
+51,Northwest,Northern,2018,1,151.0,74531.0,202.6
+51,Northwest,Northern,2018,2,156.0,74531.0,209.31
+51,Northwest,Northern,2018,3,150.0,74531.0,201.26
+51,Northwest,Northern,2018,4,154.0,74531.0,206.63
+51,Northwest,Northern,2018,5,160.0,74531.0,214.68
+51,Northwest,Northern,2018,6,164.0,74531.0,220.04
+51,Northwest,Northern,2018,7,170.0,74531.0,228.09
+51,Northwest,Northern,2018,8,172.0,74531.0,230.78
+51,Northwest,Northern,2018,9,164.0,74531.0,220.04
+51,Northwest,Northern,2018,10,183.0,74531.0,245.54
+51,Northwest,Northern,2018,11,175.0,74531.0,234.8
+51,Northwest,Northern,2018,12,181.0,74531.0,242.85
+51,Northwest,Northern,2019,1,195.0,74832.0,260.58
+51,Northwest,Northern,2019,2,189.0,74832.0,252.57
+51,Northwest,Northern,2019,3,185.0,74832.0,247.22
+51,Northwest,Northern,2019,4,189.0,74832.0,252.57
+51,Northwest,Northern,2019,5,197.0,74832.0,263.26
+51,Northwest,Northern,2019,6,193.0,74832.0,257.91
+51,Northwest,Northern,2019,7,186.0,74832.0,248.56
+51,Northwest,Northern,2019,8,188.0,74832.0,251.23
+51,Northwest,Northern,2019,9,183.0,74832.0,244.55
+51,Northwest,Northern,2019,10,190.0,74832.0,253.9
+51,Northwest,Northern,2019,11,192.0,74832.0,256.57
+51,Northwest,Northern,2019,12,193.0,74832.0,257.91
+51,Northwest,Northern,2020,1,203.0,75291.0,269.62
+51,Northwest,Northern,2020,2,216.0,75291.0,286.89
+51,Northwest,Northern,2020,3,225.0,75291.0,298.84
+51,Northwest,Northern,2020,4,205.0,75291.0,272.28
+51,Northwest,Northern,2020,5,202.0,75291.0,268.29
+51,Northwest,Northern,2020,6,205.0,75291.0,272.28
+51,Northwest,Northern,2020,7,218.0,75291.0,289.54
+51,Northwest,Northern,2020,8,225.0,75291.0,298.84
+51,Northwest,Northern,2020,9,226.0,75291.0,300.17
+51,Northwest,Northern,2020,10,238.0,75291.0,316.11
+51,Northwest,Northern,2020,11,240.0,75291.0,318.76
+51,Northwest,Northern,2020,12,235.0,75291.0,312.12
+51,Northwest,Northern,2021,1,243.0,75892.0,320.19
+51,Northwest,Northern,2021,2,239.0,75892.0,314.92
+51,Northwest,Northern,2021,3,230.0,75892.0,303.06
+51,Northwest,Northern,2021,4,237.0,75892.0,312.29
+51,Northwest,Northern,2021,5,241.0,75892.0,317.56
+51,Northwest,Northern,2021,6,228.0,75892.0,300.43
+51,Northwest,Northern,2021,7,238.0,75892.0,313.6
+51,Northwest,Northern,2021,8,239.0,75892.0,314.92
+51,Northwest,Northern,2021,9,233.0,75892.0,307.02
+51,Northwest,Northern,2021,10,238.0,75892.0,313.6
+51,Northwest,Northern,2021,11,252.0,75892.0,332.05
+51,Northwest,Northern,2021,12,261.0,75892.0,343.91
+51,Northwest,Northern,2022,1,263.0,76244.0,344.95
+51,Northwest,Northern,2022,2,260.0,76244.0,341.01
+51,Northwest,Northern,2022,3,279.0,76244.0,365.93
+51,Northwest,Northern,2022,4,282.0,76244.0,369.87
+51,Northwest,Northern,2022,5,275.0,76244.0,360.68
+51,Northwest,Northern,2022,6,283.0,76244.0,371.18
+51,Northwest,Northern,2022,7,279.0,76244.0,365.93
+51,Northwest,Northern,2022,8,276.0,76244.0,362.0
+51,Northwest,Northern,2022,9,274.0,76244.0,359.37
+51,Northwest,Northern,2022,10,288.0,76244.0,377.73
+51,Northwest,Northern,2022,11,285.0,76244.0,373.8
+51,Northwest,Northern,2022,12,279.0,76244.0,365.93
+51,Northwest,Northern,2023,1,295.0,77077.0,382.73
+51,Northwest,Northern,2023,2,279.0,77077.0,361.98
+51,Northwest,Northern,2023,3,297.0,77077.0,385.33
+51,Northwest,Northern,2023,4,285.0,77077.0,369.76
+51,Northwest,Northern,2023,5,297.0,77077.0,385.33
+51,Northwest,Northern,2023,6,289.0,77077.0,374.95
+51,Northwest,Northern,2023,7,280.0,77077.0,363.27
+51,Northwest,Northern,2023,8,289.0,77077.0,374.95
+51,Northwest,Northern,2023,9,290.0,77077.0,376.25
+51,Northwest,Northern,2023,10,302.0,77077.0,391.82
+51,Northwest,Northern,2023,11,303.0,77077.0,393.11
+51,Northwest,Northern,2023,12,290.0,77077.0,376.25
+51,Northwest,Northern,2024,1,301.0,78016.0,385.82
+51,Northwest,Northern,2024,2,296.0,78016.0,379.41
+51,Northwest,Northern,2024,3,294.0,78016.0,376.85
+51,Northwest,Northern,2024,4,277.0,78016.0,355.06
+51,Northwest,Northern,2024,5,287.0,78016.0,367.87
+51,Northwest,Northern,2024,6,278.0,78016.0,356.34
+51,Northwest,Northern,2024,7,274.0,78016.0,351.21
+51,Northwest,Northern,2024,8,275.0,78016.0,352.49
+51,Northwest,Northern,2024,9,263.0,78016.0,337.11
+51,Northwest,Northern,2024,10,269.0,78016.0,344.8
+51,Northwest,Northern,2024,11,297.0,78016.0,380.69
+51,Northwest,Northern,2024,12,288.0,78016.0,369.16
+51,Northwest,Northern,2025,1,287.0,78891.0,363.79
+51,Northwest,Northern,2025,2,296.0,78891.0,375.2
+51,Northwest,Northern,2025,3,280.0,78891.0,354.92
+51,Northwest,Northern,2025,4,274.0,78891.0,347.31
+51,Northwest,Northern,2025,5,269.0,78891.0,340.98
+51,Northwest,Northern,2025,6,285.0,78891.0,361.26
+51,Northwest,Northern,2025,7,264.0,78891.0,334.64
+51,Northwest,Northern,2025,8,242.0,78891.0,306.75
+51,Northwest,Northern,2025,9,265.0,78891.0,335.91
+51,Northwest,Northern,2025,10,270.0,78891.0,342.24
+51,Northwest,Northern,2025,11,259.0,78891.0,328.3
+51,Northwest,Northern,2025,12,273.0,78891.0,346.05
+51,Northwest,Northern,2026,1,286.0,78019.0,366.58
+51,Northwest,Northern,2026,2,274.0,78019.0,351.2
+51,Northwest,Northern,2026,3,282.0,78019.0,361.45
+51,Northwest,Northern,2026,4,278.0,78019.0,356.32
+51,Northwest,Northern,2026,5,259.0,78019.0,331.97
+51,Northwest,Northern,2026,6,272.0,78019.0,348.63
+52,Northern Interior,Northern,2015,1,235.0,144853.0,162.23
+52,Northern Interior,Northern,2015,2,242.0,144853.0,167.07
+52,Northern Interior,Northern,2015,3,254.0,144853.0,175.35
+52,Northern Interior,Northern,2015,4,263.0,144853.0,181.56
+52,Northern Interior,Northern,2015,5,260.0,144853.0,179.49
+52,Northern Interior,Northern,2015,6,256.0,144853.0,176.73
+52,Northern Interior,Northern,2015,7,257.0,144853.0,177.42
+52,Northern Interior,Northern,2015,8,258.0,144853.0,178.11
+52,Northern Interior,Northern,2015,9,260.0,144853.0,179.49
+52,Northern Interior,Northern,2015,10,258.0,144853.0,178.11
+52,Northern Interior,Northern,2015,11,257.0,144853.0,177.42
+52,Northern Interior,Northern,2015,12,262.0,144853.0,180.87
+52,Northern Interior,Northern,2016,1,268.0,146550.0,182.87
+52,Northern Interior,Northern,2016,2,269.0,146550.0,183.56
+52,Northern Interior,Northern,2016,3,274.0,146550.0,186.97
+52,Northern Interior,Northern,2016,4,290.0,146550.0,197.88
+52,Northern Interior,Northern,2016,5,289.0,146550.0,197.2
+52,Northern Interior,Northern,2016,6,287.0,146550.0,195.84
+52,Northern Interior,Northern,2016,7,297.0,146550.0,202.66
+52,Northern Interior,Northern,2016,8,302.0,146550.0,206.07
+52,Northern Interior,Northern,2016,9,328.0,146550.0,223.81
+52,Northern Interior,Northern,2016,10,342.0,146550.0,233.37
+52,Northern Interior,Northern,2016,11,349.0,146550.0,238.14
+52,Northern Interior,Northern,2016,12,359.0,146550.0,244.97
+52,Northern Interior,Northern,2017,1,374.0,147202.0,254.07
+52,Northern Interior,Northern,2017,2,373.0,147202.0,253.39
+52,Northern Interior,Northern,2017,3,405.0,147202.0,275.13
+52,Northern Interior,Northern,2017,4,381.0,147202.0,258.83
+52,Northern Interior,Northern,2017,5,380.0,147202.0,258.15
+52,Northern Interior,Northern,2017,6,397.0,147202.0,269.7
+52,Northern Interior,Northern,2017,7,393.0,147202.0,266.98
+52,Northern Interior,Northern,2017,8,384.0,147202.0,260.87
+52,Northern Interior,Northern,2017,9,392.0,147202.0,266.3
+52,Northern Interior,Northern,2017,10,392.0,147202.0,266.3
+52,Northern Interior,Northern,2017,11,400.0,147202.0,271.74
+52,Northern Interior,Northern,2017,12,422.0,147202.0,286.68
+52,Northern Interior,Northern,2018,1,433.0,148466.0,291.65
+52,Northern Interior,Northern,2018,2,445.0,148466.0,299.73
+52,Northern Interior,Northern,2018,3,468.0,148466.0,315.22
+52,Northern Interior,Northern,2018,4,459.0,148466.0,309.16
+52,Northern Interior,Northern,2018,5,496.0,148466.0,334.08
+52,Northern Interior,Northern,2018,6,486.0,148466.0,327.35
+52,Northern Interior,Northern,2018,7,491.0,148466.0,330.72
+52,Northern Interior,Northern,2018,8,496.0,148466.0,334.08
+52,Northern Interior,Northern,2018,9,492.0,148466.0,331.39
+52,Northern Interior,Northern,2018,10,501.0,148466.0,337.45
+52,Northern Interior,Northern,2018,11,514.0,148466.0,346.21
+52,Northern Interior,Northern,2018,12,508.0,148466.0,342.17
+52,Northern Interior,Northern,2019,1,500.0,149055.0,335.45
+52,Northern Interior,Northern,2019,2,503.0,149055.0,337.46
+52,Northern Interior,Northern,2019,3,502.0,149055.0,336.79
+52,Northern Interior,Northern,2019,4,512.0,149055.0,343.5
+52,Northern Interior,Northern,2019,5,526.0,149055.0,352.89
+52,Northern Interior,Northern,2019,6,536.0,149055.0,359.6
+52,Northern Interior,Northern,2019,7,525.0,149055.0,352.22
+52,Northern Interior,Northern,2019,8,550.0,149055.0,368.99
+52,Northern Interior,Northern,2019,9,576.0,149055.0,386.43
+52,Northern Interior,Northern,2019,10,580.0,149055.0,389.12
+52,Northern Interior,Northern,2019,11,555.0,149055.0,372.35
+52,Northern Interior,Northern,2019,12,572.0,149055.0,383.75
+52,Northern Interior,Northern,2020,1,591.0,148893.0,396.93
+52,Northern Interior,Northern,2020,2,607.0,148893.0,407.68
+52,Northern Interior,Northern,2020,3,632.0,148893.0,424.47
+52,Northern Interior,Northern,2020,4,621.0,148893.0,417.08
+52,Northern Interior,Northern,2020,5,595.0,148893.0,399.62
+52,Northern Interior,Northern,2020,6,615.0,148893.0,413.05
+52,Northern Interior,Northern,2020,7,595.0,148893.0,399.62
+52,Northern Interior,Northern,2020,8,582.0,148893.0,390.88
+52,Northern Interior,Northern,2020,9,617.0,148893.0,414.39
+52,Northern Interior,Northern,2020,10,642.0,148893.0,431.18
+52,Northern Interior,Northern,2020,11,644.0,148893.0,432.53
+52,Northern Interior,Northern,2020,12,652.0,148893.0,437.9
+52,Northern Interior,Northern,2021,1,644.0,148190.0,434.58
+52,Northern Interior,Northern,2021,2,657.0,148190.0,443.35
+52,Northern Interior,Northern,2021,3,667.0,148190.0,450.1
+52,Northern Interior,Northern,2021,4,620.0,148190.0,418.38
+52,Northern Interior,Northern,2021,5,645.0,148190.0,435.25
+52,Northern Interior,Northern,2021,6,628.0,148190.0,423.78
+52,Northern Interior,Northern,2021,7,641.0,148190.0,432.55
+52,Northern Interior,Northern,2021,8,639.0,148190.0,431.2
+52,Northern Interior,Northern,2021,9,631.0,148190.0,425.8
+52,Northern Interior,Northern,2021,10,632.0,148190.0,426.48
+52,Northern Interior,Northern,2021,11,630.0,148190.0,425.13
+52,Northern Interior,Northern,2021,12,643.0,148190.0,433.9
+52,Northern Interior,Northern,2022,1,666.0,149287.0,446.12
+52,Northern Interior,Northern,2022,2,641.0,149287.0,429.37
+52,Northern Interior,Northern,2022,3,648.0,149287.0,434.06
+52,Northern Interior,Northern,2022,4,660.0,149287.0,442.1
+52,Northern Interior,Northern,2022,5,676.0,149287.0,452.82
+52,Northern Interior,Northern,2022,6,659.0,149287.0,441.43
+52,Northern Interior,Northern,2022,7,637.0,149287.0,426.69
+52,Northern Interior,Northern,2022,8,644.0,149287.0,431.38
+52,Northern Interior,Northern,2022,9,655.0,149287.0,438.75
+52,Northern Interior,Northern,2022,10,651.0,149287.0,436.07
+52,Northern Interior,Northern,2022,11,673.0,149287.0,450.81
+52,Northern Interior,Northern,2022,12,664.0,149287.0,444.78
+52,Northern Interior,Northern,2023,1,689.0,151386.0,455.13
+52,Northern Interior,Northern,2023,2,683.0,151386.0,451.16
+52,Northern Interior,Northern,2023,3,705.0,151386.0,465.7
+52,Northern Interior,Northern,2023,4,663.0,151386.0,437.95
+52,Northern Interior,Northern,2023,5,682.0,151386.0,450.5
+52,Northern Interior,Northern,2023,6,673.0,151386.0,444.56
+52,Northern Interior,Northern,2023,7,650.0,151386.0,429.37
+52,Northern Interior,Northern,2023,8,664.0,151386.0,438.61
+52,Northern Interior,Northern,2023,9,632.0,151386.0,417.48
+52,Northern Interior,Northern,2023,10,677.0,151386.0,447.2
+52,Northern Interior,Northern,2023,11,726.0,151386.0,479.57
+52,Northern Interior,Northern,2023,12,690.0,151386.0,455.79
+52,Northern Interior,Northern,2024,1,733.0,153704.0,476.89
+52,Northern Interior,Northern,2024,2,748.0,153704.0,486.65
+52,Northern Interior,Northern,2024,3,747.0,153704.0,486.0
+52,Northern Interior,Northern,2024,4,750.0,153704.0,487.95
+52,Northern Interior,Northern,2024,5,748.0,153704.0,486.65
+52,Northern Interior,Northern,2024,6,747.0,153704.0,486.0
+52,Northern Interior,Northern,2024,7,728.0,153704.0,473.64
+52,Northern Interior,Northern,2024,8,715.0,153704.0,465.18
+52,Northern Interior,Northern,2024,9,707.0,153704.0,459.98
+52,Northern Interior,Northern,2024,10,716.0,153704.0,465.83
+52,Northern Interior,Northern,2024,11,705.0,153704.0,458.67
+52,Northern Interior,Northern,2024,12,715.0,153704.0,465.18
+52,Northern Interior,Northern,2025,1,737.0,154907.0,475.77
+52,Northern Interior,Northern,2025,2,716.0,154907.0,462.21
+52,Northern Interior,Northern,2025,3,707.0,154907.0,456.4
+52,Northern Interior,Northern,2025,4,722.0,154907.0,466.09
+52,Northern Interior,Northern,2025,5,720.0,154907.0,464.8
+52,Northern Interior,Northern,2025,6,694.0,154907.0,448.01
+52,Northern Interior,Northern,2025,7,699.0,154907.0,451.24
+52,Northern Interior,Northern,2025,8,689.0,154907.0,444.78
+52,Northern Interior,Northern,2025,9,711.0,154907.0,458.99
+52,Northern Interior,Northern,2025,10,723.0,154907.0,466.73
+52,Northern Interior,Northern,2025,11,705.0,154907.0,455.11
+52,Northern Interior,Northern,2025,12,725.0,154907.0,468.02
+52,Northern Interior,Northern,2026,1,698.0,152124.0,458.84
+52,Northern Interior,Northern,2026,2,682.0,152124.0,448.32
+52,Northern Interior,Northern,2026,3,687.0,152124.0,451.61
+52,Northern Interior,Northern,2026,4,679.0,152124.0,446.35
+52,Northern Interior,Northern,2026,5,681.0,152124.0,447.66
+52,Northern Interior,Northern,2026,6,666.0,152124.0,437.8
+53,Northeast,Northern,2015,1,88.0,70959.0,124.02
+53,Northeast,Northern,2015,2,84.0,70959.0,118.38
+53,Northeast,Northern,2015,3,89.0,70959.0,125.42
+53,Northeast,Northern,2015,4,89.0,70959.0,125.42
+53,Northeast,Northern,2015,5,94.0,70959.0,132.47
+53,Northeast,Northern,2015,6,89.0,70959.0,125.42
+53,Northeast,Northern,2015,7,73.0,70959.0,102.88
+53,Northeast,Northern,2015,8,71.0,70959.0,100.06
+53,Northeast,Northern,2015,9,64.0,70959.0,90.19
+53,Northeast,Northern,2015,10,66.0,70959.0,93.01
+53,Northeast,Northern,2015,11,66.0,70959.0,93.01
+53,Northeast,Northern,2015,12,67.0,70959.0,94.42
+53,Northeast,Northern,2016,1,66.0,70921.0,93.06
+53,Northeast,Northern,2016,2,69.0,70921.0,97.29
+53,Northeast,Northern,2016,3,69.0,70921.0,97.29
+53,Northeast,Northern,2016,4,61.0,70921.0,86.01
+53,Northeast,Northern,2016,5,64.0,70921.0,90.24
+53,Northeast,Northern,2016,6,67.0,70921.0,94.47
+53,Northeast,Northern,2016,7,72.0,70921.0,101.52
+53,Northeast,Northern,2016,8,71.0,70921.0,100.11
+53,Northeast,Northern,2016,9,76.0,70921.0,107.16
+53,Northeast,Northern,2016,10,79.0,70921.0,111.39
+53,Northeast,Northern,2016,11,83.0,70921.0,117.03
+53,Northeast,Northern,2016,12,86.0,70921.0,121.26
+53,Northeast,Northern,2017,1,89.0,70325.0,126.56
+53,Northeast,Northern,2017,2,94.0,70325.0,133.67
+53,Northeast,Northern,2017,3,94.0,70325.0,133.67
+53,Northeast,Northern,2017,4,93.0,70325.0,132.24
+53,Northeast,Northern,2017,5,95.0,70325.0,135.09
+53,Northeast,Northern,2017,6,95.0,70325.0,135.09
+53,Northeast,Northern,2017,7,101.0,70325.0,143.62
+53,Northeast,Northern,2017,8,99.0,70325.0,140.77
+53,Northeast,Northern,2017,9,103.0,70325.0,146.46
+53,Northeast,Northern,2017,10,115.0,70325.0,163.53
+53,Northeast,Northern,2017,11,125.0,70325.0,177.75
+53,Northeast,Northern,2017,12,117.0,70325.0,166.37
+53,Northeast,Northern,2018,1,126.0,70168.0,179.57
+53,Northeast,Northern,2018,2,130.0,70168.0,185.27
+53,Northeast,Northern,2018,3,136.0,70168.0,193.82
+53,Northeast,Northern,2018,4,143.0,70168.0,203.8
+53,Northeast,Northern,2018,5,141.0,70168.0,200.95
+53,Northeast,Northern,2018,6,130.0,70168.0,185.27
+53,Northeast,Northern,2018,7,133.0,70168.0,189.55
+53,Northeast,Northern,2018,8,134.0,70168.0,190.97
+53,Northeast,Northern,2018,9,128.0,70168.0,182.42
+53,Northeast,Northern,2018,10,127.0,70168.0,180.99
+53,Northeast,Northern,2018,11,128.0,70168.0,182.42
+53,Northeast,Northern,2018,12,135.0,70168.0,192.4
+53,Northeast,Northern,2019,1,142.0,69946.0,203.01
+53,Northeast,Northern,2019,2,146.0,69946.0,208.73
+53,Northeast,Northern,2019,3,146.0,69946.0,208.73
+53,Northeast,Northern,2019,4,146.0,69946.0,208.73
+53,Northeast,Northern,2019,5,138.0,69946.0,197.3
+53,Northeast,Northern,2019,6,143.0,69946.0,204.44
+53,Northeast,Northern,2019,7,145.0,69946.0,207.3
+53,Northeast,Northern,2019,8,141.0,69946.0,201.58
+53,Northeast,Northern,2019,9,138.0,69946.0,197.3
+53,Northeast,Northern,2019,10,145.0,69946.0,207.3
+53,Northeast,Northern,2019,11,146.0,69946.0,208.73
+53,Northeast,Northern,2019,12,153.0,69946.0,218.74
+53,Northeast,Northern,2020,1,156.0,69305.0,225.09
+53,Northeast,Northern,2020,2,159.0,69305.0,229.42
+53,Northeast,Northern,2020,3,159.0,69305.0,229.42
+53,Northeast,Northern,2020,4,148.0,69305.0,213.55
+53,Northeast,Northern,2020,5,149.0,69305.0,214.99
+53,Northeast,Northern,2020,6,150.0,69305.0,216.43
+53,Northeast,Northern,2020,7,148.0,69305.0,213.55
+53,Northeast,Northern,2020,8,147.0,69305.0,212.11
+53,Northeast,Northern,2020,9,154.0,69305.0,222.21
+53,Northeast,Northern,2020,10,162.0,69305.0,233.75
+53,Northeast,Northern,2020,11,158.0,69305.0,227.98
+53,Northeast,Northern,2020,12,159.0,69305.0,229.42
+53,Northeast,Northern,2021,1,154.0,68899.0,223.52
+53,Northeast,Northern,2021,2,167.0,68899.0,242.38
+53,Northeast,Northern,2021,3,171.0,68899.0,248.19
+53,Northeast,Northern,2021,4,185.0,68899.0,268.51
+53,Northeast,Northern,2021,5,168.0,68899.0,243.84
+53,Northeast,Northern,2021,6,165.0,68899.0,239.48
+53,Northeast,Northern,2021,7,161.0,68899.0,233.68
+53,Northeast,Northern,2021,8,160.0,68899.0,232.22
+53,Northeast,Northern,2021,9,155.0,68899.0,224.97
+53,Northeast,Northern,2021,10,151.0,68899.0,219.16
+53,Northeast,Northern,2021,11,155.0,68899.0,224.97
+53,Northeast,Northern,2021,12,156.0,68899.0,226.42
+53,Northeast,Northern,2022,1,164.0,69334.0,236.54
+53,Northeast,Northern,2022,2,169.0,69334.0,243.75
+53,Northeast,Northern,2022,3,178.0,69334.0,256.73
+53,Northeast,Northern,2022,4,158.0,69334.0,227.88
+53,Northeast,Northern,2022,5,168.0,69334.0,242.31
+53,Northeast,Northern,2022,6,167.0,69334.0,240.86
+53,Northeast,Northern,2022,7,162.0,69334.0,233.65
+53,Northeast,Northern,2022,8,176.0,69334.0,253.84
+53,Northeast,Northern,2022,9,169.0,69334.0,243.75
+53,Northeast,Northern,2022,10,178.0,69334.0,256.73
+53,Northeast,Northern,2022,11,175.0,69334.0,252.4
+53,Northeast,Northern,2022,12,177.0,69334.0,255.29
+53,Northeast,Northern,2023,1,183.0,70274.0,260.41
+53,Northeast,Northern,2023,2,179.0,70274.0,254.72
+53,Northeast,Northern,2023,3,192.0,70274.0,273.22
+53,Northeast,Northern,2023,4,189.0,70274.0,268.95
+53,Northeast,Northern,2023,5,180.0,70274.0,256.14
+53,Northeast,Northern,2023,6,181.0,70274.0,257.56
+53,Northeast,Northern,2023,7,181.0,70274.0,257.56
+53,Northeast,Northern,2023,8,185.0,70274.0,263.26
+53,Northeast,Northern,2023,9,188.0,70274.0,267.52
+53,Northeast,Northern,2023,10,181.0,70274.0,257.56
+53,Northeast,Northern,2023,11,182.0,70274.0,258.99
+53,Northeast,Northern,2023,12,181.0,70274.0,257.56
+53,Northeast,Northern,2024,1,192.0,71657.0,267.94
+53,Northeast,Northern,2024,2,184.0,71657.0,256.78
+53,Northeast,Northern,2024,3,183.0,71657.0,255.38
+53,Northeast,Northern,2024,4,182.0,71657.0,253.99
+53,Northeast,Northern,2024,5,189.0,71657.0,263.76
+53,Northeast,Northern,2024,6,188.0,71657.0,262.36
+53,Northeast,Northern,2024,7,186.0,71657.0,259.57
+53,Northeast,Northern,2024,8,180.0,71657.0,251.2
+53,Northeast,Northern,2024,9,176.0,71657.0,245.61
+53,Northeast,Northern,2024,10,170.0,71657.0,237.24
+53,Northeast,Northern,2024,11,154.0,71657.0,214.91
+53,Northeast,Northern,2024,12,167.0,71657.0,233.05
+53,Northeast,Northern,2025,1,166.0,72192.0,229.94
+53,Northeast,Northern,2025,2,163.0,72192.0,225.79
+53,Northeast,Northern,2025,3,168.0,72192.0,232.71
+53,Northeast,Northern,2025,4,172.0,72192.0,238.25
+53,Northeast,Northern,2025,5,167.0,72192.0,231.33
+53,Northeast,Northern,2025,6,175.0,72192.0,242.41
+53,Northeast,Northern,2025,7,181.0,72192.0,250.72
+53,Northeast,Northern,2025,8,179.0,72192.0,247.95
+53,Northeast,Northern,2025,9,192.0,72192.0,265.96
+53,Northeast,Northern,2025,10,187.0,72192.0,259.03
+53,Northeast,Northern,2025,11,180.0,72192.0,249.34
+53,Northeast,Northern,2025,12,170.0,72192.0,235.48
+53,Northeast,Northern,2026,1,172.0,70999.0,242.26
+53,Northeast,Northern,2026,2,168.0,70999.0,236.62
+53,Northeast,Northern,2026,3,175.0,70999.0,246.48
+53,Northeast,Northern,2026,4,167.0,70999.0,235.21
+53,Northeast,Northern,2026,5,176.0,70999.0,247.89
+53,Northeast,Northern,2026,6,164.0,70999.0,230.99

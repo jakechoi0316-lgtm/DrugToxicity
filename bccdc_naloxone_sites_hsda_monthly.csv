@@ -1,0 +1,2225 @@
+hsda_code,hsda,health_authority,year,month,program,total_sites,new_sites,kits_shipped
+11,East Kootenay,Interior,2015,1,Take Home Naloxone,3,0,8.0
+11,East Kootenay,Interior,2015,2,Take Home Naloxone,3,0,0.0
+11,East Kootenay,Interior,2015,3,Take Home Naloxone,3,0,0.0
+11,East Kootenay,Interior,2015,4,Take Home Naloxone,3,0,0.0
+11,East Kootenay,Interior,2015,5,Take Home Naloxone,3,0,5.0
+11,East Kootenay,Interior,2015,6,Take Home Naloxone,3,0,0.0
+11,East Kootenay,Interior,2015,7,Take Home Naloxone,3,0,110.0
+11,East Kootenay,Interior,2015,8,Take Home Naloxone,3,0,0.0
+11,East Kootenay,Interior,2015,9,Take Home Naloxone,3,0,0.0
+11,East Kootenay,Interior,2015,10,Take Home Naloxone,3,0,0.0
+11,East Kootenay,Interior,2015,11,Take Home Naloxone,3,0,0.0
+11,East Kootenay,Interior,2015,12,Take Home Naloxone,3,0,0.0
+11,East Kootenay,Interior,2016,1,Take Home Naloxone,5,2,20.0
+11,East Kootenay,Interior,2016,2,Take Home Naloxone,6,1,10.0
+11,East Kootenay,Interior,2016,3,Take Home Naloxone,6,0,10.0
+11,East Kootenay,Interior,2016,4,Take Home Naloxone,7,1,22.0
+11,East Kootenay,Interior,2016,5,Take Home Naloxone,9,2,15.0
+11,East Kootenay,Interior,2016,6,Take Home Naloxone,15,6,93.0
+11,East Kootenay,Interior,2016,7,Take Home Naloxone,17,2,40.0
+11,East Kootenay,Interior,2016,8,Take Home Naloxone,17,0,18.0
+11,East Kootenay,Interior,2016,9,Take Home Naloxone,18,1,80.0
+11,East Kootenay,Interior,2016,10,Take Home Naloxone,18,0,25.0
+11,East Kootenay,Interior,2016,11,Take Home Naloxone,19,1,151.0
+11,East Kootenay,Interior,2016,12,Take Home Naloxone,19,0,109.0
+11,East Kootenay,Interior,2017,1,Take Home Naloxone,20,1,119.0
+11,East Kootenay,Interior,2017,2,Take Home Naloxone,20,0,40.0
+11,East Kootenay,Interior,2017,3,Take Home Naloxone,20,0,85.0
+11,East Kootenay,Interior,2017,4,Take Home Naloxone,20,0,106.0
+11,East Kootenay,Interior,2017,5,Take Home Naloxone,21,1,85.0
+11,East Kootenay,Interior,2017,6,Take Home Naloxone,21,0,100.0
+11,East Kootenay,Interior,2017,7,Take Home Naloxone,21,0,120.0
+11,East Kootenay,Interior,2017,8,Take Home Naloxone,21,0,180.0
+11,East Kootenay,Interior,2017,9,Take Home Naloxone,21,0,150.0
+11,East Kootenay,Interior,2017,10,Take Home Naloxone,21,0,100.0
+11,East Kootenay,Interior,2017,11,Take Home Naloxone,21,0,45.0
+11,East Kootenay,Interior,2017,12,Take Home Naloxone,25,4,210.0
+11,East Kootenay,Interior,2018,1,Take Home Naloxone,28,3,95.0
+11,East Kootenay,Interior,2018,2,Take Home Naloxone,33,5,200.0
+11,East Kootenay,Interior,2018,3,Take Home Naloxone,33,0,140.0
+11,East Kootenay,Interior,2018,4,Take Home Naloxone,33,0,162.0
+11,East Kootenay,Interior,2018,5,Take Home Naloxone,36,3,200.0
+11,East Kootenay,Interior,2018,6,Take Home Naloxone,36,0,260.0
+11,East Kootenay,Interior,2018,7,Take Home Naloxone,36,0,50.0
+11,East Kootenay,Interior,2018,8,Take Home Naloxone,36,0,160.0
+11,East Kootenay,Interior,2018,9,Take Home Naloxone,36,0,105.0
+11,East Kootenay,Interior,2018,10,Take Home Naloxone,36,0,50.0
+11,East Kootenay,Interior,2018,11,Take Home Naloxone,36,0,20.0
+11,East Kootenay,Interior,2018,12,Take Home Naloxone,36,0,140.0
+11,East Kootenay,Interior,2019,1,Take Home Naloxone,36,0,65.0
+11,East Kootenay,Interior,2019,2,Take Home Naloxone,36,0,75.0
+11,East Kootenay,Interior,2019,3,Take Home Naloxone,36,0,95.0
+11,East Kootenay,Interior,2019,4,Take Home Naloxone,36,0,90.0
+11,East Kootenay,Interior,2019,5,Take Home Naloxone,37,1,40.0
+11,East Kootenay,Interior,2019,6,Take Home Naloxone,37,0,414.0
+11,East Kootenay,Interior,2019,7,Take Home Naloxone,39,2,150.0
+11,East Kootenay,Interior,2019,8,Take Home Naloxone,39,0,264.0
+11,East Kootenay,Interior,2019,9,Take Home Naloxone,39,0,22.0
+11,East Kootenay,Interior,2019,10,Take Home Naloxone,40,1,100.0
+11,East Kootenay,Interior,2019,11,Take Home Naloxone,40,0,90.0
+11,East Kootenay,Interior,2019,12,Take Home Naloxone,40,0,209.0
+11,East Kootenay,Interior,2020,1,Take Home Naloxone,42,2,145.0
+11,East Kootenay,Interior,2020,2,Take Home Naloxone,42,0,210.0
+11,East Kootenay,Interior,2020,3,Take Home Naloxone,42,0,265.0
+11,East Kootenay,Interior,2020,4,Take Home Naloxone,42,0,120.0
+11,East Kootenay,Interior,2020,5,Take Home Naloxone,42,0,55.0
+11,East Kootenay,Interior,2020,6,Take Home Naloxone,42,0,110.0
+11,East Kootenay,Interior,2020,7,Take Home Naloxone,43,1,360.0
+11,East Kootenay,Interior,2020,8,Take Home Naloxone,44,1,110.0
+11,East Kootenay,Interior,2020,9,Take Home Naloxone,44,0,306.0
+11,East Kootenay,Interior,2020,10,Take Home Naloxone,44,0,362.0
+11,East Kootenay,Interior,2020,11,Take Home Naloxone,44,0,262.0
+11,East Kootenay,Interior,2020,12,Take Home Naloxone,45,1,775.0
+11,East Kootenay,Interior,2021,1,Take Home Naloxone,45,0,50.0
+11,East Kootenay,Interior,2021,2,Take Home Naloxone,45,0,245.0
+11,East Kootenay,Interior,2021,3,Take Home Naloxone,46,1,480.0
+11,East Kootenay,Interior,2021,4,Take Home Naloxone,46,0,84.0
+11,East Kootenay,Interior,2021,5,Take Home Naloxone,47,1,297.0
+11,East Kootenay,Interior,2021,6,Take Home Naloxone,47,0,30.0
+11,East Kootenay,Interior,2021,7,Take Home Naloxone,47,0,445.0
+11,East Kootenay,Interior,2021,8,Take Home Naloxone,47,0,130.0
+11,East Kootenay,Interior,2021,9,Take Home Naloxone,47,0,210.0
+11,East Kootenay,Interior,2021,10,Take Home Naloxone,47,0,140.0
+11,East Kootenay,Interior,2021,11,Take Home Naloxone,54,7,320.0
+11,East Kootenay,Interior,2021,12,Take Home Naloxone,54,0,15.0
+11,East Kootenay,Interior,2022,1,Take Home Naloxone,54,0,75.0
+11,East Kootenay,Interior,2022,2,Take Home Naloxone,54,0,529.0
+11,East Kootenay,Interior,2022,3,Take Home Naloxone,54,0,25.0
+11,East Kootenay,Interior,2022,4,Take Home Naloxone,54,0,690.0
+11,East Kootenay,Interior,2022,5,Take Home Naloxone,54,0,25.0
+11,East Kootenay,Interior,2022,6,Take Home Naloxone,55,1,325.0
+11,East Kootenay,Interior,2022,7,Take Home Naloxone,55,0,300.0
+11,East Kootenay,Interior,2022,8,Take Home Naloxone,55,0,225.0
+11,East Kootenay,Interior,2022,9,Take Home Naloxone,57,2,995.0
+11,East Kootenay,Interior,2022,10,Take Home Naloxone,58,1,245.0
+11,East Kootenay,Interior,2022,11,Take Home Naloxone,59,1,665.0
+11,East Kootenay,Interior,2022,12,Take Home Naloxone,59,0,85.0
+11,East Kootenay,Interior,2023,1,Take Home Naloxone,59,0,355.0
+11,East Kootenay,Interior,2023,2,Take Home Naloxone,59,0,680.0
+11,East Kootenay,Interior,2023,3,Take Home Naloxone,60,1,453.0
+11,East Kootenay,Interior,2023,4,Take Home Naloxone,60,0,460.0
+11,East Kootenay,Interior,2023,5,Take Home Naloxone,60,0,350.0
+11,East Kootenay,Interior,2023,6,Take Home Naloxone,60,0,750.0
+11,East Kootenay,Interior,2023,7,Take Home Naloxone,60,0,50.0
+11,East Kootenay,Interior,2023,8,Take Home Naloxone,60,0,575.0
+11,East Kootenay,Interior,2023,9,Take Home Naloxone,60,0,500.0
+11,East Kootenay,Interior,2023,10,Take Home Naloxone,60,0,150.0
+11,East Kootenay,Interior,2023,11,Take Home Naloxone,60,0,345.0
+11,East Kootenay,Interior,2023,12,Take Home Naloxone,60,0,75.0
+11,East Kootenay,Interior,2024,1,Take Home Naloxone,60,0,275.0
+11,East Kootenay,Interior,2024,2,Take Home Naloxone,60,0,475.0
+11,East Kootenay,Interior,2024,3,Take Home Naloxone,60,0,800.0
+11,East Kootenay,Interior,2024,4,Take Home Naloxone,60,0,150.0
+11,East Kootenay,Interior,2024,5,Take Home Naloxone,61,1,410.0
+11,East Kootenay,Interior,2024,6,Take Home Naloxone,61,0,699.0
+11,East Kootenay,Interior,2024,7,Take Home Naloxone,61,0,184.0
+11,East Kootenay,Interior,2024,8,Take Home Naloxone,61,0,175.0
+11,East Kootenay,Interior,2024,9,Take Home Naloxone,61,0,265.0
+11,East Kootenay,Interior,2024,10,Take Home Naloxone,61,0,765.0
+11,East Kootenay,Interior,2024,11,Take Home Naloxone,61,0,600.0
+11,East Kootenay,Interior,2024,12,Take Home Naloxone,61,0,545.0
+11,East Kootenay,Interior,2025,1,Take Home Naloxone,61,0,640.0
+11,East Kootenay,Interior,2025,2,Take Home Naloxone,61,0,233.0
+11,East Kootenay,Interior,2025,3,Take Home Naloxone,61,0,85.0
+11,East Kootenay,Interior,2025,4,Take Home Naloxone,61,0,150.0
+11,East Kootenay,Interior,2025,5,Take Home Naloxone,61,0,25.0
+11,East Kootenay,Interior,2025,6,Take Home Naloxone,61,0,500.0
+11,East Kootenay,Interior,2025,7,Take Home Naloxone,61,0,356.0
+11,East Kootenay,Interior,2025,8,Take Home Naloxone,61,0,415.0
+11,East Kootenay,Interior,2025,9,Take Home Naloxone,61,0,250.0
+11,East Kootenay,Interior,2025,10,Take Home Naloxone,61,0,400.0
+11,East Kootenay,Interior,2025,11,Take Home Naloxone,61,0,300.0
+11,East Kootenay,Interior,2025,12,Take Home Naloxone,61,0,250.0
+11,East Kootenay,Interior,2026,1,Take Home Naloxone,61,0,388.0
+11,East Kootenay,Interior,2026,2,Take Home Naloxone,61,0,495.0
+11,East Kootenay,Interior,2026,3,Take Home Naloxone,62,1,548.0
+11,East Kootenay,Interior,2026,4,Take Home Naloxone,62,0,384.0
+11,East Kootenay,Interior,2026,5,Take Home Naloxone,62,0,275.0
+11,East Kootenay,Interior,2026,6,Take Home Naloxone,62,0,319.0
+11,East Kootenay,Interior,2026,7,Take Home Naloxone,62,0,398.0
+12,Kootenay Boundary,Interior,2015,1,Take Home Naloxone,2,0,0.0
+12,Kootenay Boundary,Interior,2015,2,Take Home Naloxone,2,0,0.0
+12,Kootenay Boundary,Interior,2015,3,Take Home Naloxone,2,0,30.0
+12,Kootenay Boundary,Interior,2015,4,Take Home Naloxone,2,0,0.0
+12,Kootenay Boundary,Interior,2015,5,Take Home Naloxone,2,0,30.0
+12,Kootenay Boundary,Interior,2015,6,Take Home Naloxone,2,0,0.0
+12,Kootenay Boundary,Interior,2015,7,Take Home Naloxone,2,0,60.0
+12,Kootenay Boundary,Interior,2015,8,Take Home Naloxone,2,0,0.0
+12,Kootenay Boundary,Interior,2015,9,Take Home Naloxone,2,0,50.0
+12,Kootenay Boundary,Interior,2015,10,Take Home Naloxone,3,1,0.0
+12,Kootenay Boundary,Interior,2015,11,Take Home Naloxone,4,1,64.0
+12,Kootenay Boundary,Interior,2015,12,Take Home Naloxone,4,0,20.0
+12,Kootenay Boundary,Interior,2016,1,Take Home Naloxone,4,0,0.0
+12,Kootenay Boundary,Interior,2016,2,Take Home Naloxone,7,3,30.0
+12,Kootenay Boundary,Interior,2016,3,Take Home Naloxone,8,1,107.0
+12,Kootenay Boundary,Interior,2016,4,Take Home Naloxone,8,0,20.0
+12,Kootenay Boundary,Interior,2016,5,Take Home Naloxone,12,4,20.0
+12,Kootenay Boundary,Interior,2016,6,Take Home Naloxone,18,6,107.0
+12,Kootenay Boundary,Interior,2016,7,Take Home Naloxone,23,5,191.0
+12,Kootenay Boundary,Interior,2016,8,Take Home Naloxone,23,0,20.0
+12,Kootenay Boundary,Interior,2016,9,Take Home Naloxone,26,3,235.0
+12,Kootenay Boundary,Interior,2016,10,Take Home Naloxone,26,0,181.0
+12,Kootenay Boundary,Interior,2016,11,Take Home Naloxone,28,2,110.0
+12,Kootenay Boundary,Interior,2016,12,Take Home Naloxone,29,1,200.0
+12,Kootenay Boundary,Interior,2017,1,Take Home Naloxone,29,0,230.0
+12,Kootenay Boundary,Interior,2017,2,Take Home Naloxone,29,0,90.0
+12,Kootenay Boundary,Interior,2017,3,Take Home Naloxone,29,0,436.0
+12,Kootenay Boundary,Interior,2017,4,Take Home Naloxone,30,1,365.0
+12,Kootenay Boundary,Interior,2017,5,Take Home Naloxone,30,0,255.0
+12,Kootenay Boundary,Interior,2017,6,Take Home Naloxone,30,0,415.0
+12,Kootenay Boundary,Interior,2017,7,Take Home Naloxone,30,0,915.0
+12,Kootenay Boundary,Interior,2017,8,Take Home Naloxone,30,0,250.0
+12,Kootenay Boundary,Interior,2017,9,Take Home Naloxone,30,0,50.0
+12,Kootenay Boundary,Interior,2017,10,Take Home Naloxone,30,0,117.0
+12,Kootenay Boundary,Interior,2017,11,Take Home Naloxone,31,1,280.0
+12,Kootenay Boundary,Interior,2017,12,Take Home Naloxone,33,2,170.0
+12,Kootenay Boundary,Interior,2018,1,Take Home Naloxone,39,6,230.0
+12,Kootenay Boundary,Interior,2018,2,Take Home Naloxone,45,6,100.0
+12,Kootenay Boundary,Interior,2018,3,Take Home Naloxone,46,1,310.0
+12,Kootenay Boundary,Interior,2018,4,Take Home Naloxone,46,0,250.0
+12,Kootenay Boundary,Interior,2018,5,Take Home Naloxone,46,0,348.0
+12,Kootenay Boundary,Interior,2018,6,Take Home Naloxone,46,0,410.0
+12,Kootenay Boundary,Interior,2018,7,Take Home Naloxone,46,0,970.0
+12,Kootenay Boundary,Interior,2018,8,Take Home Naloxone,47,1,360.0
+12,Kootenay Boundary,Interior,2018,9,Take Home Naloxone,47,0,10.0
+12,Kootenay Boundary,Interior,2018,10,Take Home Naloxone,47,0,116.0
+12,Kootenay Boundary,Interior,2018,11,Take Home Naloxone,47,0,220.0
+12,Kootenay Boundary,Interior,2018,12,Take Home Naloxone,47,0,110.0
+12,Kootenay Boundary,Interior,2019,1,Take Home Naloxone,47,0,120.0
+12,Kootenay Boundary,Interior,2019,2,Take Home Naloxone,47,0,295.0
+12,Kootenay Boundary,Interior,2019,3,Take Home Naloxone,47,0,180.0
+12,Kootenay Boundary,Interior,2019,4,Take Home Naloxone,47,0,290.0
+12,Kootenay Boundary,Interior,2019,5,Take Home Naloxone,50,3,240.0
+12,Kootenay Boundary,Interior,2019,6,Take Home Naloxone,50,0,280.0
+12,Kootenay Boundary,Interior,2019,7,Take Home Naloxone,50,0,620.0
+12,Kootenay Boundary,Interior,2019,8,Take Home Naloxone,50,0,345.0
+12,Kootenay Boundary,Interior,2019,9,Take Home Naloxone,50,0,100.0
+12,Kootenay Boundary,Interior,2019,10,Take Home Naloxone,50,0,485.0
+12,Kootenay Boundary,Interior,2019,11,Take Home Naloxone,50,0,204.0
+12,Kootenay Boundary,Interior,2019,12,Take Home Naloxone,50,0,410.0
+12,Kootenay Boundary,Interior,2020,1,Take Home Naloxone,50,0,280.0
+12,Kootenay Boundary,Interior,2020,2,Take Home Naloxone,50,0,560.0
+12,Kootenay Boundary,Interior,2020,3,Take Home Naloxone,50,0,700.0
+12,Kootenay Boundary,Interior,2020,4,Take Home Naloxone,50,0,210.0
+12,Kootenay Boundary,Interior,2020,5,Take Home Naloxone,50,0,160.0
+12,Kootenay Boundary,Interior,2020,6,Take Home Naloxone,50,0,60.0
+12,Kootenay Boundary,Interior,2020,7,Take Home Naloxone,52,2,509.0
+12,Kootenay Boundary,Interior,2020,8,Take Home Naloxone,52,0,245.0
+12,Kootenay Boundary,Interior,2020,9,Take Home Naloxone,52,0,295.0
+12,Kootenay Boundary,Interior,2020,10,Take Home Naloxone,52,0,275.0
+12,Kootenay Boundary,Interior,2020,11,Take Home Naloxone,53,1,313.0
+12,Kootenay Boundary,Interior,2020,12,Take Home Naloxone,53,0,308.0
+12,Kootenay Boundary,Interior,2021,1,Take Home Naloxone,53,0,310.0
+12,Kootenay Boundary,Interior,2021,2,Take Home Naloxone,53,0,380.0
+12,Kootenay Boundary,Interior,2021,3,Take Home Naloxone,53,0,395.0
+12,Kootenay Boundary,Interior,2021,4,Take Home Naloxone,53,0,275.0
+12,Kootenay Boundary,Interior,2021,5,Take Home Naloxone,54,1,380.0
+12,Kootenay Boundary,Interior,2021,6,Take Home Naloxone,54,0,450.0
+12,Kootenay Boundary,Interior,2021,7,Take Home Naloxone,54,0,220.0
+12,Kootenay Boundary,Interior,2021,8,Take Home Naloxone,54,0,228.0
+12,Kootenay Boundary,Interior,2021,9,Take Home Naloxone,54,0,412.0
+12,Kootenay Boundary,Interior,2021,10,Take Home Naloxone,54,0,695.0
+12,Kootenay Boundary,Interior,2021,11,Take Home Naloxone,54,0,250.0
+12,Kootenay Boundary,Interior,2021,12,Take Home Naloxone,54,0,235.0
+12,Kootenay Boundary,Interior,2022,1,Take Home Naloxone,54,0,100.0
+12,Kootenay Boundary,Interior,2022,2,Take Home Naloxone,54,0,279.0
+12,Kootenay Boundary,Interior,2022,3,Take Home Naloxone,54,0,775.0
+12,Kootenay Boundary,Interior,2022,4,Take Home Naloxone,54,0,425.0
+12,Kootenay Boundary,Interior,2022,5,Take Home Naloxone,54,0,675.0
+12,Kootenay Boundary,Interior,2022,6,Take Home Naloxone,54,0,1150.0
+12,Kootenay Boundary,Interior,2022,7,Take Home Naloxone,54,0,708.0
+12,Kootenay Boundary,Interior,2022,8,Take Home Naloxone,54,0,631.0
+12,Kootenay Boundary,Interior,2022,9,Take Home Naloxone,54,0,385.0
+12,Kootenay Boundary,Interior,2022,10,Take Home Naloxone,54,0,331.0
+12,Kootenay Boundary,Interior,2022,11,Take Home Naloxone,54,0,25.0
+12,Kootenay Boundary,Interior,2022,12,Take Home Naloxone,54,0,250.0
+12,Kootenay Boundary,Interior,2023,1,Take Home Naloxone,54,0,529.0
+12,Kootenay Boundary,Interior,2023,2,Take Home Naloxone,55,1,625.0
+12,Kootenay Boundary,Interior,2023,3,Take Home Naloxone,55,0,971.0
+12,Kootenay Boundary,Interior,2023,4,Take Home Naloxone,55,0,689.0
+12,Kootenay Boundary,Interior,2023,5,Take Home Naloxone,55,0,555.0
+12,Kootenay Boundary,Interior,2023,6,Take Home Naloxone,55,0,1450.0
+12,Kootenay Boundary,Interior,2023,7,Take Home Naloxone,55,0,930.0
+12,Kootenay Boundary,Interior,2023,8,Take Home Naloxone,55,0,1100.0
+12,Kootenay Boundary,Interior,2023,9,Take Home Naloxone,55,0,785.0
+12,Kootenay Boundary,Interior,2023,10,Take Home Naloxone,55,0,225.0
+12,Kootenay Boundary,Interior,2023,11,Take Home Naloxone,55,0,395.0
+12,Kootenay Boundary,Interior,2023,12,Take Home Naloxone,55,0,375.0
+12,Kootenay Boundary,Interior,2024,1,Take Home Naloxone,55,0,725.0
+12,Kootenay Boundary,Interior,2024,2,Take Home Naloxone,55,0,558.0
+12,Kootenay Boundary,Interior,2024,3,Take Home Naloxone,55,0,703.0
+12,Kootenay Boundary,Interior,2024,4,Take Home Naloxone,55,0,420.0
+12,Kootenay Boundary,Interior,2024,5,Take Home Naloxone,55,0,515.0
+12,Kootenay Boundary,Interior,2024,6,Take Home Naloxone,55,0,735.0
+12,Kootenay Boundary,Interior,2024,7,Take Home Naloxone,55,0,441.0
+12,Kootenay Boundary,Interior,2024,8,Take Home Naloxone,56,1,738.0
+12,Kootenay Boundary,Interior,2024,9,Take Home Naloxone,56,0,875.0
+12,Kootenay Boundary,Interior,2024,10,Take Home Naloxone,56,0,1230.0
+12,Kootenay Boundary,Interior,2024,11,Take Home Naloxone,56,0,600.0
+12,Kootenay Boundary,Interior,2024,12,Take Home Naloxone,56,0,512.0
+12,Kootenay Boundary,Interior,2025,1,Take Home Naloxone,56,0,25.0
+12,Kootenay Boundary,Interior,2025,2,Take Home Naloxone,57,1,50.0
+12,Kootenay Boundary,Interior,2025,3,Take Home Naloxone,57,0,85.0
+12,Kootenay Boundary,Interior,2025,4,Take Home Naloxone,57,0,175.0
+12,Kootenay Boundary,Interior,2025,5,Take Home Naloxone,57,0,555.0
+12,Kootenay Boundary,Interior,2025,6,Take Home Naloxone,57,0,625.0
+12,Kootenay Boundary,Interior,2025,7,Take Home Naloxone,58,1,830.0
+12,Kootenay Boundary,Interior,2025,8,Take Home Naloxone,59,1,525.0
+12,Kootenay Boundary,Interior,2025,9,Take Home Naloxone,60,1,775.0
+12,Kootenay Boundary,Interior,2025,10,Take Home Naloxone,61,1,800.0
+12,Kootenay Boundary,Interior,2025,11,Take Home Naloxone,62,1,475.0
+12,Kootenay Boundary,Interior,2025,12,Take Home Naloxone,62,0,825.0
+12,Kootenay Boundary,Interior,2026,1,Take Home Naloxone,62,0,699.0
+12,Kootenay Boundary,Interior,2026,2,Take Home Naloxone,62,0,28.0
+12,Kootenay Boundary,Interior,2026,3,Take Home Naloxone,62,0,326.0
+12,Kootenay Boundary,Interior,2026,4,Take Home Naloxone,62,0,635.0
+12,Kootenay Boundary,Interior,2026,5,Take Home Naloxone,62,0,479.0
+12,Kootenay Boundary,Interior,2026,6,Take Home Naloxone,62,0,1031.0
+12,Kootenay Boundary,Interior,2026,7,Take Home Naloxone,62,0,650.0
+13,Okanagan,Interior,2015,1,Take Home Naloxone,4,0,35.0
+13,Okanagan,Interior,2015,2,Take Home Naloxone,4,0,35.0
+13,Okanagan,Interior,2015,3,Take Home Naloxone,4,0,30.0
+13,Okanagan,Interior,2015,4,Take Home Naloxone,4,0,30.0
+13,Okanagan,Interior,2015,5,Take Home Naloxone,4,0,0.0
+13,Okanagan,Interior,2015,6,Take Home Naloxone,4,0,30.0
+13,Okanagan,Interior,2015,7,Take Home Naloxone,4,0,52.0
+13,Okanagan,Interior,2015,8,Take Home Naloxone,5,1,20.0
+13,Okanagan,Interior,2015,9,Take Home Naloxone,5,0,40.0
+13,Okanagan,Interior,2015,10,Take Home Naloxone,6,1,33.0
+13,Okanagan,Interior,2015,11,Take Home Naloxone,6,0,10.0
+13,Okanagan,Interior,2015,12,Take Home Naloxone,6,0,57.0
+13,Okanagan,Interior,2016,1,Take Home Naloxone,6,0,30.0
+13,Okanagan,Interior,2016,2,Take Home Naloxone,6,0,140.0
+13,Okanagan,Interior,2016,3,Take Home Naloxone,6,0,74.0
+13,Okanagan,Interior,2016,4,Take Home Naloxone,9,3,252.0
+13,Okanagan,Interior,2016,5,Take Home Naloxone,11,2,142.0
+13,Okanagan,Interior,2016,6,Take Home Naloxone,28,17,334.0
+13,Okanagan,Interior,2016,7,Take Home Naloxone,28,0,51.0
+13,Okanagan,Interior,2016,8,Take Home Naloxone,29,1,180.0
+13,Okanagan,Interior,2016,9,Take Home Naloxone,29,0,311.0
+13,Okanagan,Interior,2016,10,Take Home Naloxone,31,2,468.0
+13,Okanagan,Interior,2016,11,Take Home Naloxone,33,2,761.0
+13,Okanagan,Interior,2016,12,Take Home Naloxone,35,2,590.0
+13,Okanagan,Interior,2017,1,Take Home Naloxone,37,2,742.0
+13,Okanagan,Interior,2017,2,Take Home Naloxone,40,3,1287.0
+13,Okanagan,Interior,2017,3,Take Home Naloxone,41,1,1849.0
+13,Okanagan,Interior,2017,4,Take Home Naloxone,41,0,1097.0
+13,Okanagan,Interior,2017,5,Take Home Naloxone,42,1,1520.0
+13,Okanagan,Interior,2017,6,Take Home Naloxone,47,5,1360.0
+13,Okanagan,Interior,2017,7,Take Home Naloxone,50,3,1525.0
+13,Okanagan,Interior,2017,8,Take Home Naloxone,52,2,2185.0
+13,Okanagan,Interior,2017,9,Take Home Naloxone,53,1,1639.0
+13,Okanagan,Interior,2017,10,Take Home Naloxone,53,0,1105.0
+13,Okanagan,Interior,2017,11,Take Home Naloxone,54,1,1415.0
+13,Okanagan,Interior,2017,12,Take Home Naloxone,67,13,950.0
+13,Okanagan,Interior,2018,1,Take Home Naloxone,87,20,1050.0
+13,Okanagan,Interior,2018,2,Take Home Naloxone,103,16,905.0
+13,Okanagan,Interior,2018,3,Take Home Naloxone,103,0,1582.0
+13,Okanagan,Interior,2018,4,Take Home Naloxone,105,2,890.0
+13,Okanagan,Interior,2018,5,Take Home Naloxone,108,3,2240.0
+13,Okanagan,Interior,2018,6,Take Home Naloxone,108,0,2905.0
+13,Okanagan,Interior,2018,7,Take Home Naloxone,112,4,1904.0
+13,Okanagan,Interior,2018,8,Take Home Naloxone,113,1,3610.0
+13,Okanagan,Interior,2018,9,Take Home Naloxone,113,0,1840.0
+13,Okanagan,Interior,2018,10,Take Home Naloxone,113,0,2450.0
+13,Okanagan,Interior,2018,11,Take Home Naloxone,113,0,3855.0
+13,Okanagan,Interior,2018,12,Take Home Naloxone,113,0,2163.0
+13,Okanagan,Interior,2019,1,Take Home Naloxone,115,2,1687.0
+13,Okanagan,Interior,2019,2,Take Home Naloxone,115,0,1195.0
+13,Okanagan,Interior,2019,3,Take Home Naloxone,116,1,1033.0
+13,Okanagan,Interior,2019,4,Take Home Naloxone,117,1,2045.0
+13,Okanagan,Interior,2019,5,Take Home Naloxone,122,5,2835.0
+13,Okanagan,Interior,2019,6,Take Home Naloxone,123,1,1780.0
+13,Okanagan,Interior,2019,7,Take Home Naloxone,124,1,2075.0
+13,Okanagan,Interior,2019,8,Take Home Naloxone,125,1,3625.0
+13,Okanagan,Interior,2019,9,Take Home Naloxone,128,3,2466.0
+13,Okanagan,Interior,2019,10,Take Home Naloxone,130,2,2232.0
+13,Okanagan,Interior,2019,11,Take Home Naloxone,130,0,4539.0
+13,Okanagan,Interior,2019,12,Take Home Naloxone,130,0,1315.0
+13,Okanagan,Interior,2020,1,Take Home Naloxone,130,0,1941.0
+13,Okanagan,Interior,2020,2,Take Home Naloxone,131,1,1522.0
+13,Okanagan,Interior,2020,3,Take Home Naloxone,132,1,2812.0
+13,Okanagan,Interior,2020,4,Take Home Naloxone,132,0,3032.0
+13,Okanagan,Interior,2020,5,Take Home Naloxone,132,0,1550.0
+13,Okanagan,Interior,2020,6,Take Home Naloxone,132,0,1375.0
+13,Okanagan,Interior,2020,7,Take Home Naloxone,132,0,2317.0
+13,Okanagan,Interior,2020,8,Take Home Naloxone,134,2,3053.0
+13,Okanagan,Interior,2020,9,Take Home Naloxone,135,1,2669.0
+13,Okanagan,Interior,2020,10,Take Home Naloxone,137,2,3235.0
+13,Okanagan,Interior,2020,11,Take Home Naloxone,139,2,1467.0
+13,Okanagan,Interior,2020,12,Take Home Naloxone,141,2,2625.0
+13,Okanagan,Interior,2021,1,Take Home Naloxone,143,2,2173.0
+13,Okanagan,Interior,2021,2,Take Home Naloxone,143,0,2310.0
+13,Okanagan,Interior,2021,3,Take Home Naloxone,145,2,2190.0
+13,Okanagan,Interior,2021,4,Take Home Naloxone,146,1,3207.0
+13,Okanagan,Interior,2021,5,Take Home Naloxone,147,1,2343.0
+13,Okanagan,Interior,2021,6,Take Home Naloxone,149,2,3353.0
+13,Okanagan,Interior,2021,7,Take Home Naloxone,149,0,4415.0
+13,Okanagan,Interior,2021,8,Take Home Naloxone,149,0,4055.0
+13,Okanagan,Interior,2021,9,Take Home Naloxone,150,1,2852.0
+13,Okanagan,Interior,2021,10,Take Home Naloxone,153,3,4060.0
+13,Okanagan,Interior,2021,11,Take Home Naloxone,154,1,1673.0
+13,Okanagan,Interior,2021,12,Take Home Naloxone,155,1,2172.0
+13,Okanagan,Interior,2022,1,Take Home Naloxone,158,3,2510.0
+13,Okanagan,Interior,2022,2,Take Home Naloxone,158,0,2175.0
+13,Okanagan,Interior,2022,3,Take Home Naloxone,158,0,2020.0
+13,Okanagan,Interior,2022,4,Take Home Naloxone,158,0,3100.0
+13,Okanagan,Interior,2022,5,Take Home Naloxone,158,0,2075.0
+13,Okanagan,Interior,2022,6,Take Home Naloxone,159,1,3517.0
+13,Okanagan,Interior,2022,7,Take Home Naloxone,159,0,3075.0
+13,Okanagan,Interior,2022,8,Take Home Naloxone,159,0,4261.0
+13,Okanagan,Interior,2022,9,Take Home Naloxone,159,0,3630.0
+13,Okanagan,Interior,2022,10,Take Home Naloxone,164,5,3103.0
+13,Okanagan,Interior,2022,11,Take Home Naloxone,164,0,3470.0
+13,Okanagan,Interior,2022,12,Take Home Naloxone,165,1,3093.0
+13,Okanagan,Interior,2023,1,Take Home Naloxone,166,1,3115.0
+13,Okanagan,Interior,2023,2,Take Home Naloxone,167,1,3001.0
+13,Okanagan,Interior,2023,3,Take Home Naloxone,167,0,4072.0
+13,Okanagan,Interior,2023,4,Take Home Naloxone,167,0,3331.0
+13,Okanagan,Interior,2023,5,Take Home Naloxone,167,0,4105.0
+13,Okanagan,Interior,2023,6,Take Home Naloxone,170,3,4350.0
+13,Okanagan,Interior,2023,7,Take Home Naloxone,170,0,3495.0
+13,Okanagan,Interior,2023,8,Take Home Naloxone,171,1,2840.0
+13,Okanagan,Interior,2023,9,Take Home Naloxone,172,1,2765.0
+13,Okanagan,Interior,2023,10,Take Home Naloxone,172,0,4229.0
+13,Okanagan,Interior,2023,11,Take Home Naloxone,174,2,4546.0
+13,Okanagan,Interior,2023,12,Take Home Naloxone,175,1,2615.0
+13,Okanagan,Interior,2024,1,Take Home Naloxone,176,1,3885.0
+13,Okanagan,Interior,2024,2,Take Home Naloxone,176,0,3940.0
+13,Okanagan,Interior,2024,3,Take Home Naloxone,176,0,2420.0
+13,Okanagan,Interior,2024,4,Take Home Naloxone,176,0,2672.0
+13,Okanagan,Interior,2024,5,Take Home Naloxone,176,0,3725.0
+13,Okanagan,Interior,2024,6,Take Home Naloxone,177,1,3485.0
+13,Okanagan,Interior,2024,7,Take Home Naloxone,178,1,3285.0
+13,Okanagan,Interior,2024,8,Take Home Naloxone,181,3,3378.0
+13,Okanagan,Interior,2024,9,Take Home Naloxone,182,1,2977.0
+13,Okanagan,Interior,2024,10,Take Home Naloxone,182,0,3415.0
+13,Okanagan,Interior,2024,11,Take Home Naloxone,182,0,2546.0
+13,Okanagan,Interior,2024,12,Take Home Naloxone,183,1,2238.0
+13,Okanagan,Interior,2025,1,Take Home Naloxone,184,1,2775.0
+13,Okanagan,Interior,2025,2,Take Home Naloxone,185,1,2199.0
+13,Okanagan,Interior,2025,3,Take Home Naloxone,185,0,1925.0
+13,Okanagan,Interior,2025,4,Take Home Naloxone,185,0,1690.0
+13,Okanagan,Interior,2025,5,Take Home Naloxone,185,0,2486.0
+13,Okanagan,Interior,2025,6,Take Home Naloxone,187,2,1562.0
+13,Okanagan,Interior,2025,7,Take Home Naloxone,188,1,2812.0
+13,Okanagan,Interior,2025,8,Take Home Naloxone,190,2,2530.0
+13,Okanagan,Interior,2025,9,Take Home Naloxone,191,1,2805.0
+13,Okanagan,Interior,2025,10,Take Home Naloxone,191,0,3360.0
+13,Okanagan,Interior,2025,11,Take Home Naloxone,194,3,2720.0
+13,Okanagan,Interior,2025,12,Take Home Naloxone,194,0,2395.0
+13,Okanagan,Interior,2026,1,Take Home Naloxone,194,0,2310.0
+13,Okanagan,Interior,2026,2,Take Home Naloxone,194,0,990.0
+13,Okanagan,Interior,2026,3,Take Home Naloxone,194,0,2137.0
+13,Okanagan,Interior,2026,4,Take Home Naloxone,194,0,2590.0
+13,Okanagan,Interior,2026,5,Take Home Naloxone,194,0,1595.0
+13,Okanagan,Interior,2026,6,Take Home Naloxone,194,0,3057.0
+13,Okanagan,Interior,2026,7,Take Home Naloxone,196,2,3209.0
+14,Thompson Cariboo Shuswap,Interior,2015,1,Take Home Naloxone,6,0,0.0
+14,Thompson Cariboo Shuswap,Interior,2015,2,Take Home Naloxone,6,0,30.0
+14,Thompson Cariboo Shuswap,Interior,2015,3,Take Home Naloxone,6,0,0.0
+14,Thompson Cariboo Shuswap,Interior,2015,4,Take Home Naloxone,6,0,30.0
+14,Thompson Cariboo Shuswap,Interior,2015,5,Take Home Naloxone,6,0,0.0
+14,Thompson Cariboo Shuswap,Interior,2015,6,Take Home Naloxone,6,0,0.0
+14,Thompson Cariboo Shuswap,Interior,2015,7,Take Home Naloxone,6,0,0.0
+14,Thompson Cariboo Shuswap,Interior,2015,8,Take Home Naloxone,6,0,90.0
+14,Thompson Cariboo Shuswap,Interior,2015,9,Take Home Naloxone,6,0,0.0
+14,Thompson Cariboo Shuswap,Interior,2015,10,Take Home Naloxone,6,0,47.0
+14,Thompson Cariboo Shuswap,Interior,2015,11,Take Home Naloxone,7,1,20.0
+14,Thompson Cariboo Shuswap,Interior,2015,12,Take Home Naloxone,7,0,50.0
+14,Thompson Cariboo Shuswap,Interior,2016,1,Take Home Naloxone,8,1,55.0
+14,Thompson Cariboo Shuswap,Interior,2016,2,Take Home Naloxone,9,1,0.0
+14,Thompson Cariboo Shuswap,Interior,2016,3,Take Home Naloxone,9,0,60.0
+14,Thompson Cariboo Shuswap,Interior,2016,4,Take Home Naloxone,11,2,130.0
+14,Thompson Cariboo Shuswap,Interior,2016,5,Take Home Naloxone,25,14,135.0
+14,Thompson Cariboo Shuswap,Interior,2016,6,Take Home Naloxone,33,8,354.0
+14,Thompson Cariboo Shuswap,Interior,2016,7,Take Home Naloxone,48,15,170.0
+14,Thompson Cariboo Shuswap,Interior,2016,8,Take Home Naloxone,48,0,162.0
+14,Thompson Cariboo Shuswap,Interior,2016,9,Take Home Naloxone,49,1,545.0
+14,Thompson Cariboo Shuswap,Interior,2016,10,Take Home Naloxone,54,5,240.0
+14,Thompson Cariboo Shuswap,Interior,2016,11,Take Home Naloxone,55,1,437.0
+14,Thompson Cariboo Shuswap,Interior,2016,12,Take Home Naloxone,60,5,717.0
+14,Thompson Cariboo Shuswap,Interior,2017,1,Take Home Naloxone,64,4,1141.0
+14,Thompson Cariboo Shuswap,Interior,2017,2,Take Home Naloxone,67,3,1260.0
+14,Thompson Cariboo Shuswap,Interior,2017,3,Take Home Naloxone,68,1,935.0
+14,Thompson Cariboo Shuswap,Interior,2017,4,Take Home Naloxone,70,2,945.0
+14,Thompson Cariboo Shuswap,Interior,2017,5,Take Home Naloxone,70,0,1190.0
+14,Thompson Cariboo Shuswap,Interior,2017,6,Take Home Naloxone,76,6,1138.0
+14,Thompson Cariboo Shuswap,Interior,2017,7,Take Home Naloxone,77,1,2202.0
+14,Thompson Cariboo Shuswap,Interior,2017,8,Take Home Naloxone,77,0,1660.0
+14,Thompson Cariboo Shuswap,Interior,2017,9,Take Home Naloxone,92,15,1351.0
+14,Thompson Cariboo Shuswap,Interior,2017,10,Take Home Naloxone,93,1,905.0
+14,Thompson Cariboo Shuswap,Interior,2017,11,Take Home Naloxone,99,6,1085.0
+14,Thompson Cariboo Shuswap,Interior,2017,12,Take Home Naloxone,108,9,755.0
+14,Thompson Cariboo Shuswap,Interior,2018,1,Take Home Naloxone,116,8,925.0
+14,Thompson Cariboo Shuswap,Interior,2018,2,Take Home Naloxone,131,15,1024.0
+14,Thompson Cariboo Shuswap,Interior,2018,3,Take Home Naloxone,132,1,1606.0
+14,Thompson Cariboo Shuswap,Interior,2018,4,Take Home Naloxone,133,1,1200.0
+14,Thompson Cariboo Shuswap,Interior,2018,5,Take Home Naloxone,134,1,1990.0
+14,Thompson Cariboo Shuswap,Interior,2018,6,Take Home Naloxone,135,1,762.0
+14,Thompson Cariboo Shuswap,Interior,2018,7,Take Home Naloxone,137,2,840.0
+14,Thompson Cariboo Shuswap,Interior,2018,8,Take Home Naloxone,137,0,963.0
+14,Thompson Cariboo Shuswap,Interior,2018,9,Take Home Naloxone,137,0,1350.0
+14,Thompson Cariboo Shuswap,Interior,2018,10,Take Home Naloxone,137,0,980.0
+14,Thompson Cariboo Shuswap,Interior,2018,11,Take Home Naloxone,137,0,1807.0
+14,Thompson Cariboo Shuswap,Interior,2018,12,Take Home Naloxone,138,1,1241.0
+14,Thompson Cariboo Shuswap,Interior,2019,1,Take Home Naloxone,139,1,930.0
+14,Thompson Cariboo Shuswap,Interior,2019,2,Take Home Naloxone,139,0,684.0
+14,Thompson Cariboo Shuswap,Interior,2019,3,Take Home Naloxone,140,1,739.0
+14,Thompson Cariboo Shuswap,Interior,2019,4,Take Home Naloxone,141,1,1486.0
+14,Thompson Cariboo Shuswap,Interior,2019,5,Take Home Naloxone,142,1,1986.0
+14,Thompson Cariboo Shuswap,Interior,2019,6,Take Home Naloxone,143,1,990.0
+14,Thompson Cariboo Shuswap,Interior,2019,7,Take Home Naloxone,143,0,1432.0
+14,Thompson Cariboo Shuswap,Interior,2019,8,Take Home Naloxone,143,0,1752.0
+14,Thompson Cariboo Shuswap,Interior,2019,9,Take Home Naloxone,145,2,1643.0
+14,Thompson Cariboo Shuswap,Interior,2019,10,Take Home Naloxone,145,0,1215.0
+14,Thompson Cariboo Shuswap,Interior,2019,11,Take Home Naloxone,145,0,1605.0
+14,Thompson Cariboo Shuswap,Interior,2019,12,Take Home Naloxone,146,1,545.0
+14,Thompson Cariboo Shuswap,Interior,2020,1,Take Home Naloxone,146,0,760.0
+14,Thompson Cariboo Shuswap,Interior,2020,2,Take Home Naloxone,146,0,1110.0
+14,Thompson Cariboo Shuswap,Interior,2020,3,Take Home Naloxone,146,0,829.0
+14,Thompson Cariboo Shuswap,Interior,2020,4,Take Home Naloxone,147,1,1024.0
+14,Thompson Cariboo Shuswap,Interior,2020,5,Take Home Naloxone,147,0,1631.0
+14,Thompson Cariboo Shuswap,Interior,2020,6,Take Home Naloxone,148,1,1580.0
+14,Thompson Cariboo Shuswap,Interior,2020,7,Take Home Naloxone,149,1,1715.0
+14,Thompson Cariboo Shuswap,Interior,2020,8,Take Home Naloxone,150,1,1583.0
+14,Thompson Cariboo Shuswap,Interior,2020,9,Take Home Naloxone,150,0,1418.0
+14,Thompson Cariboo Shuswap,Interior,2020,10,Take Home Naloxone,150,0,1780.0
+14,Thompson Cariboo Shuswap,Interior,2020,11,Take Home Naloxone,151,1,1730.0
+14,Thompson Cariboo Shuswap,Interior,2020,12,Take Home Naloxone,151,0,1527.0
+14,Thompson Cariboo Shuswap,Interior,2021,1,Take Home Naloxone,151,0,1780.0
+14,Thompson Cariboo Shuswap,Interior,2021,2,Take Home Naloxone,151,0,1735.0
+14,Thompson Cariboo Shuswap,Interior,2021,3,Take Home Naloxone,152,1,1865.0
+14,Thompson Cariboo Shuswap,Interior,2021,4,Take Home Naloxone,155,3,2660.0
+14,Thompson Cariboo Shuswap,Interior,2021,5,Take Home Naloxone,155,0,2090.0
+14,Thompson Cariboo Shuswap,Interior,2021,6,Take Home Naloxone,156,1,2468.0
+14,Thompson Cariboo Shuswap,Interior,2021,7,Take Home Naloxone,156,0,1695.0
+14,Thompson Cariboo Shuswap,Interior,2021,8,Take Home Naloxone,157,1,1605.0
+14,Thompson Cariboo Shuswap,Interior,2021,9,Take Home Naloxone,158,1,1950.0
+14,Thompson Cariboo Shuswap,Interior,2021,10,Take Home Naloxone,161,3,2763.0
+14,Thompson Cariboo Shuswap,Interior,2021,11,Take Home Naloxone,161,0,1535.0
+14,Thompson Cariboo Shuswap,Interior,2021,12,Take Home Naloxone,162,1,1520.0
+14,Thompson Cariboo Shuswap,Interior,2022,1,Take Home Naloxone,162,0,2445.0
+14,Thompson Cariboo Shuswap,Interior,2022,2,Take Home Naloxone,163,1,1610.0
+14,Thompson Cariboo Shuswap,Interior,2022,3,Take Home Naloxone,166,3,2335.0
+14,Thompson Cariboo Shuswap,Interior,2022,4,Take Home Naloxone,167,1,1448.0
+14,Thompson Cariboo Shuswap,Interior,2022,5,Take Home Naloxone,169,2,1910.0
+14,Thompson Cariboo Shuswap,Interior,2022,6,Take Home Naloxone,170,1,2325.0
+14,Thompson Cariboo Shuswap,Interior,2022,7,Take Home Naloxone,170,0,1760.0
+14,Thompson Cariboo Shuswap,Interior,2022,8,Take Home Naloxone,172,2,2675.0
+14,Thompson Cariboo Shuswap,Interior,2022,9,Take Home Naloxone,173,1,2878.0
+14,Thompson Cariboo Shuswap,Interior,2022,10,Take Home Naloxone,174,1,1763.0
+14,Thompson Cariboo Shuswap,Interior,2022,11,Take Home Naloxone,176,2,1750.0
+14,Thompson Cariboo Shuswap,Interior,2022,12,Take Home Naloxone,176,0,1205.0
+14,Thompson Cariboo Shuswap,Interior,2023,1,Take Home Naloxone,178,2,1260.0
+14,Thompson Cariboo Shuswap,Interior,2023,2,Take Home Naloxone,179,1,2531.0
+14,Thompson Cariboo Shuswap,Interior,2023,3,Take Home Naloxone,182,3,2400.0
+14,Thompson Cariboo Shuswap,Interior,2023,4,Take Home Naloxone,183,1,2215.0
+14,Thompson Cariboo Shuswap,Interior,2023,5,Take Home Naloxone,183,0,3011.0
+14,Thompson Cariboo Shuswap,Interior,2023,6,Take Home Naloxone,184,1,3057.0
+14,Thompson Cariboo Shuswap,Interior,2023,7,Take Home Naloxone,184,0,2630.0
+14,Thompson Cariboo Shuswap,Interior,2023,8,Take Home Naloxone,184,0,3087.0
+14,Thompson Cariboo Shuswap,Interior,2023,9,Take Home Naloxone,184,0,2160.0
+14,Thompson Cariboo Shuswap,Interior,2023,10,Take Home Naloxone,184,0,1692.0
+14,Thompson Cariboo Shuswap,Interior,2023,11,Take Home Naloxone,185,1,3203.0
+14,Thompson Cariboo Shuswap,Interior,2023,12,Take Home Naloxone,185,0,1225.0
+14,Thompson Cariboo Shuswap,Interior,2024,1,Take Home Naloxone,186,1,2120.0
+14,Thompson Cariboo Shuswap,Interior,2024,2,Take Home Naloxone,186,0,2043.0
+14,Thompson Cariboo Shuswap,Interior,2024,3,Take Home Naloxone,186,0,2010.0
+14,Thompson Cariboo Shuswap,Interior,2024,4,Take Home Naloxone,186,0,1590.0
+14,Thompson Cariboo Shuswap,Interior,2024,5,Take Home Naloxone,186,0,3145.0
+14,Thompson Cariboo Shuswap,Interior,2024,6,Take Home Naloxone,186,0,2347.0
+14,Thompson Cariboo Shuswap,Interior,2024,7,Take Home Naloxone,188,2,2646.0
+14,Thompson Cariboo Shuswap,Interior,2024,8,Take Home Naloxone,189,1,3479.0
+14,Thompson Cariboo Shuswap,Interior,2024,9,Take Home Naloxone,189,0,2150.0
+14,Thompson Cariboo Shuswap,Interior,2024,10,Take Home Naloxone,189,0,2340.0
+14,Thompson Cariboo Shuswap,Interior,2024,11,Take Home Naloxone,189,0,2473.0
+14,Thompson Cariboo Shuswap,Interior,2024,12,Take Home Naloxone,191,2,875.0
+14,Thompson Cariboo Shuswap,Interior,2025,1,Take Home Naloxone,191,0,1601.0
+14,Thompson Cariboo Shuswap,Interior,2025,2,Take Home Naloxone,191,0,1225.0
+14,Thompson Cariboo Shuswap,Interior,2025,3,Take Home Naloxone,191,0,810.0
+14,Thompson Cariboo Shuswap,Interior,2025,4,Take Home Naloxone,191,0,535.0
+14,Thompson Cariboo Shuswap,Interior,2025,5,Take Home Naloxone,191,0,1450.0
+14,Thompson Cariboo Shuswap,Interior,2025,6,Take Home Naloxone,191,0,3158.0
+14,Thompson Cariboo Shuswap,Interior,2025,7,Take Home Naloxone,192,1,2135.0
+14,Thompson Cariboo Shuswap,Interior,2025,8,Take Home Naloxone,192,0,1600.0
+14,Thompson Cariboo Shuswap,Interior,2025,9,Take Home Naloxone,195,3,1620.0
+14,Thompson Cariboo Shuswap,Interior,2025,10,Take Home Naloxone,195,0,1780.0
+14,Thompson Cariboo Shuswap,Interior,2025,11,Take Home Naloxone,195,0,1955.0
+14,Thompson Cariboo Shuswap,Interior,2025,12,Take Home Naloxone,196,1,947.0
+14,Thompson Cariboo Shuswap,Interior,2026,1,Take Home Naloxone,197,1,1961.0
+14,Thompson Cariboo Shuswap,Interior,2026,2,Take Home Naloxone,197,0,1297.0
+14,Thompson Cariboo Shuswap,Interior,2026,3,Take Home Naloxone,199,2,2210.0
+14,Thompson Cariboo Shuswap,Interior,2026,4,Take Home Naloxone,199,0,1609.0
+14,Thompson Cariboo Shuswap,Interior,2026,5,Take Home Naloxone,199,0,2146.0
+14,Thompson Cariboo Shuswap,Interior,2026,6,Take Home Naloxone,199,0,2687.0
+14,Thompson Cariboo Shuswap,Interior,2026,7,Take Home Naloxone,199,0,1761.0
+21,Fraser East,Fraser,2015,1,Take Home Naloxone,3,0,0.0
+21,Fraser East,Fraser,2015,2,Take Home Naloxone,3,0,0.0
+21,Fraser East,Fraser,2015,3,Take Home Naloxone,3,0,20.0
+21,Fraser East,Fraser,2015,4,Take Home Naloxone,3,0,20.0
+21,Fraser East,Fraser,2015,5,Take Home Naloxone,3,0,0.0
+21,Fraser East,Fraser,2015,6,Take Home Naloxone,3,0,20.0
+21,Fraser East,Fraser,2015,7,Take Home Naloxone,3,0,0.0
+21,Fraser East,Fraser,2015,8,Take Home Naloxone,3,0,80.0
+21,Fraser East,Fraser,2015,9,Take Home Naloxone,5,2,105.0
+21,Fraser East,Fraser,2015,10,Take Home Naloxone,5,0,0.0
+21,Fraser East,Fraser,2015,11,Take Home Naloxone,5,0,100.0
+21,Fraser East,Fraser,2015,12,Take Home Naloxone,5,0,0.0
+21,Fraser East,Fraser,2016,1,Take Home Naloxone,5,0,40.0
+21,Fraser East,Fraser,2016,2,Take Home Naloxone,5,0,65.0
+21,Fraser East,Fraser,2016,3,Take Home Naloxone,6,1,84.0
+21,Fraser East,Fraser,2016,4,Take Home Naloxone,8,2,157.0
+21,Fraser East,Fraser,2016,5,Take Home Naloxone,9,1,1.0
+21,Fraser East,Fraser,2016,6,Take Home Naloxone,10,1,285.0
+21,Fraser East,Fraser,2016,7,Take Home Naloxone,13,3,122.0
+21,Fraser East,Fraser,2016,8,Take Home Naloxone,14,1,81.0
+21,Fraser East,Fraser,2016,9,Take Home Naloxone,19,5,118.0
+21,Fraser East,Fraser,2016,10,Take Home Naloxone,21,2,328.0
+21,Fraser East,Fraser,2016,11,Take Home Naloxone,23,2,530.0
+21,Fraser East,Fraser,2016,12,Take Home Naloxone,23,0,452.0
+21,Fraser East,Fraser,2017,1,Take Home Naloxone,24,1,268.0
+21,Fraser East,Fraser,2017,2,Take Home Naloxone,29,5,340.0
+21,Fraser East,Fraser,2017,3,Take Home Naloxone,33,4,338.0
+21,Fraser East,Fraser,2017,4,Take Home Naloxone,34,1,675.0
+21,Fraser East,Fraser,2017,5,Take Home Naloxone,34,0,985.0
+21,Fraser East,Fraser,2017,6,Take Home Naloxone,36,2,946.0
+21,Fraser East,Fraser,2017,7,Take Home Naloxone,39,3,680.0
+21,Fraser East,Fraser,2017,8,Take Home Naloxone,39,0,1480.0
+21,Fraser East,Fraser,2017,9,Take Home Naloxone,41,2,364.0
+21,Fraser East,Fraser,2017,10,Take Home Naloxone,43,2,240.0
+21,Fraser East,Fraser,2017,11,Take Home Naloxone,47,4,1150.0
+21,Fraser East,Fraser,2017,12,Take Home Naloxone,61,14,632.0
+21,Fraser East,Fraser,2018,1,Take Home Naloxone,72,11,615.0
+21,Fraser East,Fraser,2018,2,Take Home Naloxone,85,13,768.0
+21,Fraser East,Fraser,2018,3,Take Home Naloxone,85,0,1070.0
+21,Fraser East,Fraser,2018,4,Take Home Naloxone,87,2,655.0
+21,Fraser East,Fraser,2018,5,Take Home Naloxone,87,0,1145.0
+21,Fraser East,Fraser,2018,6,Take Home Naloxone,88,1,745.0
+21,Fraser East,Fraser,2018,7,Take Home Naloxone,88,0,745.0
+21,Fraser East,Fraser,2018,8,Take Home Naloxone,89,1,1376.0
+21,Fraser East,Fraser,2018,9,Take Home Naloxone,89,0,1043.0
+21,Fraser East,Fraser,2018,10,Take Home Naloxone,89,0,1270.0
+21,Fraser East,Fraser,2018,11,Take Home Naloxone,89,0,855.0
+21,Fraser East,Fraser,2018,12,Take Home Naloxone,91,2,770.0
+21,Fraser East,Fraser,2019,1,Take Home Naloxone,94,3,955.0
+21,Fraser East,Fraser,2019,2,Take Home Naloxone,97,3,895.0
+21,Fraser East,Fraser,2019,3,Take Home Naloxone,98,1,1195.0
+21,Fraser East,Fraser,2019,4,Take Home Naloxone,100,2,1064.0
+21,Fraser East,Fraser,2019,5,Take Home Naloxone,104,4,1790.0
+21,Fraser East,Fraser,2019,6,Take Home Naloxone,106,2,1180.0
+21,Fraser East,Fraser,2019,7,Take Home Naloxone,108,2,1154.0
+21,Fraser East,Fraser,2019,8,Take Home Naloxone,108,0,1707.0
+21,Fraser East,Fraser,2019,9,Take Home Naloxone,112,4,540.0
+21,Fraser East,Fraser,2019,10,Take Home Naloxone,112,0,1555.0
+21,Fraser East,Fraser,2019,11,Take Home Naloxone,115,3,1130.0
+21,Fraser East,Fraser,2019,12,Take Home Naloxone,115,0,1050.0
+21,Fraser East,Fraser,2020,1,Take Home Naloxone,118,3,945.0
+21,Fraser East,Fraser,2020,2,Take Home Naloxone,120,2,660.0
+21,Fraser East,Fraser,2020,3,Take Home Naloxone,120,0,890.0
+21,Fraser East,Fraser,2020,4,Take Home Naloxone,120,0,1130.0
+21,Fraser East,Fraser,2020,5,Take Home Naloxone,124,4,862.0
+21,Fraser East,Fraser,2020,6,Take Home Naloxone,124,0,1525.0
+21,Fraser East,Fraser,2020,7,Take Home Naloxone,126,2,2020.0
+21,Fraser East,Fraser,2020,8,Take Home Naloxone,127,1,1061.0
+21,Fraser East,Fraser,2020,9,Take Home Naloxone,128,1,1165.0
+21,Fraser East,Fraser,2020,10,Take Home Naloxone,128,0,1655.0
+21,Fraser East,Fraser,2020,11,Take Home Naloxone,128,0,800.0
+21,Fraser East,Fraser,2020,12,Take Home Naloxone,131,3,1864.0
+21,Fraser East,Fraser,2021,1,Take Home Naloxone,131,0,1025.0
+21,Fraser East,Fraser,2021,2,Take Home Naloxone,133,2,1035.0
+21,Fraser East,Fraser,2021,3,Take Home Naloxone,134,1,1140.0
+21,Fraser East,Fraser,2021,4,Take Home Naloxone,136,2,2740.0
+21,Fraser East,Fraser,2021,5,Take Home Naloxone,136,0,1455.0
+21,Fraser East,Fraser,2021,6,Take Home Naloxone,136,0,1840.0
+21,Fraser East,Fraser,2021,7,Take Home Naloxone,137,1,1560.0
+21,Fraser East,Fraser,2021,8,Take Home Naloxone,137,0,2325.0
+21,Fraser East,Fraser,2021,9,Take Home Naloxone,137,0,1740.0
+21,Fraser East,Fraser,2021,10,Take Home Naloxone,138,1,2465.0
+21,Fraser East,Fraser,2021,11,Take Home Naloxone,138,0,1635.0
+21,Fraser East,Fraser,2021,12,Take Home Naloxone,138,0,750.0
+21,Fraser East,Fraser,2022,1,Take Home Naloxone,138,0,2095.0
+21,Fraser East,Fraser,2022,2,Take Home Naloxone,138,0,1225.0
+21,Fraser East,Fraser,2022,3,Take Home Naloxone,139,1,2275.0
+21,Fraser East,Fraser,2022,4,Take Home Naloxone,141,2,1152.0
+21,Fraser East,Fraser,2022,5,Take Home Naloxone,145,4,1910.0
+21,Fraser East,Fraser,2022,6,Take Home Naloxone,145,0,2500.0
+21,Fraser East,Fraser,2022,7,Take Home Naloxone,146,1,1925.0
+21,Fraser East,Fraser,2022,8,Take Home Naloxone,149,3,2129.0
+21,Fraser East,Fraser,2022,9,Take Home Naloxone,150,1,2100.0
+21,Fraser East,Fraser,2022,10,Take Home Naloxone,151,1,1570.0
+21,Fraser East,Fraser,2022,11,Take Home Naloxone,152,1,1275.0
+21,Fraser East,Fraser,2022,12,Take Home Naloxone,153,1,1225.0
+21,Fraser East,Fraser,2023,1,Take Home Naloxone,153,0,1445.0
+21,Fraser East,Fraser,2023,2,Take Home Naloxone,153,0,2452.0
+21,Fraser East,Fraser,2023,3,Take Home Naloxone,153,0,2450.0
+21,Fraser East,Fraser,2023,4,Take Home Naloxone,154,1,1600.0
+21,Fraser East,Fraser,2023,5,Take Home Naloxone,155,1,2015.0
+21,Fraser East,Fraser,2023,6,Take Home Naloxone,156,1,2460.0
+21,Fraser East,Fraser,2023,7,Take Home Naloxone,157,1,1935.0
+21,Fraser East,Fraser,2023,8,Take Home Naloxone,157,0,2260.0
+21,Fraser East,Fraser,2023,9,Take Home Naloxone,159,2,1365.0
+21,Fraser East,Fraser,2023,10,Take Home Naloxone,159,0,1555.0
+21,Fraser East,Fraser,2023,11,Take Home Naloxone,159,0,2129.0
+21,Fraser East,Fraser,2023,12,Take Home Naloxone,159,0,1175.0
+21,Fraser East,Fraser,2024,1,Take Home Naloxone,162,3,3250.0
+21,Fraser East,Fraser,2024,2,Take Home Naloxone,162,0,2025.0
+21,Fraser East,Fraser,2024,3,Take Home Naloxone,162,0,1385.0
+21,Fraser East,Fraser,2024,4,Take Home Naloxone,163,1,2201.0
+21,Fraser East,Fraser,2024,5,Take Home Naloxone,166,3,1875.0
+21,Fraser East,Fraser,2024,6,Take Home Naloxone,166,0,2231.0
+21,Fraser East,Fraser,2024,7,Take Home Naloxone,166,0,2765.0
+21,Fraser East,Fraser,2024,8,Take Home Naloxone,168,2,2610.0
+21,Fraser East,Fraser,2024,9,Take Home Naloxone,169,1,2502.0
+21,Fraser East,Fraser,2024,10,Take Home Naloxone,170,1,3550.0
+21,Fraser East,Fraser,2024,11,Take Home Naloxone,170,0,2665.0
+21,Fraser East,Fraser,2024,12,Take Home Naloxone,170,0,1751.0
+21,Fraser East,Fraser,2025,1,Take Home Naloxone,170,0,1150.0
+21,Fraser East,Fraser,2025,2,Take Home Naloxone,172,2,1155.0
+21,Fraser East,Fraser,2025,3,Take Home Naloxone,173,1,1535.0
+21,Fraser East,Fraser,2025,4,Take Home Naloxone,173,0,1370.0
+21,Fraser East,Fraser,2025,5,Take Home Naloxone,173,0,2125.0
+21,Fraser East,Fraser,2025,6,Take Home Naloxone,175,2,1708.0
+21,Fraser East,Fraser,2025,7,Take Home Naloxone,176,1,2375.0
+21,Fraser East,Fraser,2025,8,Take Home Naloxone,177,1,1425.0
+21,Fraser East,Fraser,2025,9,Take Home Naloxone,177,0,1675.0
+21,Fraser East,Fraser,2025,10,Take Home Naloxone,177,0,1775.0
+21,Fraser East,Fraser,2025,11,Take Home Naloxone,177,0,1850.0
+21,Fraser East,Fraser,2025,12,Take Home Naloxone,179,2,1220.0
+21,Fraser East,Fraser,2026,1,Take Home Naloxone,179,0,2050.0
+21,Fraser East,Fraser,2026,2,Take Home Naloxone,180,1,950.0
+21,Fraser East,Fraser,2026,3,Take Home Naloxone,180,0,1105.0
+21,Fraser East,Fraser,2026,4,Take Home Naloxone,180,0,1882.0
+21,Fraser East,Fraser,2026,5,Take Home Naloxone,182,2,2527.0
+21,Fraser East,Fraser,2026,6,Take Home Naloxone,182,0,1799.0
+21,Fraser East,Fraser,2026,7,Take Home Naloxone,182,0,2298.0
+22,Fraser North,Fraser,2015,1,Take Home Naloxone,1,0,0.0
+22,Fraser North,Fraser,2015,2,Take Home Naloxone,1,0,20.0
+22,Fraser North,Fraser,2015,3,Take Home Naloxone,1,0,20.0
+22,Fraser North,Fraser,2015,4,Take Home Naloxone,1,0,0.0
+22,Fraser North,Fraser,2015,5,Take Home Naloxone,1,0,0.0
+22,Fraser North,Fraser,2015,6,Take Home Naloxone,1,0,0.0
+22,Fraser North,Fraser,2015,7,Take Home Naloxone,3,2,131.0
+22,Fraser North,Fraser,2015,8,Take Home Naloxone,3,0,0.0
+22,Fraser North,Fraser,2015,9,Take Home Naloxone,4,1,90.0
+22,Fraser North,Fraser,2015,10,Take Home Naloxone,5,1,41.0
+22,Fraser North,Fraser,2015,11,Take Home Naloxone,5,0,40.0
+22,Fraser North,Fraser,2015,12,Take Home Naloxone,5,0,0.0
+22,Fraser North,Fraser,2016,1,Take Home Naloxone,6,1,119.0
+22,Fraser North,Fraser,2016,2,Take Home Naloxone,6,0,65.0
+22,Fraser North,Fraser,2016,3,Take Home Naloxone,7,1,65.0
+22,Fraser North,Fraser,2016,4,Take Home Naloxone,7,0,25.0
+22,Fraser North,Fraser,2016,5,Take Home Naloxone,12,5,238.0
+22,Fraser North,Fraser,2016,6,Take Home Naloxone,12,0,95.0
+22,Fraser North,Fraser,2016,7,Take Home Naloxone,13,1,110.0
+22,Fraser North,Fraser,2016,8,Take Home Naloxone,14,1,274.0
+22,Fraser North,Fraser,2016,9,Take Home Naloxone,17,3,210.0
+22,Fraser North,Fraser,2016,10,Take Home Naloxone,18,1,196.0
+22,Fraser North,Fraser,2016,11,Take Home Naloxone,19,1,434.0
+22,Fraser North,Fraser,2016,12,Take Home Naloxone,19,0,269.0
+22,Fraser North,Fraser,2017,1,Take Home Naloxone,19,0,406.0
+22,Fraser North,Fraser,2017,2,Take Home Naloxone,21,2,754.0
+22,Fraser North,Fraser,2017,3,Take Home Naloxone,22,1,974.0
+22,Fraser North,Fraser,2017,4,Take Home Naloxone,23,1,610.0
+22,Fraser North,Fraser,2017,5,Take Home Naloxone,24,1,588.0
+22,Fraser North,Fraser,2017,6,Take Home Naloxone,27,3,541.0
+22,Fraser North,Fraser,2017,7,Take Home Naloxone,29,2,350.0
+22,Fraser North,Fraser,2017,8,Take Home Naloxone,31,2,550.0
+22,Fraser North,Fraser,2017,9,Take Home Naloxone,31,0,670.0
+22,Fraser North,Fraser,2017,10,Take Home Naloxone,33,2,1370.0
+22,Fraser North,Fraser,2017,11,Take Home Naloxone,33,0,1040.0
+22,Fraser North,Fraser,2017,12,Take Home Naloxone,65,32,805.0
+22,Fraser North,Fraser,2018,1,Take Home Naloxone,92,27,1285.0
+22,Fraser North,Fraser,2018,2,Take Home Naloxone,118,26,803.0
+22,Fraser North,Fraser,2018,3,Take Home Naloxone,118,0,769.0
+22,Fraser North,Fraser,2018,4,Take Home Naloxone,118,0,512.0
+22,Fraser North,Fraser,2018,5,Take Home Naloxone,118,0,695.0
+22,Fraser North,Fraser,2018,6,Take Home Naloxone,118,0,368.0
+22,Fraser North,Fraser,2018,7,Take Home Naloxone,120,2,651.0
+22,Fraser North,Fraser,2018,8,Take Home Naloxone,122,2,1309.0
+22,Fraser North,Fraser,2018,9,Take Home Naloxone,122,0,586.0
+22,Fraser North,Fraser,2018,10,Take Home Naloxone,123,1,2102.0
+22,Fraser North,Fraser,2018,11,Take Home Naloxone,123,0,922.0
+22,Fraser North,Fraser,2018,12,Take Home Naloxone,123,0,855.0
+22,Fraser North,Fraser,2019,1,Take Home Naloxone,124,1,1265.0
+22,Fraser North,Fraser,2019,2,Take Home Naloxone,124,0,695.0
+22,Fraser North,Fraser,2019,3,Take Home Naloxone,124,0,638.0
+22,Fraser North,Fraser,2019,4,Take Home Naloxone,125,1,746.0
+22,Fraser North,Fraser,2019,5,Take Home Naloxone,137,12,1110.0
+22,Fraser North,Fraser,2019,6,Take Home Naloxone,140,3,1477.0
+22,Fraser North,Fraser,2019,7,Take Home Naloxone,144,4,1041.0
+22,Fraser North,Fraser,2019,8,Take Home Naloxone,146,2,1737.0
+22,Fraser North,Fraser,2019,9,Take Home Naloxone,146,0,1243.0
+22,Fraser North,Fraser,2019,10,Take Home Naloxone,146,0,1013.0
+22,Fraser North,Fraser,2019,11,Take Home Naloxone,146,0,688.0
+22,Fraser North,Fraser,2019,12,Take Home Naloxone,146,0,772.0
+22,Fraser North,Fraser,2020,1,Take Home Naloxone,147,1,1005.0
+22,Fraser North,Fraser,2020,2,Take Home Naloxone,149,2,825.0
+22,Fraser North,Fraser,2020,3,Take Home Naloxone,149,0,1184.0
+22,Fraser North,Fraser,2020,4,Take Home Naloxone,149,0,930.0
+22,Fraser North,Fraser,2020,5,Take Home Naloxone,149,0,955.0
+22,Fraser North,Fraser,2020,6,Take Home Naloxone,150,1,835.0
+22,Fraser North,Fraser,2020,7,Take Home Naloxone,151,1,1617.0
+22,Fraser North,Fraser,2020,8,Take Home Naloxone,152,1,1800.0
+22,Fraser North,Fraser,2020,9,Take Home Naloxone,153,1,1650.0
+22,Fraser North,Fraser,2020,10,Take Home Naloxone,154,1,2964.0
+22,Fraser North,Fraser,2020,11,Take Home Naloxone,156,2,1331.0
+22,Fraser North,Fraser,2020,12,Take Home Naloxone,157,1,1225.0
+22,Fraser North,Fraser,2021,1,Take Home Naloxone,158,1,1850.0
+22,Fraser North,Fraser,2021,2,Take Home Naloxone,158,0,1315.0
+22,Fraser North,Fraser,2021,3,Take Home Naloxone,161,3,2035.0
+22,Fraser North,Fraser,2021,4,Take Home Naloxone,162,1,1905.0
+22,Fraser North,Fraser,2021,5,Take Home Naloxone,162,0,2370.0
+22,Fraser North,Fraser,2021,6,Take Home Naloxone,164,2,1470.0
+22,Fraser North,Fraser,2021,7,Take Home Naloxone,164,0,2995.0
+22,Fraser North,Fraser,2021,8,Take Home Naloxone,164,0,2605.0
+22,Fraser North,Fraser,2021,9,Take Home Naloxone,165,1,2264.0
+22,Fraser North,Fraser,2021,10,Take Home Naloxone,166,1,2900.0
+22,Fraser North,Fraser,2021,11,Take Home Naloxone,167,1,2820.0
+22,Fraser North,Fraser,2021,12,Take Home Naloxone,167,0,2155.0
+22,Fraser North,Fraser,2022,1,Take Home Naloxone,168,1,2050.0
+22,Fraser North,Fraser,2022,2,Take Home Naloxone,170,2,2525.0
+22,Fraser North,Fraser,2022,3,Take Home Naloxone,170,0,2980.0
+22,Fraser North,Fraser,2022,4,Take Home Naloxone,170,0,1725.0
+22,Fraser North,Fraser,2022,5,Take Home Naloxone,171,1,2705.0
+22,Fraser North,Fraser,2022,6,Take Home Naloxone,172,1,2875.0
+22,Fraser North,Fraser,2022,7,Take Home Naloxone,173,1,2250.0
+22,Fraser North,Fraser,2022,8,Take Home Naloxone,178,5,2360.0
+22,Fraser North,Fraser,2022,9,Take Home Naloxone,178,0,2600.0
+22,Fraser North,Fraser,2022,10,Take Home Naloxone,180,2,2298.0
+22,Fraser North,Fraser,2022,11,Take Home Naloxone,180,0,1979.0
+22,Fraser North,Fraser,2022,12,Take Home Naloxone,183,3,2250.0
+22,Fraser North,Fraser,2023,1,Take Home Naloxone,183,0,2535.0
+22,Fraser North,Fraser,2023,2,Take Home Naloxone,183,0,2743.0
+22,Fraser North,Fraser,2023,3,Take Home Naloxone,184,1,3765.0
+22,Fraser North,Fraser,2023,4,Take Home Naloxone,184,0,2750.0
+22,Fraser North,Fraser,2023,5,Take Home Naloxone,185,1,2925.0
+22,Fraser North,Fraser,2023,6,Take Home Naloxone,187,2,3670.0
+22,Fraser North,Fraser,2023,7,Take Home Naloxone,187,0,2634.0
+22,Fraser North,Fraser,2023,8,Take Home Naloxone,188,1,3650.0
+22,Fraser North,Fraser,2023,9,Take Home Naloxone,190,2,3600.0
+22,Fraser North,Fraser,2023,10,Take Home Naloxone,191,1,3126.0
+22,Fraser North,Fraser,2023,11,Take Home Naloxone,191,0,3570.0
+22,Fraser North,Fraser,2023,12,Take Home Naloxone,192,1,1710.0
+22,Fraser North,Fraser,2024,1,Take Home Naloxone,195,3,3850.0
+22,Fraser North,Fraser,2024,2,Take Home Naloxone,196,1,4780.0
+22,Fraser North,Fraser,2024,3,Take Home Naloxone,197,1,2925.0
+22,Fraser North,Fraser,2024,4,Take Home Naloxone,198,1,2875.0
+22,Fraser North,Fraser,2024,5,Take Home Naloxone,202,4,4649.0
+22,Fraser North,Fraser,2024,6,Take Home Naloxone,203,1,2654.0
+22,Fraser North,Fraser,2024,7,Take Home Naloxone,204,1,2723.0
+22,Fraser North,Fraser,2024,8,Take Home Naloxone,204,0,3736.0
+22,Fraser North,Fraser,2024,9,Take Home Naloxone,205,1,2000.0
+22,Fraser North,Fraser,2024,10,Take Home Naloxone,211,6,3650.0
+22,Fraser North,Fraser,2024,11,Take Home Naloxone,213,2,4090.0
+22,Fraser North,Fraser,2024,12,Take Home Naloxone,213,0,2961.0
+22,Fraser North,Fraser,2025,1,Take Home Naloxone,213,0,3922.0
+22,Fraser North,Fraser,2025,2,Take Home Naloxone,214,1,2457.0
+22,Fraser North,Fraser,2025,3,Take Home Naloxone,215,1,1260.0
+22,Fraser North,Fraser,2025,4,Take Home Naloxone,215,0,2014.0
+22,Fraser North,Fraser,2025,5,Take Home Naloxone,215,0,3065.0
+22,Fraser North,Fraser,2025,6,Take Home Naloxone,215,0,1975.0
+22,Fraser North,Fraser,2025,7,Take Home Naloxone,216,1,2960.0
+22,Fraser North,Fraser,2025,8,Take Home Naloxone,217,1,2765.0
+22,Fraser North,Fraser,2025,9,Take Home Naloxone,218,1,2650.0
+22,Fraser North,Fraser,2025,10,Take Home Naloxone,218,0,4065.0
+22,Fraser North,Fraser,2025,11,Take Home Naloxone,218,0,2100.0
+22,Fraser North,Fraser,2025,12,Take Home Naloxone,218,0,2075.0
+22,Fraser North,Fraser,2026,1,Take Home Naloxone,218,0,3522.0
+22,Fraser North,Fraser,2026,2,Take Home Naloxone,218,0,2719.0
+22,Fraser North,Fraser,2026,3,Take Home Naloxone,218,0,2350.0
+22,Fraser North,Fraser,2026,4,Take Home Naloxone,220,2,3385.0
+22,Fraser North,Fraser,2026,5,Take Home Naloxone,220,0,3615.0
+22,Fraser North,Fraser,2026,6,Take Home Naloxone,221,1,2810.0
+22,Fraser North,Fraser,2026,7,Take Home Naloxone,222,1,4143.0
+23,Fraser South,Fraser,2015,1,Take Home Naloxone,7,1,50.0
+23,Fraser South,Fraser,2015,2,Take Home Naloxone,7,0,70.0
+23,Fraser South,Fraser,2015,3,Take Home Naloxone,8,1,0.0
+23,Fraser South,Fraser,2015,4,Take Home Naloxone,8,0,25.0
+23,Fraser South,Fraser,2015,5,Take Home Naloxone,8,0,43.0
+23,Fraser South,Fraser,2015,6,Take Home Naloxone,9,1,46.0
+23,Fraser South,Fraser,2015,7,Take Home Naloxone,9,0,53.0
+23,Fraser South,Fraser,2015,8,Take Home Naloxone,9,0,0.0
+23,Fraser South,Fraser,2015,9,Take Home Naloxone,9,0,42.0
+23,Fraser South,Fraser,2015,10,Take Home Naloxone,9,0,40.0
+23,Fraser South,Fraser,2015,11,Take Home Naloxone,9,0,60.0
+23,Fraser South,Fraser,2015,12,Take Home Naloxone,10,1,50.0
+23,Fraser South,Fraser,2016,1,Take Home Naloxone,10,0,233.0
+23,Fraser South,Fraser,2016,2,Take Home Naloxone,10,0,175.0
+23,Fraser South,Fraser,2016,3,Take Home Naloxone,11,1,287.0
+23,Fraser South,Fraser,2016,4,Take Home Naloxone,12,1,244.0
+23,Fraser South,Fraser,2016,5,Take Home Naloxone,14,2,190.0
+23,Fraser South,Fraser,2016,6,Take Home Naloxone,16,2,265.0
+23,Fraser South,Fraser,2016,7,Take Home Naloxone,17,1,553.0
+23,Fraser South,Fraser,2016,8,Take Home Naloxone,18,1,591.0
+23,Fraser South,Fraser,2016,9,Take Home Naloxone,22,4,310.0
+23,Fraser South,Fraser,2016,10,Take Home Naloxone,25,3,547.0
+23,Fraser South,Fraser,2016,11,Take Home Naloxone,27,2,862.0
+23,Fraser South,Fraser,2016,12,Take Home Naloxone,31,4,922.0
+23,Fraser South,Fraser,2017,1,Take Home Naloxone,32,1,669.0
+23,Fraser South,Fraser,2017,2,Take Home Naloxone,34,2,810.0
+23,Fraser South,Fraser,2017,3,Take Home Naloxone,34,0,778.0
+23,Fraser South,Fraser,2017,4,Take Home Naloxone,36,2,1240.0
+23,Fraser South,Fraser,2017,5,Take Home Naloxone,37,1,1465.0
+23,Fraser South,Fraser,2017,6,Take Home Naloxone,40,3,1150.0
+23,Fraser South,Fraser,2017,7,Take Home Naloxone,44,4,1211.0
+23,Fraser South,Fraser,2017,8,Take Home Naloxone,45,1,1005.0
+23,Fraser South,Fraser,2017,9,Take Home Naloxone,45,0,1024.0
+23,Fraser South,Fraser,2017,10,Take Home Naloxone,47,2,1514.0
+23,Fraser South,Fraser,2017,11,Take Home Naloxone,48,1,1634.0
+23,Fraser South,Fraser,2017,12,Take Home Naloxone,97,49,790.0
+23,Fraser South,Fraser,2018,1,Take Home Naloxone,122,25,765.0
+23,Fraser South,Fraser,2018,2,Take Home Naloxone,146,24,415.0
+23,Fraser South,Fraser,2018,3,Take Home Naloxone,147,1,1603.0
+23,Fraser South,Fraser,2018,4,Take Home Naloxone,150,3,1130.0
+23,Fraser South,Fraser,2018,5,Take Home Naloxone,151,1,2114.0
+23,Fraser South,Fraser,2018,6,Take Home Naloxone,152,1,1423.0
+23,Fraser South,Fraser,2018,7,Take Home Naloxone,154,2,1600.0
+23,Fraser South,Fraser,2018,8,Take Home Naloxone,156,2,1500.0
+23,Fraser South,Fraser,2018,9,Take Home Naloxone,156,0,1950.0
+23,Fraser South,Fraser,2018,10,Take Home Naloxone,157,1,900.0
+23,Fraser South,Fraser,2018,11,Take Home Naloxone,163,6,2060.0
+23,Fraser South,Fraser,2018,12,Take Home Naloxone,164,1,855.0
+23,Fraser South,Fraser,2019,1,Take Home Naloxone,169,5,1440.0
+23,Fraser South,Fraser,2019,2,Take Home Naloxone,171,2,956.0
+23,Fraser South,Fraser,2019,3,Take Home Naloxone,171,0,620.0
+23,Fraser South,Fraser,2019,4,Take Home Naloxone,171,0,1283.0
+23,Fraser South,Fraser,2019,5,Take Home Naloxone,182,11,2225.0
+23,Fraser South,Fraser,2019,6,Take Home Naloxone,183,1,1450.0
+23,Fraser South,Fraser,2019,7,Take Home Naloxone,192,9,1940.0
+23,Fraser South,Fraser,2019,8,Take Home Naloxone,192,0,1752.0
+23,Fraser South,Fraser,2019,9,Take Home Naloxone,193,1,1498.0
+23,Fraser South,Fraser,2019,10,Take Home Naloxone,193,0,2811.0
+23,Fraser South,Fraser,2019,11,Take Home Naloxone,194,1,1645.0
+23,Fraser South,Fraser,2019,12,Take Home Naloxone,194,0,1482.0
+23,Fraser South,Fraser,2020,1,Take Home Naloxone,196,2,1365.0
+23,Fraser South,Fraser,2020,2,Take Home Naloxone,197,1,1645.0
+23,Fraser South,Fraser,2020,3,Take Home Naloxone,197,0,1115.0
+23,Fraser South,Fraser,2020,4,Take Home Naloxone,197,0,1370.0
+23,Fraser South,Fraser,2020,5,Take Home Naloxone,197,0,1791.0
+23,Fraser South,Fraser,2020,6,Take Home Naloxone,197,0,2103.0
+23,Fraser South,Fraser,2020,7,Take Home Naloxone,197,0,4161.0
+23,Fraser South,Fraser,2020,8,Take Home Naloxone,198,1,2245.0
+23,Fraser South,Fraser,2020,9,Take Home Naloxone,198,0,2488.0
+23,Fraser South,Fraser,2020,10,Take Home Naloxone,201,3,2276.0
+23,Fraser South,Fraser,2020,11,Take Home Naloxone,202,1,2145.0
+23,Fraser South,Fraser,2020,12,Take Home Naloxone,204,2,2607.0
+23,Fraser South,Fraser,2021,1,Take Home Naloxone,205,1,2071.0
+23,Fraser South,Fraser,2021,2,Take Home Naloxone,205,0,2320.0
+23,Fraser South,Fraser,2021,3,Take Home Naloxone,207,2,3175.0
+23,Fraser South,Fraser,2021,4,Take Home Naloxone,210,3,3976.0
+23,Fraser South,Fraser,2021,5,Take Home Naloxone,210,0,3110.0
+23,Fraser South,Fraser,2021,6,Take Home Naloxone,210,0,2472.0
+23,Fraser South,Fraser,2021,7,Take Home Naloxone,211,1,3482.0
+23,Fraser South,Fraser,2021,8,Take Home Naloxone,212,1,4185.0
+23,Fraser South,Fraser,2021,9,Take Home Naloxone,212,0,3905.0
+23,Fraser South,Fraser,2021,10,Take Home Naloxone,213,1,4245.0
+23,Fraser South,Fraser,2021,11,Take Home Naloxone,213,0,3135.0
+23,Fraser South,Fraser,2021,12,Take Home Naloxone,215,2,3195.0
+23,Fraser South,Fraser,2022,1,Take Home Naloxone,216,1,2799.0
+23,Fraser South,Fraser,2022,2,Take Home Naloxone,218,2,2089.0
+23,Fraser South,Fraser,2022,3,Take Home Naloxone,224,6,3180.0
+23,Fraser South,Fraser,2022,4,Take Home Naloxone,229,5,2904.0
+23,Fraser South,Fraser,2022,5,Take Home Naloxone,230,1,4035.0
+23,Fraser South,Fraser,2022,6,Take Home Naloxone,232,2,4475.0
+23,Fraser South,Fraser,2022,7,Take Home Naloxone,233,1,3690.0
+23,Fraser South,Fraser,2022,8,Take Home Naloxone,239,6,3456.0
+23,Fraser South,Fraser,2022,9,Take Home Naloxone,241,2,3549.0
+23,Fraser South,Fraser,2022,10,Take Home Naloxone,242,1,2525.0
+23,Fraser South,Fraser,2022,11,Take Home Naloxone,242,0,2725.0
+23,Fraser South,Fraser,2022,12,Take Home Naloxone,243,1,2904.0
+23,Fraser South,Fraser,2023,1,Take Home Naloxone,243,0,3170.0
+23,Fraser South,Fraser,2023,2,Take Home Naloxone,245,2,2970.0
+23,Fraser South,Fraser,2023,3,Take Home Naloxone,245,0,3355.0
+23,Fraser South,Fraser,2023,4,Take Home Naloxone,249,4,2715.0
+23,Fraser South,Fraser,2023,5,Take Home Naloxone,250,1,3365.0
+23,Fraser South,Fraser,2023,6,Take Home Naloxone,250,0,5462.0
+23,Fraser South,Fraser,2023,7,Take Home Naloxone,251,1,3837.0
+23,Fraser South,Fraser,2023,8,Take Home Naloxone,252,1,5080.0
+23,Fraser South,Fraser,2023,9,Take Home Naloxone,253,1,4107.0
+23,Fraser South,Fraser,2023,10,Take Home Naloxone,253,0,4417.0
+23,Fraser South,Fraser,2023,11,Take Home Naloxone,255,2,5487.0
+23,Fraser South,Fraser,2023,12,Take Home Naloxone,255,0,1835.0
+23,Fraser South,Fraser,2024,1,Take Home Naloxone,256,1,4025.0
+23,Fraser South,Fraser,2024,2,Take Home Naloxone,257,1,4655.0
+23,Fraser South,Fraser,2024,3,Take Home Naloxone,257,0,3550.0
+23,Fraser South,Fraser,2024,4,Take Home Naloxone,257,0,2611.0
+23,Fraser South,Fraser,2024,5,Take Home Naloxone,260,3,2834.0
+23,Fraser South,Fraser,2024,6,Take Home Naloxone,260,0,3855.0
+23,Fraser South,Fraser,2024,7,Take Home Naloxone,260,0,3530.0
+23,Fraser South,Fraser,2024,8,Take Home Naloxone,261,1,5169.0
+23,Fraser South,Fraser,2024,9,Take Home Naloxone,262,1,3220.0
+23,Fraser South,Fraser,2024,10,Take Home Naloxone,263,1,4340.0
+23,Fraser South,Fraser,2024,11,Take Home Naloxone,264,1,3125.0
+23,Fraser South,Fraser,2024,12,Take Home Naloxone,264,0,2125.0
+23,Fraser South,Fraser,2025,1,Take Home Naloxone,264,0,3154.0
+23,Fraser South,Fraser,2025,2,Take Home Naloxone,266,2,2070.0
+23,Fraser South,Fraser,2025,3,Take Home Naloxone,266,0,2677.0
+23,Fraser South,Fraser,2025,4,Take Home Naloxone,267,1,2545.0
+23,Fraser South,Fraser,2025,5,Take Home Naloxone,267,0,3992.0
+23,Fraser South,Fraser,2025,6,Take Home Naloxone,267,0,2535.0
+23,Fraser South,Fraser,2025,7,Take Home Naloxone,268,1,3689.0
+23,Fraser South,Fraser,2025,8,Take Home Naloxone,270,2,3525.0
+23,Fraser South,Fraser,2025,9,Take Home Naloxone,275,5,3275.0
+23,Fraser South,Fraser,2025,10,Take Home Naloxone,276,1,4006.0
+23,Fraser South,Fraser,2025,11,Take Home Naloxone,276,0,3655.0
+23,Fraser South,Fraser,2025,12,Take Home Naloxone,277,1,2908.0
+23,Fraser South,Fraser,2026,1,Take Home Naloxone,278,1,2278.0
+23,Fraser South,Fraser,2026,2,Take Home Naloxone,279,1,2045.0
+23,Fraser South,Fraser,2026,3,Take Home Naloxone,284,5,1652.0
+23,Fraser South,Fraser,2026,4,Take Home Naloxone,286,2,3992.0
+23,Fraser South,Fraser,2026,5,Take Home Naloxone,288,2,2755.0
+23,Fraser South,Fraser,2026,6,Take Home Naloxone,291,3,3785.0
+23,Fraser South,Fraser,2026,7,Take Home Naloxone,291,0,4212.0
+31,Richmond,Vancouver Coastal,2015,1,Take Home Naloxone,1,0,0.0
+31,Richmond,Vancouver Coastal,2015,2,Take Home Naloxone,1,0,20.0
+31,Richmond,Vancouver Coastal,2015,3,Take Home Naloxone,1,0,0.0
+31,Richmond,Vancouver Coastal,2015,4,Take Home Naloxone,1,0,0.0
+31,Richmond,Vancouver Coastal,2015,5,Take Home Naloxone,1,0,0.0
+31,Richmond,Vancouver Coastal,2015,6,Take Home Naloxone,1,0,0.0
+31,Richmond,Vancouver Coastal,2015,7,Take Home Naloxone,1,0,20.0
+31,Richmond,Vancouver Coastal,2015,8,Take Home Naloxone,1,0,0.0
+31,Richmond,Vancouver Coastal,2015,9,Take Home Naloxone,1,0,0.0
+31,Richmond,Vancouver Coastal,2015,10,Take Home Naloxone,1,0,22.0
+31,Richmond,Vancouver Coastal,2015,11,Take Home Naloxone,1,0,0.0
+31,Richmond,Vancouver Coastal,2015,12,Take Home Naloxone,1,0,0.0
+31,Richmond,Vancouver Coastal,2016,1,Take Home Naloxone,2,1,22.0
+31,Richmond,Vancouver Coastal,2016,2,Take Home Naloxone,2,0,0.0
+31,Richmond,Vancouver Coastal,2016,3,Take Home Naloxone,2,0,22.0
+31,Richmond,Vancouver Coastal,2016,4,Take Home Naloxone,2,0,15.0
+31,Richmond,Vancouver Coastal,2016,5,Take Home Naloxone,2,0,45.0
+31,Richmond,Vancouver Coastal,2016,6,Take Home Naloxone,2,0,30.0
+31,Richmond,Vancouver Coastal,2016,7,Take Home Naloxone,4,2,80.0
+31,Richmond,Vancouver Coastal,2016,8,Take Home Naloxone,4,0,0.0
+31,Richmond,Vancouver Coastal,2016,9,Take Home Naloxone,4,0,30.0
+31,Richmond,Vancouver Coastal,2016,10,Take Home Naloxone,5,1,70.0
+31,Richmond,Vancouver Coastal,2016,11,Take Home Naloxone,5,0,90.0
+31,Richmond,Vancouver Coastal,2016,12,Take Home Naloxone,5,0,0.0
+31,Richmond,Vancouver Coastal,2017,1,Take Home Naloxone,5,0,60.0
+31,Richmond,Vancouver Coastal,2017,2,Take Home Naloxone,8,3,70.0
+31,Richmond,Vancouver Coastal,2017,3,Take Home Naloxone,8,0,50.0
+31,Richmond,Vancouver Coastal,2017,4,Take Home Naloxone,8,0,0.0
+31,Richmond,Vancouver Coastal,2017,5,Take Home Naloxone,9,1,170.0
+31,Richmond,Vancouver Coastal,2017,6,Take Home Naloxone,10,1,105.0
+31,Richmond,Vancouver Coastal,2017,7,Take Home Naloxone,10,0,70.0
+31,Richmond,Vancouver Coastal,2017,8,Take Home Naloxone,10,0,0.0
+31,Richmond,Vancouver Coastal,2017,9,Take Home Naloxone,10,0,50.0
+31,Richmond,Vancouver Coastal,2017,10,Take Home Naloxone,10,0,0.0
+31,Richmond,Vancouver Coastal,2017,11,Take Home Naloxone,10,0,50.0
+31,Richmond,Vancouver Coastal,2017,12,Take Home Naloxone,21,11,1950.0
+31,Richmond,Vancouver Coastal,2018,1,Take Home Naloxone,28,7,200.0
+31,Richmond,Vancouver Coastal,2018,2,Take Home Naloxone,30,2,140.0
+31,Richmond,Vancouver Coastal,2018,3,Take Home Naloxone,30,0,500.0
+31,Richmond,Vancouver Coastal,2018,4,Take Home Naloxone,31,1,36.0
+31,Richmond,Vancouver Coastal,2018,5,Take Home Naloxone,31,0,34.0
+31,Richmond,Vancouver Coastal,2018,6,Take Home Naloxone,31,0,120.0
+31,Richmond,Vancouver Coastal,2018,7,Take Home Naloxone,32,1,765.0
+31,Richmond,Vancouver Coastal,2018,8,Take Home Naloxone,32,0,110.0
+31,Richmond,Vancouver Coastal,2018,9,Take Home Naloxone,32,0,0.0
+31,Richmond,Vancouver Coastal,2018,10,Take Home Naloxone,32,0,190.0
+31,Richmond,Vancouver Coastal,2018,11,Take Home Naloxone,32,0,842.0
+31,Richmond,Vancouver Coastal,2018,12,Take Home Naloxone,32,0,620.0
+31,Richmond,Vancouver Coastal,2019,1,Take Home Naloxone,33,1,10.0
+31,Richmond,Vancouver Coastal,2019,2,Take Home Naloxone,34,1,860.0
+31,Richmond,Vancouver Coastal,2019,3,Take Home Naloxone,34,0,100.0
+31,Richmond,Vancouver Coastal,2019,4,Take Home Naloxone,34,0,771.0
+31,Richmond,Vancouver Coastal,2019,5,Take Home Naloxone,36,2,1231.0
+31,Richmond,Vancouver Coastal,2019,6,Take Home Naloxone,36,0,496.0
+31,Richmond,Vancouver Coastal,2019,7,Take Home Naloxone,38,2,24.0
+31,Richmond,Vancouver Coastal,2019,8,Take Home Naloxone,38,0,1098.0
+31,Richmond,Vancouver Coastal,2019,9,Take Home Naloxone,38,0,180.0
+31,Richmond,Vancouver Coastal,2019,10,Take Home Naloxone,38,0,530.0
+31,Richmond,Vancouver Coastal,2019,11,Take Home Naloxone,38,0,440.0
+31,Richmond,Vancouver Coastal,2019,12,Take Home Naloxone,38,0,548.0
+31,Richmond,Vancouver Coastal,2020,1,Take Home Naloxone,38,0,99.0
+31,Richmond,Vancouver Coastal,2020,2,Take Home Naloxone,38,0,120.0
+31,Richmond,Vancouver Coastal,2020,3,Take Home Naloxone,38,0,948.0
+31,Richmond,Vancouver Coastal,2020,4,Take Home Naloxone,38,0,136.0
+31,Richmond,Vancouver Coastal,2020,5,Take Home Naloxone,38,0,200.0
+31,Richmond,Vancouver Coastal,2020,6,Take Home Naloxone,38,0,38.0
+31,Richmond,Vancouver Coastal,2020,7,Take Home Naloxone,38,0,798.0
+31,Richmond,Vancouver Coastal,2020,8,Take Home Naloxone,38,0,274.0
+31,Richmond,Vancouver Coastal,2020,9,Take Home Naloxone,38,0,260.0
+31,Richmond,Vancouver Coastal,2020,10,Take Home Naloxone,38,0,1006.0
+31,Richmond,Vancouver Coastal,2020,11,Take Home Naloxone,38,0,658.0
+31,Richmond,Vancouver Coastal,2020,12,Take Home Naloxone,38,0,538.0
+31,Richmond,Vancouver Coastal,2021,1,Take Home Naloxone,38,0,156.0
+31,Richmond,Vancouver Coastal,2021,2,Take Home Naloxone,38,0,0.0
+31,Richmond,Vancouver Coastal,2021,3,Take Home Naloxone,39,1,1550.0
+31,Richmond,Vancouver Coastal,2021,4,Take Home Naloxone,39,0,60.0
+31,Richmond,Vancouver Coastal,2021,5,Take Home Naloxone,39,0,1080.0
+31,Richmond,Vancouver Coastal,2021,6,Take Home Naloxone,39,0,310.0
+31,Richmond,Vancouver Coastal,2021,7,Take Home Naloxone,39,0,1275.0
+31,Richmond,Vancouver Coastal,2021,8,Take Home Naloxone,39,0,425.0
+31,Richmond,Vancouver Coastal,2021,9,Take Home Naloxone,39,0,550.0
+31,Richmond,Vancouver Coastal,2021,10,Take Home Naloxone,39,0,325.0
+31,Richmond,Vancouver Coastal,2021,11,Take Home Naloxone,39,0,725.0
+31,Richmond,Vancouver Coastal,2021,12,Take Home Naloxone,39,0,350.0
+31,Richmond,Vancouver Coastal,2022,1,Take Home Naloxone,39,0,300.0
+31,Richmond,Vancouver Coastal,2022,2,Take Home Naloxone,39,0,1025.0
+31,Richmond,Vancouver Coastal,2022,3,Take Home Naloxone,40,1,1150.0
+31,Richmond,Vancouver Coastal,2022,4,Take Home Naloxone,40,0,700.0
+31,Richmond,Vancouver Coastal,2022,5,Take Home Naloxone,40,0,1025.0
+31,Richmond,Vancouver Coastal,2022,6,Take Home Naloxone,40,0,550.0
+31,Richmond,Vancouver Coastal,2022,7,Take Home Naloxone,40,0,1125.0
+31,Richmond,Vancouver Coastal,2022,8,Take Home Naloxone,40,0,525.0
+31,Richmond,Vancouver Coastal,2022,9,Take Home Naloxone,40,0,1150.0
+31,Richmond,Vancouver Coastal,2022,10,Take Home Naloxone,40,0,725.0
+31,Richmond,Vancouver Coastal,2022,11,Take Home Naloxone,40,0,900.0
+31,Richmond,Vancouver Coastal,2022,12,Take Home Naloxone,41,1,1025.0
+31,Richmond,Vancouver Coastal,2023,1,Take Home Naloxone,41,0,475.0
+31,Richmond,Vancouver Coastal,2023,2,Take Home Naloxone,41,0,775.0
+31,Richmond,Vancouver Coastal,2023,3,Take Home Naloxone,42,1,1200.0
+31,Richmond,Vancouver Coastal,2023,4,Take Home Naloxone,42,0,675.0
+31,Richmond,Vancouver Coastal,2023,5,Take Home Naloxone,43,1,1175.0
+31,Richmond,Vancouver Coastal,2023,6,Take Home Naloxone,44,1,1150.0
+31,Richmond,Vancouver Coastal,2023,7,Take Home Naloxone,44,0,1750.0
+31,Richmond,Vancouver Coastal,2023,8,Take Home Naloxone,44,0,1450.0
+31,Richmond,Vancouver Coastal,2023,9,Take Home Naloxone,45,1,600.0
+31,Richmond,Vancouver Coastal,2023,10,Take Home Naloxone,46,1,400.0
+31,Richmond,Vancouver Coastal,2023,11,Take Home Naloxone,46,0,1305.0
+31,Richmond,Vancouver Coastal,2023,12,Take Home Naloxone,46,0,750.0
+31,Richmond,Vancouver Coastal,2024,1,Take Home Naloxone,46,0,1250.0
+31,Richmond,Vancouver Coastal,2024,2,Take Home Naloxone,46,0,450.0
+31,Richmond,Vancouver Coastal,2024,3,Take Home Naloxone,46,0,1350.0
+31,Richmond,Vancouver Coastal,2024,4,Take Home Naloxone,47,1,600.0
+31,Richmond,Vancouver Coastal,2024,5,Take Home Naloxone,48,1,550.0
+31,Richmond,Vancouver Coastal,2024,6,Take Home Naloxone,48,0,1400.0
+31,Richmond,Vancouver Coastal,2024,7,Take Home Naloxone,48,0,750.0
+31,Richmond,Vancouver Coastal,2024,8,Take Home Naloxone,49,1,1300.0
+31,Richmond,Vancouver Coastal,2024,9,Take Home Naloxone,49,0,900.0
+31,Richmond,Vancouver Coastal,2024,10,Take Home Naloxone,50,1,1150.0
+31,Richmond,Vancouver Coastal,2024,11,Take Home Naloxone,50,0,800.0
+31,Richmond,Vancouver Coastal,2024,12,Take Home Naloxone,50,0,1375.0
+31,Richmond,Vancouver Coastal,2025,1,Take Home Naloxone,51,1,800.0
+31,Richmond,Vancouver Coastal,2025,2,Take Home Naloxone,52,1,725.0
+31,Richmond,Vancouver Coastal,2025,3,Take Home Naloxone,53,1,700.0
+31,Richmond,Vancouver Coastal,2025,4,Take Home Naloxone,53,0,600.0
+31,Richmond,Vancouver Coastal,2025,5,Take Home Naloxone,53,0,850.0
+31,Richmond,Vancouver Coastal,2025,6,Take Home Naloxone,53,0,650.0
+31,Richmond,Vancouver Coastal,2025,7,Take Home Naloxone,53,0,750.0
+31,Richmond,Vancouver Coastal,2025,8,Take Home Naloxone,53,0,400.0
+31,Richmond,Vancouver Coastal,2025,9,Take Home Naloxone,53,0,825.0
+31,Richmond,Vancouver Coastal,2025,10,Take Home Naloxone,53,0,550.0
+31,Richmond,Vancouver Coastal,2025,11,Take Home Naloxone,53,0,600.0
+31,Richmond,Vancouver Coastal,2025,12,Take Home Naloxone,53,0,725.0
+31,Richmond,Vancouver Coastal,2026,1,Take Home Naloxone,53,0,700.0
+31,Richmond,Vancouver Coastal,2026,2,Take Home Naloxone,53,0,726.0
+31,Richmond,Vancouver Coastal,2026,3,Take Home Naloxone,53,0,925.0
+31,Richmond,Vancouver Coastal,2026,4,Take Home Naloxone,53,0,1100.0
+31,Richmond,Vancouver Coastal,2026,5,Take Home Naloxone,53,0,746.0
+31,Richmond,Vancouver Coastal,2026,6,Take Home Naloxone,53,0,820.0
+31,Richmond,Vancouver Coastal,2026,7,Take Home Naloxone,53,0,750.0
+32,Vancouver,Vancouver Coastal,2015,1,Take Home Naloxone,20,0,4.0
+32,Vancouver,Vancouver Coastal,2015,2,Take Home Naloxone,22,2,180.0
+32,Vancouver,Vancouver Coastal,2015,3,Take Home Naloxone,22,0,109.0
+32,Vancouver,Vancouver Coastal,2015,4,Take Home Naloxone,22,0,189.0
+32,Vancouver,Vancouver Coastal,2015,5,Take Home Naloxone,23,1,122.0
+32,Vancouver,Vancouver Coastal,2015,6,Take Home Naloxone,23,0,135.0
+32,Vancouver,Vancouver Coastal,2015,7,Take Home Naloxone,24,1,95.0
+32,Vancouver,Vancouver Coastal,2015,8,Take Home Naloxone,24,0,469.0
+32,Vancouver,Vancouver Coastal,2015,9,Take Home Naloxone,26,2,432.0
+32,Vancouver,Vancouver Coastal,2015,10,Take Home Naloxone,28,2,95.0
+32,Vancouver,Vancouver Coastal,2015,11,Take Home Naloxone,31,3,199.0
+32,Vancouver,Vancouver Coastal,2015,12,Take Home Naloxone,32,1,318.0
+32,Vancouver,Vancouver Coastal,2016,1,Take Home Naloxone,34,2,343.0
+32,Vancouver,Vancouver Coastal,2016,2,Take Home Naloxone,35,1,923.0
+32,Vancouver,Vancouver Coastal,2016,3,Take Home Naloxone,39,4,438.0
+32,Vancouver,Vancouver Coastal,2016,4,Take Home Naloxone,39,0,466.0
+32,Vancouver,Vancouver Coastal,2016,5,Take Home Naloxone,39,0,317.0
+32,Vancouver,Vancouver Coastal,2016,6,Take Home Naloxone,42,3,4646.0
+32,Vancouver,Vancouver Coastal,2016,7,Take Home Naloxone,47,5,595.0
+32,Vancouver,Vancouver Coastal,2016,8,Take Home Naloxone,47,0,1431.0
+32,Vancouver,Vancouver Coastal,2016,9,Take Home Naloxone,49,2,881.0
+32,Vancouver,Vancouver Coastal,2016,10,Take Home Naloxone,51,2,1169.0
+32,Vancouver,Vancouver Coastal,2016,11,Take Home Naloxone,52,1,3290.0
+32,Vancouver,Vancouver Coastal,2016,12,Take Home Naloxone,58,6,4593.0
+32,Vancouver,Vancouver Coastal,2017,1,Take Home Naloxone,61,3,4318.0
+32,Vancouver,Vancouver Coastal,2017,2,Take Home Naloxone,66,5,3135.0
+32,Vancouver,Vancouver Coastal,2017,3,Take Home Naloxone,70,4,1858.0
+32,Vancouver,Vancouver Coastal,2017,4,Take Home Naloxone,76,6,1805.0
+32,Vancouver,Vancouver Coastal,2017,5,Take Home Naloxone,78,2,2983.0
+32,Vancouver,Vancouver Coastal,2017,6,Take Home Naloxone,80,2,1795.0
+32,Vancouver,Vancouver Coastal,2017,7,Take Home Naloxone,80,0,1850.0
+32,Vancouver,Vancouver Coastal,2017,8,Take Home Naloxone,83,3,1476.0
+32,Vancouver,Vancouver Coastal,2017,9,Take Home Naloxone,84,1,1925.0
+32,Vancouver,Vancouver Coastal,2017,10,Take Home Naloxone,84,0,2550.0
+32,Vancouver,Vancouver Coastal,2017,11,Take Home Naloxone,88,4,3761.0
+32,Vancouver,Vancouver Coastal,2017,12,Take Home Naloxone,145,57,4031.0
+32,Vancouver,Vancouver Coastal,2018,1,Take Home Naloxone,183,38,3928.0
+32,Vancouver,Vancouver Coastal,2018,2,Take Home Naloxone,202,19,2665.0
+32,Vancouver,Vancouver Coastal,2018,3,Take Home Naloxone,209,7,3729.0
+32,Vancouver,Vancouver Coastal,2018,4,Take Home Naloxone,212,3,2005.0
+32,Vancouver,Vancouver Coastal,2018,5,Take Home Naloxone,216,4,4801.0
+32,Vancouver,Vancouver Coastal,2018,6,Take Home Naloxone,216,0,3956.0
+32,Vancouver,Vancouver Coastal,2018,7,Take Home Naloxone,221,5,4435.0
+32,Vancouver,Vancouver Coastal,2018,8,Take Home Naloxone,225,4,6586.0
+32,Vancouver,Vancouver Coastal,2018,9,Take Home Naloxone,227,2,4546.0
+32,Vancouver,Vancouver Coastal,2018,10,Take Home Naloxone,228,1,4681.0
+32,Vancouver,Vancouver Coastal,2018,11,Take Home Naloxone,232,4,3135.0
+32,Vancouver,Vancouver Coastal,2018,12,Take Home Naloxone,233,1,3006.0
+32,Vancouver,Vancouver Coastal,2019,1,Take Home Naloxone,236,3,4271.0
+32,Vancouver,Vancouver Coastal,2019,2,Take Home Naloxone,237,1,3192.0
+32,Vancouver,Vancouver Coastal,2019,3,Take Home Naloxone,239,2,4690.0
+32,Vancouver,Vancouver Coastal,2019,4,Take Home Naloxone,241,2,5341.0
+32,Vancouver,Vancouver Coastal,2019,5,Take Home Naloxone,251,10,5268.0
+32,Vancouver,Vancouver Coastal,2019,6,Take Home Naloxone,255,4,5022.0
+32,Vancouver,Vancouver Coastal,2019,7,Take Home Naloxone,259,4,5467.0
+32,Vancouver,Vancouver Coastal,2019,8,Take Home Naloxone,263,4,5408.0
+32,Vancouver,Vancouver Coastal,2019,9,Take Home Naloxone,266,3,3474.0
+32,Vancouver,Vancouver Coastal,2019,10,Take Home Naloxone,266,0,6400.0
+32,Vancouver,Vancouver Coastal,2019,11,Take Home Naloxone,269,3,6694.0
+32,Vancouver,Vancouver Coastal,2019,12,Take Home Naloxone,269,0,4441.0
+32,Vancouver,Vancouver Coastal,2020,1,Take Home Naloxone,272,3,4260.0
+32,Vancouver,Vancouver Coastal,2020,2,Take Home Naloxone,275,3,4862.0
+32,Vancouver,Vancouver Coastal,2020,3,Take Home Naloxone,276,1,4910.0
+32,Vancouver,Vancouver Coastal,2020,4,Take Home Naloxone,276,0,7205.0
+32,Vancouver,Vancouver Coastal,2020,5,Take Home Naloxone,276,0,3571.0
+32,Vancouver,Vancouver Coastal,2020,6,Take Home Naloxone,277,1,3645.0
+32,Vancouver,Vancouver Coastal,2020,7,Take Home Naloxone,279,2,6423.0
+32,Vancouver,Vancouver Coastal,2020,8,Take Home Naloxone,280,1,5688.0
+32,Vancouver,Vancouver Coastal,2020,9,Take Home Naloxone,280,0,4330.0
+32,Vancouver,Vancouver Coastal,2020,10,Take Home Naloxone,284,4,7643.0
+32,Vancouver,Vancouver Coastal,2020,11,Take Home Naloxone,285,1,5395.0
+32,Vancouver,Vancouver Coastal,2020,12,Take Home Naloxone,290,5,7145.0
+32,Vancouver,Vancouver Coastal,2021,1,Take Home Naloxone,292,2,5690.0
+32,Vancouver,Vancouver Coastal,2021,2,Take Home Naloxone,294,2,6361.0
+32,Vancouver,Vancouver Coastal,2021,3,Take Home Naloxone,296,2,6275.0
+32,Vancouver,Vancouver Coastal,2021,4,Take Home Naloxone,296,0,8169.0
+32,Vancouver,Vancouver Coastal,2021,5,Take Home Naloxone,300,4,6880.0
+32,Vancouver,Vancouver Coastal,2021,6,Take Home Naloxone,300,0,7775.0
+32,Vancouver,Vancouver Coastal,2021,7,Take Home Naloxone,300,0,8310.0
+32,Vancouver,Vancouver Coastal,2021,8,Take Home Naloxone,300,0,8319.0
+32,Vancouver,Vancouver Coastal,2021,9,Take Home Naloxone,302,2,6894.0
+32,Vancouver,Vancouver Coastal,2021,10,Take Home Naloxone,304,2,11555.0
+32,Vancouver,Vancouver Coastal,2021,11,Take Home Naloxone,305,1,9362.0
+32,Vancouver,Vancouver Coastal,2021,12,Take Home Naloxone,309,4,7855.0
+32,Vancouver,Vancouver Coastal,2022,1,Take Home Naloxone,311,2,4340.0
+32,Vancouver,Vancouver Coastal,2022,2,Take Home Naloxone,316,5,5387.0
+32,Vancouver,Vancouver Coastal,2022,3,Take Home Naloxone,317,1,7857.0
+32,Vancouver,Vancouver Coastal,2022,4,Take Home Naloxone,317,0,6114.0
+32,Vancouver,Vancouver Coastal,2022,5,Take Home Naloxone,317,0,6940.0
+32,Vancouver,Vancouver Coastal,2022,6,Take Home Naloxone,321,4,8250.0
+32,Vancouver,Vancouver Coastal,2022,7,Take Home Naloxone,323,2,6170.0
+32,Vancouver,Vancouver Coastal,2022,8,Take Home Naloxone,325,2,7242.0
+32,Vancouver,Vancouver Coastal,2022,9,Take Home Naloxone,326,1,9521.0
+32,Vancouver,Vancouver Coastal,2022,10,Take Home Naloxone,329,3,7420.0
+32,Vancouver,Vancouver Coastal,2022,11,Take Home Naloxone,331,2,7919.0
+32,Vancouver,Vancouver Coastal,2022,12,Take Home Naloxone,331,0,6336.0
+32,Vancouver,Vancouver Coastal,2023,1,Take Home Naloxone,332,1,9032.0
+32,Vancouver,Vancouver Coastal,2023,2,Take Home Naloxone,334,2,8745.0
+32,Vancouver,Vancouver Coastal,2023,3,Take Home Naloxone,335,1,10715.0
+32,Vancouver,Vancouver Coastal,2023,4,Take Home Naloxone,336,1,8498.0
+32,Vancouver,Vancouver Coastal,2023,5,Take Home Naloxone,339,3,8177.0
+32,Vancouver,Vancouver Coastal,2023,6,Take Home Naloxone,340,1,10356.0
+32,Vancouver,Vancouver Coastal,2023,7,Take Home Naloxone,340,0,8195.0
+32,Vancouver,Vancouver Coastal,2023,8,Take Home Naloxone,340,0,12590.0
+32,Vancouver,Vancouver Coastal,2023,9,Take Home Naloxone,341,1,7275.0
+32,Vancouver,Vancouver Coastal,2023,10,Take Home Naloxone,342,1,6880.0
+32,Vancouver,Vancouver Coastal,2023,11,Take Home Naloxone,342,0,10017.0
+32,Vancouver,Vancouver Coastal,2023,12,Take Home Naloxone,342,0,4806.0
+32,Vancouver,Vancouver Coastal,2024,1,Take Home Naloxone,343,1,9452.0
+32,Vancouver,Vancouver Coastal,2024,2,Take Home Naloxone,343,0,11486.0
+32,Vancouver,Vancouver Coastal,2024,3,Take Home Naloxone,347,4,8143.0
+32,Vancouver,Vancouver Coastal,2024,4,Take Home Naloxone,351,4,7430.0
+32,Vancouver,Vancouver Coastal,2024,5,Take Home Naloxone,354,3,10510.0
+32,Vancouver,Vancouver Coastal,2024,6,Take Home Naloxone,355,1,7640.0
+32,Vancouver,Vancouver Coastal,2024,7,Take Home Naloxone,356,1,8515.0
+32,Vancouver,Vancouver Coastal,2024,8,Take Home Naloxone,357,1,10605.0
+32,Vancouver,Vancouver Coastal,2024,9,Take Home Naloxone,358,1,8988.0
+32,Vancouver,Vancouver Coastal,2024,10,Take Home Naloxone,361,3,11781.0
+32,Vancouver,Vancouver Coastal,2024,11,Take Home Naloxone,364,3,9510.0
+32,Vancouver,Vancouver Coastal,2024,12,Take Home Naloxone,365,1,6951.0
+32,Vancouver,Vancouver Coastal,2025,1,Take Home Naloxone,366,1,8138.0
+32,Vancouver,Vancouver Coastal,2025,2,Take Home Naloxone,370,4,7366.0
+32,Vancouver,Vancouver Coastal,2025,3,Take Home Naloxone,372,2,6826.0
+32,Vancouver,Vancouver Coastal,2025,4,Take Home Naloxone,372,0,5856.0
+32,Vancouver,Vancouver Coastal,2025,5,Take Home Naloxone,374,2,8444.0
+32,Vancouver,Vancouver Coastal,2025,6,Take Home Naloxone,374,0,6450.0
+32,Vancouver,Vancouver Coastal,2025,7,Take Home Naloxone,375,1,9421.0
+32,Vancouver,Vancouver Coastal,2025,8,Take Home Naloxone,381,6,7510.0
+32,Vancouver,Vancouver Coastal,2025,9,Take Home Naloxone,383,2,7135.0
+32,Vancouver,Vancouver Coastal,2025,10,Take Home Naloxone,383,0,8421.0
+32,Vancouver,Vancouver Coastal,2025,11,Take Home Naloxone,383,0,8550.0
+32,Vancouver,Vancouver Coastal,2025,12,Take Home Naloxone,384,1,5545.0
+32,Vancouver,Vancouver Coastal,2026,1,Take Home Naloxone,384,0,7579.0
+32,Vancouver,Vancouver Coastal,2026,2,Take Home Naloxone,386,2,7416.0
+32,Vancouver,Vancouver Coastal,2026,3,Take Home Naloxone,387,1,9596.0
+32,Vancouver,Vancouver Coastal,2026,4,Take Home Naloxone,391,4,10260.0
+32,Vancouver,Vancouver Coastal,2026,5,Take Home Naloxone,392,1,7930.0
+32,Vancouver,Vancouver Coastal,2026,6,Take Home Naloxone,395,3,9271.0
+32,Vancouver,Vancouver Coastal,2026,7,Take Home Naloxone,398,3,11205.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,1,Take Home Naloxone,3,0,0.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,2,Take Home Naloxone,4,1,0.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,3,Take Home Naloxone,5,1,40.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,4,Take Home Naloxone,5,0,12.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,5,Take Home Naloxone,5,0,0.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,6,Take Home Naloxone,5,0,0.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,7,Take Home Naloxone,5,0,0.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,8,Take Home Naloxone,5,0,26.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,9,Take Home Naloxone,5,0,0.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,10,Take Home Naloxone,5,0,10.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,11,Take Home Naloxone,5,0,5.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,12,Take Home Naloxone,5,0,0.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,1,Take Home Naloxone,5,0,30.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,2,Take Home Naloxone,5,0,15.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,3,Take Home Naloxone,10,5,50.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,4,Take Home Naloxone,10,0,0.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,5,Take Home Naloxone,12,2,44.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,6,Take Home Naloxone,12,0,105.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,7,Take Home Naloxone,13,1,45.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,8,Take Home Naloxone,14,1,40.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,9,Take Home Naloxone,16,2,75.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,10,Take Home Naloxone,18,2,90.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,11,Take Home Naloxone,21,3,99.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,12,Take Home Naloxone,23,2,134.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,1,Take Home Naloxone,23,0,162.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,2,Take Home Naloxone,26,3,145.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,3,Take Home Naloxone,28,2,317.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,4,Take Home Naloxone,30,2,92.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,5,Take Home Naloxone,30,0,380.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,6,Take Home Naloxone,30,0,285.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,7,Take Home Naloxone,30,0,70.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,8,Take Home Naloxone,31,1,280.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,9,Take Home Naloxone,31,0,145.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,10,Take Home Naloxone,32,1,235.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,11,Take Home Naloxone,33,1,205.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,12,Take Home Naloxone,49,16,65.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,1,Take Home Naloxone,61,12,130.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,2,Take Home Naloxone,74,13,223.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,3,Take Home Naloxone,74,0,70.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,4,Take Home Naloxone,74,0,60.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,5,Take Home Naloxone,75,1,280.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,6,Take Home Naloxone,75,0,232.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,7,Take Home Naloxone,76,1,170.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,8,Take Home Naloxone,76,0,310.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,9,Take Home Naloxone,76,0,230.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,10,Take Home Naloxone,76,0,95.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,11,Take Home Naloxone,79,3,300.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,12,Take Home Naloxone,79,0,205.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,1,Take Home Naloxone,80,1,245.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,2,Take Home Naloxone,80,0,210.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,3,Take Home Naloxone,81,1,210.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,4,Take Home Naloxone,82,1,591.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,5,Take Home Naloxone,86,4,380.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,6,Take Home Naloxone,87,1,385.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,7,Take Home Naloxone,90,3,700.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,8,Take Home Naloxone,91,1,290.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,9,Take Home Naloxone,91,0,210.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,10,Take Home Naloxone,92,1,290.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,11,Take Home Naloxone,92,0,690.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,12,Take Home Naloxone,92,0,180.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,1,Take Home Naloxone,94,2,560.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,2,Take Home Naloxone,94,0,535.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,3,Take Home Naloxone,94,0,205.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,4,Take Home Naloxone,94,0,270.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,5,Take Home Naloxone,94,0,90.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,6,Take Home Naloxone,95,1,100.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,7,Take Home Naloxone,95,0,390.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,8,Take Home Naloxone,95,0,747.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,9,Take Home Naloxone,95,0,240.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,10,Take Home Naloxone,95,0,380.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,11,Take Home Naloxone,95,0,135.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,12,Take Home Naloxone,96,1,1100.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,1,Take Home Naloxone,96,0,300.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,2,Take Home Naloxone,96,0,265.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,3,Take Home Naloxone,96,0,485.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,4,Take Home Naloxone,96,0,610.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,5,Take Home Naloxone,96,0,455.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,6,Take Home Naloxone,96,0,460.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,7,Take Home Naloxone,96,0,800.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,8,Take Home Naloxone,96,0,420.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,9,Take Home Naloxone,96,0,1290.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,10,Take Home Naloxone,96,0,675.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,11,Take Home Naloxone,97,1,1225.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,12,Take Home Naloxone,98,1,1085.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,1,Take Home Naloxone,100,2,426.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,2,Take Home Naloxone,100,0,555.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,3,Take Home Naloxone,100,0,585.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,4,Take Home Naloxone,100,0,440.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,5,Take Home Naloxone,100,0,1010.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,6,Take Home Naloxone,102,2,1170.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,7,Take Home Naloxone,102,0,895.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,8,Take Home Naloxone,102,0,425.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,9,Take Home Naloxone,103,1,1125.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,10,Take Home Naloxone,103,0,1080.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,11,Take Home Naloxone,103,0,275.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,12,Take Home Naloxone,103,0,945.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,1,Take Home Naloxone,104,1,510.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,2,Take Home Naloxone,104,0,780.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,3,Take Home Naloxone,104,0,1240.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,4,Take Home Naloxone,106,2,748.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,5,Take Home Naloxone,108,2,950.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,6,Take Home Naloxone,109,1,1017.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,7,Take Home Naloxone,109,0,1230.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,8,Take Home Naloxone,109,0,1099.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,9,Take Home Naloxone,109,0,1154.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,10,Take Home Naloxone,109,0,760.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,11,Take Home Naloxone,110,1,1032.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,12,Take Home Naloxone,111,1,200.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,1,Take Home Naloxone,111,0,1270.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,2,Take Home Naloxone,111,0,1020.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,3,Take Home Naloxone,111,0,725.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,4,Take Home Naloxone,112,1,1250.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,5,Take Home Naloxone,114,2,2140.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,6,Take Home Naloxone,114,0,750.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,7,Take Home Naloxone,114,0,595.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,8,Take Home Naloxone,115,1,780.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,9,Take Home Naloxone,115,0,240.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,10,Take Home Naloxone,116,1,794.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,11,Take Home Naloxone,117,1,957.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,12,Take Home Naloxone,117,0,675.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,1,Take Home Naloxone,117,0,1475.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,2,Take Home Naloxone,118,1,250.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,3,Take Home Naloxone,120,2,795.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,4,Take Home Naloxone,120,0,1085.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,5,Take Home Naloxone,120,0,329.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,6,Take Home Naloxone,121,1,625.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,7,Take Home Naloxone,121,0,1180.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,8,Take Home Naloxone,122,1,1185.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,9,Take Home Naloxone,123,1,320.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,10,Take Home Naloxone,123,0,940.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,11,Take Home Naloxone,123,0,530.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,12,Take Home Naloxone,124,1,676.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,1,Take Home Naloxone,124,0,898.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,2,Take Home Naloxone,124,0,792.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,3,Take Home Naloxone,124,0,1535.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,4,Take Home Naloxone,124,0,650.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,5,Take Home Naloxone,124,0,725.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,6,Take Home Naloxone,124,0,1207.0
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,7,Take Home Naloxone,124,0,475.0
+41,South Vancouver Island,Island,2015,1,Take Home Naloxone,1,0,0.0
+41,South Vancouver Island,Island,2015,2,Take Home Naloxone,1,0,0.0
+41,South Vancouver Island,Island,2015,3,Take Home Naloxone,1,0,25.0
+41,South Vancouver Island,Island,2015,4,Take Home Naloxone,1,0,50.0
+41,South Vancouver Island,Island,2015,5,Take Home Naloxone,1,0,0.0
+41,South Vancouver Island,Island,2015,6,Take Home Naloxone,1,0,0.0
+41,South Vancouver Island,Island,2015,7,Take Home Naloxone,1,0,60.0
+41,South Vancouver Island,Island,2015,8,Take Home Naloxone,2,1,60.0
+41,South Vancouver Island,Island,2015,9,Take Home Naloxone,2,0,60.0
+41,South Vancouver Island,Island,2015,10,Take Home Naloxone,2,0,0.0
+41,South Vancouver Island,Island,2015,11,Take Home Naloxone,2,0,60.0
+41,South Vancouver Island,Island,2015,12,Take Home Naloxone,3,1,85.0
+41,South Vancouver Island,Island,2016,1,Take Home Naloxone,6,3,180.0
+41,South Vancouver Island,Island,2016,2,Take Home Naloxone,10,4,218.0
+41,South Vancouver Island,Island,2016,3,Take Home Naloxone,10,0,239.0
+41,South Vancouver Island,Island,2016,4,Take Home Naloxone,13,3,149.0
+41,South Vancouver Island,Island,2016,5,Take Home Naloxone,15,2,336.0
+41,South Vancouver Island,Island,2016,6,Take Home Naloxone,18,3,401.0
+41,South Vancouver Island,Island,2016,7,Take Home Naloxone,19,1,272.0
+41,South Vancouver Island,Island,2016,8,Take Home Naloxone,20,1,250.0
+41,South Vancouver Island,Island,2016,9,Take Home Naloxone,27,7,310.0
+41,South Vancouver Island,Island,2016,10,Take Home Naloxone,27,0,216.0
+41,South Vancouver Island,Island,2016,11,Take Home Naloxone,29,2,1281.0
+41,South Vancouver Island,Island,2016,12,Take Home Naloxone,30,1,1178.0
+41,South Vancouver Island,Island,2017,1,Take Home Naloxone,30,0,1850.0
+41,South Vancouver Island,Island,2017,2,Take Home Naloxone,36,6,1921.0
+41,South Vancouver Island,Island,2017,3,Take Home Naloxone,38,2,2147.0
+41,South Vancouver Island,Island,2017,4,Take Home Naloxone,39,1,1342.0
+41,South Vancouver Island,Island,2017,5,Take Home Naloxone,41,2,1530.0
+41,South Vancouver Island,Island,2017,6,Take Home Naloxone,41,0,1055.0
+41,South Vancouver Island,Island,2017,7,Take Home Naloxone,41,0,1020.0
+41,South Vancouver Island,Island,2017,8,Take Home Naloxone,43,2,1670.0
+41,South Vancouver Island,Island,2017,9,Take Home Naloxone,43,0,970.0
+41,South Vancouver Island,Island,2017,10,Take Home Naloxone,44,1,1440.0
+41,South Vancouver Island,Island,2017,11,Take Home Naloxone,44,0,1265.0
+41,South Vancouver Island,Island,2017,12,Take Home Naloxone,58,14,1455.0
+41,South Vancouver Island,Island,2018,1,Take Home Naloxone,70,12,1095.0
+41,South Vancouver Island,Island,2018,2,Take Home Naloxone,88,18,1396.0
+41,South Vancouver Island,Island,2018,3,Take Home Naloxone,89,1,2092.0
+41,South Vancouver Island,Island,2018,4,Take Home Naloxone,91,2,1390.0
+41,South Vancouver Island,Island,2018,5,Take Home Naloxone,92,1,2980.0
+41,South Vancouver Island,Island,2018,6,Take Home Naloxone,97,5,2531.0
+41,South Vancouver Island,Island,2018,7,Take Home Naloxone,100,3,1779.0
+41,South Vancouver Island,Island,2018,8,Take Home Naloxone,100,0,2782.0
+41,South Vancouver Island,Island,2018,9,Take Home Naloxone,101,1,2763.0
+41,South Vancouver Island,Island,2018,10,Take Home Naloxone,102,1,1170.0
+41,South Vancouver Island,Island,2018,11,Take Home Naloxone,103,1,1538.0
+41,South Vancouver Island,Island,2018,12,Take Home Naloxone,103,0,2214.0
+41,South Vancouver Island,Island,2019,1,Take Home Naloxone,105,2,2035.0
+41,South Vancouver Island,Island,2019,2,Take Home Naloxone,105,0,1575.0
+41,South Vancouver Island,Island,2019,3,Take Home Naloxone,106,1,1221.0
+41,South Vancouver Island,Island,2019,4,Take Home Naloxone,107,1,1454.0
+41,South Vancouver Island,Island,2019,5,Take Home Naloxone,111,4,2465.0
+41,South Vancouver Island,Island,2019,6,Take Home Naloxone,112,1,1943.0
+41,South Vancouver Island,Island,2019,7,Take Home Naloxone,116,4,935.0
+41,South Vancouver Island,Island,2019,8,Take Home Naloxone,117,1,1777.0
+41,South Vancouver Island,Island,2019,9,Take Home Naloxone,118,1,1610.0
+41,South Vancouver Island,Island,2019,10,Take Home Naloxone,118,0,2195.0
+41,South Vancouver Island,Island,2019,11,Take Home Naloxone,119,1,2467.0
+41,South Vancouver Island,Island,2019,12,Take Home Naloxone,119,0,1885.0
+41,South Vancouver Island,Island,2020,1,Take Home Naloxone,119,0,1713.0
+41,South Vancouver Island,Island,2020,2,Take Home Naloxone,122,3,651.0
+41,South Vancouver Island,Island,2020,3,Take Home Naloxone,122,0,1918.0
+41,South Vancouver Island,Island,2020,4,Take Home Naloxone,123,1,3140.0
+41,South Vancouver Island,Island,2020,5,Take Home Naloxone,125,2,3753.0
+41,South Vancouver Island,Island,2020,6,Take Home Naloxone,126,1,2290.0
+41,South Vancouver Island,Island,2020,7,Take Home Naloxone,127,1,1909.0
+41,South Vancouver Island,Island,2020,8,Take Home Naloxone,129,2,807.0
+41,South Vancouver Island,Island,2020,9,Take Home Naloxone,131,2,1855.0
+41,South Vancouver Island,Island,2020,10,Take Home Naloxone,132,1,4638.0
+41,South Vancouver Island,Island,2020,11,Take Home Naloxone,132,0,2920.0
+41,South Vancouver Island,Island,2020,12,Take Home Naloxone,135,3,2550.0
+41,South Vancouver Island,Island,2021,1,Take Home Naloxone,136,1,1615.0
+41,South Vancouver Island,Island,2021,2,Take Home Naloxone,137,1,1829.0
+41,South Vancouver Island,Island,2021,3,Take Home Naloxone,138,1,1910.0
+41,South Vancouver Island,Island,2021,4,Take Home Naloxone,138,0,4950.0
+41,South Vancouver Island,Island,2021,5,Take Home Naloxone,141,3,3575.0
+41,South Vancouver Island,Island,2021,6,Take Home Naloxone,144,3,3288.0
+41,South Vancouver Island,Island,2021,7,Take Home Naloxone,145,1,2641.0
+41,South Vancouver Island,Island,2021,8,Take Home Naloxone,145,0,3070.0
+41,South Vancouver Island,Island,2021,9,Take Home Naloxone,150,5,2260.0
+41,South Vancouver Island,Island,2021,10,Take Home Naloxone,153,3,3350.0
+41,South Vancouver Island,Island,2021,11,Take Home Naloxone,154,1,2370.0
+41,South Vancouver Island,Island,2021,12,Take Home Naloxone,154,0,2230.0
+41,South Vancouver Island,Island,2022,1,Take Home Naloxone,155,1,2860.0
+41,South Vancouver Island,Island,2022,2,Take Home Naloxone,155,0,1860.0
+41,South Vancouver Island,Island,2022,3,Take Home Naloxone,155,0,3033.0
+41,South Vancouver Island,Island,2022,4,Take Home Naloxone,157,2,2606.0
+41,South Vancouver Island,Island,2022,5,Take Home Naloxone,159,2,2950.0
+41,South Vancouver Island,Island,2022,6,Take Home Naloxone,159,0,4898.0
+41,South Vancouver Island,Island,2022,7,Take Home Naloxone,161,2,4275.0
+41,South Vancouver Island,Island,2022,8,Take Home Naloxone,162,1,3184.0
+41,South Vancouver Island,Island,2022,9,Take Home Naloxone,162,0,3700.0
+41,South Vancouver Island,Island,2022,10,Take Home Naloxone,163,1,3510.0
+41,South Vancouver Island,Island,2022,11,Take Home Naloxone,165,2,2836.0
+41,South Vancouver Island,Island,2022,12,Take Home Naloxone,166,1,3222.0
+41,South Vancouver Island,Island,2023,1,Take Home Naloxone,166,0,3607.0
+41,South Vancouver Island,Island,2023,2,Take Home Naloxone,167,1,3518.0
+41,South Vancouver Island,Island,2023,3,Take Home Naloxone,170,3,3750.0
+41,South Vancouver Island,Island,2023,4,Take Home Naloxone,171,1,3310.0
+41,South Vancouver Island,Island,2023,5,Take Home Naloxone,172,1,3775.0
+41,South Vancouver Island,Island,2023,6,Take Home Naloxone,173,1,4257.0
+41,South Vancouver Island,Island,2023,7,Take Home Naloxone,174,1,4310.0
+41,South Vancouver Island,Island,2023,8,Take Home Naloxone,176,2,4589.0
+41,South Vancouver Island,Island,2023,9,Take Home Naloxone,178,2,2055.0
+41,South Vancouver Island,Island,2023,10,Take Home Naloxone,179,1,3812.0
+41,South Vancouver Island,Island,2023,11,Take Home Naloxone,180,1,4096.0
+41,South Vancouver Island,Island,2023,12,Take Home Naloxone,181,1,2344.0
+41,South Vancouver Island,Island,2024,1,Take Home Naloxone,182,1,4280.0
+41,South Vancouver Island,Island,2024,2,Take Home Naloxone,186,4,4092.0
+41,South Vancouver Island,Island,2024,3,Take Home Naloxone,188,2,3141.0
+41,South Vancouver Island,Island,2024,4,Take Home Naloxone,188,0,3550.0
+41,South Vancouver Island,Island,2024,5,Take Home Naloxone,191,3,5612.0
+41,South Vancouver Island,Island,2024,6,Take Home Naloxone,192,1,5176.0
+41,South Vancouver Island,Island,2024,7,Take Home Naloxone,192,0,3775.0
+41,South Vancouver Island,Island,2024,8,Take Home Naloxone,193,1,5830.0
+41,South Vancouver Island,Island,2024,9,Take Home Naloxone,194,1,3725.0
+41,South Vancouver Island,Island,2024,10,Take Home Naloxone,199,5,4735.0
+41,South Vancouver Island,Island,2024,11,Take Home Naloxone,200,1,4095.0
+41,South Vancouver Island,Island,2024,12,Take Home Naloxone,201,1,2965.0
+41,South Vancouver Island,Island,2025,1,Take Home Naloxone,202,1,5415.0
+41,South Vancouver Island,Island,2025,2,Take Home Naloxone,205,3,3686.0
+41,South Vancouver Island,Island,2025,3,Take Home Naloxone,207,2,2635.0
+41,South Vancouver Island,Island,2025,4,Take Home Naloxone,207,0,1695.0
+41,South Vancouver Island,Island,2025,5,Take Home Naloxone,207,0,3920.0
+41,South Vancouver Island,Island,2025,6,Take Home Naloxone,208,1,2853.0
+41,South Vancouver Island,Island,2025,7,Take Home Naloxone,208,0,3916.0
+41,South Vancouver Island,Island,2025,8,Take Home Naloxone,209,1,3735.0
+41,South Vancouver Island,Island,2025,9,Take Home Naloxone,210,1,4025.0
+41,South Vancouver Island,Island,2025,10,Take Home Naloxone,210,0,3804.0
+41,South Vancouver Island,Island,2025,11,Take Home Naloxone,211,1,3645.0
+41,South Vancouver Island,Island,2025,12,Take Home Naloxone,221,10,1782.0
+41,South Vancouver Island,Island,2026,1,Take Home Naloxone,222,1,2820.0
+41,South Vancouver Island,Island,2026,2,Take Home Naloxone,223,1,3135.0
+41,South Vancouver Island,Island,2026,3,Take Home Naloxone,225,2,3648.0
+41,South Vancouver Island,Island,2026,4,Take Home Naloxone,226,1,3608.0
+41,South Vancouver Island,Island,2026,5,Take Home Naloxone,226,0,3581.0
+41,South Vancouver Island,Island,2026,6,Take Home Naloxone,228,2,4149.0
+41,South Vancouver Island,Island,2026,7,Take Home Naloxone,228,0,3725.0
+42,Central Vancouver Island,Island,2015,1,Take Home Naloxone,2,0,0.0
+42,Central Vancouver Island,Island,2015,2,Take Home Naloxone,2,0,0.0
+42,Central Vancouver Island,Island,2015,3,Take Home Naloxone,2,0,0.0
+42,Central Vancouver Island,Island,2015,4,Take Home Naloxone,3,1,20.0
+42,Central Vancouver Island,Island,2015,5,Take Home Naloxone,5,2,15.0
+42,Central Vancouver Island,Island,2015,6,Take Home Naloxone,5,0,50.0
+42,Central Vancouver Island,Island,2015,7,Take Home Naloxone,5,0,0.0
+42,Central Vancouver Island,Island,2015,8,Take Home Naloxone,5,0,0.0
+42,Central Vancouver Island,Island,2015,9,Take Home Naloxone,5,0,100.0
+42,Central Vancouver Island,Island,2015,10,Take Home Naloxone,5,0,40.0
+42,Central Vancouver Island,Island,2015,11,Take Home Naloxone,7,2,110.0
+42,Central Vancouver Island,Island,2015,12,Take Home Naloxone,7,0,49.0
+42,Central Vancouver Island,Island,2016,1,Take Home Naloxone,11,4,397.0
+42,Central Vancouver Island,Island,2016,2,Take Home Naloxone,15,4,359.0
+42,Central Vancouver Island,Island,2016,3,Take Home Naloxone,17,2,253.0
+42,Central Vancouver Island,Island,2016,4,Take Home Naloxone,17,0,164.0
+42,Central Vancouver Island,Island,2016,5,Take Home Naloxone,17,0,202.0
+42,Central Vancouver Island,Island,2016,6,Take Home Naloxone,20,3,293.0
+42,Central Vancouver Island,Island,2016,7,Take Home Naloxone,21,1,200.0
+42,Central Vancouver Island,Island,2016,8,Take Home Naloxone,21,0,491.0
+42,Central Vancouver Island,Island,2016,9,Take Home Naloxone,24,3,193.0
+42,Central Vancouver Island,Island,2016,10,Take Home Naloxone,27,3,466.0
+42,Central Vancouver Island,Island,2016,11,Take Home Naloxone,28,1,407.0
+42,Central Vancouver Island,Island,2016,12,Take Home Naloxone,33,5,1135.0
+42,Central Vancouver Island,Island,2017,1,Take Home Naloxone,34,1,498.0
+42,Central Vancouver Island,Island,2017,2,Take Home Naloxone,36,2,1033.0
+42,Central Vancouver Island,Island,2017,3,Take Home Naloxone,38,2,1239.0
+42,Central Vancouver Island,Island,2017,4,Take Home Naloxone,39,1,1185.0
+42,Central Vancouver Island,Island,2017,5,Take Home Naloxone,41,2,995.0
+42,Central Vancouver Island,Island,2017,6,Take Home Naloxone,44,3,763.0
+42,Central Vancouver Island,Island,2017,7,Take Home Naloxone,47,3,745.0
+42,Central Vancouver Island,Island,2017,8,Take Home Naloxone,49,2,600.0
+42,Central Vancouver Island,Island,2017,9,Take Home Naloxone,49,0,670.0
+42,Central Vancouver Island,Island,2017,10,Take Home Naloxone,50,1,423.0
+42,Central Vancouver Island,Island,2017,11,Take Home Naloxone,50,0,1555.0
+42,Central Vancouver Island,Island,2017,12,Take Home Naloxone,73,23,670.0
+42,Central Vancouver Island,Island,2018,1,Take Home Naloxone,85,12,743.0
+42,Central Vancouver Island,Island,2018,2,Take Home Naloxone,97,12,942.0
+42,Central Vancouver Island,Island,2018,3,Take Home Naloxone,97,0,1425.0
+42,Central Vancouver Island,Island,2018,4,Take Home Naloxone,100,3,2213.0
+42,Central Vancouver Island,Island,2018,5,Take Home Naloxone,101,1,2165.0
+42,Central Vancouver Island,Island,2018,6,Take Home Naloxone,102,1,1120.0
+42,Central Vancouver Island,Island,2018,7,Take Home Naloxone,102,0,585.0
+42,Central Vancouver Island,Island,2018,8,Take Home Naloxone,103,1,1265.0
+42,Central Vancouver Island,Island,2018,9,Take Home Naloxone,104,1,1554.0
+42,Central Vancouver Island,Island,2018,10,Take Home Naloxone,105,1,1195.0
+42,Central Vancouver Island,Island,2018,11,Take Home Naloxone,106,1,1450.0
+42,Central Vancouver Island,Island,2018,12,Take Home Naloxone,108,2,1310.0
+42,Central Vancouver Island,Island,2019,1,Take Home Naloxone,112,4,1265.0
+42,Central Vancouver Island,Island,2019,2,Take Home Naloxone,112,0,1360.0
+42,Central Vancouver Island,Island,2019,3,Take Home Naloxone,112,0,1135.0
+42,Central Vancouver Island,Island,2019,4,Take Home Naloxone,112,0,1743.0
+42,Central Vancouver Island,Island,2019,5,Take Home Naloxone,116,4,2049.0
+42,Central Vancouver Island,Island,2019,6,Take Home Naloxone,116,0,1435.0
+42,Central Vancouver Island,Island,2019,7,Take Home Naloxone,120,4,1500.0
+42,Central Vancouver Island,Island,2019,8,Take Home Naloxone,122,2,1921.0
+42,Central Vancouver Island,Island,2019,9,Take Home Naloxone,122,0,911.0
+42,Central Vancouver Island,Island,2019,10,Take Home Naloxone,122,0,1420.0
+42,Central Vancouver Island,Island,2019,11,Take Home Naloxone,123,1,1693.0
+42,Central Vancouver Island,Island,2019,12,Take Home Naloxone,125,2,570.0
+42,Central Vancouver Island,Island,2020,1,Take Home Naloxone,125,0,1614.0
+42,Central Vancouver Island,Island,2020,2,Take Home Naloxone,125,0,980.0
+42,Central Vancouver Island,Island,2020,3,Take Home Naloxone,125,0,1110.0
+42,Central Vancouver Island,Island,2020,4,Take Home Naloxone,125,0,1215.0
+42,Central Vancouver Island,Island,2020,5,Take Home Naloxone,125,0,1615.0
+42,Central Vancouver Island,Island,2020,6,Take Home Naloxone,125,0,1406.0
+42,Central Vancouver Island,Island,2020,7,Take Home Naloxone,126,1,2065.0
+42,Central Vancouver Island,Island,2020,8,Take Home Naloxone,126,0,2060.0
+42,Central Vancouver Island,Island,2020,9,Take Home Naloxone,127,1,1641.0
+42,Central Vancouver Island,Island,2020,10,Take Home Naloxone,130,3,1907.0
+42,Central Vancouver Island,Island,2020,11,Take Home Naloxone,131,1,1999.0
+42,Central Vancouver Island,Island,2020,12,Take Home Naloxone,131,0,1210.0
+42,Central Vancouver Island,Island,2021,1,Take Home Naloxone,131,0,1630.0
+42,Central Vancouver Island,Island,2021,2,Take Home Naloxone,132,1,1350.0
+42,Central Vancouver Island,Island,2021,3,Take Home Naloxone,133,1,2035.0
+42,Central Vancouver Island,Island,2021,4,Take Home Naloxone,133,0,2445.0
+42,Central Vancouver Island,Island,2021,5,Take Home Naloxone,133,0,2410.0
+42,Central Vancouver Island,Island,2021,6,Take Home Naloxone,133,0,2090.0
+42,Central Vancouver Island,Island,2021,7,Take Home Naloxone,134,1,2670.0
+42,Central Vancouver Island,Island,2021,8,Take Home Naloxone,134,0,2181.0
+42,Central Vancouver Island,Island,2021,9,Take Home Naloxone,134,0,2190.0
+42,Central Vancouver Island,Island,2021,10,Take Home Naloxone,135,1,2241.0
+42,Central Vancouver Island,Island,2021,11,Take Home Naloxone,135,0,1651.0
+42,Central Vancouver Island,Island,2021,12,Take Home Naloxone,135,0,1090.0
+42,Central Vancouver Island,Island,2022,1,Take Home Naloxone,135,0,1375.0
+42,Central Vancouver Island,Island,2022,2,Take Home Naloxone,136,1,1550.0
+42,Central Vancouver Island,Island,2022,3,Take Home Naloxone,138,2,3000.0
+42,Central Vancouver Island,Island,2022,4,Take Home Naloxone,139,1,1850.0
+42,Central Vancouver Island,Island,2022,5,Take Home Naloxone,140,1,1760.0
+42,Central Vancouver Island,Island,2022,6,Take Home Naloxone,141,1,3775.0
+42,Central Vancouver Island,Island,2022,7,Take Home Naloxone,141,0,2600.0
+42,Central Vancouver Island,Island,2022,8,Take Home Naloxone,142,1,2350.0
+42,Central Vancouver Island,Island,2022,9,Take Home Naloxone,143,1,2574.0
+42,Central Vancouver Island,Island,2022,10,Take Home Naloxone,144,1,2337.0
+42,Central Vancouver Island,Island,2022,11,Take Home Naloxone,144,0,2206.0
+42,Central Vancouver Island,Island,2022,12,Take Home Naloxone,145,1,2011.0
+42,Central Vancouver Island,Island,2023,1,Take Home Naloxone,146,1,2320.0
+42,Central Vancouver Island,Island,2023,2,Take Home Naloxone,146,0,2615.0
+42,Central Vancouver Island,Island,2023,3,Take Home Naloxone,148,2,5261.0
+42,Central Vancouver Island,Island,2023,4,Take Home Naloxone,148,0,3569.0
+42,Central Vancouver Island,Island,2023,5,Take Home Naloxone,151,3,3285.0
+42,Central Vancouver Island,Island,2023,6,Take Home Naloxone,152,1,4845.0
+42,Central Vancouver Island,Island,2023,7,Take Home Naloxone,152,0,3720.0
+42,Central Vancouver Island,Island,2023,8,Take Home Naloxone,152,0,5010.0
+42,Central Vancouver Island,Island,2023,9,Take Home Naloxone,154,2,2600.0
+42,Central Vancouver Island,Island,2023,10,Take Home Naloxone,155,1,2420.0
+42,Central Vancouver Island,Island,2023,11,Take Home Naloxone,156,1,3370.0
+42,Central Vancouver Island,Island,2023,12,Take Home Naloxone,157,1,1834.0
+42,Central Vancouver Island,Island,2024,1,Take Home Naloxone,158,1,2700.0
+42,Central Vancouver Island,Island,2024,2,Take Home Naloxone,159,1,4170.0
+42,Central Vancouver Island,Island,2024,3,Take Home Naloxone,160,1,2226.0
+42,Central Vancouver Island,Island,2024,4,Take Home Naloxone,160,0,2396.0
+42,Central Vancouver Island,Island,2024,5,Take Home Naloxone,161,1,4830.0
+42,Central Vancouver Island,Island,2024,6,Take Home Naloxone,162,1,3565.0
+42,Central Vancouver Island,Island,2024,7,Take Home Naloxone,162,0,3375.0
+42,Central Vancouver Island,Island,2024,8,Take Home Naloxone,165,3,3335.0
+42,Central Vancouver Island,Island,2024,9,Take Home Naloxone,165,0,3600.0
+42,Central Vancouver Island,Island,2024,10,Take Home Naloxone,168,3,2959.0
+42,Central Vancouver Island,Island,2024,11,Take Home Naloxone,169,1,3260.0
+42,Central Vancouver Island,Island,2024,12,Take Home Naloxone,169,0,1794.0
+42,Central Vancouver Island,Island,2025,1,Take Home Naloxone,169,0,2256.0
+42,Central Vancouver Island,Island,2025,2,Take Home Naloxone,173,4,2080.0
+42,Central Vancouver Island,Island,2025,3,Take Home Naloxone,173,0,1931.0
+42,Central Vancouver Island,Island,2025,4,Take Home Naloxone,175,2,2442.0
+42,Central Vancouver Island,Island,2025,5,Take Home Naloxone,176,1,2655.0
+42,Central Vancouver Island,Island,2025,6,Take Home Naloxone,176,0,3099.0
+42,Central Vancouver Island,Island,2025,7,Take Home Naloxone,178,2,3487.0
+42,Central Vancouver Island,Island,2025,8,Take Home Naloxone,179,1,2840.0
+42,Central Vancouver Island,Island,2025,9,Take Home Naloxone,180,1,3100.0
+42,Central Vancouver Island,Island,2025,10,Take Home Naloxone,182,2,3415.0
+42,Central Vancouver Island,Island,2025,11,Take Home Naloxone,182,0,3448.0
+42,Central Vancouver Island,Island,2025,12,Take Home Naloxone,183,1,2200.0
+42,Central Vancouver Island,Island,2026,1,Take Home Naloxone,183,0,2485.0
+42,Central Vancouver Island,Island,2026,2,Take Home Naloxone,185,2,2007.0
+42,Central Vancouver Island,Island,2026,3,Take Home Naloxone,186,1,2570.0
+42,Central Vancouver Island,Island,2026,4,Take Home Naloxone,186,0,2386.0
+42,Central Vancouver Island,Island,2026,5,Take Home Naloxone,187,1,2221.0
+42,Central Vancouver Island,Island,2026,6,Take Home Naloxone,187,0,2604.0
+42,Central Vancouver Island,Island,2026,7,Take Home Naloxone,187,0,2828.0
+43,North Vancouver Island,Island,2015,1,Take Home Naloxone,4,0,50.0
+43,North Vancouver Island,Island,2015,2,Take Home Naloxone,4,0,0.0
+43,North Vancouver Island,Island,2015,3,Take Home Naloxone,4,0,0.0
+43,North Vancouver Island,Island,2015,4,Take Home Naloxone,4,0,20.0
+43,North Vancouver Island,Island,2015,5,Take Home Naloxone,4,0,0.0
+43,North Vancouver Island,Island,2015,6,Take Home Naloxone,5,1,50.0
+43,North Vancouver Island,Island,2015,7,Take Home Naloxone,5,0,0.0
+43,North Vancouver Island,Island,2015,8,Take Home Naloxone,5,0,50.0
+43,North Vancouver Island,Island,2015,9,Take Home Naloxone,5,0,50.0
+43,North Vancouver Island,Island,2015,10,Take Home Naloxone,5,0,0.0
+43,North Vancouver Island,Island,2015,11,Take Home Naloxone,5,0,0.0
+43,North Vancouver Island,Island,2015,12,Take Home Naloxone,5,0,50.0
+43,North Vancouver Island,Island,2016,1,Take Home Naloxone,7,2,15.0
+43,North Vancouver Island,Island,2016,2,Take Home Naloxone,8,1,150.0
+43,North Vancouver Island,Island,2016,3,Take Home Naloxone,11,3,30.0
+43,North Vancouver Island,Island,2016,4,Take Home Naloxone,11,0,95.0
+43,North Vancouver Island,Island,2016,5,Take Home Naloxone,12,1,50.0
+43,North Vancouver Island,Island,2016,6,Take Home Naloxone,16,4,155.0
+43,North Vancouver Island,Island,2016,7,Take Home Naloxone,17,1,70.0
+43,North Vancouver Island,Island,2016,8,Take Home Naloxone,17,0,70.0
+43,North Vancouver Island,Island,2016,9,Take Home Naloxone,18,1,151.0
+43,North Vancouver Island,Island,2016,10,Take Home Naloxone,20,2,314.0
+43,North Vancouver Island,Island,2016,11,Take Home Naloxone,21,1,442.0
+43,North Vancouver Island,Island,2016,12,Take Home Naloxone,26,5,417.0
+43,North Vancouver Island,Island,2017,1,Take Home Naloxone,26,0,305.0
+43,North Vancouver Island,Island,2017,2,Take Home Naloxone,28,2,120.0
+43,North Vancouver Island,Island,2017,3,Take Home Naloxone,30,2,375.0
+43,North Vancouver Island,Island,2017,4,Take Home Naloxone,31,1,242.0
+43,North Vancouver Island,Island,2017,5,Take Home Naloxone,32,1,614.0
+43,North Vancouver Island,Island,2017,6,Take Home Naloxone,32,0,458.0
+43,North Vancouver Island,Island,2017,7,Take Home Naloxone,32,0,415.0
+43,North Vancouver Island,Island,2017,8,Take Home Naloxone,32,0,555.0
+43,North Vancouver Island,Island,2017,9,Take Home Naloxone,32,0,310.0
+43,North Vancouver Island,Island,2017,10,Take Home Naloxone,32,0,310.0
+43,North Vancouver Island,Island,2017,11,Take Home Naloxone,33,1,495.0
+43,North Vancouver Island,Island,2017,12,Take Home Naloxone,43,10,425.0
+43,North Vancouver Island,Island,2018,1,Take Home Naloxone,48,5,470.0
+43,North Vancouver Island,Island,2018,2,Take Home Naloxone,54,6,330.0
+43,North Vancouver Island,Island,2018,3,Take Home Naloxone,54,0,1105.0
+43,North Vancouver Island,Island,2018,4,Take Home Naloxone,54,0,680.0
+43,North Vancouver Island,Island,2018,5,Take Home Naloxone,56,2,550.0
+43,North Vancouver Island,Island,2018,6,Take Home Naloxone,56,0,485.0
+43,North Vancouver Island,Island,2018,7,Take Home Naloxone,57,1,520.0
+43,North Vancouver Island,Island,2018,8,Take Home Naloxone,58,1,510.0
+43,North Vancouver Island,Island,2018,9,Take Home Naloxone,58,0,350.0
+43,North Vancouver Island,Island,2018,10,Take Home Naloxone,58,0,657.0
+43,North Vancouver Island,Island,2018,11,Take Home Naloxone,59,1,945.0
+43,North Vancouver Island,Island,2018,12,Take Home Naloxone,59,0,530.0
+43,North Vancouver Island,Island,2019,1,Take Home Naloxone,60,1,566.0
+43,North Vancouver Island,Island,2019,2,Take Home Naloxone,60,0,505.0
+43,North Vancouver Island,Island,2019,3,Take Home Naloxone,60,0,452.0
+43,North Vancouver Island,Island,2019,4,Take Home Naloxone,61,1,870.0
+43,North Vancouver Island,Island,2019,5,Take Home Naloxone,65,4,736.0
+43,North Vancouver Island,Island,2019,6,Take Home Naloxone,67,2,580.0
+43,North Vancouver Island,Island,2019,7,Take Home Naloxone,67,0,790.0
+43,North Vancouver Island,Island,2019,8,Take Home Naloxone,67,0,475.0
+43,North Vancouver Island,Island,2019,9,Take Home Naloxone,67,0,380.0
+43,North Vancouver Island,Island,2019,10,Take Home Naloxone,67,0,555.0
+43,North Vancouver Island,Island,2019,11,Take Home Naloxone,69,2,955.0
+43,North Vancouver Island,Island,2019,12,Take Home Naloxone,69,0,944.0
+43,North Vancouver Island,Island,2020,1,Take Home Naloxone,69,0,811.0
+43,North Vancouver Island,Island,2020,2,Take Home Naloxone,71,2,521.0
+43,North Vancouver Island,Island,2020,3,Take Home Naloxone,71,0,560.0
+43,North Vancouver Island,Island,2020,4,Take Home Naloxone,71,0,900.0
+43,North Vancouver Island,Island,2020,5,Take Home Naloxone,73,2,888.0
+43,North Vancouver Island,Island,2020,6,Take Home Naloxone,73,0,675.0
+43,North Vancouver Island,Island,2020,7,Take Home Naloxone,73,0,815.0
+43,North Vancouver Island,Island,2020,8,Take Home Naloxone,74,1,970.0
+43,North Vancouver Island,Island,2020,9,Take Home Naloxone,74,0,1505.0
+43,North Vancouver Island,Island,2020,10,Take Home Naloxone,74,0,1550.0
+43,North Vancouver Island,Island,2020,11,Take Home Naloxone,74,0,1205.0
+43,North Vancouver Island,Island,2020,12,Take Home Naloxone,75,1,794.0
+43,North Vancouver Island,Island,2021,1,Take Home Naloxone,75,0,1350.0
+43,North Vancouver Island,Island,2021,2,Take Home Naloxone,75,0,1075.0
+43,North Vancouver Island,Island,2021,3,Take Home Naloxone,75,0,860.0
+43,North Vancouver Island,Island,2021,4,Take Home Naloxone,75,0,945.0
+43,North Vancouver Island,Island,2021,5,Take Home Naloxone,75,0,1818.0
+43,North Vancouver Island,Island,2021,6,Take Home Naloxone,75,0,1195.0
+43,North Vancouver Island,Island,2021,7,Take Home Naloxone,75,0,1530.0
+43,North Vancouver Island,Island,2021,8,Take Home Naloxone,76,1,1500.0
+43,North Vancouver Island,Island,2021,9,Take Home Naloxone,76,0,2105.0
+43,North Vancouver Island,Island,2021,10,Take Home Naloxone,76,0,2800.0
+43,North Vancouver Island,Island,2021,11,Take Home Naloxone,76,0,2310.0
+43,North Vancouver Island,Island,2021,12,Take Home Naloxone,76,0,2255.0
+43,North Vancouver Island,Island,2022,1,Take Home Naloxone,76,0,800.0
+43,North Vancouver Island,Island,2022,2,Take Home Naloxone,76,0,653.0
+43,North Vancouver Island,Island,2022,3,Take Home Naloxone,76,0,845.0
+43,North Vancouver Island,Island,2022,4,Take Home Naloxone,76,0,895.0
+43,North Vancouver Island,Island,2022,5,Take Home Naloxone,76,0,600.0
+43,North Vancouver Island,Island,2022,6,Take Home Naloxone,77,1,1750.0
+43,North Vancouver Island,Island,2022,7,Take Home Naloxone,77,0,1650.0
+43,North Vancouver Island,Island,2022,8,Take Home Naloxone,78,1,1054.0
+43,North Vancouver Island,Island,2022,9,Take Home Naloxone,78,0,1565.0
+43,North Vancouver Island,Island,2022,10,Take Home Naloxone,80,2,1380.0
+43,North Vancouver Island,Island,2022,11,Take Home Naloxone,82,2,1530.0
+43,North Vancouver Island,Island,2022,12,Take Home Naloxone,82,0,1434.0
+43,North Vancouver Island,Island,2023,1,Take Home Naloxone,84,2,1375.0
+43,North Vancouver Island,Island,2023,2,Take Home Naloxone,85,1,1070.0
+43,North Vancouver Island,Island,2023,3,Take Home Naloxone,85,0,1675.0
+43,North Vancouver Island,Island,2023,4,Take Home Naloxone,85,0,1575.0
+43,North Vancouver Island,Island,2023,5,Take Home Naloxone,85,0,1875.0
+43,North Vancouver Island,Island,2023,6,Take Home Naloxone,85,0,1850.0
+43,North Vancouver Island,Island,2023,7,Take Home Naloxone,85,0,2300.0
+43,North Vancouver Island,Island,2023,8,Take Home Naloxone,85,0,3050.0
+43,North Vancouver Island,Island,2023,9,Take Home Naloxone,85,0,2250.0
+43,North Vancouver Island,Island,2023,10,Take Home Naloxone,86,1,1078.0
+43,North Vancouver Island,Island,2023,11,Take Home Naloxone,86,0,1125.0
+43,North Vancouver Island,Island,2023,12,Take Home Naloxone,86,0,1225.0
+43,North Vancouver Island,Island,2024,1,Take Home Naloxone,87,1,1350.0
+43,North Vancouver Island,Island,2024,2,Take Home Naloxone,87,0,1570.0
+43,North Vancouver Island,Island,2024,3,Take Home Naloxone,87,0,1565.0
+43,North Vancouver Island,Island,2024,4,Take Home Naloxone,87,0,1395.0
+43,North Vancouver Island,Island,2024,5,Take Home Naloxone,88,1,2395.0
+43,North Vancouver Island,Island,2024,6,Take Home Naloxone,89,1,2387.0
+43,North Vancouver Island,Island,2024,7,Take Home Naloxone,89,0,2103.0
+43,North Vancouver Island,Island,2024,8,Take Home Naloxone,89,0,2715.0
+43,North Vancouver Island,Island,2024,9,Take Home Naloxone,89,0,1700.0
+43,North Vancouver Island,Island,2024,10,Take Home Naloxone,90,1,2790.0
+43,North Vancouver Island,Island,2024,11,Take Home Naloxone,91,1,1815.0
+43,North Vancouver Island,Island,2024,12,Take Home Naloxone,91,0,1025.0
+43,North Vancouver Island,Island,2025,1,Take Home Naloxone,91,0,260.0
+43,North Vancouver Island,Island,2025,2,Take Home Naloxone,92,1,35.0
+43,North Vancouver Island,Island,2025,3,Take Home Naloxone,94,2,781.0
+43,North Vancouver Island,Island,2025,4,Take Home Naloxone,95,1,650.0
+43,North Vancouver Island,Island,2025,5,Take Home Naloxone,95,0,1810.0
+43,North Vancouver Island,Island,2025,6,Take Home Naloxone,95,0,1824.0
+43,North Vancouver Island,Island,2025,7,Take Home Naloxone,95,0,1120.0
+43,North Vancouver Island,Island,2025,8,Take Home Naloxone,95,0,900.0
+43,North Vancouver Island,Island,2025,9,Take Home Naloxone,95,0,725.0
+43,North Vancouver Island,Island,2025,10,Take Home Naloxone,96,1,700.0
+43,North Vancouver Island,Island,2025,11,Take Home Naloxone,96,0,1540.0
+43,North Vancouver Island,Island,2025,12,Take Home Naloxone,96,0,1450.0
+43,North Vancouver Island,Island,2026,1,Take Home Naloxone,96,0,1473.0
+43,North Vancouver Island,Island,2026,2,Take Home Naloxone,97,1,1265.0
+43,North Vancouver Island,Island,2026,3,Take Home Naloxone,97,0,470.0
+43,North Vancouver Island,Island,2026,4,Take Home Naloxone,97,0,810.0
+43,North Vancouver Island,Island,2026,5,Take Home Naloxone,97,0,625.0
+43,North Vancouver Island,Island,2026,6,Take Home Naloxone,97,0,1349.0
+43,North Vancouver Island,Island,2026,7,Take Home Naloxone,98,1,1925.0
+51,Northwest,Northern,2015,1,Take Home Naloxone,1,0,0.0
+51,Northwest,Northern,2015,2,Take Home Naloxone,1,0,0.0
+51,Northwest,Northern,2015,3,Take Home Naloxone,1,0,0.0
+51,Northwest,Northern,2015,4,Take Home Naloxone,1,0,0.0
+51,Northwest,Northern,2015,5,Take Home Naloxone,1,0,20.0
+51,Northwest,Northern,2015,6,Take Home Naloxone,1,0,0.0
+51,Northwest,Northern,2015,7,Take Home Naloxone,1,0,0.0
+51,Northwest,Northern,2015,8,Take Home Naloxone,1,0,0.0
+51,Northwest,Northern,2015,9,Take Home Naloxone,2,1,10.0
+51,Northwest,Northern,2015,10,Take Home Naloxone,2,0,0.0
+51,Northwest,Northern,2015,11,Take Home Naloxone,2,0,0.0
+51,Northwest,Northern,2015,12,Take Home Naloxone,3,1,0.0
+51,Northwest,Northern,2016,1,Take Home Naloxone,3,0,24.0
+51,Northwest,Northern,2016,2,Take Home Naloxone,3,0,0.0
+51,Northwest,Northern,2016,3,Take Home Naloxone,3,0,0.0
+51,Northwest,Northern,2016,4,Take Home Naloxone,5,2,10.0
+51,Northwest,Northern,2016,5,Take Home Naloxone,7,2,30.0
+51,Northwest,Northern,2016,6,Take Home Naloxone,8,1,30.0
+51,Northwest,Northern,2016,7,Take Home Naloxone,8,0,10.0
+51,Northwest,Northern,2016,8,Take Home Naloxone,8,0,22.0
+51,Northwest,Northern,2016,9,Take Home Naloxone,10,2,14.0
+51,Northwest,Northern,2016,10,Take Home Naloxone,10,0,65.0
+51,Northwest,Northern,2016,11,Take Home Naloxone,17,7,95.0
+51,Northwest,Northern,2016,12,Take Home Naloxone,20,3,235.0
+51,Northwest,Northern,2017,1,Take Home Naloxone,21,1,207.0
+51,Northwest,Northern,2017,2,Take Home Naloxone,25,4,25.0
+51,Northwest,Northern,2017,3,Take Home Naloxone,25,0,100.0
+51,Northwest,Northern,2017,4,Take Home Naloxone,27,2,140.0
+51,Northwest,Northern,2017,5,Take Home Naloxone,27,0,215.0
+51,Northwest,Northern,2017,6,Take Home Naloxone,27,0,86.0
+51,Northwest,Northern,2017,7,Take Home Naloxone,27,0,121.0
+51,Northwest,Northern,2017,8,Take Home Naloxone,27,0,135.0
+51,Northwest,Northern,2017,9,Take Home Naloxone,29,2,61.0
+51,Northwest,Northern,2017,10,Take Home Naloxone,29,0,70.0
+51,Northwest,Northern,2017,11,Take Home Naloxone,29,0,320.0
+51,Northwest,Northern,2017,12,Take Home Naloxone,34,5,196.0
+51,Northwest,Northern,2018,1,Take Home Naloxone,39,5,63.0
+51,Northwest,Northern,2018,2,Take Home Naloxone,40,1,110.0
+51,Northwest,Northern,2018,3,Take Home Naloxone,42,2,60.0
+51,Northwest,Northern,2018,4,Take Home Naloxone,44,2,176.0
+51,Northwest,Northern,2018,5,Take Home Naloxone,45,1,270.0
+51,Northwest,Northern,2018,6,Take Home Naloxone,45,0,90.0
+51,Northwest,Northern,2018,7,Take Home Naloxone,48,3,245.0
+51,Northwest,Northern,2018,8,Take Home Naloxone,48,0,190.0
+51,Northwest,Northern,2018,9,Take Home Naloxone,48,0,265.0
+51,Northwest,Northern,2018,10,Take Home Naloxone,48,0,170.0
+51,Northwest,Northern,2018,11,Take Home Naloxone,48,0,250.0
+51,Northwest,Northern,2018,12,Take Home Naloxone,48,0,275.0
+51,Northwest,Northern,2019,1,Take Home Naloxone,48,0,205.0
+51,Northwest,Northern,2019,2,Take Home Naloxone,50,2,100.0
+51,Northwest,Northern,2019,3,Take Home Naloxone,50,0,330.0
+51,Northwest,Northern,2019,4,Take Home Naloxone,50,0,265.0
+51,Northwest,Northern,2019,5,Take Home Naloxone,53,3,192.0
+51,Northwest,Northern,2019,6,Take Home Naloxone,53,0,220.0
+51,Northwest,Northern,2019,7,Take Home Naloxone,53,0,202.0
+51,Northwest,Northern,2019,8,Take Home Naloxone,54,1,585.0
+51,Northwest,Northern,2019,9,Take Home Naloxone,54,0,100.0
+51,Northwest,Northern,2019,10,Take Home Naloxone,55,1,96.0
+51,Northwest,Northern,2019,11,Take Home Naloxone,55,0,505.0
+51,Northwest,Northern,2019,12,Take Home Naloxone,55,0,140.0
+51,Northwest,Northern,2020,1,Take Home Naloxone,55,0,280.0
+51,Northwest,Northern,2020,2,Take Home Naloxone,56,1,0.0
+51,Northwest,Northern,2020,3,Take Home Naloxone,56,0,182.0
+51,Northwest,Northern,2020,4,Take Home Naloxone,56,0,500.0
+51,Northwest,Northern,2020,5,Take Home Naloxone,56,0,155.0
+51,Northwest,Northern,2020,6,Take Home Naloxone,56,0,485.0
+51,Northwest,Northern,2020,7,Take Home Naloxone,56,0,353.0
+51,Northwest,Northern,2020,8,Take Home Naloxone,57,1,1078.0
+51,Northwest,Northern,2020,9,Take Home Naloxone,57,0,372.0
+51,Northwest,Northern,2020,10,Take Home Naloxone,57,0,223.0
+51,Northwest,Northern,2020,11,Take Home Naloxone,57,0,656.0
+51,Northwest,Northern,2020,12,Take Home Naloxone,57,0,656.0
+51,Northwest,Northern,2021,1,Take Home Naloxone,57,0,510.0
+51,Northwest,Northern,2021,2,Take Home Naloxone,58,1,560.0
+51,Northwest,Northern,2021,3,Take Home Naloxone,59,1,480.0
+51,Northwest,Northern,2021,4,Take Home Naloxone,59,0,910.0
+51,Northwest,Northern,2021,5,Take Home Naloxone,60,1,600.0
+51,Northwest,Northern,2021,6,Take Home Naloxone,61,1,715.0
+51,Northwest,Northern,2021,7,Take Home Naloxone,61,0,845.0
+51,Northwest,Northern,2021,8,Take Home Naloxone,62,1,755.0
+51,Northwest,Northern,2021,9,Take Home Naloxone,62,0,940.0
+51,Northwest,Northern,2021,10,Take Home Naloxone,62,0,1100.0
+51,Northwest,Northern,2021,11,Take Home Naloxone,62,0,270.0
+51,Northwest,Northern,2021,12,Take Home Naloxone,63,1,465.0
+51,Northwest,Northern,2022,1,Take Home Naloxone,63,0,430.0
+51,Northwest,Northern,2022,2,Take Home Naloxone,63,0,655.0
+51,Northwest,Northern,2022,3,Take Home Naloxone,63,0,1055.0
+51,Northwest,Northern,2022,4,Take Home Naloxone,63,0,762.0
+51,Northwest,Northern,2022,5,Take Home Naloxone,63,0,934.0
+51,Northwest,Northern,2022,6,Take Home Naloxone,63,0,1300.0
+51,Northwest,Northern,2022,7,Take Home Naloxone,63,0,1600.0
+51,Northwest,Northern,2022,8,Take Home Naloxone,63,0,935.0
+51,Northwest,Northern,2022,9,Take Home Naloxone,63,0,1275.0
+51,Northwest,Northern,2022,10,Take Home Naloxone,64,1,555.0
+51,Northwest,Northern,2022,11,Take Home Naloxone,64,0,825.0
+51,Northwest,Northern,2022,12,Take Home Naloxone,65,1,788.0
+51,Northwest,Northern,2023,1,Take Home Naloxone,65,0,675.0
+51,Northwest,Northern,2023,2,Take Home Naloxone,65,0,505.0
+51,Northwest,Northern,2023,3,Take Home Naloxone,66,1,904.0
+51,Northwest,Northern,2023,4,Take Home Naloxone,66,0,1085.0
+51,Northwest,Northern,2023,5,Take Home Naloxone,69,3,695.0
+51,Northwest,Northern,2023,6,Take Home Naloxone,69,0,1320.0
+51,Northwest,Northern,2023,7,Take Home Naloxone,70,1,1395.0
+51,Northwest,Northern,2023,8,Take Home Naloxone,70,0,1325.0
+51,Northwest,Northern,2023,9,Take Home Naloxone,70,0,1175.0
+51,Northwest,Northern,2023,10,Take Home Naloxone,70,0,650.0
+51,Northwest,Northern,2023,11,Take Home Naloxone,70,0,825.0
+51,Northwest,Northern,2023,12,Take Home Naloxone,70,0,650.0
+51,Northwest,Northern,2024,1,Take Home Naloxone,70,0,990.0
+51,Northwest,Northern,2024,2,Take Home Naloxone,70,0,625.0
+51,Northwest,Northern,2024,3,Take Home Naloxone,70,0,725.0
+51,Northwest,Northern,2024,4,Take Home Naloxone,70,0,2035.0
+51,Northwest,Northern,2024,5,Take Home Naloxone,71,1,1165.0
+51,Northwest,Northern,2024,6,Take Home Naloxone,71,0,825.0
+51,Northwest,Northern,2024,7,Take Home Naloxone,72,1,1275.0
+51,Northwest,Northern,2024,8,Take Home Naloxone,73,1,1029.0
+51,Northwest,Northern,2024,9,Take Home Naloxone,73,0,997.0
+51,Northwest,Northern,2024,10,Take Home Naloxone,73,0,950.0
+51,Northwest,Northern,2024,11,Take Home Naloxone,74,1,1337.0
+51,Northwest,Northern,2024,12,Take Home Naloxone,74,0,265.0
+51,Northwest,Northern,2025,1,Take Home Naloxone,74,0,260.0
+51,Northwest,Northern,2025,2,Take Home Naloxone,74,0,320.0
+51,Northwest,Northern,2025,3,Take Home Naloxone,75,1,1091.0
+51,Northwest,Northern,2025,4,Take Home Naloxone,75,0,404.0
+51,Northwest,Northern,2025,5,Take Home Naloxone,75,0,1230.0
+51,Northwest,Northern,2025,6,Take Home Naloxone,75,0,513.0
+51,Northwest,Northern,2025,7,Take Home Naloxone,76,1,900.0
+51,Northwest,Northern,2025,8,Take Home Naloxone,76,0,458.0
+51,Northwest,Northern,2025,9,Take Home Naloxone,77,1,1090.0
+51,Northwest,Northern,2025,10,Take Home Naloxone,77,0,986.0
+51,Northwest,Northern,2025,11,Take Home Naloxone,78,1,1075.0
+51,Northwest,Northern,2025,12,Take Home Naloxone,78,0,425.0
+51,Northwest,Northern,2026,1,Take Home Naloxone,82,4,245.0
+51,Northwest,Northern,2026,2,Take Home Naloxone,82,0,525.0
+51,Northwest,Northern,2026,3,Take Home Naloxone,83,1,1130.0
+51,Northwest,Northern,2026,4,Take Home Naloxone,83,0,839.0
+51,Northwest,Northern,2026,5,Take Home Naloxone,83,0,310.0
+51,Northwest,Northern,2026,6,Take Home Naloxone,83,0,1193.0
+51,Northwest,Northern,2026,7,Take Home Naloxone,83,0,1233.0
+52,Northern Interior,Northern,2015,1,Take Home Naloxone,3,1,0.0
+52,Northern Interior,Northern,2015,2,Take Home Naloxone,3,0,15.0
+52,Northern Interior,Northern,2015,3,Take Home Naloxone,3,0,0.0
+52,Northern Interior,Northern,2015,4,Take Home Naloxone,3,0,0.0
+52,Northern Interior,Northern,2015,5,Take Home Naloxone,3,0,20.0
+52,Northern Interior,Northern,2015,6,Take Home Naloxone,3,0,0.0
+52,Northern Interior,Northern,2015,7,Take Home Naloxone,4,1,23.0
+52,Northern Interior,Northern,2015,8,Take Home Naloxone,4,0,0.0
+52,Northern Interior,Northern,2015,9,Take Home Naloxone,4,0,4.0
+52,Northern Interior,Northern,2015,10,Take Home Naloxone,4,0,0.0
+52,Northern Interior,Northern,2015,11,Take Home Naloxone,5,1,56.0
+52,Northern Interior,Northern,2015,12,Take Home Naloxone,5,0,0.0
+52,Northern Interior,Northern,2016,1,Take Home Naloxone,6,1,0.0
+52,Northern Interior,Northern,2016,2,Take Home Naloxone,6,0,213.0
+52,Northern Interior,Northern,2016,3,Take Home Naloxone,6,0,20.0
+52,Northern Interior,Northern,2016,4,Take Home Naloxone,7,1,10.0
+52,Northern Interior,Northern,2016,5,Take Home Naloxone,7,0,20.0
+52,Northern Interior,Northern,2016,6,Take Home Naloxone,8,1,130.0
+52,Northern Interior,Northern,2016,7,Take Home Naloxone,10,2,8.0
+52,Northern Interior,Northern,2016,8,Take Home Naloxone,10,0,80.0
+52,Northern Interior,Northern,2016,9,Take Home Naloxone,15,5,101.0
+52,Northern Interior,Northern,2016,10,Take Home Naloxone,19,4,268.0
+52,Northern Interior,Northern,2016,11,Take Home Naloxone,21,2,135.0
+52,Northern Interior,Northern,2016,12,Take Home Naloxone,25,4,745.0
+52,Northern Interior,Northern,2017,1,Take Home Naloxone,26,1,60.0
+52,Northern Interior,Northern,2017,2,Take Home Naloxone,29,3,70.0
+52,Northern Interior,Northern,2017,3,Take Home Naloxone,30,1,340.0
+52,Northern Interior,Northern,2017,4,Take Home Naloxone,30,0,421.0
+52,Northern Interior,Northern,2017,5,Take Home Naloxone,30,0,520.0
+52,Northern Interior,Northern,2017,6,Take Home Naloxone,30,0,175.0
+52,Northern Interior,Northern,2017,7,Take Home Naloxone,30,0,168.0
+52,Northern Interior,Northern,2017,8,Take Home Naloxone,30,0,220.0
+52,Northern Interior,Northern,2017,9,Take Home Naloxone,31,1,150.0
+52,Northern Interior,Northern,2017,10,Take Home Naloxone,31,0,30.0
+52,Northern Interior,Northern,2017,11,Take Home Naloxone,32,1,328.0
+52,Northern Interior,Northern,2017,12,Take Home Naloxone,38,6,250.0
+52,Northern Interior,Northern,2018,1,Take Home Naloxone,44,6,140.0
+52,Northern Interior,Northern,2018,2,Take Home Naloxone,51,7,135.0
+52,Northern Interior,Northern,2018,3,Take Home Naloxone,51,0,420.0
+52,Northern Interior,Northern,2018,4,Take Home Naloxone,54,3,290.0
+52,Northern Interior,Northern,2018,5,Take Home Naloxone,55,1,632.0
+52,Northern Interior,Northern,2018,6,Take Home Naloxone,56,1,285.0
+52,Northern Interior,Northern,2018,7,Take Home Naloxone,57,1,748.0
+52,Northern Interior,Northern,2018,8,Take Home Naloxone,57,0,610.0
+52,Northern Interior,Northern,2018,9,Take Home Naloxone,57,0,330.0
+52,Northern Interior,Northern,2018,10,Take Home Naloxone,58,1,170.0
+52,Northern Interior,Northern,2018,11,Take Home Naloxone,59,1,655.0
+52,Northern Interior,Northern,2018,12,Take Home Naloxone,61,2,505.0
+52,Northern Interior,Northern,2019,1,Take Home Naloxone,62,1,290.0
+52,Northern Interior,Northern,2019,2,Take Home Naloxone,64,2,455.0
+52,Northern Interior,Northern,2019,3,Take Home Naloxone,64,0,285.0
+52,Northern Interior,Northern,2019,4,Take Home Naloxone,66,2,1010.0
+52,Northern Interior,Northern,2019,5,Take Home Naloxone,67,1,858.0
+52,Northern Interior,Northern,2019,6,Take Home Naloxone,68,1,777.0
+52,Northern Interior,Northern,2019,7,Take Home Naloxone,71,3,450.0
+52,Northern Interior,Northern,2019,8,Take Home Naloxone,71,0,1078.0
+52,Northern Interior,Northern,2019,9,Take Home Naloxone,72,1,560.0
+52,Northern Interior,Northern,2019,10,Take Home Naloxone,72,0,1256.0
+52,Northern Interior,Northern,2019,11,Take Home Naloxone,72,0,250.0
+52,Northern Interior,Northern,2019,12,Take Home Naloxone,72,0,305.0
+52,Northern Interior,Northern,2020,1,Take Home Naloxone,72,0,580.0
+52,Northern Interior,Northern,2020,2,Take Home Naloxone,72,0,958.0
+52,Northern Interior,Northern,2020,3,Take Home Naloxone,72,0,350.0
+52,Northern Interior,Northern,2020,4,Take Home Naloxone,72,0,830.0
+52,Northern Interior,Northern,2020,5,Take Home Naloxone,72,0,580.0
+52,Northern Interior,Northern,2020,6,Take Home Naloxone,72,0,955.0
+52,Northern Interior,Northern,2020,7,Take Home Naloxone,73,1,2001.0
+52,Northern Interior,Northern,2020,8,Take Home Naloxone,74,1,2105.0
+52,Northern Interior,Northern,2020,9,Take Home Naloxone,74,0,1765.0
+52,Northern Interior,Northern,2020,10,Take Home Naloxone,74,0,2125.0
+52,Northern Interior,Northern,2020,11,Take Home Naloxone,74,0,1312.0
+52,Northern Interior,Northern,2020,12,Take Home Naloxone,75,1,782.0
+52,Northern Interior,Northern,2021,1,Take Home Naloxone,75,0,895.0
+52,Northern Interior,Northern,2021,2,Take Home Naloxone,75,0,552.0
+52,Northern Interior,Northern,2021,3,Take Home Naloxone,75,0,1925.0
+52,Northern Interior,Northern,2021,4,Take Home Naloxone,75,0,1625.0
+52,Northern Interior,Northern,2021,5,Take Home Naloxone,75,0,1410.0
+52,Northern Interior,Northern,2021,6,Take Home Naloxone,75,0,3080.0
+52,Northern Interior,Northern,2021,7,Take Home Naloxone,75,0,1608.0
+52,Northern Interior,Northern,2021,8,Take Home Naloxone,76,1,1571.0
+52,Northern Interior,Northern,2021,9,Take Home Naloxone,77,1,1380.0
+52,Northern Interior,Northern,2021,10,Take Home Naloxone,78,1,1940.0
+52,Northern Interior,Northern,2021,11,Take Home Naloxone,78,0,1600.0
+52,Northern Interior,Northern,2021,12,Take Home Naloxone,79,1,1115.0
+52,Northern Interior,Northern,2022,1,Take Home Naloxone,79,0,1615.0
+52,Northern Interior,Northern,2022,2,Take Home Naloxone,79,0,1750.0
+52,Northern Interior,Northern,2022,3,Take Home Naloxone,79,0,1905.0
+52,Northern Interior,Northern,2022,4,Take Home Naloxone,79,0,1376.0
+52,Northern Interior,Northern,2022,5,Take Home Naloxone,80,1,1950.0
+52,Northern Interior,Northern,2022,6,Take Home Naloxone,81,1,1925.0
+52,Northern Interior,Northern,2022,7,Take Home Naloxone,81,0,2401.0
+52,Northern Interior,Northern,2022,8,Take Home Naloxone,81,0,2125.0
+52,Northern Interior,Northern,2022,9,Take Home Naloxone,82,1,2142.0
+52,Northern Interior,Northern,2022,10,Take Home Naloxone,82,0,1385.0
+52,Northern Interior,Northern,2022,11,Take Home Naloxone,82,0,1720.0
+52,Northern Interior,Northern,2022,12,Take Home Naloxone,82,0,2129.0
+52,Northern Interior,Northern,2023,1,Take Home Naloxone,83,1,1455.0
+52,Northern Interior,Northern,2023,2,Take Home Naloxone,83,0,1600.0
+52,Northern Interior,Northern,2023,3,Take Home Naloxone,84,1,3195.0
+52,Northern Interior,Northern,2023,4,Take Home Naloxone,85,1,2940.0
+52,Northern Interior,Northern,2023,5,Take Home Naloxone,85,0,1725.0
+52,Northern Interior,Northern,2023,6,Take Home Naloxone,85,0,3075.0
+52,Northern Interior,Northern,2023,7,Take Home Naloxone,85,0,1290.0
+52,Northern Interior,Northern,2023,8,Take Home Naloxone,85,0,2560.0
+52,Northern Interior,Northern,2023,9,Take Home Naloxone,86,1,2100.0
+52,Northern Interior,Northern,2023,10,Take Home Naloxone,86,0,2430.0
+52,Northern Interior,Northern,2023,11,Take Home Naloxone,87,1,2295.0
+52,Northern Interior,Northern,2023,12,Take Home Naloxone,87,0,1025.0
+52,Northern Interior,Northern,2024,1,Take Home Naloxone,87,0,2010.0
+52,Northern Interior,Northern,2024,2,Take Home Naloxone,87,0,2881.0
+52,Northern Interior,Northern,2024,3,Take Home Naloxone,88,1,2219.0
+52,Northern Interior,Northern,2024,4,Take Home Naloxone,90,2,1800.0
+52,Northern Interior,Northern,2024,5,Take Home Naloxone,90,0,3393.0
+52,Northern Interior,Northern,2024,6,Take Home Naloxone,91,1,2896.0
+52,Northern Interior,Northern,2024,7,Take Home Naloxone,91,0,2500.0
+52,Northern Interior,Northern,2024,8,Take Home Naloxone,93,2,3243.0
+52,Northern Interior,Northern,2024,9,Take Home Naloxone,94,1,2746.0
+52,Northern Interior,Northern,2024,10,Take Home Naloxone,94,0,2930.0
+52,Northern Interior,Northern,2024,11,Take Home Naloxone,94,0,1917.0
+52,Northern Interior,Northern,2024,12,Take Home Naloxone,94,0,800.0
+52,Northern Interior,Northern,2025,1,Take Home Naloxone,95,1,1568.0
+52,Northern Interior,Northern,2025,2,Take Home Naloxone,95,0,426.0
+52,Northern Interior,Northern,2025,3,Take Home Naloxone,96,1,750.0
+52,Northern Interior,Northern,2025,4,Take Home Naloxone,96,0,1460.0
+52,Northern Interior,Northern,2025,5,Take Home Naloxone,96,0,2575.0
+52,Northern Interior,Northern,2025,6,Take Home Naloxone,96,0,2565.0
+52,Northern Interior,Northern,2025,7,Take Home Naloxone,97,1,2350.0
+52,Northern Interior,Northern,2025,8,Take Home Naloxone,97,0,1760.0
+52,Northern Interior,Northern,2025,9,Take Home Naloxone,97,0,2485.0
+52,Northern Interior,Northern,2025,10,Take Home Naloxone,97,0,2675.0
+52,Northern Interior,Northern,2025,11,Take Home Naloxone,97,0,2985.0
+52,Northern Interior,Northern,2025,12,Take Home Naloxone,104,7,1630.0
+52,Northern Interior,Northern,2026,1,Take Home Naloxone,106,2,1412.0
+52,Northern Interior,Northern,2026,2,Take Home Naloxone,109,3,869.0
+52,Northern Interior,Northern,2026,3,Take Home Naloxone,109,0,1862.0
+52,Northern Interior,Northern,2026,4,Take Home Naloxone,109,0,2240.0
+52,Northern Interior,Northern,2026,5,Take Home Naloxone,112,3,2350.0
+52,Northern Interior,Northern,2026,6,Take Home Naloxone,112,0,3176.0
+52,Northern Interior,Northern,2026,7,Take Home Naloxone,112,0,2388.0
+53,Northeast,Northern,2015,1,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,2,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,3,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,4,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,5,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,6,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,7,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,8,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,9,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,10,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,11,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2015,12,Take Home Naloxone,0,0,0.0
+53,Northeast,Northern,2016,1,Take Home Naloxone,1,1,15.0
+53,Northeast,Northern,2016,2,Take Home Naloxone,1,0,0.0
+53,Northeast,Northern,2016,3,Take Home Naloxone,1,0,10.0
+53,Northeast,Northern,2016,4,Take Home Naloxone,1,0,0.0
+53,Northeast,Northern,2016,5,Take Home Naloxone,1,0,15.0
+53,Northeast,Northern,2016,6,Take Home Naloxone,1,0,20.0
+53,Northeast,Northern,2016,7,Take Home Naloxone,1,0,0.0
+53,Northeast,Northern,2016,8,Take Home Naloxone,1,0,30.0
+53,Northeast,Northern,2016,9,Take Home Naloxone,1,0,0.0
+53,Northeast,Northern,2016,10,Take Home Naloxone,1,0,30.0
+53,Northeast,Northern,2016,11,Take Home Naloxone,1,0,0.0
+53,Northeast,Northern,2016,12,Take Home Naloxone,7,6,161.0
+53,Northeast,Northern,2017,1,Take Home Naloxone,10,3,101.0
+53,Northeast,Northern,2017,2,Take Home Naloxone,12,2,155.0
+53,Northeast,Northern,2017,3,Take Home Naloxone,13,1,62.0
+53,Northeast,Northern,2017,4,Take Home Naloxone,13,0,0.0
+53,Northeast,Northern,2017,5,Take Home Naloxone,13,0,135.0
+53,Northeast,Northern,2017,6,Take Home Naloxone,13,0,100.0
+53,Northeast,Northern,2017,7,Take Home Naloxone,14,1,30.0
+53,Northeast,Northern,2017,8,Take Home Naloxone,14,0,120.0
+53,Northeast,Northern,2017,9,Take Home Naloxone,18,4,44.0
+53,Northeast,Northern,2017,10,Take Home Naloxone,18,0,50.0
+53,Northeast,Northern,2017,11,Take Home Naloxone,18,0,135.0
+53,Northeast,Northern,2017,12,Take Home Naloxone,20,2,100.0
+53,Northeast,Northern,2018,1,Take Home Naloxone,22,2,84.0
+53,Northeast,Northern,2018,2,Take Home Naloxone,24,2,0.0
+53,Northeast,Northern,2018,3,Take Home Naloxone,24,0,110.0
+53,Northeast,Northern,2018,4,Take Home Naloxone,24,0,10.0
+53,Northeast,Northern,2018,5,Take Home Naloxone,26,2,218.0
+53,Northeast,Northern,2018,6,Take Home Naloxone,26,0,155.0
+53,Northeast,Northern,2018,7,Take Home Naloxone,26,0,120.0
+53,Northeast,Northern,2018,8,Take Home Naloxone,27,1,192.0
+53,Northeast,Northern,2018,9,Take Home Naloxone,27,0,0.0
+53,Northeast,Northern,2018,10,Take Home Naloxone,28,1,236.0
+53,Northeast,Northern,2018,11,Take Home Naloxone,28,0,70.0
+53,Northeast,Northern,2018,12,Take Home Naloxone,28,0,105.0
+53,Northeast,Northern,2019,1,Take Home Naloxone,29,1,186.0
+53,Northeast,Northern,2019,2,Take Home Naloxone,29,0,230.0
+53,Northeast,Northern,2019,3,Take Home Naloxone,29,0,130.0
+53,Northeast,Northern,2019,4,Take Home Naloxone,30,1,245.0
+53,Northeast,Northern,2019,5,Take Home Naloxone,32,2,340.0
+53,Northeast,Northern,2019,6,Take Home Naloxone,32,0,185.0
+53,Northeast,Northern,2019,7,Take Home Naloxone,33,1,240.0
+53,Northeast,Northern,2019,8,Take Home Naloxone,33,0,142.0
+53,Northeast,Northern,2019,9,Take Home Naloxone,33,0,175.0
+53,Northeast,Northern,2019,10,Take Home Naloxone,33,0,475.0
+53,Northeast,Northern,2019,11,Take Home Naloxone,33,0,469.0
+53,Northeast,Northern,2019,12,Take Home Naloxone,34,1,13.0
+53,Northeast,Northern,2020,1,Take Home Naloxone,34,0,110.0
+53,Northeast,Northern,2020,2,Take Home Naloxone,34,0,320.0
+53,Northeast,Northern,2020,3,Take Home Naloxone,34,0,120.0
+53,Northeast,Northern,2020,4,Take Home Naloxone,34,0,150.0
+53,Northeast,Northern,2020,5,Take Home Naloxone,34,0,200.0
+53,Northeast,Northern,2020,6,Take Home Naloxone,34,0,196.0
+53,Northeast,Northern,2020,7,Take Home Naloxone,34,0,620.0
+53,Northeast,Northern,2020,8,Take Home Naloxone,34,0,730.0
+53,Northeast,Northern,2020,9,Take Home Naloxone,34,0,0.0
+53,Northeast,Northern,2020,10,Take Home Naloxone,34,0,307.0
+53,Northeast,Northern,2020,11,Take Home Naloxone,36,2,570.0
+53,Northeast,Northern,2020,12,Take Home Naloxone,37,1,775.0
+53,Northeast,Northern,2021,1,Take Home Naloxone,37,0,10.0
+53,Northeast,Northern,2021,2,Take Home Naloxone,37,0,285.0
+53,Northeast,Northern,2021,3,Take Home Naloxone,37,0,570.0
+53,Northeast,Northern,2021,4,Take Home Naloxone,37,0,365.0
+53,Northeast,Northern,2021,5,Take Home Naloxone,38,1,330.0
+53,Northeast,Northern,2021,6,Take Home Naloxone,38,0,1040.0
+53,Northeast,Northern,2021,7,Take Home Naloxone,38,0,40.0
+53,Northeast,Northern,2021,8,Take Home Naloxone,40,2,350.0
+53,Northeast,Northern,2021,9,Take Home Naloxone,40,0,350.0
+53,Northeast,Northern,2021,10,Take Home Naloxone,40,0,380.0
+53,Northeast,Northern,2021,11,Take Home Naloxone,40,0,50.0
+53,Northeast,Northern,2021,12,Take Home Naloxone,40,0,135.0
+53,Northeast,Northern,2022,1,Take Home Naloxone,40,0,0.0
+53,Northeast,Northern,2022,2,Take Home Naloxone,40,0,150.0
+53,Northeast,Northern,2022,3,Take Home Naloxone,40,0,275.0
+53,Northeast,Northern,2022,4,Take Home Naloxone,40,0,125.0
+53,Northeast,Northern,2022,5,Take Home Naloxone,40,0,320.0
+53,Northeast,Northern,2022,6,Take Home Naloxone,40,0,425.0
+53,Northeast,Northern,2022,7,Take Home Naloxone,40,0,400.0
+53,Northeast,Northern,2022,8,Take Home Naloxone,40,0,300.0
+53,Northeast,Northern,2022,9,Take Home Naloxone,40,0,275.0
+53,Northeast,Northern,2022,10,Take Home Naloxone,40,0,376.0
+53,Northeast,Northern,2022,11,Take Home Naloxone,40,0,300.0
+53,Northeast,Northern,2022,12,Take Home Naloxone,40,0,400.0
+53,Northeast,Northern,2023,1,Take Home Naloxone,40,0,350.0
+53,Northeast,Northern,2023,2,Take Home Naloxone,40,0,550.0
+53,Northeast,Northern,2023,3,Take Home Naloxone,40,0,575.0
+53,Northeast,Northern,2023,4,Take Home Naloxone,40,0,175.0
+53,Northeast,Northern,2023,5,Take Home Naloxone,40,0,1200.0
+53,Northeast,Northern,2023,6,Take Home Naloxone,40,0,450.0
+53,Northeast,Northern,2023,7,Take Home Naloxone,41,1,775.0
+53,Northeast,Northern,2023,8,Take Home Naloxone,41,0,1000.0
+53,Northeast,Northern,2023,9,Take Home Naloxone,41,0,575.0
+53,Northeast,Northern,2023,10,Take Home Naloxone,42,1,200.0
+53,Northeast,Northern,2023,11,Take Home Naloxone,42,0,800.0
+53,Northeast,Northern,2023,12,Take Home Naloxone,42,0,270.0
+53,Northeast,Northern,2024,1,Take Home Naloxone,42,0,525.0
+53,Northeast,Northern,2024,2,Take Home Naloxone,43,1,450.0
+53,Northeast,Northern,2024,3,Take Home Naloxone,43,0,850.0
+53,Northeast,Northern,2024,4,Take Home Naloxone,44,1,500.0
+53,Northeast,Northern,2024,5,Take Home Naloxone,44,0,380.0
+53,Northeast,Northern,2024,6,Take Home Naloxone,44,0,250.0
+53,Northeast,Northern,2024,7,Take Home Naloxone,44,0,900.0
+53,Northeast,Northern,2024,8,Take Home Naloxone,45,1,50.0
+53,Northeast,Northern,2024,9,Take Home Naloxone,45,0,300.0
+53,Northeast,Northern,2024,10,Take Home Naloxone,45,0,303.0
+53,Northeast,Northern,2024,11,Take Home Naloxone,45,0,365.0
+53,Northeast,Northern,2024,12,Take Home Naloxone,45,0,153.0
+53,Northeast,Northern,2025,1,Take Home Naloxone,45,0,600.0
+53,Northeast,Northern,2025,2,Take Home Naloxone,45,0,275.0
+53,Northeast,Northern,2025,3,Take Home Naloxone,45,0,300.0
+53,Northeast,Northern,2025,4,Take Home Naloxone,45,0,375.0
+53,Northeast,Northern,2025,5,Take Home Naloxone,45,0,265.0
+53,Northeast,Northern,2025,6,Take Home Naloxone,45,0,250.0
+53,Northeast,Northern,2025,7,Take Home Naloxone,45,0,525.0
+53,Northeast,Northern,2025,8,Take Home Naloxone,45,0,475.0
+53,Northeast,Northern,2025,9,Take Home Naloxone,45,0,150.0
+53,Northeast,Northern,2025,10,Take Home Naloxone,45,0,175.0
+53,Northeast,Northern,2025,11,Take Home Naloxone,45,0,550.0
+53,Northeast,Northern,2025,12,Take Home Naloxone,45,0,50.0
+53,Northeast,Northern,2026,1,Take Home Naloxone,45,0,250.0
+53,Northeast,Northern,2026,2,Take Home Naloxone,45,0,290.0
+53,Northeast,Northern,2026,3,Take Home Naloxone,46,1,100.0
+53,Northeast,Northern,2026,4,Take Home Naloxone,46,0,350.0
+53,Northeast,Northern,2026,5,Take Home Naloxone,46,0,325.0
+53,Northeast,Northern,2026,6,Take Home Naloxone,46,0,853.0
+53,Northeast,Northern,2026,7,Take Home Naloxone,47,1,535.0
