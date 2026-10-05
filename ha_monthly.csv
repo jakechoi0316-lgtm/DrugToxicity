@@ -1,0 +1,79 @@
+health_authority,year,month,deaths,rate_per_100k_month
+British Columbia,2025,6,151,2.7
+British Columbia,2025,7,152,2.7
+British Columbia,2025,8,155,2.7
+British Columbia,2025,9,162,2.8
+British Columbia,2025,10,146,2.6
+British Columbia,2025,11,136,2.4
+British Columbia,2025,12,151,2.7
+British Columbia,2026,1,154,2.7
+British Columbia,2026,2,115,2.0
+British Columbia,2026,3,139,2.5
+British Columbia,2026,4,120,2.1
+British Columbia,2026,5,110,1.9
+British Columbia,2026,6,138,2.4
+Interior,2025,6,31,3.5
+Interior,2025,7,23,2.6
+Interior,2025,8,26,2.9
+Interior,2025,9,20,2.2
+Interior,2025,10,25,2.8
+Interior,2025,11,21,2.4
+Interior,2025,12,22,2.5
+Interior,2026,1,31,3.5
+Interior,2026,2,15,1.7
+Interior,2026,3,22,2.5
+Interior,2026,4,15,1.7
+Interior,2026,5,18,2.0
+Interior,2026,6,31,3.5
+Fraser,2025,6,49,2.2
+Fraser,2025,7,45,2.0
+Fraser,2025,8,39,1.8
+Fraser,2025,9,50,2.2
+Fraser,2025,10,34,1.5
+Fraser,2025,11,37,1.7
+Fraser,2025,12,50,2.2
+Fraser,2026,1,44,2.0
+Fraser,2026,2,20,0.9
+Fraser,2026,3,38,1.7
+Fraser,2026,4,32,1.4
+Fraser,2026,5,35,1.6
+Fraser,2026,6,37,1.7
+Vancouver Coastal,2025,6,35,2.6
+Vancouver Coastal,2025,7,43,3.2
+Vancouver Coastal,2025,8,44,3.3
+Vancouver Coastal,2025,9,45,3.3
+Vancouver Coastal,2025,10,46,3.4
+Vancouver Coastal,2025,11,41,3.1
+Vancouver Coastal,2025,12,36,2.7
+Vancouver Coastal,2026,1,37,2.8
+Vancouver Coastal,2026,2,38,2.9
+Vancouver Coastal,2026,3,36,2.7
+Vancouver Coastal,2026,4,38,2.9
+Vancouver Coastal,2026,5,24,1.8
+Vancouver Coastal,2026,6,27,2.0
+Island,2025,6,30,3.2
+Island,2025,7,31,3.3
+Island,2025,8,29,3.1
+Island,2025,9,33,3.6
+Island,2025,10,28,3.0
+Island,2025,11,23,2.5
+Island,2025,12,30,3.2
+Island,2026,1,29,3.2
+Island,2026,2,30,3.3
+Island,2026,3,32,3.5
+Island,2026,4,25,2.7
+Island,2026,5,23,2.5
+Island,2026,6,26,2.8
+Northern,2025,6,6,2.0
+Northern,2025,7,10,3.3
+Northern,2025,8,17,5.6
+Northern,2025,9,14,4.6
+Northern,2025,10,13,4.2
+Northern,2025,11,14,4.6
+Northern,2025,12,13,4.2
+Northern,2026,1,13,4.3
+Northern,2026,2,12,4.0
+Northern,2026,3,11,3.7
+Northern,2026,4,10,3.3
+Northern,2026,5,10,3.3
+Northern,2026,6,17,5.6

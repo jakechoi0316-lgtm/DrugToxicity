@@ -1,0 +1,73 @@
+health_authority,year,months_covered,deaths,rate_per_100k,rate_annualized
+British Columbia,2015,12,528,11.1,no
+British Columbia,2016,12,997,20.5,no
+British Columbia,2017,12,1494,30.3,no
+British Columbia,2018,12,1566,31.2,no
+British Columbia,2019,12,992,19.4,no
+British Columbia,2020,12,1774,34.3,no
+British Columbia,2021,12,2291,43.8,no
+British Columbia,2022,12,2382,44.4,no
+British Columbia,2023,12,2591,47.0,no
+British Columbia,2024,12,2319,40.9,no
+British Columbia,2025,12,1828,32.1,no
+British Columbia,2026,6,776,27.5,yes
+Interior,2015,12,64,8.5,no
+Interior,2016,12,169,22.0,no
+Interior,2017,12,246,31.4,no
+Interior,2018,12,234,29.2,no
+Interior,2019,12,140,17.2,no
+Interior,2020,12,287,34.6,no
+Interior,2021,12,375,44.5,no
+Interior,2022,12,407,47.3,no
+Interior,2023,12,439,50.1,no
+Interior,2024,12,412,46.4,no
+Interior,2025,12,320,35.8,no
+Interior,2026,6,132,30.0,yes
+Fraser,2015,12,207,11.7,no
+Fraser,2016,12,337,18.7,no
+Fraser,2017,12,495,27.0,no
+Fraser,2018,12,522,27.9,no
+Fraser,2019,12,328,17.2,no
+Fraser,2020,12,584,30.2,no
+Fraser,2021,12,792,40.4,no
+Fraser,2022,12,711,35.1,no
+Fraser,2023,12,702,33.3,no
+Fraser,2024,12,625,28.4,no
+Fraser,2025,12,527,23.7,no
+Fraser,2026,6,206,18.6,yes
+Vancouver Coastal,2015,12,160,13.7,no
+Vancouver Coastal,2016,12,276,23.2,no
+Vancouver Coastal,2017,12,446,37.2,no
+Vancouver Coastal,2018,12,456,37.5,no
+Vancouver Coastal,2019,12,289,23.3,no
+Vancouver Coastal,2020,12,492,39.2,no
+Vancouver Coastal,2021,12,627,49.9,no
+Vancouver Coastal,2022,12,660,51.4,no
+Vancouver Coastal,2023,12,746,56.3,no
+Vancouver Coastal,2024,12,613,45.2,no
+Vancouver Coastal,2025,12,492,36.6,no
+Vancouver Coastal,2026,6,200,30.0,yes
+Island,2015,12,72,9.1,no
+Island,2016,12,163,20.2,no
+Island,2017,12,241,29.3,no
+Island,2018,12,252,30.1,no
+Island,2019,12,168,19.7,no
+Island,2020,12,275,31.9,no
+Island,2021,12,342,39.2,no
+Island,2022,12,416,46.6,no
+Island,2023,12,492,54.3,no
+Island,2024,12,461,50.1,no
+Island,2025,12,342,36.9,no
+Island,2026,6,165,35.9,yes
+Northern,2015,12,25,8.6,no
+Northern,2016,12,52,17.8,no
+Northern,2017,12,66,22.6,no
+Northern,2018,12,102,34.8,no
+Northern,2019,12,67,22.8,no
+Northern,2020,12,136,46.3,no
+Northern,2021,12,155,52.9,no
+Northern,2022,12,188,63.8,no
+Northern,2023,12,212,71.0,no
+Northern,2024,12,208,68.6,no
+Northern,2025,12,147,48.0,no
+Northern,2026,6,73,48.5,yes

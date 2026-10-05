@@ -1,0 +1,463 @@
+health_authority,year,drug_type,pct_of_deaths
+British Columbia,2015,Fentanyl,28.6
+British Columbia,2016,Fentanyl,65.9
+British Columbia,2017,Fentanyl,81.6
+British Columbia,2018,Fentanyl,85.2
+British Columbia,2019,Fentanyl,83.6
+British Columbia,2020,Fentanyl,83.2
+British Columbia,2021,Fentanyl,86.6
+British Columbia,2022,Fentanyl,85.4
+British Columbia,2023,Fentanyl,85.0
+British Columbia,2024,Fentanyl,84.1
+British Columbia,2025,Fentanyl,79.4
+British Columbia,2015,Cocaine,48.8
+British Columbia,2016,Cocaine,47.3
+British Columbia,2017,Cocaine,47.1
+British Columbia,2018,Cocaine,48.3
+British Columbia,2019,Cocaine,45.9
+British Columbia,2020,Cocaine,43.0
+British Columbia,2021,Cocaine,41.1
+British Columbia,2022,Cocaine,40.5
+British Columbia,2023,Cocaine,42.2
+British Columbia,2024,Cocaine,48.5
+British Columbia,2025,Cocaine,49.3
+British Columbia,2015,Meth/amph,29.0
+British Columbia,2016,Meth/amph,31.2
+British Columbia,2017,Meth/amph,29.4
+British Columbia,2018,Meth/amph,36.0
+British Columbia,2019,Meth/amph,39.5
+British Columbia,2020,Meth/amph,42.5
+British Columbia,2021,Meth/amph,45.5
+British Columbia,2022,Meth/amph,46.3
+British Columbia,2023,Meth/amph,49.5
+British Columbia,2024,Meth/amph,50.4
+British Columbia,2025,Meth/amph,51.3
+British Columbia,2015,Benzodiazepines,4.6
+British Columbia,2016,Benzodiazepines,5.0
+British Columbia,2017,Benzodiazepines,3.8
+British Columbia,2018,Benzodiazepines,3.1
+British Columbia,2019,Benzodiazepines,6.6
+British Columbia,2020,Benzodiazepines,13.8
+British Columbia,2021,Benzodiazepines,29.2
+British Columbia,2022,Benzodiazepines,30.3
+British Columbia,2023,Benzodiazepines,43.8
+British Columbia,2024,Benzodiazepines,47.9
+British Columbia,2025,Benzodiazepines,44.6
+British Columbia,2015,Other opioid,55.4
+British Columbia,2016,Other opioid,44.7
+British Columbia,2017,Other opioid,25.1
+British Columbia,2018,Other opioid,34.3
+British Columbia,2019,Other opioid,31.3
+British Columbia,2020,Other opioid,20.6
+British Columbia,2021,Other opioid,21.6
+British Columbia,2022,Other opioid,20.1
+British Columbia,2023,Other opioid,20.3
+British Columbia,2024,Other opioid,18.7
+British Columbia,2025,Other opioid,19.3
+British Columbia,2015,Other stimulants,2.3
+British Columbia,2016,Other stimulants,2.0
+British Columbia,2017,Other stimulants,2.1
+British Columbia,2018,Other stimulants,2.2
+British Columbia,2019,Other stimulants,2.9
+British Columbia,2020,Other stimulants,3.2
+British Columbia,2021,Other stimulants,2.0
+British Columbia,2022,Other stimulants,2.4
+British Columbia,2023,Other stimulants,1.9
+British Columbia,2024,Other stimulants,2.6
+British Columbia,2025,Other stimulants,2.7
+British Columbia,2015,Alcohol,23.8
+British Columbia,2016,Alcohol,24.4
+British Columbia,2017,Alcohol,25.2
+British Columbia,2018,Alcohol,28.3
+British Columbia,2019,Alcohol,26.6
+British Columbia,2020,Alcohol,26.4
+British Columbia,2021,Alcohol,24.8
+British Columbia,2022,Alcohol,20.9
+British Columbia,2023,Alcohol,18.8
+British Columbia,2024,Alcohol,16.9
+British Columbia,2025,Alcohol,15.2
+Interior,2015,Fentanyl,32.8
+Interior,2016,Fentanyl,69.2
+Interior,2017,Fentanyl,84.6
+Interior,2018,Fentanyl,85.4
+Interior,2019,Fentanyl,81.4
+Interior,2020,Fentanyl,82.0
+Interior,2021,Fentanyl,87.5
+Interior,2022,Fentanyl,85.8
+Interior,2023,Fentanyl,82.3
+Interior,2024,Fentanyl,81.6
+Interior,2025,Fentanyl,78.8
+Interior,2015,Cocaine,48.4
+Interior,2016,Cocaine,40.2
+Interior,2017,Cocaine,50.0
+Interior,2018,Cocaine,40.3
+Interior,2019,Cocaine,41.4
+Interior,2020,Cocaine,37.8
+Interior,2021,Cocaine,44.3
+Interior,2022,Cocaine,41.4
+Interior,2023,Cocaine,39.1
+Interior,2024,Cocaine,51.6
+Interior,2025,Cocaine,54.5
+Interior,2015,Meth/amph,21.9
+Interior,2016,Meth/amph,31.4
+Interior,2017,Meth/amph,28.5
+Interior,2018,Meth/amph,40.3
+Interior,2019,Meth/amph,34.3
+Interior,2020,Meth/amph,39.6
+Interior,2021,Meth/amph,44.6
+Interior,2022,Meth/amph,49.9
+Interior,2023,Meth/amph,51.4
+Interior,2024,Meth/amph,51.6
+Interior,2025,Meth/amph,50.0
+Interior,2015,Benzodiazepines,4.7
+Interior,2016,Benzodiazepines,6.5
+Interior,2017,Benzodiazepines,4.1
+Interior,2018,Benzodiazepines,1.7
+Interior,2019,Benzodiazepines,5.0
+Interior,2020,Benzodiazepines,11.7
+Interior,2021,Benzodiazepines,32.0
+Interior,2022,Benzodiazepines,33.7
+Interior,2023,Benzodiazepines,45.6
+Interior,2024,Benzodiazepines,48.4
+Interior,2025,Benzodiazepines,42.4
+Interior,2015,Other opioid,46.9
+Interior,2016,Other opioid,37.9
+Interior,2017,Other opioid,17.9
+Interior,2018,Other opioid,25.3
+Interior,2019,Other opioid,25.0
+Interior,2020,Other opioid,20.1
+Interior,2021,Other opioid,18.7
+Interior,2022,Other opioid,18.0
+Interior,2023,Other opioid,20.5
+Interior,2024,Other opioid,17.1
+Interior,2025,Other opioid,14.9
+Interior,2015,Other stimulants,6.3
+Interior,2016,Other stimulants,3.0
+Interior,2017,Other stimulants,2.8
+Interior,2018,Other stimulants,3.4
+Interior,2019,Other stimulants,2.1
+Interior,2020,Other stimulants,4.9
+Interior,2021,Other stimulants,1.7
+Interior,2022,Other stimulants,3.2
+Interior,2023,Other stimulants,2.6
+Interior,2024,Other stimulants,1.5
+Interior,2025,Other stimulants,2.1
+Interior,2015,Alcohol,17.2
+Interior,2016,Alcohol,27.8
+Interior,2017,Alcohol,28.5
+Interior,2018,Alcohol,27.9
+Interior,2019,Alcohol,28.6
+Interior,2020,Alcohol,27.6
+Interior,2021,Alcohol,24.8
+Interior,2022,Alcohol,20.2
+Interior,2023,Alcohol,17.4
+Interior,2024,Alcohol,18.1
+Interior,2025,Alcohol,17.0
+Fraser,2015,Fentanyl,26.5
+Fraser,2016,Fentanyl,60.8
+Fraser,2017,Fentanyl,78.3
+Fraser,2018,Fentanyl,84.2
+Fraser,2019,Fentanyl,86.1
+Fraser,2020,Fentanyl,85.1
+Fraser,2021,Fentanyl,87.4
+Fraser,2022,Fentanyl,86.7
+Fraser,2023,Fentanyl,84.1
+Fraser,2024,Fentanyl,82.8
+Fraser,2025,Fentanyl,78.2
+Fraser,2015,Cocaine,48.5
+Fraser,2016,Cocaine,50.7
+Fraser,2017,Cocaine,41.9
+Fraser,2018,Cocaine,45.6
+Fraser,2019,Cocaine,44.1
+Fraser,2020,Cocaine,42.0
+Fraser,2021,Cocaine,35.8
+Fraser,2022,Cocaine,37.6
+Fraser,2023,Cocaine,39.6
+Fraser,2024,Cocaine,43.3
+Fraser,2025,Cocaine,42.9
+Fraser,2015,Meth/amph,27.0
+Fraser,2016,Meth/amph,27.6
+Fraser,2017,Meth/amph,25.5
+Fraser,2018,Meth/amph,28.5
+Fraser,2019,Meth/amph,35.8
+Fraser,2020,Meth/amph,37.7
+Fraser,2021,Meth/amph,39.8
+Fraser,2022,Meth/amph,43.7
+Fraser,2023,Meth/amph,46.1
+Fraser,2024,Meth/amph,45.1
+Fraser,2025,Meth/amph,52.9
+Fraser,2015,Benzodiazepines,5.4
+Fraser,2016,Benzodiazepines,6.2
+Fraser,2017,Benzodiazepines,4.0
+Fraser,2018,Benzodiazepines,2.5
+Fraser,2019,Benzodiazepines,4.3
+Fraser,2020,Benzodiazepines,18.1
+Fraser,2021,Benzodiazepines,35.6
+Fraser,2022,Benzodiazepines,33.5
+Fraser,2023,Benzodiazepines,47.1
+Fraser,2024,Benzodiazepines,53.6
+Fraser,2025,Benzodiazepines,51.4
+Fraser,2015,Other opioid,52.0
+Fraser,2016,Other opioid,42.1
+Fraser,2017,Other opioid,25.9
+Fraser,2018,Other opioid,33.5
+Fraser,2019,Other opioid,29.0
+Fraser,2020,Other opioid,18.4
+Fraser,2021,Other opioid,19.2
+Fraser,2022,Other opioid,18.8
+Fraser,2023,Other opioid,20.0
+Fraser,2024,Other opioid,18.5
+Fraser,2025,Other opioid,20.1
+Fraser,2015,Other stimulants,1.5
+Fraser,2016,Other stimulants,1.5
+Fraser,2017,Other stimulants,1.6
+Fraser,2018,Other stimulants,2.1
+Fraser,2019,Other stimulants,2.5
+Fraser,2020,Other stimulants,2.8
+Fraser,2021,Other stimulants,2.3
+Fraser,2022,Other stimulants,2.2
+Fraser,2023,Other stimulants,1.3
+Fraser,2024,Other stimulants,1.8
+Fraser,2025,Other stimulants,2.7
+Fraser,2015,Alcohol,23.0
+Fraser,2016,Alcohol,17.5
+Fraser,2017,Alcohol,22.1
+Fraser,2018,Alcohol,26.9
+Fraser,2019,Alcohol,26.2
+Fraser,2020,Alcohol,23.4
+Fraser,2021,Alcohol,24.6
+Fraser,2022,Alcohol,16.0
+Fraser,2023,Alcohol,18.0
+Fraser,2024,Alcohol,14.7
+Fraser,2025,Alcohol,15.6
+Vancouver Coastal,2015,Fentanyl,25.6
+Vancouver Coastal,2016,Fentanyl,65.2
+Vancouver Coastal,2017,Fentanyl,81.2
+Vancouver Coastal,2018,Fentanyl,84.2
+Vancouver Coastal,2019,Fentanyl,81.5
+Vancouver Coastal,2020,Fentanyl,81.4
+Vancouver Coastal,2021,Fentanyl,88.1
+Vancouver Coastal,2022,Fentanyl,85.3
+Vancouver Coastal,2023,Fentanyl,86.9
+Vancouver Coastal,2024,Fentanyl,86.7
+Vancouver Coastal,2025,Fentanyl,79.7
+Vancouver Coastal,2015,Cocaine,50.0
+Vancouver Coastal,2016,Cocaine,46.0
+Vancouver Coastal,2017,Cocaine,49.8
+Vancouver Coastal,2018,Cocaine,51.9
+Vancouver Coastal,2019,Cocaine,50.7
+Vancouver Coastal,2020,Cocaine,44.8
+Vancouver Coastal,2021,Cocaine,46.0
+Vancouver Coastal,2022,Cocaine,45.4
+Vancouver Coastal,2023,Cocaine,46.1
+Vancouver Coastal,2024,Cocaine,49.2
+Vancouver Coastal,2025,Cocaine,48.4
+Vancouver Coastal,2015,Meth/amph,31.3
+Vancouver Coastal,2016,Meth/amph,36.2
+Vancouver Coastal,2017,Meth/amph,33.0
+Vancouver Coastal,2018,Meth/amph,40.9
+Vancouver Coastal,2019,Meth/amph,45.5
+Vancouver Coastal,2020,Meth/amph,47.0
+Vancouver Coastal,2021,Meth/amph,50.9
+Vancouver Coastal,2022,Meth/amph,44.5
+Vancouver Coastal,2023,Meth/amph,46.8
+Vancouver Coastal,2024,Meth/amph,50.6
+Vancouver Coastal,2025,Meth/amph,48.0
+Vancouver Coastal,2015,Benzodiazepines,3.1
+Vancouver Coastal,2016,Benzodiazepines,4.0
+Vancouver Coastal,2017,Benzodiazepines,3.6
+Vancouver Coastal,2018,Benzodiazepines,2.4
+Vancouver Coastal,2019,Benzodiazepines,11.2
+Vancouver Coastal,2020,Benzodiazepines,10.8
+Vancouver Coastal,2021,Benzodiazepines,23.6
+Vancouver Coastal,2022,Benzodiazepines,22.9
+Vancouver Coastal,2023,Benzodiazepines,34.8
+Vancouver Coastal,2024,Benzodiazepines,36.8
+Vancouver Coastal,2025,Benzodiazepines,37.9
+Vancouver Coastal,2015,Other opioid,58.8
+Vancouver Coastal,2016,Other opioid,47.1
+Vancouver Coastal,2017,Other opioid,25.1
+Vancouver Coastal,2018,Other opioid,36.3
+Vancouver Coastal,2019,Other opioid,34.6
+Vancouver Coastal,2020,Other opioid,25.4
+Vancouver Coastal,2021,Other opioid,27.0
+Vancouver Coastal,2022,Other opioid,21.5
+Vancouver Coastal,2023,Other opioid,22.0
+Vancouver Coastal,2024,Other opioid,19.0
+Vancouver Coastal,2025,Other opioid,22.3
+Vancouver Coastal,2015,Other stimulants,3.1
+Vancouver Coastal,2016,Other stimulants,2.5
+Vancouver Coastal,2017,Other stimulants,1.8
+Vancouver Coastal,2018,Other stimulants,1.1
+Vancouver Coastal,2019,Other stimulants,2.4
+Vancouver Coastal,2020,Other stimulants,3.1
+Vancouver Coastal,2021,Other stimulants,1.8
+Vancouver Coastal,2022,Other stimulants,2.3
+Vancouver Coastal,2023,Other stimulants,2.2
+Vancouver Coastal,2024,Other stimulants,3.9
+Vancouver Coastal,2025,Other stimulants,2.7
+Vancouver Coastal,2015,Alcohol,23.8
+Vancouver Coastal,2016,Alcohol,27.5
+Vancouver Coastal,2017,Alcohol,24.0
+Vancouver Coastal,2018,Alcohol,28.1
+Vancouver Coastal,2019,Alcohol,24.1
+Vancouver Coastal,2020,Alcohol,27.0
+Vancouver Coastal,2021,Alcohol,24.5
+Vancouver Coastal,2022,Alcohol,23.5
+Vancouver Coastal,2023,Alcohol,20.8
+Vancouver Coastal,2024,Alcohol,19.2
+Vancouver Coastal,2025,Alcohol,12.7
+Island,2015,Fentanyl,30.6
+Island,2016,Fentanyl,73.5
+Island,2017,Fentanyl,87.1
+Island,2018,Fentanyl,89.3
+Island,2019,Fentanyl,86.3
+Island,2020,Fentanyl,84.4
+Island,2021,Fentanyl,84.0
+Island,2022,Fentanyl,85.3
+Island,2023,Fentanyl,88.9
+Island,2024,Fentanyl,85.4
+Island,2025,Fentanyl,83.3
+Island,2015,Cocaine,44.4
+Island,2016,Cocaine,47.5
+Island,2017,Cocaine,48.3
+Island,2018,Cocaine,52.9
+Island,2019,Cocaine,43.1
+Island,2020,Cocaine,47.6
+Island,2021,Cocaine,43.2
+Island,2022,Cocaine,40.3
+Island,2023,Cocaine,44.8
+Island,2024,Cocaine,51.3
+Island,2025,Cocaine,58.0
+Island,2015,Meth/amph,38.9
+Island,2016,Meth/amph,31.5
+Island,2017,Meth/amph,30.8
+Island,2018,Meth/amph,34.3
+Island,2019,Meth/amph,41.3
+Island,2020,Meth/amph,44.2
+Island,2021,Meth/amph,48.5
+Island,2022,Meth/amph,46.8
+Island,2023,Meth/amph,53.6
+Island,2024,Meth/amph,52.4
+Island,2025,Meth/amph,52.6
+Island,2015,Benzodiazepines,6.9
+Island,2016,Benzodiazepines,3.7
+Island,2017,Benzodiazepines,4.2
+Island,2018,Benzodiazepines,6.6
+Island,2019,Benzodiazepines,5.0
+Island,2020,Benzodiazepines,13.0
+Island,2021,Benzodiazepines,24.7
+Island,2022,Benzodiazepines,32.6
+Island,2023,Benzodiazepines,50.6
+Island,2024,Benzodiazepines,51.3
+Island,2025,Benzodiazepines,43.6
+Island,2015,Other opioid,66.7
+Island,2016,Other opioid,55.6
+Island,2017,Other opioid,30.4
+Island,2018,Other opioid,33.1
+Island,2019,Other opioid,31.9
+Island,2020,Other opioid,21.6
+Island,2021,Other opioid,21.3
+Island,2022,Other opioid,22.9
+Island,2023,Other opioid,18.0
+Island,2024,Other opioid,20.4
+Island,2025,Other opioid,19.2
+Island,2015,Other stimulants,0.0
+Island,2016,Other stimulants,1.9
+Island,2017,Other stimulants,2.5
+Island,2018,Other stimulants,1.7
+Island,2019,Other stimulants,5.6
+Island,2020,Other stimulants,2.2
+Island,2021,Other stimulants,1.9
+Island,2022,Other stimulants,2.5
+Island,2023,Other stimulants,1.0
+Island,2024,Other stimulants,1.8
+Island,2025,Other stimulants,1.9
+Island,2015,Alcohol,29.2
+Island,2016,Alcohol,26.5
+Island,2017,Alcohol,30.8
+Island,2018,Alcohol,31.8
+Island,2019,Alcohol,26.9
+Island,2020,Alcohol,25.7
+Island,2021,Alcohol,25.0
+Island,2022,Alcohol,23.9
+Island,2023,Alcohol,17.4
+Island,2024,Alcohol,14.2
+Island,2025,Alcohol,16.3
+Northern,2015,Fentanyl,48.0
+Northern,2016,Fentanyl,67.3
+Northern,2017,Fentanyl,78.8
+Northern,2018,Fentanyl,84.3
+Northern,2019,Fentanyl,79.1
+Northern,2020,Fentanyl,81.3
+Northern,2021,Fentanyl,79.9
+Northern,2022,Fentanyl,79.8
+Northern,2023,Fentanyl,77.4
+Northern,2024,Fentanyl,82.0
+Northern,2025,Fentanyl,75.2
+Northern,2015,Cocaine,56.0
+Northern,2016,Cocaine,53.8
+Northern,2017,Cocaine,51.5
+Northern,2018,Cocaine,52.9
+Northern,2019,Cocaine,49.3
+Northern,2020,Cocaine,42.5
+Northern,2021,Cocaine,35.4
+Northern,2022,Cocaine,32.8
+Northern,2023,Cocaine,37.0
+Northern,2024,Cocaine,49.0
+Northern,2025,Cocaine,43.6
+Northern,2015,Meth/amph,20.0
+Northern,2016,Meth/amph,26.9
+Northern,2017,Meth/amph,31.8
+Northern,2018,Meth/amph,46.1
+Northern,2019,Meth/amph,38.8
+Northern,2020,Meth/amph,49.3
+Northern,2021,Meth/amph,49.3
+Northern,2022,Meth/amph,53.0
+Northern,2023,Meth/amph,57.7
+Northern,2024,Meth/amph,58.3
+Northern,2025,Meth/amph,57.1
+Northern,2015,Benzodiazepines,0.0
+Northern,2016,Benzodiazepines,1.9
+Northern,2017,Benzodiazepines,1.5
+Northern,2018,Benzodiazepines,3.9
+Northern,2019,Benzodiazepines,4.5
+Northern,2020,Benzodiazepines,11.9
+Northern,2021,Benzodiazepines,22.2
+Northern,2022,Benzodiazepines,31.7
+Northern,2023,Benzodiazepines,45.2
+Northern,2024,Benzodiazepines,54.9
+Northern,2025,Benzodiazepines,50.4
+Northern,2015,Other opioid,52.0
+Northern,2016,Other opioid,36.5
+Northern,2017,Other opioid,25.8
+Northern,2018,Other opioid,53.9
+Northern,2019,Other opioid,40.3
+Northern,2020,Other opioid,11.9
+Northern,2021,Other opioid,18.8
+Northern,2022,Other opioid,19.1
+Northern,2023,Other opioid,19.7
+Northern,2024,Other opioid,17.5
+Northern,2025,Other opioid,15.8
+Northern,2015,Other stimulants,0.0
+Northern,2016,Other stimulants,0.0
+Northern,2017,Other stimulants,4.5
+Northern,2018,Other stimulants,5.9
+Northern,2019,Other stimulants,1.5
+Northern,2020,Other stimulants,3.7
+Northern,2021,Other stimulants,2.1
+Northern,2022,Other stimulants,1.1
+Northern,2023,Other stimulants,3.4
+Northern,2024,Other stimulants,4.9
+Northern,2025,Other stimulants,5.3
+Northern,2015,Alcohol,32.0
+Northern,2016,Alcohol,34.6
+Northern,2017,Alcohol,24.2
+Northern,2018,Alcohol,28.4
+Northern,2019,Alcohol,34.3
+Northern,2020,Alcohol,35.8
+Northern,2021,Alcohol,27.1
+Northern,2022,Alcohol,24.6
+Northern,2023,Alcohol,20.2
+Northern,2024,Alcohol,20.4
+Northern,2025,Alcohol,15.8

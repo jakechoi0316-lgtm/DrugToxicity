@@ -1,0 +1,337 @@
+<title>BC Drug Toxicity Map</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: summary line, year control, then map + ranked list side by side (stacked on phones), detail card for the chosen region, notes. */
+:root {
+  --bg: #f5f7f9;
+  --surface: #ffffff;
+  --fg: #141920;
+  --muted: #586273;
+  --line: #d8dee6;
+  --accent: #2a78d6;
+  --land-none: #e7ebef;
+  --rise: #c23434;
+  --fall: #1d7a47;
+  --c0: #cde2fb; --c1: #9ec5f4; --c2: #6da7ec; --c3: #3987e5; --c4: #256abf; --c5: #104281;
+  --bcline: #8b94a3;
+  --font-display: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --font-body: "Public Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111418; --surface: #191d23; --fg: #eef1f5; --muted: #a2abb9; --line: #2d333c;
+    --accent: #6da7ec; --land-none: #252a31; --rise: #f07a7a; --fall: #5cc48a;
+    --c0: #0d366b; --c1: #184f95; --c2: #256abf; --c3: #3987e5; --c4: #6da7ec; --c5: #b7d3f6;
+    --bcline: #7d8796; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #111418; --surface: #191d23; --fg: #eef1f5; --muted: #a2abb9; --line: #2d333c;
+  --accent: #6da7ec; --land-none: #252a31; --rise: #f07a7a; --fall: #5cc48a;
+  --c0: #0d366b; --c1: #184f95; --c2: #256abf; --c3: #3987e5; --c4: #6da7ec; --c5: #b7d3f6;
+  --bcline: #7d8796; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-inline: 20px; padding-block: 28px 40px; display: grid; gap: 20px; }
+.num { font-variant-numeric: tabular-nums; }
+.eyebrow { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin: 0; }
+h1 { font-family: var(--font-display); font-weight: 600; font-size: clamp(28px, 4vw, 40px); line-height: 1.1; margin: 4px 0 8px; text-wrap: balance; }
+.lede { margin: 0; color: var(--muted); max-width: 68ch; }
+.summary { margin: 0; font-size: 17px; max-width: 70ch; }
+.summary strong { font-weight: 700; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; min-width: 0; }
+
+/* year control */
+.controls { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 20px; }
+.year-big { font-family: var(--font-display); font-size: 34px; font-weight: 600; line-height: 1; min-width: 4ch; }
+.year-big small { display: block; font-family: var(--font-body); font-size: 12px; font-weight: 500; color: var(--muted); margin-top: 4px; letter-spacing: 0; }
+.slider { flex: 1 1 320px; min-width: 0; display: grid; gap: 4px; }
+input[type=range] { width: 100%; accent-color: var(--accent); }
+.ticks { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); }
+button { font: inherit; color: inherit; }
+.play { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 14px; cursor: pointer; font-weight: 600; }
+.play:hover { border-color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* main grid */
+.main { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 20px; align-items: start; }
+@media (max-width: 860px) { .main { grid-template-columns: 1fr; } }
+.mapcol { display: grid; gap: 12px; min-width: 0; }
+.panel h2 { font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 0 0 10px; font-weight: 600; }
+svg { display: block; width: 100%; height: auto; }
+.region { stroke: var(--surface); stroke-width: .8; cursor: pointer; transition: fill .25s; }
+.region:hover { stroke: var(--fg); stroke-width: 1.4; }
+.region.sel { stroke: var(--fg); stroke-width: 2.2; }
+.k0 { fill: var(--c0); } .k1 { fill: var(--c1); } .k2 { fill: var(--c2); } .k3 { fill: var(--c3); } .k4 { fill: var(--c4); } .k5 { fill: var(--c5); }
+.insetbox { fill: none; stroke: var(--fg); stroke-width: 1; stroke-dasharray: 3 2; }
+.lbl { font-size: 11px; font-weight: 600; fill: var(--fg); paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; pointer-events: none; }
+.mapgrid { display: grid; gap: 14px; }
+.inset-cap { font-size: 12px; color: var(--muted); margin: 0 0 4px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; font-size: 12px; color: var(--muted); }
+.legend .sw { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 18px; height: 12px; border-radius: 2px; display: inline-block; }
+
+/* ranked list */
+.rank { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
+.rank button { width: 100%; display: grid; grid-template-columns: 1.4em minmax(0, 1fr) 3.4em 4.2em; gap: 8px; align-items: center; text-align: left; background: none; border: 0; border-radius: 6px; padding: 6px 6px; cursor: pointer; }
+.rank button:hover { background: var(--bg); }
+.rank button[aria-pressed=true] { background: var(--bg); box-shadow: inset 0 0 0 1.5px var(--fg); }
+.rank .pos { color: var(--muted); font-size: 12px; text-align: right; }
+.rank .nm { min-width: 0; font-size: 14px; font-weight: 500; }
+.rank .nm small { display: block; font-size: 11px; color: var(--muted); font-weight: 400; }
+.bar { height: 6px; border-radius: 0 3px 3px 0; margin-top: 4px; }
+.rank .val { text-align: right; font-weight: 700; }
+.chg { text-align: right; font-size: 12px; font-weight: 600; }
+.chg.up { color: var(--rise); } .chg.down { color: var(--fall); } .chg.flat { color: var(--muted); }
+.rank-head { display: grid; grid-template-columns: 1.4em minmax(0, 1fr) 3.4em 4.2em; gap: 8px; padding: 0 6px 4px; font-size: 11px; color: var(--muted); }
+.rank-head span:nth-child(3), .rank-head span:nth-child(4) { text-align: right; }
+
+/* detail */
+.detail { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.6fr); gap: 20px; align-items: center; }
+@media (max-width: 760px) { .detail { grid-template-columns: 1fr; } }
+.detail h3 { font-family: var(--font-display); font-size: 26px; font-weight: 600; margin: 0; line-height: 1.15; }
+.detail .ha { color: var(--muted); font-size: 13px; margin: 2px 0 12px; }
+.stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 0; }
+.stats div { min-width: 0; }
+.stats dt { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+.stats dd { margin: 0; font-size: 20px; font-weight: 700; }
+.trend text { font-size: 11px; fill: var(--muted); }
+.trend .axis { stroke: var(--line); }
+.trend .rline { fill: none; stroke: var(--accent); stroke-width: 2.2; }
+.trend .bline { fill: none; stroke: var(--bcline); stroke-width: 1.6; stroke-dasharray: 4 3; }
+.trend .dot { fill: var(--accent); stroke: var(--surface); stroke-width: 2; }
+.trend .cur { fill: var(--surface); stroke: var(--fg); stroke-width: 2; }
+.trend .hit { fill: transparent; cursor: default; }
+.trend .vlbl { font-size: 12px; font-weight: 700; fill: var(--fg); }
+.key { display: flex; gap: 16px; font-size: 12px; color: var(--muted); margin-top: 6px; flex-wrap: wrap; }
+.key span::before { content: ""; display: inline-block; width: 18px; height: 0; border-top: 2.2px solid var(--accent); vertical-align: middle; margin-right: 6px; }
+.key span.bc::before { border-top: 1.6px dashed var(--bcline); }
+
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--fg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: 13px; box-shadow: 0 4px 16px rgba(0,0,0,.14); max-width: 240px; }
+.tip b { display: block; font-size: 14px; }
+.tip span { color: var(--muted); }
+.partial { display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); vertical-align: middle; }
+.notes { font-size: 13px; color: var(--muted); display: grid; gap: 6px; max-width: 80ch; }
+.notes p { margin: 0; }
+.notes a { color: var(--accent); }
+@media (prefers-reduced-motion: reduce) { .region { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">British Columbia · Unregulated drug toxicity deaths</p>
+    <h1>Where are drug toxicity deaths highest?</h1>
+    <p class="lede">Death rate per 100,000 people in each of BC's 16 Health Service Delivery Areas. Rates let you compare large and small regions fairly.</p>
+  </header>
+
+  <p class="summary num" id="summary"></p>
+
+  <div class="panel controls">
+    <div class="year-big num" id="yearBig" aria-live="polite"></div>
+    <div class="slider">
+      <label for="year" class="eyebrow">Choose a year</label>
+      <input type="range" id="year" min="2015" max="2026" step="1" value="2025">
+      <div class="ticks num" aria-hidden="true"><span>2015</span><span>2018</span><span>2021</span><span>2024</span><span>2026</span></div>
+    </div>
+    <button class="play" id="play" type="button">Play 2015–2026</button>
+  </div>
+
+  <div class="main">
+    <section class="panel mapcol" aria-label="Map of death rates">
+      <h2>Rate per 100,000 people</h2>
+      <div class="mapgrid">
+        <svg id="map" viewBox="0 0 600 560" role="img" aria-label="Map of BC health service delivery areas shaded by death rate"></svg>
+        <div>
+          <p class="inset-cap">Close-up: Lower Mainland and South Island</p>
+          <svg id="inset" viewBox="0 0 600 330" role="img" aria-label="Close-up map of the Lower Mainland and South Vancouver Island"></svg>
+        </div>
+      </div>
+      <div class="legend num" id="legend"></div>
+    </section>
+
+    <section class="panel" aria-label="Regions ranked by death rate">
+      <h2 id="rankTitle">Regions ranked</h2>
+      <div class="rank-head"><span></span><span>Region</span><span>Rate</span><span>Change</span></div>
+      <ol class="rank" id="rank"></ol>
+    </section>
+  </div>
+
+  <section class="panel detail" aria-label="Selected region">
+    <div>
+      <p class="eyebrow">Selected region</p>
+      <h3 id="dName"></h3>
+      <p class="ha" id="dHa"></p>
+      <dl class="stats num">
+        <div><dt>Rate</dt><dd id="dRate"></dd></div>
+        <div><dt>Deaths</dt><dd id="dDeaths"></dd></div>
+        <div><dt>Population</dt><dd id="dPop"></dd></div>
+      </dl>
+    </div>
+    <div>
+      <svg class="trend num" id="trend" viewBox="0 0 520 190" role="img" aria-label="Death rate trend for the selected region compared with BC"></svg>
+      <div class="key"><span id="kRegion">Region</span><span class="bc">BC overall</span></div>
+    </div>
+  </section>
+
+  <footer class="notes">
+    <p><strong>2026 covers January to June only</strong> and the figures are preliminary. 2026 rates are scaled to a full year so they can be compared with other years, and 2026 population is a BC Stats projection.</p>
+    <p>Rate = deaths ÷ population × 100,000. Deaths are counted where the injury happened. Small regions can swing a lot from year to year because the numbers are small.</p>
+    <p>Sources: BC Coroners Service, Unregulated Drug Toxicity Deaths dashboard (data to June 30, 2026). BC Stats, P.E.O.P.L.E. population estimates (May 2026). BC Geographic Warehouse, Health Service Delivery Area boundaries (2022). Map boundaries are simplified for the web.</p>
+  </footer>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+const DATA = /*__DATA__*/null;
+const GEO = /*__GEO__*/null;
+
+const YEARS = d3.range(2015, 2027);
+const BREAKS = [15, 30, 45, 60, 75];
+const cls = r => "k" + BREAKS.filter(b => r >= b).length;
+const fmt = d3.format(",");
+const R = {};                       // R[code][year] = {d, p, r}
+DATA.rows.forEach(([c, y, d, p, r]) => ((R[c] ||= {})[y] = { d, p, r }));
+const INFO = Object.fromEntries(DATA.hsda.map(h => [h.code, h]));
+const MAXR = d3.max(DATA.rows, r => r[4]);
+
+let year = 2025, selected = 52, timer = null;
+
+// ---------- maps
+const proj = d3.geoConicEqualArea().parallels([50, 58.5]).rotate([126, 0]).fitExtent([[6, 6], [594, 554]], GEO);
+const path = d3.geoPath(proj);
+const map = d3.select("#map");
+map.append("g").selectAll("path").data(GEO.features).join("path")
+  .attr("class", "region").attr("d", path).attr("data-code", d => d.properties.hsda_code);
+const BOX = [[-124.0, 48.3], [-121.35, 49.5]];
+const boxRing = { type: "Polygon", coordinates: [[[BOX[0][0], BOX[0][1]], [BOX[0][0], BOX[1][1]], [BOX[1][0], BOX[1][1]], [BOX[1][0], BOX[0][1]], [BOX[0][0], BOX[0][1]]]] };
+map.append("path").attr("class", "insetbox").attr("d", path(boxRing));
+
+const iproj = d3.geoConicEqualArea().parallels([50, 58.5]).rotate([126, 0])
+  .fitExtent([[0, 0], [600, 330]], { type: "MultiPoint", coordinates: [BOX[0], BOX[1], [BOX[0][0], BOX[1][1]], [BOX[1][0], BOX[0][1]]] });
+const ipath = d3.geoPath(iproj);
+const inset = d3.select("#inset");
+inset.append("defs").append("clipPath").attr("id", "clipInset").append("rect").attr("width", 600).attr("height", 330);
+const ig = inset.append("g").attr("clip-path", "url(#clipInset)");
+ig.selectAll("path").data(GEO.features).join("path")
+  .attr("class", "region").attr("d", ipath).attr("data-code", d => d.properties.hsda_code);
+const LABELS = { 31: "Richmond", 32: "Vancouver", 22: "Fraser North", 23: "Fraser South", 21: "Fraser East", 41: "South Van. Island" };
+const LABEL_AT = { 21: [-121.85, 49.2], 41: [-123.62, 48.5], 22: [-122.72, 49.3], 23: [-122.7, 49.06], 32: [-123.11, 49.275], 31: [-123.13, 49.145] };
+Object.entries(LABELS).forEach(([c, t]) => {
+  const [x, y] = iproj(LABEL_AT[c]);
+  ig.append("text").attr("class", "lbl").attr("x", x).attr("y", y).attr("text-anchor", "middle").text(t);
+});
+inset.append("rect").attr("width", 600).attr("height", 330).attr("fill", "none").attr("stroke", "var(--line)");
+
+// legend
+const lg = d3.select("#legend");
+const edges = [0, ...BREAKS];
+edges.forEach((lo, i) => {
+  const t = i === edges.length - 1 ? `${lo}+` : `${lo}–${edges[i + 1]}`;
+  lg.append("span").attr("class", "sw").html(`<i style="background:var(--c${i})"></i>${t}`);
+});
+
+// ---------- tooltip
+const tip = document.getElementById("tip");
+function showTip(ev, code) {
+  const v = R[code][year], h = INFO[code];
+  tip.innerHTML = `<b>${h.name}</b><span>${h.ha}</span><br><strong class="num">${v.r.toFixed(1)}</strong> per 100,000<br><span class="num">${fmt(v.d)} deaths${year === 2026 ? " (Jan–Jun)" : ""}</span>`;
+  tip.hidden = false;
+  const w = tip.offsetWidth, hgt = tip.offsetHeight;
+  let x = ev.clientX + 14, y = ev.clientY + 14;
+  if (x + w > innerWidth - 8) x = ev.clientX - w - 14;
+  if (y + hgt > innerHeight - 8) y = ev.clientY - hgt - 14;
+  tip.style.left = x + "px"; tip.style.top = y + "px";
+}
+d3.selectAll(".region")
+  .on("pointermove", (ev, d) => showTip(ev, d.properties.hsda_code))
+  .on("pointerleave", () => (tip.hidden = true))
+  .on("click", (ev, d) => select(d.properties.hsda_code));
+
+// ---------- render
+function change(code, y) {
+  if (y === 2015) return null;
+  return R[code][y].r - R[code][y - 1].r;
+}
+function render() {
+  document.getElementById("year").value = year;
+  document.getElementById("yearBig").innerHTML = `${year}<small>${year === 2026 ? "Jan–Jun, annualized" : "Full year"}</small>`;
+  d3.selectAll(".region").attr("class", d => `region ${cls(R[d.properties.hsda_code][year].r)}${d.properties.hsda_code === selected ? " sel" : ""}`);
+
+  const order = DATA.hsda.map(h => h.code).sort((a, b) => R[b][year].r - R[a][year].r);
+  const top = INFO[order[0]];
+  const bc = DATA.bc[year];
+  document.getElementById("summary").innerHTML = year === 2026
+    ? `From January to June 2026, <strong>${fmt(bc.d)}</strong> people died in BC (a yearly rate of <strong>${bc.r.toFixed(1)}</strong> per 100,000). The highest rate is in <strong>${top.name}</strong>: <strong>${R[top.code][year].r.toFixed(1)}</strong> per 100,000.`
+    : `In ${year}, <strong>${fmt(bc.d)}</strong> people died in BC, a rate of <strong>${bc.r.toFixed(1)}</strong> per 100,000. The highest rate was in <strong>${top.name}</strong>: <strong>${R[top.code][year].r.toFixed(1)}</strong> per 100,000.`;
+
+  document.getElementById("rankTitle").innerHTML = `Regions ranked, ${year} ${year === 2026 ? '<span class="partial">Jan–Jun</span>' : ""}`;
+  const li = d3.select("#rank").selectAll("li").data(order, d => d).join("li").order();
+  li.html(code => {
+    const v = R[code][year], h = INFO[code], c = change(code, year);
+    const k = cls(v.r).slice(1);
+    let chg = '<span class="chg flat">–</span>';
+    if (c !== null) {
+      const dir = c > 0.05 ? "up" : c < -0.05 ? "down" : "flat";
+      const sym = dir === "up" ? "▲" : dir === "down" ? "▼" : "";
+      const word = dir === "up" ? "up" : dir === "down" ? "down" : "no change";
+      chg = `<span class="chg ${dir}" title="${word} ${Math.abs(c).toFixed(1)} from ${year - 1}">${sym} ${Math.abs(c).toFixed(1)}</span>`;
+    }
+    return `<button type="button" aria-pressed="${code === selected}" data-code="${code}">
+      <span class="pos num">${order.indexOf(code) + 1}</span>
+      <span class="nm">${h.name}<small>${h.ha}</small><div class="bar" style="width:${(v.r / MAXR * 100).toFixed(1)}%;background:var(--c${k})"></div></span>
+      <span class="val num">${v.r.toFixed(1)}</span>${chg}</button>`;
+  });
+  li.select("button").on("click", (ev, code) => select(code));
+  renderDetail();
+}
+
+function renderDetail() {
+  const h = INFO[selected], v = R[selected][year];
+  document.getElementById("dName").textContent = h.name;
+  document.getElementById("dHa").textContent = `${h.ha} Health · ${year}${year === 2026 ? " (Jan–Jun)" : ""}`;
+  document.getElementById("dRate").textContent = v.r.toFixed(1);
+  document.getElementById("dDeaths").textContent = fmt(v.d);
+  document.getElementById("dPop").textContent = fmt(v.p);
+  document.getElementById("kRegion").textContent = h.name;
+
+  const svg = d3.select("#trend"); svg.selectAll("*").remove();
+  const W = 520, H = 190, m = { l: 34, r: 60, t: 14, b: 24 };
+  const reg = YEARS.map(y => [y, R[selected][y].r]), bcs = YEARS.map(y => [y, DATA.bc[y].r]);
+  const x = d3.scaleLinear([2015, 2026], [m.l, W - m.r]);
+  const ymax = Math.max(20, d3.max([...reg, ...bcs], d => d[1]));
+  const y = d3.scaleLinear([0, ymax], [H - m.b, m.t]).nice();
+  y.ticks(4).forEach(t => {
+    svg.append("line").attr("class", "axis").attr("x1", m.l).attr("x2", W - m.r).attr("y1", y(t)).attr("y2", y(t));
+    svg.append("text").attr("x", m.l - 6).attr("y", y(t) + 4).attr("text-anchor", "end").text(t);
+  });
+  [2015, 2018, 2021, 2024, 2026].forEach(t => svg.append("text").attr("x", x(t)).attr("y", H - 6).attr("text-anchor", "middle").text(t));
+  const ln = d3.line(d => x(d[0]), d => y(d[1]));
+  svg.append("path").attr("class", "bline").attr("d", ln(bcs));
+  svg.append("path").attr("class", "rline").attr("d", ln(reg));
+  reg.forEach(([yy, r]) => {
+    const dot = svg.append("circle").attr("class", yy === year ? "cur" : "dot").attr("cx", x(yy)).attr("cy", y(r)).attr("r", yy === year ? 5.5 : 3.5);
+    dot.append("title").text(`${yy}: ${r.toFixed(1)} per 100,000 (BC ${DATA.bc[yy].r.toFixed(1)})`);
+  });
+  const last = reg[reg.length - 1];
+  svg.append("text").attr("class", "vlbl").attr("x", x(last[0]) + 8).attr("y", y(last[1]) + 4).text(last[1].toFixed(1));
+  svg.append("text").attr("x", x(2026) + 8).attr("y", y(DATA.bc[2026].r) + 4 + (Math.abs(y(DATA.bc[2026].r) - y(last[1])) < 12 ? 12 : 0)).text("BC " + DATA.bc[2026].r.toFixed(1));
+  // wide hover strips per year
+  YEARS.forEach(yy => svg.append("rect").attr("class", "hit").attr("x", x(yy) - 20).attr("width", 40).attr("y", m.t).attr("height", H - m.t - m.b)
+    .append("title").text(`${yy}: ${R[selected][yy].r.toFixed(1)} per 100,000 · ${fmt(R[selected][yy].d)} deaths · BC ${DATA.bc[yy].r.toFixed(1)}`));
+}
+
+function select(code) { selected = code; render(); }
+document.getElementById("year").addEventListener("input", e => { stop(); year = +e.target.value; render(); });
+const playBtn = document.getElementById("play");
+function stop() { if (timer) { clearInterval(timer); timer = null; playBtn.textContent = "Play 2015–2026"; } }
+playBtn.addEventListener("click", () => {
+  if (timer) return stop();
+  year = 2015; render(); playBtn.textContent = "Stop";
+  timer = setInterval(() => { if (year >= 2026) return stop(); year++; render(); }, 900);
+});
+render();
+</script>

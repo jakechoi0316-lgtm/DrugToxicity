@@ -1,0 +1,166 @@
+ha_code,health_authority,year,estimate_type,sex,population
+1,Interior,2015,Estimate,Female,379883
+1,Interior,2015,Estimate,Male,373670
+1,Interior,2015,Estimate,Total,753553
+1,Interior,2016,Estimate,Female,387846
+1,Interior,2016,Estimate,Male,381752
+1,Interior,2016,Estimate,Total,769598
+1,Interior,2017,Estimate,Female,395236
+1,Interior,2017,Estimate,Male,389049
+1,Interior,2017,Estimate,Total,784285
+1,Interior,2018,Estimate,Female,402765
+1,Interior,2018,Estimate,Male,398731
+1,Interior,2018,Estimate,Total,801496
+1,Interior,2019,Estimate,Female,409840
+1,Interior,2019,Estimate,Male,406416
+1,Interior,2019,Estimate,Total,816256
+1,Interior,2020,Estimate,Female,416322
+1,Interior,2020,Estimate,Male,412606
+1,Interior,2020,Estimate,Total,828928
+1,Interior,2021,Estimate,Female,423338
+1,Interior,2021,Estimate,Male,419095
+1,Interior,2021,Estimate,Total,842433
+1,Interior,2022,Estimate,Female,432563
+1,Interior,2022,Estimate,Male,428492
+1,Interior,2022,Estimate,Total,861055
+1,Interior,2023,Estimate,Female,439745
+1,Interior,2023,Estimate,Male,436726
+1,Interior,2023,Estimate,Total,876471
+1,Interior,2024,Estimate,Female,446098
+1,Interior,2024,Estimate,Male,442345
+1,Interior,2024,Estimate,Total,888443
+1,Interior,2025,Estimate,Female,448402
+1,Interior,2025,Estimate,Male,444968
+1,Interior,2025,Estimate,Total,893370
+2,Fraser,2015,Estimate,Female,887008
+2,Fraser,2015,Estimate,Male,875152
+2,Fraser,2015,Estimate,Total,1762160
+2,Fraser,2016,Estimate,Female,908037
+2,Fraser,2016,Estimate,Male,895478
+2,Fraser,2016,Estimate,Total,1803515
+2,Fraser,2017,Estimate,Female,924155
+2,Fraser,2017,Estimate,Male,911365
+2,Fraser,2017,Estimate,Total,1835520
+2,Fraser,2018,Estimate,Female,941508
+2,Fraser,2018,Estimate,Male,930464
+2,Fraser,2018,Estimate,Total,1871972
+2,Fraser,2019,Estimate,Female,959066
+2,Fraser,2019,Estimate,Male,949528
+2,Fraser,2019,Estimate,Total,1908594
+2,Fraser,2020,Estimate,Female,973072
+2,Fraser,2020,Estimate,Male,963475
+2,Fraser,2020,Estimate,Total,1936547
+2,Fraser,2021,Estimate,Female,984270
+2,Fraser,2021,Estimate,Male,976819
+2,Fraser,2021,Estimate,Total,1961089
+2,Fraser,2022,Estimate,Female,1017730
+2,Fraser,2022,Estimate,Male,1007588
+2,Fraser,2022,Estimate,Total,2025318
+2,Fraser,2023,Estimate,Female,1058830
+2,Fraser,2023,Estimate,Male,1051216
+2,Fraser,2023,Estimate,Total,2110046
+2,Fraser,2024,Estimate,Female,1105002
+2,Fraser,2024,Estimate,Male,1097353
+2,Fraser,2024,Estimate,Total,2202355
+2,Fraser,2025,Estimate,Female,1119054
+2,Fraser,2025,Estimate,Male,1108110
+2,Fraser,2025,Estimate,Total,2227164
+3,Vancouver Coastal,2015,Estimate,Female,595300
+3,Vancouver Coastal,2015,Estimate,Male,573583
+3,Vancouver Coastal,2015,Estimate,Total,1168883
+3,Vancouver Coastal,2016,Estimate,Female,604627
+3,Vancouver Coastal,2016,Estimate,Male,582958
+3,Vancouver Coastal,2016,Estimate,Total,1187585
+3,Vancouver Coastal,2017,Estimate,Female,610650
+3,Vancouver Coastal,2017,Estimate,Male,588977
+3,Vancouver Coastal,2017,Estimate,Total,1199627
+3,Vancouver Coastal,2018,Estimate,Female,619428
+3,Vancouver Coastal,2018,Estimate,Male,597762
+3,Vancouver Coastal,2018,Estimate,Total,1217190
+3,Vancouver Coastal,2019,Estimate,Female,631049
+3,Vancouver Coastal,2019,Estimate,Male,610086
+3,Vancouver Coastal,2019,Estimate,Total,1241135
+3,Vancouver Coastal,2020,Estimate,Female,637313
+3,Vancouver Coastal,2020,Estimate,Male,617240
+3,Vancouver Coastal,2020,Estimate,Total,1254553
+3,Vancouver Coastal,2021,Estimate,Female,638974
+3,Vancouver Coastal,2021,Estimate,Male,617729
+3,Vancouver Coastal,2021,Estimate,Total,1256703
+3,Vancouver Coastal,2022,Estimate,Female,654034
+3,Vancouver Coastal,2022,Estimate,Male,630191
+3,Vancouver Coastal,2022,Estimate,Total,1284225
+3,Vancouver Coastal,2023,Estimate,Female,674171
+3,Vancouver Coastal,2023,Estimate,Male,650570
+3,Vancouver Coastal,2023,Estimate,Total,1324741
+3,Vancouver Coastal,2024,Estimate,Female,690520
+3,Vancouver Coastal,2024,Estimate,Male,665561
+3,Vancouver Coastal,2024,Estimate,Total,1356081
+3,Vancouver Coastal,2025,Estimate,Female,685186
+3,Vancouver Coastal,2025,Estimate,Male,658121
+3,Vancouver Coastal,2025,Estimate,Total,1343307
+4,Island,2015,Estimate,Female,403094
+4,Island,2015,Estimate,Male,387558
+4,Island,2015,Estimate,Total,790652
+4,Island,2016,Estimate,Female,412148
+4,Island,2016,Estimate,Male,396409
+4,Island,2016,Estimate,Total,808557
+4,Island,2017,Estimate,Female,419061
+4,Island,2017,Estimate,Male,403739
+4,Island,2017,Estimate,Total,822800
+4,Island,2018,Estimate,Female,426495
+4,Island,2018,Estimate,Male,410661
+4,Island,2018,Estimate,Total,837156
+4,Island,2019,Estimate,Female,433481
+4,Island,2019,Estimate,Male,417723
+4,Island,2019,Estimate,Total,851204
+4,Island,2020,Estimate,Female,439492
+4,Island,2020,Estimate,Male,423092
+4,Island,2020,Estimate,Total,862584
+4,Island,2021,Estimate,Female,445344
+4,Island,2021,Estimate,Male,428115
+4,Island,2021,Estimate,Total,873459
+4,Island,2022,Estimate,Female,456317
+4,Island,2022,Estimate,Male,437065
+4,Island,2022,Estimate,Total,893382
+4,Island,2023,Estimate,Female,462395
+4,Island,2023,Estimate,Male,442906
+4,Island,2023,Estimate,Total,905301
+4,Island,2024,Estimate,Female,470751
+4,Island,2024,Estimate,Male,450107
+4,Island,2024,Estimate,Total,920858
+4,Island,2025,Estimate,Female,474718
+4,Island,2025,Estimate,Male,452987
+4,Island,2025,Estimate,Total,927705
+5,Northern,2015,Estimate,Female,141074
+5,Northern,2015,Estimate,Male,149150
+5,Northern,2015,Estimate,Total,290224
+5,Northern,2016,Estimate,Female,142103
+5,Northern,2016,Estimate,Male,149911
+5,Northern,2016,Estimate,Total,292014
+5,Northern,2017,Estimate,Female,142165
+5,Northern,2017,Estimate,Male,149805
+5,Northern,2017,Estimate,Total,291970
+5,Northern,2018,Estimate,Female,142902
+5,Northern,2018,Estimate,Male,150263
+5,Northern,2018,Estimate,Total,293165
+5,Northern,2019,Estimate,Female,143216
+5,Northern,2019,Estimate,Male,150617
+5,Northern,2019,Estimate,Total,293833
+5,Northern,2020,Estimate,Female,143271
+5,Northern,2020,Estimate,Male,150218
+5,Northern,2020,Estimate,Total,293489
+5,Northern,2021,Estimate,Female,142950
+5,Northern,2021,Estimate,Male,150031
+5,Northern,2021,Estimate,Total,292981
+5,Northern,2022,Estimate,Female,143857
+5,Northern,2022,Estimate,Male,151008
+5,Northern,2022,Estimate,Total,294865
+5,Northern,2023,Estimate,Female,145816
+5,Northern,2023,Estimate,Male,152921
+5,Northern,2023,Estimate,Total,298737
+5,Northern,2024,Estimate,Female,148236
+5,Northern,2024,Estimate,Male,155141
+5,Northern,2024,Estimate,Total,303377
+5,Northern,2025,Estimate,Female,149274
+5,Northern,2025,Estimate,Male,156716
+5,Northern,2025,Estimate,Total,305990

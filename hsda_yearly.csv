@@ -1,0 +1,193 @@
+hsda_code,hsda,health_authority,year,months_covered,deaths,population,population_type,rate_per_100k,rate_annualized
+11,East Kootenay,Interior,2015,12,2,81527,Estimate,2.5,no
+11,East Kootenay,Interior,2016,12,13,82956,Estimate,15.7,no
+11,East Kootenay,Interior,2017,12,7,84075,Estimate,8.3,no
+11,East Kootenay,Interior,2018,12,6,85514,Estimate,7.0,no
+11,East Kootenay,Interior,2019,12,1,87249,Estimate,1.1,no
+11,East Kootenay,Interior,2020,12,18,88432,Estimate,20.4,no
+11,East Kootenay,Interior,2021,12,24,89830,Estimate,26.7,no
+11,East Kootenay,Interior,2022,12,19,91761,Estimate,20.7,no
+11,East Kootenay,Interior,2023,12,26,93625,Estimate,27.8,no
+11,East Kootenay,Interior,2024,12,24,94912,Estimate,25.3,no
+11,East Kootenay,Interior,2025,12,16,95383,Estimate,16.8,no
+11,East Kootenay,Interior,2026,6,7,93769,Projection,14.9,yes
+12,Kootenay Boundary,Interior,2015,12,6,80011,Estimate,7.5,no
+12,Kootenay Boundary,Interior,2016,12,11,81308,Estimate,13.5,no
+12,Kootenay Boundary,Interior,2017,12,17,82196,Estimate,20.7,no
+12,Kootenay Boundary,Interior,2018,12,15,83378,Estimate,18.0,no
+12,Kootenay Boundary,Interior,2019,12,14,84245,Estimate,16.6,no
+12,Kootenay Boundary,Interior,2020,12,23,84958,Estimate,27.1,no
+12,Kootenay Boundary,Interior,2021,12,29,85952,Estimate,33.7,no
+12,Kootenay Boundary,Interior,2022,12,32,87139,Estimate,36.7,no
+12,Kootenay Boundary,Interior,2023,12,41,88361,Estimate,46.4,no
+12,Kootenay Boundary,Interior,2024,12,42,89437,Estimate,47.0,no
+12,Kootenay Boundary,Interior,2025,12,31,89850,Estimate,34.5,no
+12,Kootenay Boundary,Interior,2026,6,22,88190,Projection,49.9,yes
+13,Okanagan,Interior,2015,12,43,367755,Estimate,11.7,no
+13,Okanagan,Interior,2016,12,78,377011,Estimate,20.7,no
+13,Okanagan,Interior,2017,12,155,385262,Estimate,40.2,no
+13,Okanagan,Interior,2018,12,128,394590,Estimate,32.4,no
+13,Okanagan,Interior,2019,12,84,403088,Estimate,20.8,no
+13,Okanagan,Interior,2020,12,147,411364,Estimate,35.7,no
+13,Okanagan,Interior,2021,12,172,420049,Estimate,40.9,no
+13,Okanagan,Interior,2022,12,200,430723,Estimate,46.4,no
+13,Okanagan,Interior,2023,12,223,438559,Estimate,50.8,no
+13,Okanagan,Interior,2024,12,200,445125,Estimate,44.9,no
+13,Okanagan,Interior,2025,12,167,449105,Estimate,37.2,no
+13,Okanagan,Interior,2026,6,70,443225,Projection,31.6,yes
+14,Thompson Cariboo Shuswap,Interior,2015,12,13,224260,Estimate,5.8,no
+14,Thompson Cariboo Shuswap,Interior,2016,12,67,228323,Estimate,29.3,no
+14,Thompson Cariboo Shuswap,Interior,2017,12,67,232752,Estimate,28.8,no
+14,Thompson Cariboo Shuswap,Interior,2018,12,85,238014,Estimate,35.7,no
+14,Thompson Cariboo Shuswap,Interior,2019,12,41,241674,Estimate,17.0,no
+14,Thompson Cariboo Shuswap,Interior,2020,12,99,244174,Estimate,40.5,no
+14,Thompson Cariboo Shuswap,Interior,2021,12,150,246602,Estimate,60.8,no
+14,Thompson Cariboo Shuswap,Interior,2022,12,156,251432,Estimate,62.0,no
+14,Thompson Cariboo Shuswap,Interior,2023,12,149,255926,Estimate,58.2,no
+14,Thompson Cariboo Shuswap,Interior,2024,12,146,258969,Estimate,56.4,no
+14,Thompson Cariboo Shuswap,Interior,2025,12,106,259032,Estimate,40.9,no
+14,Thompson Cariboo Shuswap,Interior,2026,6,33,253611,Projection,26.0,yes
+21,Fraser East,Fraser,2015,12,41,300904,Estimate,13.6,no
+21,Fraser East,Fraser,2016,12,68,309562,Estimate,22.0,no
+21,Fraser East,Fraser,2017,12,105,316449,Estimate,33.2,no
+21,Fraser East,Fraser,2018,12,97,324261,Estimate,29.9,no
+21,Fraser East,Fraser,2019,12,84,330633,Estimate,25.4,no
+21,Fraser East,Fraser,2020,12,121,334228,Estimate,36.2,no
+21,Fraser East,Fraser,2021,12,183,338198,Estimate,54.1,no
+21,Fraser East,Fraser,2022,12,194,344029,Estimate,56.4,no
+21,Fraser East,Fraser,2023,12,201,352131,Estimate,57.1,no
+21,Fraser East,Fraser,2024,12,155,362524,Estimate,42.8,no
+21,Fraser East,Fraser,2025,12,133,369058,Estimate,36.0,no
+21,Fraser East,Fraser,2026,6,74,367160,Projection,40.3,yes
+22,Fraser North,Fraser,2015,12,73,658349,Estimate,11.1,no
+22,Fraser North,Fraser,2016,12,106,671330,Estimate,15.8,no
+22,Fraser North,Fraser,2017,12,148,680339,Estimate,21.8,no
+22,Fraser North,Fraser,2018,12,152,691582,Estimate,22.0,no
+22,Fraser North,Fraser,2019,12,86,702028,Estimate,12.3,no
+22,Fraser North,Fraser,2020,12,182,709985,Estimate,25.6,no
+22,Fraser North,Fraser,2021,12,243,718138,Estimate,33.8,no
+22,Fraser North,Fraser,2022,12,197,741487,Estimate,26.6,no
+22,Fraser North,Fraser,2023,12,191,770491,Estimate,24.8,no
+22,Fraser North,Fraser,2024,12,179,799531,Estimate,22.4,no
+22,Fraser North,Fraser,2025,12,141,801950,Estimate,17.6,no
+22,Fraser North,Fraser,2026,6,47,794209,Projection,11.8,yes
+23,Fraser South,Fraser,2015,12,93,802907,Estimate,11.6,no
+23,Fraser South,Fraser,2016,12,163,822623,Estimate,19.8,no
+23,Fraser South,Fraser,2017,12,242,838732,Estimate,28.9,no
+23,Fraser South,Fraser,2018,12,273,856129,Estimate,31.9,no
+23,Fraser South,Fraser,2019,12,158,875933,Estimate,18.0,no
+23,Fraser South,Fraser,2020,12,281,892334,Estimate,31.5,no
+23,Fraser South,Fraser,2021,12,366,904753,Estimate,40.5,no
+23,Fraser South,Fraser,2022,12,320,939802,Estimate,34.0,no
+23,Fraser South,Fraser,2023,12,310,987424,Estimate,31.4,no
+23,Fraser South,Fraser,2024,12,291,1040300,Estimate,28.0,no
+23,Fraser South,Fraser,2025,12,253,1056156,Estimate,24.0,no
+23,Fraser South,Fraser,2026,6,85,1054480,Projection,16.1,yes
+31,Richmond,Vancouver Coastal,2015,12,6,204462,Estimate,2.9,no
+31,Richmond,Vancouver Coastal,2016,12,14,207612,Estimate,6.7,no
+31,Richmond,Vancouver Coastal,2017,12,28,209599,Estimate,13.4,no
+31,Richmond,Vancouver Coastal,2018,12,12,212853,Estimate,5.6,no
+31,Richmond,Vancouver Coastal,2019,12,14,216793,Estimate,6.5,no
+31,Richmond,Vancouver Coastal,2020,12,19,218920,Estimate,8.7,no
+31,Richmond,Vancouver Coastal,2021,12,33,221176,Estimate,14.9,no
+31,Richmond,Vancouver Coastal,2022,12,29,228348,Estimate,12.7,no
+31,Richmond,Vancouver Coastal,2023,12,28,235937,Estimate,11.9,no
+31,Richmond,Vancouver Coastal,2024,12,25,242139,Estimate,10.3,no
+31,Richmond,Vancouver Coastal,2025,12,23,239585,Estimate,9.6,no
+31,Richmond,Vancouver Coastal,2026,6,5,238617,Projection,4.2,yes
+32,Vancouver,Vancouver Coastal,2015,12,138,673674,Estimate,20.5,no
+32,Vancouver,Vancouver Coastal,2016,12,231,683476,Estimate,33.8,no
+32,Vancouver,Vancouver Coastal,2017,12,373,689506,Estimate,54.1,no
+32,Vancouver,Vancouver Coastal,2018,12,401,699269,Estimate,57.3,no
+32,Vancouver,Vancouver Coastal,2019,12,249,714849,Estimate,34.8,no
+32,Vancouver,Vancouver Coastal,2020,12,423,721974,Estimate,58.6,no
+32,Vancouver,Vancouver Coastal,2021,12,532,717150,Estimate,74.2,no
+32,Vancouver,Vancouver Coastal,2022,12,577,729966,Estimate,79.0,no
+32,Vancouver,Vancouver Coastal,2023,12,658,754624,Estimate,87.2,no
+32,Vancouver,Vancouver Coastal,2024,12,525,772287,Estimate,68.0,no
+32,Vancouver,Vancouver Coastal,2025,12,420,763986,Estimate,55.0,no
+32,Vancouver,Vancouver Coastal,2026,6,179,759040,Projection,47.2,yes
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2015,12,16,290747,Estimate,5.5,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2016,12,31,296497,Estimate,10.5,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2017,12,45,300522,Estimate,15.0,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2018,12,43,305068,Estimate,14.1,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2019,12,26,309493,Estimate,8.4,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2020,12,50,313659,Estimate,15.9,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2021,12,62,318377,Estimate,19.5,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2022,12,54,325911,Estimate,16.6,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2023,12,60,334180,Estimate,18.0,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2024,12,63,341655,Estimate,18.4,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2025,12,49,339736,Estimate,14.4,no
+33,North Shore/Coast Garibaldi,Vancouver Coastal,2026,6,16,335675,Projection,9.5,yes
+41,South Vancouver Island,Island,2015,12,26,391242,Estimate,6.6,no
+41,South Vancouver Island,Island,2016,12,78,400792,Estimate,19.5,no
+41,South Vancouver Island,Island,2017,12,105,407299,Estimate,25.8,no
+41,South Vancouver Island,Island,2018,12,125,414228,Estimate,30.2,no
+41,South Vancouver Island,Island,2019,12,75,421633,Estimate,17.8,no
+41,South Vancouver Island,Island,2020,12,140,428098,Estimate,32.7,no
+41,South Vancouver Island,Island,2021,12,141,433327,Estimate,32.5,no
+41,South Vancouver Island,Island,2022,12,173,445012,Estimate,38.9,no
+41,South Vancouver Island,Island,2023,12,183,451622,Estimate,40.5,no
+41,South Vancouver Island,Island,2024,12,171,460829,Estimate,37.1,no
+41,South Vancouver Island,Island,2025,12,126,464081,Estimate,27.2,no
+41,South Vancouver Island,Island,2026,6,63,460282,Projection,27.4,yes
+42,Central Vancouver Island,Island,2015,12,33,275085,Estimate,12.0,no
+42,Central Vancouver Island,Island,2016,12,58,281096,Estimate,20.6,no
+42,Central Vancouver Island,Island,2017,12,99,286644,Estimate,34.5,no
+42,Central Vancouver Island,Island,2018,12,96,291839,Estimate,32.9,no
+42,Central Vancouver Island,Island,2019,12,63,296633,Estimate,21.2,no
+42,Central Vancouver Island,Island,2020,12,101,300131,Estimate,33.7,no
+42,Central Vancouver Island,Island,2021,12,132,303981,Estimate,43.4,no
+42,Central Vancouver Island,Island,2022,12,172,309576,Estimate,55.6,no
+42,Central Vancouver Island,Island,2023,12,217,313275,Estimate,69.3,no
+42,Central Vancouver Island,Island,2024,12,188,317765,Estimate,59.2,no
+42,Central Vancouver Island,Island,2025,12,153,320319,Estimate,47.8,no
+42,Central Vancouver Island,Island,2026,6,81,316708,Projection,51.2,yes
+43,North Vancouver Island,Island,2015,12,13,124325,Estimate,10.5,no
+43,North Vancouver Island,Island,2016,12,27,126669,Estimate,21.3,no
+43,North Vancouver Island,Island,2017,12,37,128857,Estimate,28.7,no
+43,North Vancouver Island,Island,2018,12,31,131089,Estimate,23.6,no
+43,North Vancouver Island,Island,2019,12,30,132938,Estimate,22.6,no
+43,North Vancouver Island,Island,2020,12,34,134355,Estimate,25.3,no
+43,North Vancouver Island,Island,2021,12,69,136151,Estimate,50.7,no
+43,North Vancouver Island,Island,2022,12,71,138794,Estimate,51.2,no
+43,North Vancouver Island,Island,2023,12,92,140404,Estimate,65.5,no
+43,North Vancouver Island,Island,2024,12,102,142264,Estimate,71.7,no
+43,North Vancouver Island,Island,2025,12,63,143305,Estimate,44.0,no
+43,North Vancouver Island,Island,2026,6,21,141350,Projection,29.7,yes
+51,Northwest,Northern,2015,12,6,74412,Estimate,8.1,no
+51,Northwest,Northern,2016,12,10,74543,Estimate,13.4,no
+51,Northwest,Northern,2017,12,8,74443,Estimate,10.7,no
+51,Northwest,Northern,2018,12,15,74531,Estimate,20.1,no
+51,Northwest,Northern,2019,12,16,74832,Estimate,21.4,no
+51,Northwest,Northern,2020,12,18,75291,Estimate,23.9,no
+51,Northwest,Northern,2021,12,44,75892,Estimate,58.0,no
+51,Northwest,Northern,2022,12,57,76244,Estimate,74.8,no
+51,Northwest,Northern,2023,12,48,77077,Estimate,62.3,no
+51,Northwest,Northern,2024,12,50,78016,Estimate,64.1,no
+51,Northwest,Northern,2025,12,34,78891,Estimate,43.1,no
+51,Northwest,Northern,2026,6,14,78019,Projection,35.9,yes
+52,Northern Interior,Northern,2015,12,15,144853,Estimate,10.4,no
+52,Northern Interior,Northern,2016,12,24,146550,Estimate,16.4,no
+52,Northern Interior,Northern,2017,12,35,147202,Estimate,23.8,no
+52,Northern Interior,Northern,2018,12,63,148466,Estimate,42.4,no
+52,Northern Interior,Northern,2019,12,34,149055,Estimate,22.8,no
+52,Northern Interior,Northern,2020,12,86,148893,Estimate,57.8,no
+52,Northern Interior,Northern,2021,12,80,148190,Estimate,54.0,no
+52,Northern Interior,Northern,2022,12,105,149287,Estimate,70.3,no
+52,Northern Interior,Northern,2023,12,130,151386,Estimate,85.9,no
+52,Northern Interior,Northern,2024,12,132,153704,Estimate,85.9,no
+52,Northern Interior,Northern,2025,12,86,154907,Estimate,55.5,no
+52,Northern Interior,Northern,2026,6,44,152124,Projection,57.8,yes
+53,Northeast,Northern,2015,12,4,70959,Estimate,5.6,no
+53,Northeast,Northern,2016,12,18,70921,Estimate,25.4,no
+53,Northeast,Northern,2017,12,23,70325,Estimate,32.7,no
+53,Northeast,Northern,2018,12,24,70168,Estimate,34.2,no
+53,Northeast,Northern,2019,12,17,69946,Estimate,24.3,no
+53,Northeast,Northern,2020,12,32,69305,Estimate,46.2,no
+53,Northeast,Northern,2021,12,31,68899,Estimate,45.0,no
+53,Northeast,Northern,2022,12,26,69334,Estimate,37.5,no
+53,Northeast,Northern,2023,12,34,70274,Estimate,48.4,no
+53,Northeast,Northern,2024,12,26,71657,Estimate,36.3,no
+53,Northeast,Northern,2025,12,27,72192,Estimate,37.4,no
+53,Northeast,Northern,2026,6,15,70999,Projection,42.3,yes

@@ -1,0 +1,217 @@
+health_authority,year,months_covered,place_of_injury,deaths,source
+British Columbia,2023,12,Private Residence,1222,as shown
+British Columbia,2024,12,Private Residence,1110,as shown
+British Columbia,2025,12,Private Residence,881,as shown
+British Columbia,2026,6,Private Residence,409,as shown
+British Columbia,2023,12,Other Residence,731,as shown
+British Columbia,2024,12,Other Residence,649,as shown
+British Columbia,2025,12,Other Residence,478,as shown
+British Columbia,2026,6,Other Residence,196,as shown
+British Columbia,2023,12,Outside,491,as shown
+British Columbia,2024,12,Outside,440,as shown
+British Columbia,2025,12,Outside,383,as shown
+British Columbia,2026,6,Outside,139,as shown
+British Columbia,2023,12,Public Building: Other,66,as shown
+British Columbia,2024,12,Public Building: Other,62,as shown
+British Columbia,2025,12,Public Building: Other,42,as shown
+British Columbia,2026,6,Public Building: Other,9,as shown
+British Columbia,2023,12,Not available,21,as shown
+British Columbia,2024,12,Not available,11,as shown
+British Columbia,2025,12,Not available,19,as shown
+British Columbia,2026,6,Not available,12,as shown
+British Columbia,2023,12,Public Building: Washroom,22,as shown
+British Columbia,2024,12,Public Building: Washroom,17,as shown
+British Columbia,2025,12,Public Building: Washroom,9,as shown
+British Columbia,2026,6,Public Building: Washroom,1,as shown
+British Columbia,2023,12,Medical Facility,17,as shown
+British Columbia,2024,12,Medical Facility,15,as shown
+British Columbia,2025,12,Medical Facility,11,as shown
+British Columbia,2026,6,Medical Facility,4,as shown
+British Columbia,2023,12,Industrial/Construction/Manufacturing/Natural Resource Sites,13,as shown
+British Columbia,2024,12,Industrial/Construction/Manufacturing/Natural Resource Sites,9,as shown
+British Columbia,2025,12,Industrial/Construction/Manufacturing/Natural Resource Sites,0,as shown
+British Columbia,2026,6,Industrial/Construction/Manufacturing/Natural Resource Sites,2,as shown
+British Columbia,2023,12,Correctional Facility/Police Cell,8,as shown
+British Columbia,2024,12,Correctional Facility/Police Cell,6,as shown
+British Columbia,2025,12,Correctional Facility/Police Cell,5,as shown
+British Columbia,2026,6,Correctional Facility/Police Cell,4,as shown
+Interior,2023,12,Private Residence,249,derived: BC minus all-except-HA page
+Interior,2023,12,Other Residence,84,derived: BC minus all-except-HA page
+Interior,2023,12,Outside,86,derived: BC minus all-except-HA page
+Interior,2023,12,Public Building: Other,11,derived: BC minus all-except-HA page
+Interior,2023,12,Not available,3,derived: BC minus all-except-HA page
+Interior,2023,12,Public Building: Washroom,4,derived: BC minus all-except-HA page
+Interior,2023,12,Medical Facility,1,derived: BC minus all-except-HA page
+Interior,2023,12,Industrial/Construction/Manufacturing/Natural Resource Sites,1,derived: BC minus all-except-HA page
+Interior,2023,12,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page
+Interior,2024,12,Private Residence,233,derived: BC minus all-except-HA page
+Interior,2024,12,Other Residence,76,derived: BC minus all-except-HA page
+Interior,2024,12,Outside,76,derived: BC minus all-except-HA page
+Interior,2024,12,Public Building: Other,14,derived: BC minus all-except-HA page
+Interior,2024,12,Not available,3,derived: BC minus all-except-HA page
+Interior,2024,12,Public Building: Washroom,4,derived: BC minus all-except-HA page
+Interior,2024,12,Medical Facility,3,derived: BC minus all-except-HA page
+Interior,2024,12,Industrial/Construction/Manufacturing/Natural Resource Sites,2,derived: BC minus all-except-HA page
+Interior,2024,12,Correctional Facility/Police Cell,1,derived: BC minus all-except-HA page
+Interior,2025,12,Private Residence,178,derived: BC minus all-except-HA page
+Interior,2025,12,Other Residence,57,derived: BC minus all-except-HA page
+Interior,2025,12,Outside,70,derived: BC minus all-except-HA page
+Interior,2025,12,Public Building: Other,10,derived: BC minus all-except-HA page
+Interior,2025,12,Not available,3,derived: BC minus all-except-HA page
+Interior,2025,12,Public Building: Washroom,1,derived: BC minus all-except-HA page
+Interior,2025,12,Medical Facility,1,derived: BC minus all-except-HA page
+Interior,2025,12,Industrial/Construction/Manufacturing/Natural Resource Sites,0,derived: BC minus all-except-HA page
+Interior,2025,12,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page
+Interior,2026,6,Private Residence,88,derived: BC minus all-except-HA page
+Interior,2026,6,Other Residence,22,derived: BC minus all-except-HA page
+Interior,2026,6,Outside,18,derived: BC minus all-except-HA page
+Interior,2026,6,Public Building: Other,0,derived: BC minus all-except-HA page
+Interior,2026,6,Not available,1,derived: BC minus all-except-HA page
+Interior,2026,6,Public Building: Washroom,0,derived: BC minus all-except-HA page
+Interior,2026,6,Medical Facility,0,derived: BC minus all-except-HA page
+Interior,2026,6,Industrial/Construction/Manufacturing/Natural Resource Sites,1,derived: BC minus all-except-HA page
+Interior,2026,6,Correctional Facility/Police Cell,2,derived: BC minus all-except-HA page
+Fraser,2023,12,Private Residence,426,derived: BC minus all-except-HA page
+Fraser,2023,12,Other Residence,108,derived: BC minus all-except-HA page
+Fraser,2023,12,Outside,120,derived: BC minus all-except-HA page
+Fraser,2023,12,Public Building: Other,19,derived: BC minus all-except-HA page
+Fraser,2023,12,Not available,5,derived: BC minus all-except-HA page
+Fraser,2023,12,Public Building: Washroom,8,derived: BC minus all-except-HA page
+Fraser,2023,12,Medical Facility,5,derived: BC minus all-except-HA page
+Fraser,2023,12,Industrial/Construction/Manufacturing/Natural Resource Sites,4,derived: BC minus all-except-HA page
+Fraser,2023,12,Correctional Facility/Police Cell,7,derived: BC minus all-except-HA page
+Fraser,2024,12,Private Residence,393,derived: BC minus all-except-HA page
+Fraser,2024,12,Other Residence,104,derived: BC minus all-except-HA page
+Fraser,2024,12,Outside,93,derived: BC minus all-except-HA page
+Fraser,2024,12,Public Building: Other,21,derived: BC minus all-except-HA page
+Fraser,2024,12,Not available,1,derived: BC minus all-except-HA page
+Fraser,2024,12,Public Building: Washroom,8,derived: BC minus all-except-HA page
+Fraser,2024,12,Medical Facility,1,derived: BC minus all-except-HA page
+Fraser,2024,12,Industrial/Construction/Manufacturing/Natural Resource Sites,1,derived: BC minus all-except-HA page
+Fraser,2024,12,Correctional Facility/Police Cell,3,derived: BC minus all-except-HA page
+Fraser,2025,12,Private Residence,327,derived: BC minus all-except-HA page
+Fraser,2025,12,Other Residence,67,derived: BC minus all-except-HA page
+Fraser,2025,12,Outside,101,derived: BC minus all-except-HA page
+Fraser,2025,12,Public Building: Other,12,derived: BC minus all-except-HA page
+Fraser,2025,12,Not available,11,derived: BC minus all-except-HA page
+Fraser,2025,12,Public Building: Washroom,4,derived: BC minus all-except-HA page
+Fraser,2025,12,Medical Facility,2,derived: BC minus all-except-HA page
+Fraser,2025,12,Industrial/Construction/Manufacturing/Natural Resource Sites,0,derived: BC minus all-except-HA page
+Fraser,2025,12,Correctional Facility/Police Cell,3,derived: BC minus all-except-HA page
+Fraser,2026,6,Private Residence,125,derived: BC minus all-except-HA page
+Fraser,2026,6,Other Residence,34,derived: BC minus all-except-HA page
+Fraser,2026,6,Outside,36,derived: BC minus all-except-HA page
+Fraser,2026,6,Public Building: Other,3,derived: BC minus all-except-HA page
+Fraser,2026,6,Not available,4,derived: BC minus all-except-HA page
+Fraser,2026,6,Public Building: Washroom,0,derived: BC minus all-except-HA page
+Fraser,2026,6,Medical Facility,1,derived: BC minus all-except-HA page
+Fraser,2026,6,Industrial/Construction/Manufacturing/Natural Resource Sites,1,derived: BC minus all-except-HA page
+Fraser,2026,6,Correctional Facility/Police Cell,2,derived: BC minus all-except-HA page
+Vancouver Coastal,2023,12,Private Residence,180,derived: BC minus all-except-HA page
+Vancouver Coastal,2023,12,Other Residence,397,derived: BC minus all-except-HA page
+Vancouver Coastal,2023,12,Outside,138,derived: BC minus all-except-HA page
+Vancouver Coastal,2023,12,Public Building: Other,13,derived: BC minus all-except-HA page
+Vancouver Coastal,2023,12,Not available,6,derived: BC minus all-except-HA page
+Vancouver Coastal,2023,12,Public Building: Washroom,4,derived: BC minus all-except-HA page
+Vancouver Coastal,2023,12,Medical Facility,8,derived: BC minus all-except-HA page
+Vancouver Coastal,2023,12,Industrial/Construction/Manufacturing/Natural Resource Sites,0,derived: BC minus all-except-HA page
+Vancouver Coastal,2023,12,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page
+Vancouver Coastal,2024,12,Private Residence,146,derived: BC minus all-except-HA page
+Vancouver Coastal,2024,12,Other Residence,312,derived: BC minus all-except-HA page
+Vancouver Coastal,2024,12,Outside,126,derived: BC minus all-except-HA page
+Vancouver Coastal,2024,12,Public Building: Other,12,derived: BC minus all-except-HA page
+Vancouver Coastal,2024,12,Not available,3,derived: BC minus all-except-HA page
+Vancouver Coastal,2024,12,Public Building: Washroom,4,derived: BC minus all-except-HA page
+Vancouver Coastal,2024,12,Medical Facility,7,derived: BC minus all-except-HA page
+Vancouver Coastal,2024,12,Industrial/Construction/Manufacturing/Natural Resource Sites,3,derived: BC minus all-except-HA page
+Vancouver Coastal,2024,12,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page
+Vancouver Coastal,2025,12,Private Residence,124,derived: BC minus all-except-HA page
+Vancouver Coastal,2025,12,Other Residence,235,derived: BC minus all-except-HA page
+Vancouver Coastal,2025,12,Outside,115,derived: BC minus all-except-HA page
+Vancouver Coastal,2025,12,Public Building: Other,7,derived: BC minus all-except-HA page
+Vancouver Coastal,2025,12,Not available,3,derived: BC minus all-except-HA page
+Vancouver Coastal,2025,12,Public Building: Washroom,2,derived: BC minus all-except-HA page
+Vancouver Coastal,2025,12,Medical Facility,6,derived: BC minus all-except-HA page
+Vancouver Coastal,2025,12,Industrial/Construction/Manufacturing/Natural Resource Sites,0,derived: BC minus all-except-HA page
+Vancouver Coastal,2025,12,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page
+Vancouver Coastal,2026,6,Private Residence,55,derived: BC minus all-except-HA page
+Vancouver Coastal,2026,6,Other Residence,89,derived: BC minus all-except-HA page
+Vancouver Coastal,2026,6,Outside,48,derived: BC minus all-except-HA page
+Vancouver Coastal,2026,6,Public Building: Other,2,derived: BC minus all-except-HA page
+Vancouver Coastal,2026,6,Not available,4,derived: BC minus all-except-HA page
+Vancouver Coastal,2026,6,Public Building: Washroom,0,derived: BC minus all-except-HA page
+Vancouver Coastal,2026,6,Medical Facility,2,derived: BC minus all-except-HA page
+Vancouver Coastal,2026,6,Industrial/Construction/Manufacturing/Natural Resource Sites,0,derived: BC minus all-except-HA page
+Vancouver Coastal,2026,6,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page
+Island,2023,12,Private Residence,256,derived: BC minus all-except-HA page
+Island,2023,12,Other Residence,93,derived: BC minus all-except-HA page
+Island,2023,12,Outside,114,derived: BC minus all-except-HA page
+Island,2023,12,Public Building: Other,12,derived: BC minus all-except-HA page
+Island,2023,12,Not available,5,derived: BC minus all-except-HA page
+Island,2023,12,Public Building: Washroom,5,derived: BC minus all-except-HA page
+Island,2023,12,Medical Facility,3,derived: BC minus all-except-HA page
+Island,2023,12,Industrial/Construction/Manufacturing/Natural Resource Sites,4,derived: BC minus all-except-HA page
+Island,2023,12,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page
+Island,2024,12,Private Residence,223,derived: BC minus all-except-HA page
+Island,2024,12,Other Residence,112,derived: BC minus all-except-HA page
+Island,2024,12,Outside,106,derived: BC minus all-except-HA page
+Island,2024,12,Public Building: Other,11,derived: BC minus all-except-HA page
+Island,2024,12,Not available,1,derived: BC minus all-except-HA page
+Island,2024,12,Public Building: Washroom,0,derived: BC minus all-except-HA page
+Island,2024,12,Medical Facility,4,derived: BC minus all-except-HA page
+Island,2024,12,Industrial/Construction/Manufacturing/Natural Resource Sites,2,derived: BC minus all-except-HA page
+Island,2024,12,Correctional Facility/Police Cell,2,derived: BC minus all-except-HA page
+Island,2025,12,Private Residence,169,derived: BC minus all-except-HA page
+Island,2025,12,Other Residence,84,derived: BC minus all-except-HA page
+Island,2025,12,Outside,78,derived: BC minus all-except-HA page
+Island,2025,12,Public Building: Other,7,derived: BC minus all-except-HA page
+Island,2025,12,Not available,1,derived: BC minus all-except-HA page
+Island,2025,12,Public Building: Washroom,1,derived: BC minus all-except-HA page
+Island,2025,12,Medical Facility,2,derived: BC minus all-except-HA page
+Island,2025,12,Industrial/Construction/Manufacturing/Natural Resource Sites,0,derived: BC minus all-except-HA page
+Island,2025,12,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page
+Island,2026,6,Private Residence,93,derived: BC minus all-except-HA page
+Island,2026,6,Other Residence,37,derived: BC minus all-except-HA page
+Island,2026,6,Outside,30,derived: BC minus all-except-HA page
+Island,2026,6,Public Building: Other,3,derived: BC minus all-except-HA page
+Island,2026,6,Not available,1,derived: BC minus all-except-HA page
+Island,2026,6,Public Building: Washroom,0,derived: BC minus all-except-HA page
+Island,2026,6,Medical Facility,1,derived: BC minus all-except-HA page
+Island,2026,6,Industrial/Construction/Manufacturing/Natural Resource Sites,0,derived: BC minus all-except-HA page
+Island,2026,6,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page
+Northern,2023,12,Private Residence,111,derived: BC minus all-except-HA page
+Northern,2023,12,Other Residence,49,derived: BC minus all-except-HA page
+Northern,2023,12,Outside,33,derived: BC minus all-except-HA page
+Northern,2023,12,Public Building: Other,11,derived: BC minus all-except-HA page
+Northern,2023,12,Not available,2,derived: BC minus all-except-HA page
+Northern,2023,12,Public Building: Washroom,1,derived: BC minus all-except-HA page
+Northern,2023,12,Medical Facility,0,derived: BC minus all-except-HA page
+Northern,2023,12,Industrial/Construction/Manufacturing/Natural Resource Sites,4,derived: BC minus all-except-HA page
+Northern,2023,12,Correctional Facility/Police Cell,1,derived: BC minus all-except-HA page
+Northern,2024,12,Private Residence,115,derived: BC minus all-except-HA page
+Northern,2024,12,Other Residence,45,derived: BC minus all-except-HA page
+Northern,2024,12,Outside,39,derived: BC minus all-except-HA page
+Northern,2024,12,Public Building: Other,4,derived: BC minus all-except-HA page
+Northern,2024,12,Not available,3,derived: BC minus all-except-HA page
+Northern,2024,12,Public Building: Washroom,1,derived: BC minus all-except-HA page
+Northern,2024,12,Medical Facility,0,derived: BC minus all-except-HA page
+Northern,2024,12,Industrial/Construction/Manufacturing/Natural Resource Sites,1,derived: BC minus all-except-HA page
+Northern,2024,12,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page
+Northern,2025,12,Private Residence,83,derived: BC minus all-except-HA page
+Northern,2025,12,Other Residence,35,derived: BC minus all-except-HA page
+Northern,2025,12,Outside,19,derived: BC minus all-except-HA page
+Northern,2025,12,Public Building: Other,6,derived: BC minus all-except-HA page
+Northern,2025,12,Not available,1,derived: BC minus all-except-HA page
+Northern,2025,12,Public Building: Washroom,1,derived: BC minus all-except-HA page
+Northern,2025,12,Medical Facility,0,derived: BC minus all-except-HA page
+Northern,2025,12,Industrial/Construction/Manufacturing/Natural Resource Sites,0,derived: BC minus all-except-HA page
+Northern,2025,12,Correctional Facility/Police Cell,2,derived: BC minus all-except-HA page
+Northern,2026,6,Private Residence,48,derived: BC minus all-except-HA page
+Northern,2026,6,Other Residence,14,derived: BC minus all-except-HA page
+Northern,2026,6,Outside,7,derived: BC minus all-except-HA page
+Northern,2026,6,Public Building: Other,1,derived: BC minus all-except-HA page
+Northern,2026,6,Not available,2,derived: BC minus all-except-HA page
+Northern,2026,6,Public Building: Washroom,1,derived: BC minus all-except-HA page
+Northern,2026,6,Medical Facility,0,derived: BC minus all-except-HA page
+Northern,2026,6,Industrial/Construction/Manufacturing/Natural Resource Sites,0,derived: BC minus all-except-HA page
+Northern,2026,6,Correctional Facility/Police Cell,0,derived: BC minus all-except-HA page

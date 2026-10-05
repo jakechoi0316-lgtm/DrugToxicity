@@ -1,0 +1,577 @@
+hsda_code,hsda,year,estimate_type,sex,population
+11,East Kootenay,2015,Estimate,Female,40390
+11,East Kootenay,2015,Estimate,Male,41137
+11,East Kootenay,2015,Estimate,Total,81527
+11,East Kootenay,2016,Estimate,Female,41147
+11,East Kootenay,2016,Estimate,Male,41809
+11,East Kootenay,2016,Estimate,Total,82956
+11,East Kootenay,2017,Estimate,Female,41782
+11,East Kootenay,2017,Estimate,Male,42293
+11,East Kootenay,2017,Estimate,Total,84075
+11,East Kootenay,2018,Estimate,Female,42417
+11,East Kootenay,2018,Estimate,Male,43097
+11,East Kootenay,2018,Estimate,Total,85514
+11,East Kootenay,2019,Estimate,Female,43222
+11,East Kootenay,2019,Estimate,Male,44027
+11,East Kootenay,2019,Estimate,Total,87249
+11,East Kootenay,2020,Estimate,Female,43800
+11,East Kootenay,2020,Estimate,Male,44632
+11,East Kootenay,2020,Estimate,Total,88432
+11,East Kootenay,2021,Estimate,Female,44504
+11,East Kootenay,2021,Estimate,Male,45326
+11,East Kootenay,2021,Estimate,Total,89830
+11,East Kootenay,2022,Estimate,Female,45519
+11,East Kootenay,2022,Estimate,Male,46242
+11,East Kootenay,2022,Estimate,Total,91761
+11,East Kootenay,2023,Estimate,Female,46402
+11,East Kootenay,2023,Estimate,Male,47223
+11,East Kootenay,2023,Estimate,Total,93625
+11,East Kootenay,2024,Estimate,Female,47099
+11,East Kootenay,2024,Estimate,Male,47813
+11,East Kootenay,2024,Estimate,Total,94912
+11,East Kootenay,2025,Estimate,Female,47316
+11,East Kootenay,2025,Estimate,Male,48067
+11,East Kootenay,2025,Estimate,Total,95383
+11,East Kootenay,2026,Projection,Female,46572
+11,East Kootenay,2026,Projection,Male,47197
+11,East Kootenay,2026,Projection,Total,93769
+12,Kootenay Boundary,2015,Estimate,Female,39785
+12,Kootenay Boundary,2015,Estimate,Male,40226
+12,Kootenay Boundary,2015,Estimate,Total,80011
+12,Kootenay Boundary,2016,Estimate,Female,40416
+12,Kootenay Boundary,2016,Estimate,Male,40892
+12,Kootenay Boundary,2016,Estimate,Total,81308
+12,Kootenay Boundary,2017,Estimate,Female,40816
+12,Kootenay Boundary,2017,Estimate,Male,41380
+12,Kootenay Boundary,2017,Estimate,Total,82196
+12,Kootenay Boundary,2018,Estimate,Female,41354
+12,Kootenay Boundary,2018,Estimate,Male,42024
+12,Kootenay Boundary,2018,Estimate,Total,83378
+12,Kootenay Boundary,2019,Estimate,Female,41711
+12,Kootenay Boundary,2019,Estimate,Male,42534
+12,Kootenay Boundary,2019,Estimate,Total,84245
+12,Kootenay Boundary,2020,Estimate,Female,42093
+12,Kootenay Boundary,2020,Estimate,Male,42865
+12,Kootenay Boundary,2020,Estimate,Total,84958
+12,Kootenay Boundary,2021,Estimate,Female,42590
+12,Kootenay Boundary,2021,Estimate,Male,43362
+12,Kootenay Boundary,2021,Estimate,Total,85952
+12,Kootenay Boundary,2022,Estimate,Female,43158
+12,Kootenay Boundary,2022,Estimate,Male,43981
+12,Kootenay Boundary,2022,Estimate,Total,87139
+12,Kootenay Boundary,2023,Estimate,Female,43666
+12,Kootenay Boundary,2023,Estimate,Male,44695
+12,Kootenay Boundary,2023,Estimate,Total,88361
+12,Kootenay Boundary,2024,Estimate,Female,44155
+12,Kootenay Boundary,2024,Estimate,Male,45282
+12,Kootenay Boundary,2024,Estimate,Total,89437
+12,Kootenay Boundary,2025,Estimate,Female,44352
+12,Kootenay Boundary,2025,Estimate,Male,45498
+12,Kootenay Boundary,2025,Estimate,Total,89850
+12,Kootenay Boundary,2026,Projection,Female,43589
+12,Kootenay Boundary,2026,Projection,Male,44601
+12,Kootenay Boundary,2026,Projection,Total,88190
+13,Okanagan,2015,Estimate,Female,187990
+13,Okanagan,2015,Estimate,Male,179765
+13,Okanagan,2015,Estimate,Total,367755
+13,Okanagan,2016,Estimate,Female,192609
+13,Okanagan,2016,Estimate,Male,184402
+13,Okanagan,2016,Estimate,Total,377011
+13,Okanagan,2017,Estimate,Female,196842
+13,Okanagan,2017,Estimate,Male,188420
+13,Okanagan,2017,Estimate,Total,385262
+13,Okanagan,2018,Estimate,Female,200813
+13,Okanagan,2018,Estimate,Male,193777
+13,Okanagan,2018,Estimate,Total,394590
+13,Okanagan,2019,Estimate,Female,204989
+13,Okanagan,2019,Estimate,Male,198099
+13,Okanagan,2019,Estimate,Total,403088
+13,Okanagan,2020,Estimate,Female,209175
+13,Okanagan,2020,Estimate,Male,202189
+13,Okanagan,2020,Estimate,Total,411364
+13,Okanagan,2021,Estimate,Female,213589
+13,Okanagan,2021,Estimate,Male,206460
+13,Okanagan,2021,Estimate,Total,420049
+13,Okanagan,2022,Estimate,Female,218771
+13,Okanagan,2022,Estimate,Male,211952
+13,Okanagan,2022,Estimate,Total,430723
+13,Okanagan,2023,Estimate,Female,222366
+13,Okanagan,2023,Estimate,Male,216193
+13,Okanagan,2023,Estimate,Total,438559
+13,Okanagan,2024,Estimate,Female,225951
+13,Okanagan,2024,Estimate,Male,219174
+13,Okanagan,2024,Estimate,Total,445125
+13,Okanagan,2025,Estimate,Female,227633
+13,Okanagan,2025,Estimate,Male,221472
+13,Okanagan,2025,Estimate,Total,449105
+13,Okanagan,2026,Projection,Female,224713
+13,Okanagan,2026,Projection,Male,218512
+13,Okanagan,2026,Projection,Total,443225
+14,Thompson Cariboo Shuswap,2015,Estimate,Female,111718
+14,Thompson Cariboo Shuswap,2015,Estimate,Male,112542
+14,Thompson Cariboo Shuswap,2015,Estimate,Total,224260
+14,Thompson Cariboo Shuswap,2016,Estimate,Female,113674
+14,Thompson Cariboo Shuswap,2016,Estimate,Male,114649
+14,Thompson Cariboo Shuswap,2016,Estimate,Total,228323
+14,Thompson Cariboo Shuswap,2017,Estimate,Female,115796
+14,Thompson Cariboo Shuswap,2017,Estimate,Male,116956
+14,Thompson Cariboo Shuswap,2017,Estimate,Total,232752
+14,Thompson Cariboo Shuswap,2018,Estimate,Female,118181
+14,Thompson Cariboo Shuswap,2018,Estimate,Male,119833
+14,Thompson Cariboo Shuswap,2018,Estimate,Total,238014
+14,Thompson Cariboo Shuswap,2019,Estimate,Female,119918
+14,Thompson Cariboo Shuswap,2019,Estimate,Male,121756
+14,Thompson Cariboo Shuswap,2019,Estimate,Total,241674
+14,Thompson Cariboo Shuswap,2020,Estimate,Female,121254
+14,Thompson Cariboo Shuswap,2020,Estimate,Male,122920
+14,Thompson Cariboo Shuswap,2020,Estimate,Total,244174
+14,Thompson Cariboo Shuswap,2021,Estimate,Female,122655
+14,Thompson Cariboo Shuswap,2021,Estimate,Male,123947
+14,Thompson Cariboo Shuswap,2021,Estimate,Total,246602
+14,Thompson Cariboo Shuswap,2022,Estimate,Female,125115
+14,Thompson Cariboo Shuswap,2022,Estimate,Male,126317
+14,Thompson Cariboo Shuswap,2022,Estimate,Total,251432
+14,Thompson Cariboo Shuswap,2023,Estimate,Female,127311
+14,Thompson Cariboo Shuswap,2023,Estimate,Male,128615
+14,Thompson Cariboo Shuswap,2023,Estimate,Total,255926
+14,Thompson Cariboo Shuswap,2024,Estimate,Female,128893
+14,Thompson Cariboo Shuswap,2024,Estimate,Male,130076
+14,Thompson Cariboo Shuswap,2024,Estimate,Total,258969
+14,Thompson Cariboo Shuswap,2025,Estimate,Female,129101
+14,Thompson Cariboo Shuswap,2025,Estimate,Male,129931
+14,Thompson Cariboo Shuswap,2025,Estimate,Total,259032
+14,Thompson Cariboo Shuswap,2026,Projection,Female,126553
+14,Thompson Cariboo Shuswap,2026,Projection,Male,127058
+14,Thompson Cariboo Shuswap,2026,Projection,Total,253611
+21,Fraser East,2015,Estimate,Female,150330
+21,Fraser East,2015,Estimate,Male,150574
+21,Fraser East,2015,Estimate,Total,300904
+21,Fraser East,2016,Estimate,Female,154796
+21,Fraser East,2016,Estimate,Male,154766
+21,Fraser East,2016,Estimate,Total,309562
+21,Fraser East,2017,Estimate,Female,158270
+21,Fraser East,2017,Estimate,Male,158179
+21,Fraser East,2017,Estimate,Total,316449
+21,Fraser East,2018,Estimate,Female,161263
+21,Fraser East,2018,Estimate,Male,162998
+21,Fraser East,2018,Estimate,Total,324261
+21,Fraser East,2019,Estimate,Female,164109
+21,Fraser East,2019,Estimate,Male,166524
+21,Fraser East,2019,Estimate,Total,330633
+21,Fraser East,2020,Estimate,Female,166368
+21,Fraser East,2020,Estimate,Male,167860
+21,Fraser East,2020,Estimate,Total,334228
+21,Fraser East,2021,Estimate,Female,168639
+21,Fraser East,2021,Estimate,Male,169559
+21,Fraser East,2021,Estimate,Total,338198
+21,Fraser East,2022,Estimate,Female,171383
+21,Fraser East,2022,Estimate,Male,172646
+21,Fraser East,2022,Estimate,Total,344029
+21,Fraser East,2023,Estimate,Female,174720
+21,Fraser East,2023,Estimate,Male,177411
+21,Fraser East,2023,Estimate,Total,352131
+21,Fraser East,2024,Estimate,Female,179521
+21,Fraser East,2024,Estimate,Male,183003
+21,Fraser East,2024,Estimate,Total,362524
+21,Fraser East,2025,Estimate,Female,182768
+21,Fraser East,2025,Estimate,Male,186290
+21,Fraser East,2025,Estimate,Total,369058
+21,Fraser East,2026,Projection,Female,182006
+21,Fraser East,2026,Projection,Male,185154
+21,Fraser East,2026,Projection,Total,367160
+22,Fraser North,2015,Estimate,Female,332397
+22,Fraser North,2015,Estimate,Male,325952
+22,Fraser North,2015,Estimate,Total,658349
+22,Fraser North,2016,Estimate,Female,339086
+22,Fraser North,2016,Estimate,Male,332244
+22,Fraser North,2016,Estimate,Total,671330
+22,Fraser North,2017,Estimate,Female,343602
+22,Fraser North,2017,Estimate,Male,336737
+22,Fraser North,2017,Estimate,Total,680339
+22,Fraser North,2018,Estimate,Female,349212
+22,Fraser North,2018,Estimate,Male,342370
+22,Fraser North,2018,Estimate,Total,691582
+22,Fraser North,2019,Estimate,Female,354242
+22,Fraser North,2019,Estimate,Male,347786
+22,Fraser North,2019,Estimate,Total,702028
+22,Fraser North,2020,Estimate,Female,358027
+22,Fraser North,2020,Estimate,Male,351958
+22,Fraser North,2020,Estimate,Total,709985
+22,Fraser North,2021,Estimate,Female,361322
+22,Fraser North,2021,Estimate,Male,356816
+22,Fraser North,2021,Estimate,Total,718138
+22,Fraser North,2022,Estimate,Female,373646
+22,Fraser North,2022,Estimate,Male,367841
+22,Fraser North,2022,Estimate,Total,741487
+22,Fraser North,2023,Estimate,Female,387929
+22,Fraser North,2023,Estimate,Male,382562
+22,Fraser North,2023,Estimate,Total,770491
+22,Fraser North,2024,Estimate,Female,402640
+22,Fraser North,2024,Estimate,Male,396891
+22,Fraser North,2024,Estimate,Total,799531
+22,Fraser North,2025,Estimate,Female,404577
+22,Fraser North,2025,Estimate,Male,397373
+22,Fraser North,2025,Estimate,Total,801950
+22,Fraser North,2026,Projection,Female,401706
+22,Fraser North,2026,Projection,Male,392503
+22,Fraser North,2026,Projection,Total,794209
+23,Fraser South,2015,Estimate,Female,404281
+23,Fraser South,2015,Estimate,Male,398626
+23,Fraser South,2015,Estimate,Total,802907
+23,Fraser South,2016,Estimate,Female,414155
+23,Fraser South,2016,Estimate,Male,408468
+23,Fraser South,2016,Estimate,Total,822623
+23,Fraser South,2017,Estimate,Female,422283
+23,Fraser South,2017,Estimate,Male,416449
+23,Fraser South,2017,Estimate,Total,838732
+23,Fraser South,2018,Estimate,Female,431033
+23,Fraser South,2018,Estimate,Male,425096
+23,Fraser South,2018,Estimate,Total,856129
+23,Fraser South,2019,Estimate,Female,440715
+23,Fraser South,2019,Estimate,Male,435218
+23,Fraser South,2019,Estimate,Total,875933
+23,Fraser South,2020,Estimate,Female,448677
+23,Fraser South,2020,Estimate,Male,443657
+23,Fraser South,2020,Estimate,Total,892334
+23,Fraser South,2021,Estimate,Female,454309
+23,Fraser South,2021,Estimate,Male,450444
+23,Fraser South,2021,Estimate,Total,904753
+23,Fraser South,2022,Estimate,Female,472701
+23,Fraser South,2022,Estimate,Male,467101
+23,Fraser South,2022,Estimate,Total,939802
+23,Fraser South,2023,Estimate,Female,496181
+23,Fraser South,2023,Estimate,Male,491243
+23,Fraser South,2023,Estimate,Total,987424
+23,Fraser South,2024,Estimate,Female,522841
+23,Fraser South,2024,Estimate,Male,517459
+23,Fraser South,2024,Estimate,Total,1040300
+23,Fraser South,2025,Estimate,Female,531709
+23,Fraser South,2025,Estimate,Male,524447
+23,Fraser South,2025,Estimate,Total,1056156
+23,Fraser South,2026,Projection,Female,531617
+23,Fraser South,2026,Projection,Male,522863
+23,Fraser South,2026,Projection,Total,1054480
+31,Richmond,2015,Estimate,Female,105822
+31,Richmond,2015,Estimate,Male,98640
+31,Richmond,2015,Estimate,Total,204462
+31,Richmond,2016,Estimate,Female,107456
+31,Richmond,2016,Estimate,Male,100156
+31,Richmond,2016,Estimate,Total,207612
+31,Richmond,2017,Estimate,Female,108453
+31,Richmond,2017,Estimate,Male,101146
+31,Richmond,2017,Estimate,Total,209599
+31,Richmond,2018,Estimate,Female,110078
+31,Richmond,2018,Estimate,Male,102775
+31,Richmond,2018,Estimate,Total,212853
+31,Richmond,2019,Estimate,Female,112007
+31,Richmond,2019,Estimate,Male,104786
+31,Richmond,2019,Estimate,Total,216793
+31,Richmond,2020,Estimate,Female,113028
+31,Richmond,2020,Estimate,Male,105892
+31,Richmond,2020,Estimate,Total,218920
+31,Richmond,2021,Estimate,Female,114470
+31,Richmond,2021,Estimate,Male,106706
+31,Richmond,2021,Estimate,Total,221176
+31,Richmond,2022,Estimate,Female,118361
+31,Richmond,2022,Estimate,Male,109987
+31,Richmond,2022,Estimate,Total,228348
+31,Richmond,2023,Estimate,Female,122194
+31,Richmond,2023,Estimate,Male,113743
+31,Richmond,2023,Estimate,Total,235937
+31,Richmond,2024,Estimate,Female,125437
+31,Richmond,2024,Estimate,Male,116702
+31,Richmond,2024,Estimate,Total,242139
+31,Richmond,2025,Estimate,Female,124327
+31,Richmond,2025,Estimate,Male,115258
+31,Richmond,2025,Estimate,Total,239585
+31,Richmond,2026,Projection,Female,124049
+31,Richmond,2026,Projection,Male,114568
+31,Richmond,2026,Projection,Total,238617
+32,Vancouver,2015,Estimate,Female,341107
+32,Vancouver,2015,Estimate,Male,332567
+32,Vancouver,2015,Estimate,Total,673674
+32,Vancouver,2016,Estimate,Female,345881
+32,Vancouver,2016,Estimate,Male,337595
+32,Vancouver,2016,Estimate,Total,683476
+32,Vancouver,2017,Estimate,Female,348881
+32,Vancouver,2017,Estimate,Male,340625
+32,Vancouver,2017,Estimate,Total,689506
+32,Vancouver,2018,Estimate,Female,353780
+32,Vancouver,2018,Estimate,Male,345489
+32,Vancouver,2018,Estimate,Total,699269
+32,Vancouver,2019,Estimate,Female,361399
+32,Vancouver,2019,Estimate,Male,353450
+32,Vancouver,2019,Estimate,Total,714849
+32,Vancouver,2020,Estimate,Female,364626
+32,Vancouver,2020,Estimate,Male,357348
+32,Vancouver,2020,Estimate,Total,721974
+32,Vancouver,2021,Estimate,Female,362459
+32,Vancouver,2021,Estimate,Male,354691
+32,Vancouver,2021,Estimate,Total,717150
+32,Vancouver,2022,Estimate,Female,369522
+32,Vancouver,2022,Estimate,Male,360444
+32,Vancouver,2022,Estimate,Total,729966
+32,Vancouver,2023,Estimate,Female,381660
+32,Vancouver,2023,Estimate,Male,372964
+32,Vancouver,2023,Estimate,Total,754624
+32,Vancouver,2024,Estimate,Female,390688
+32,Vancouver,2024,Estimate,Male,381599
+32,Vancouver,2024,Estimate,Total,772287
+32,Vancouver,2025,Estimate,Female,387161
+32,Vancouver,2025,Estimate,Male,376825
+32,Vancouver,2025,Estimate,Total,763986
+32,Vancouver,2026,Projection,Female,385259
+32,Vancouver,2026,Projection,Male,373781
+32,Vancouver,2026,Projection,Total,759040
+33,North Shore/Coast Garibaldi,2015,Estimate,Female,148371
+33,North Shore/Coast Garibaldi,2015,Estimate,Male,142376
+33,North Shore/Coast Garibaldi,2015,Estimate,Total,290747
+33,North Shore/Coast Garibaldi,2016,Estimate,Female,151290
+33,North Shore/Coast Garibaldi,2016,Estimate,Male,145207
+33,North Shore/Coast Garibaldi,2016,Estimate,Total,296497
+33,North Shore/Coast Garibaldi,2017,Estimate,Female,153316
+33,North Shore/Coast Garibaldi,2017,Estimate,Male,147206
+33,North Shore/Coast Garibaldi,2017,Estimate,Total,300522
+33,North Shore/Coast Garibaldi,2018,Estimate,Female,155570
+33,North Shore/Coast Garibaldi,2018,Estimate,Male,149498
+33,North Shore/Coast Garibaldi,2018,Estimate,Total,305068
+33,North Shore/Coast Garibaldi,2019,Estimate,Female,157643
+33,North Shore/Coast Garibaldi,2019,Estimate,Male,151850
+33,North Shore/Coast Garibaldi,2019,Estimate,Total,309493
+33,North Shore/Coast Garibaldi,2020,Estimate,Female,159659
+33,North Shore/Coast Garibaldi,2020,Estimate,Male,154000
+33,North Shore/Coast Garibaldi,2020,Estimate,Total,313659
+33,North Shore/Coast Garibaldi,2021,Estimate,Female,162045
+33,North Shore/Coast Garibaldi,2021,Estimate,Male,156332
+33,North Shore/Coast Garibaldi,2021,Estimate,Total,318377
+33,North Shore/Coast Garibaldi,2022,Estimate,Female,166151
+33,North Shore/Coast Garibaldi,2022,Estimate,Male,159760
+33,North Shore/Coast Garibaldi,2022,Estimate,Total,325911
+33,North Shore/Coast Garibaldi,2023,Estimate,Female,170317
+33,North Shore/Coast Garibaldi,2023,Estimate,Male,163863
+33,North Shore/Coast Garibaldi,2023,Estimate,Total,334180
+33,North Shore/Coast Garibaldi,2024,Estimate,Female,174395
+33,North Shore/Coast Garibaldi,2024,Estimate,Male,167260
+33,North Shore/Coast Garibaldi,2024,Estimate,Total,341655
+33,North Shore/Coast Garibaldi,2025,Estimate,Female,173698
+33,North Shore/Coast Garibaldi,2025,Estimate,Male,166038
+33,North Shore/Coast Garibaldi,2025,Estimate,Total,339736
+33,North Shore/Coast Garibaldi,2026,Projection,Female,171939
+33,North Shore/Coast Garibaldi,2026,Projection,Male,163736
+33,North Shore/Coast Garibaldi,2026,Projection,Total,335675
+41,South Vancouver Island,2015,Estimate,Female,200630
+41,South Vancouver Island,2015,Estimate,Male,190612
+41,South Vancouver Island,2015,Estimate,Total,391242
+41,South Vancouver Island,2016,Estimate,Female,205459
+41,South Vancouver Island,2016,Estimate,Male,195333
+41,South Vancouver Island,2016,Estimate,Total,400792
+41,South Vancouver Island,2017,Estimate,Female,208443
+41,South Vancouver Island,2017,Estimate,Male,198856
+41,South Vancouver Island,2017,Estimate,Total,407299
+41,South Vancouver Island,2018,Estimate,Female,212029
+41,South Vancouver Island,2018,Estimate,Male,202199
+41,South Vancouver Island,2018,Estimate,Total,414228
+41,South Vancouver Island,2019,Estimate,Female,215658
+41,South Vancouver Island,2019,Estimate,Male,205975
+41,South Vancouver Island,2019,Estimate,Total,421633
+41,South Vancouver Island,2020,Estimate,Female,219013
+41,South Vancouver Island,2020,Estimate,Male,209085
+41,South Vancouver Island,2020,Estimate,Total,428098
+41,South Vancouver Island,2021,Estimate,Female,221761
+41,South Vancouver Island,2021,Estimate,Male,211566
+41,South Vancouver Island,2021,Estimate,Total,433327
+41,South Vancouver Island,2022,Estimate,Female,228084
+41,South Vancouver Island,2022,Estimate,Male,216928
+41,South Vancouver Island,2022,Estimate,Total,445012
+41,South Vancouver Island,2023,Estimate,Female,231506
+41,South Vancouver Island,2023,Estimate,Male,220116
+41,South Vancouver Island,2023,Estimate,Total,451622
+41,South Vancouver Island,2024,Estimate,Female,236541
+41,South Vancouver Island,2024,Estimate,Male,224288
+41,South Vancouver Island,2024,Estimate,Total,460829
+41,South Vancouver Island,2025,Estimate,Female,238419
+41,South Vancouver Island,2025,Estimate,Male,225662
+41,South Vancouver Island,2025,Estimate,Total,464081
+41,South Vancouver Island,2026,Projection,Female,236723
+41,South Vancouver Island,2026,Projection,Male,223559
+41,South Vancouver Island,2026,Projection,Total,460282
+42,Central Vancouver Island,2015,Estimate,Female,139756
+42,Central Vancouver Island,2015,Estimate,Male,135329
+42,Central Vancouver Island,2015,Estimate,Total,275085
+42,Central Vancouver Island,2016,Estimate,Female,142785
+42,Central Vancouver Island,2016,Estimate,Male,138311
+42,Central Vancouver Island,2016,Estimate,Total,281096
+42,Central Vancouver Island,2017,Estimate,Female,145533
+42,Central Vancouver Island,2017,Estimate,Male,141111
+42,Central Vancouver Island,2017,Estimate,Total,286644
+42,Central Vancouver Island,2018,Estimate,Female,148286
+42,Central Vancouver Island,2018,Estimate,Male,143553
+42,Central Vancouver Island,2018,Estimate,Total,291839
+42,Central Vancouver Island,2019,Estimate,Female,150722
+42,Central Vancouver Island,2019,Estimate,Male,145911
+42,Central Vancouver Island,2019,Estimate,Total,296633
+42,Central Vancouver Island,2020,Estimate,Female,152588
+42,Central Vancouver Island,2020,Estimate,Male,147543
+42,Central Vancouver Island,2020,Estimate,Total,300131
+42,Central Vancouver Island,2021,Estimate,Female,154678
+42,Central Vancouver Island,2021,Estimate,Male,149303
+42,Central Vancouver Island,2021,Estimate,Total,303981
+42,Central Vancouver Island,2022,Estimate,Female,157837
+42,Central Vancouver Island,2022,Estimate,Male,151739
+42,Central Vancouver Island,2022,Estimate,Total,309576
+42,Central Vancouver Island,2023,Estimate,Female,159672
+42,Central Vancouver Island,2023,Estimate,Male,153603
+42,Central Vancouver Island,2023,Estimate,Total,313275
+42,Central Vancouver Island,2024,Estimate,Female,161976
+42,Central Vancouver Island,2024,Estimate,Male,155789
+42,Central Vancouver Island,2024,Estimate,Total,317765
+42,Central Vancouver Island,2025,Estimate,Female,163400
+42,Central Vancouver Island,2025,Estimate,Male,156919
+42,Central Vancouver Island,2025,Estimate,Total,320319
+42,Central Vancouver Island,2026,Projection,Female,161822
+42,Central Vancouver Island,2026,Projection,Male,154886
+42,Central Vancouver Island,2026,Projection,Total,316708
+43,North Vancouver Island,2015,Estimate,Female,62708
+43,North Vancouver Island,2015,Estimate,Male,61617
+43,North Vancouver Island,2015,Estimate,Total,124325
+43,North Vancouver Island,2016,Estimate,Female,63904
+43,North Vancouver Island,2016,Estimate,Male,62765
+43,North Vancouver Island,2016,Estimate,Total,126669
+43,North Vancouver Island,2017,Estimate,Female,65085
+43,North Vancouver Island,2017,Estimate,Male,63772
+43,North Vancouver Island,2017,Estimate,Total,128857
+43,North Vancouver Island,2018,Estimate,Female,66180
+43,North Vancouver Island,2018,Estimate,Male,64909
+43,North Vancouver Island,2018,Estimate,Total,131089
+43,North Vancouver Island,2019,Estimate,Female,67101
+43,North Vancouver Island,2019,Estimate,Male,65837
+43,North Vancouver Island,2019,Estimate,Total,132938
+43,North Vancouver Island,2020,Estimate,Female,67891
+43,North Vancouver Island,2020,Estimate,Male,66464
+43,North Vancouver Island,2020,Estimate,Total,134355
+43,North Vancouver Island,2021,Estimate,Female,68905
+43,North Vancouver Island,2021,Estimate,Male,67246
+43,North Vancouver Island,2021,Estimate,Total,136151
+43,North Vancouver Island,2022,Estimate,Female,70396
+43,North Vancouver Island,2022,Estimate,Male,68398
+43,North Vancouver Island,2022,Estimate,Total,138794
+43,North Vancouver Island,2023,Estimate,Female,71217
+43,North Vancouver Island,2023,Estimate,Male,69187
+43,North Vancouver Island,2023,Estimate,Total,140404
+43,North Vancouver Island,2024,Estimate,Female,72234
+43,North Vancouver Island,2024,Estimate,Male,70030
+43,North Vancouver Island,2024,Estimate,Total,142264
+43,North Vancouver Island,2025,Estimate,Female,72899
+43,North Vancouver Island,2025,Estimate,Male,70406
+43,North Vancouver Island,2025,Estimate,Total,143305
+43,North Vancouver Island,2026,Projection,Female,72031
+43,North Vancouver Island,2026,Projection,Male,69319
+43,North Vancouver Island,2026,Projection,Total,141350
+51,Northwest,2015,Estimate,Female,36150
+51,Northwest,2015,Estimate,Male,38262
+51,Northwest,2015,Estimate,Total,74412
+51,Northwest,2016,Estimate,Female,36244
+51,Northwest,2016,Estimate,Male,38299
+51,Northwest,2016,Estimate,Total,74543
+51,Northwest,2017,Estimate,Female,36305
+51,Northwest,2017,Estimate,Male,38138
+51,Northwest,2017,Estimate,Total,74443
+51,Northwest,2018,Estimate,Female,36352
+51,Northwest,2018,Estimate,Male,38179
+51,Northwest,2018,Estimate,Total,74531
+51,Northwest,2019,Estimate,Female,36416
+51,Northwest,2019,Estimate,Male,38416
+51,Northwest,2019,Estimate,Total,74832
+51,Northwest,2020,Estimate,Female,36675
+51,Northwest,2020,Estimate,Male,38616
+51,Northwest,2020,Estimate,Total,75291
+51,Northwest,2021,Estimate,Female,36813
+51,Northwest,2021,Estimate,Male,39079
+51,Northwest,2021,Estimate,Total,75892
+51,Northwest,2022,Estimate,Female,36837
+51,Northwest,2022,Estimate,Male,39407
+51,Northwest,2022,Estimate,Total,76244
+51,Northwest,2023,Estimate,Female,37288
+51,Northwest,2023,Estimate,Male,39789
+51,Northwest,2023,Estimate,Total,77077
+51,Northwest,2024,Estimate,Female,37772
+51,Northwest,2024,Estimate,Male,40244
+51,Northwest,2024,Estimate,Total,78016
+51,Northwest,2025,Estimate,Female,37928
+51,Northwest,2025,Estimate,Male,40963
+51,Northwest,2025,Estimate,Total,78891
+51,Northwest,2026,Projection,Female,37562
+51,Northwest,2026,Projection,Male,40457
+51,Northwest,2026,Projection,Total,78019
+52,Northern Interior,2015,Estimate,Female,70857
+52,Northern Interior,2015,Estimate,Male,73996
+52,Northern Interior,2015,Estimate,Total,144853
+52,Northern Interior,2016,Estimate,Female,71724
+52,Northern Interior,2016,Estimate,Male,74826
+52,Northern Interior,2016,Estimate,Total,146550
+52,Northern Interior,2017,Estimate,Female,71999
+52,Northern Interior,2017,Estimate,Male,75203
+52,Northern Interior,2017,Estimate,Total,147202
+52,Northern Interior,2018,Estimate,Female,72708
+52,Northern Interior,2018,Estimate,Male,75758
+52,Northern Interior,2018,Estimate,Total,148466
+52,Northern Interior,2019,Estimate,Female,73103
+52,Northern Interior,2019,Estimate,Male,75952
+52,Northern Interior,2019,Estimate,Total,149055
+52,Northern Interior,2020,Estimate,Female,73174
+52,Northern Interior,2020,Estimate,Male,75719
+52,Northern Interior,2020,Estimate,Total,148893
+52,Northern Interior,2021,Estimate,Female,72881
+52,Northern Interior,2021,Estimate,Male,75309
+52,Northern Interior,2021,Estimate,Total,148190
+52,Northern Interior,2022,Estimate,Female,73535
+52,Northern Interior,2022,Estimate,Male,75752
+52,Northern Interior,2022,Estimate,Total,149287
+52,Northern Interior,2023,Estimate,Female,74563
+52,Northern Interior,2023,Estimate,Male,76823
+52,Northern Interior,2023,Estimate,Total,151386
+52,Northern Interior,2024,Estimate,Female,75751
+52,Northern Interior,2024,Estimate,Male,77953
+52,Northern Interior,2024,Estimate,Total,153704
+52,Northern Interior,2025,Estimate,Female,76351
+52,Northern Interior,2025,Estimate,Male,78556
+52,Northern Interior,2025,Estimate,Total,154907
+52,Northern Interior,2026,Projection,Female,75082
+52,Northern Interior,2026,Projection,Male,77042
+52,Northern Interior,2026,Projection,Total,152124
+53,Northeast,2015,Estimate,Female,34067
+53,Northeast,2015,Estimate,Male,36892
+53,Northeast,2015,Estimate,Total,70959
+53,Northeast,2016,Estimate,Female,34135
+53,Northeast,2016,Estimate,Male,36786
+53,Northeast,2016,Estimate,Total,70921
+53,Northeast,2017,Estimate,Female,33861
+53,Northeast,2017,Estimate,Male,36464
+53,Northeast,2017,Estimate,Total,70325
+53,Northeast,2018,Estimate,Female,33842
+53,Northeast,2018,Estimate,Male,36326
+53,Northeast,2018,Estimate,Total,70168
+53,Northeast,2019,Estimate,Female,33697
+53,Northeast,2019,Estimate,Male,36249
+53,Northeast,2019,Estimate,Total,69946
+53,Northeast,2020,Estimate,Female,33422
+53,Northeast,2020,Estimate,Male,35883
+53,Northeast,2020,Estimate,Total,69305
+53,Northeast,2021,Estimate,Female,33256
+53,Northeast,2021,Estimate,Male,35643
+53,Northeast,2021,Estimate,Total,68899
+53,Northeast,2022,Estimate,Female,33485
+53,Northeast,2022,Estimate,Male,35849
+53,Northeast,2022,Estimate,Total,69334
+53,Northeast,2023,Estimate,Female,33965
+53,Northeast,2023,Estimate,Male,36309
+53,Northeast,2023,Estimate,Total,70274
+53,Northeast,2024,Estimate,Female,34713
+53,Northeast,2024,Estimate,Male,36944
+53,Northeast,2024,Estimate,Total,71657
+53,Northeast,2025,Estimate,Female,34995
+53,Northeast,2025,Estimate,Male,37197
+53,Northeast,2025,Estimate,Total,72192
+53,Northeast,2026,Projection,Female,34494
+53,Northeast,2026,Projection,Male,36505
+53,Northeast,2026,Projection,Total,70999
