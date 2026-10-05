@@ -1,6 +1,4 @@
-https://jakechoi0316-lgtm.github.io/DrugToxicity/
-
-# BC Unregulated Drug Deaths – Extracted Data
+BC Unregulated Drug Deaths – Extracted Data
 
 **Source:** BC Coroners Service, Unregulated Drug Toxicity Deaths dashboard.
 Data up to end of June 2026, last refreshed 11 Aug 2026.
