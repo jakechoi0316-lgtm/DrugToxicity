@@ -1,6 +1,6 @@
 # BC Drug Harms Map
 
-**Live map:** `https://<your-username>.github.io/<repo-name>/` *(replace with your GitHub Pages link)*
+**Live map:** `https://jakechoi0316-lgtm.github.io/DrugToxicity/`
 
 A map of BC's 16 health regions that puts **drug harm** (deaths, paramedic-attended overdoses) and **support** (naloxone sites and kits) side by side. It helps non-profit outreach teams send limited resources where they are most likely to prevent deaths.
 
