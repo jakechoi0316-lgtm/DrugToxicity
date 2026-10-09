@@ -1,58 +1,136 @@
-BC Unregulated Drug Deaths – Extracted Data
+# BC Drug Harms Map
 
-**Source:** BC Coroners Service, Unregulated Drug Toxicity Deaths dashboard.
-Data up to end of June 2026, last refreshed 11 Aug 2026.
-Questions to the source: BCCS.Stats@gov.bc.ca
+**Live map:** https://jakechoi0316-lgtm.github.io/DrugToxicity/
 
-All files are in long ("tidy") format: one row per region per time period.
-This format loads straight into Python (pandas), R, Power BI or Excel.
+A map of BC's 16 health regions that puts **drug harm** (deaths, paramedic-attended overdoses) and **support** (naloxone sites and kits) side by side. It helps non-profit outreach teams send limited resources where they are most likely to prevent deaths.
 
-## Files
+---
 
-| File | What it holds | Years |
+## Job story
+
+> **When** I am deciding, for a non-profit, where to send outreach staff and naloxone supplies each month,
+> **I want** to see in one place which regions have high overdose harm but few support services,
+> **So that I can** put limited resources where they are most likely to prevent deaths.
+
+## Main proposition
+
+**One map that shows where harm is high and support is thin, so limited resources go where they save the most lives.**
+
+- **The problem we solve:** outreach resources are limited, and people keep dying. Teams need to know where to send supplies first.
+- **Our goal:** help teams use the same resources more efficiently, by matching supplies to need.
+
+---
+
+## 1. Problem evidence
+
+| Fact | Number | Source |
 |---|---|---|
-| **hsda_yearly.csv** | Deaths, population and rate per 100k by HSDA. **Main file for the map.** | 2015–2026 |
-| population_hsda.csv | BC Stats population by HSDA, female / male / total | 2015–2026 |
-| population_ha.csv | BC Stats population by health authority | 2015–2025 |
-| **hsda_monthly.csv** | Deaths and monthly rate by HSDA | Jun 2025–Jun 2026 |
-| ha_yearly.csv | Deaths and rate by health authority, plus BC total | 2015–2026 |
-| ha_monthly.csv | Deaths and monthly rate by health authority, plus BC | Jun 2025–Jun 2026 |
-| bc_monthly.csv | BC deaths by month | 2015–2026 |
-| lha_yearly.csv | Deaths and rate by Local Health Area (LHA) | 2016–2026 |
-| township_yearly.csv | Deaths by township (top 17 plus "Other") | 2015–2026 |
-| age_group_yearly_bc.csv | BC deaths and rate by age group | 2015–2026 |
-| sex_yearly_by_ha.csv | Deaths and rate by sex, BC and each HA | 2015–2026 |
-| place_of_injury_by_ha.csv | Deaths by place of injury, BC and each HA | 2023–2026 |
-| drugs_involved_by_ha.csv | % of deaths with each drug type involved | 2015–2025 |
-| fentanyl_detected_by_ha.csv | % of deaths with fentanyl detected | 2015–2026 |
-| expedited_tox_monthly_by_ha.csv | % of tested deaths with each drug type | Jul 2025–Jun 2026 |
-| income_assistance_day_bc.csv | Average deaths per day, payday week vs other days | 2016–2026 |
+| Deaths from unregulated drugs, Jan 2016 – Jun 2026 | **about 19,000** | BC Coroners Service |
+| Deaths in 2025 | **1,828** (about **5 per day**) | BC Coroners Service |
+| Peak year | 2,591 deaths (2023) | BC Coroners Service |
+| Gap between highest and lowest region, 2025 | **55.5 vs 9.6** per 100,000 (5.8×) | BC Coroners Service, BC Stats |
+| Take-home naloxone kits shipped in BC, 2025 | **375,183** (down 22% from 484,000 in 2024) | BCCDC |
 
-## Key columns
+**Supplies are not matched to need.** In 2025, the number of naloxone kits shipped for each paramedic-attended overdose varied **more than 5 times** between regions:
 
-- `hsda_code` – standard BC HSDA code (11–53). Use this to join to the HSDA boundary file. Check the codes match the boundary file.
-- `months_covered` – 12 for full years, **6 for 2026** (Jan–Jun only).
-- `rate_per_100k` – deaths per 100,000 people. **2026 rates are annualized** (`rate_annualized = yes`), so you can compare them with full years.
-- `rate_per_100k_month` – monthly rate, **not** annualized. Multiply by 12 to compare with yearly rates.
+| Region (2025) | Deaths per 100k | Paramedic overdoses per 100k | Kits shipped | Kits per overdose |
+|---|---:|---:|---:|---:|
+| **Fraser East** | 36.0 | 583 | 19,363 | **9.0** (lowest) |
+| Fraser South | 24.0 | 259 | 38,031 | 13.9 |
+| Vancouver | 55.0 | 729 | 89,662 | 16.1 |
+| *BC overall* | *32.1* | *359* | *375,183* | *18.3* |
+| Northern Interior | 55.5 | 550 | 23,229 | 27.3 |
+| Northwest | 43.1 | 237 | 8,752 | 46.8 |
+| **Richmond** | 9.6 | 71 | 8,175 | **48.4** (highest) |
 
-## Things to know
+Fraser East has the **2nd-highest** overdose rate in BC (after Vancouver) but receives the **fewest kits per overdose**. Richmond has the **lowest** death rate but receives the **most kits per overdose**. Full table for all 16 regions: [`evidence_2025_by_region.csv`](evidence_2025_by_region.csv).
 
-1. **Population comes from BC Stats P.E.O.P.L.E.** (released May 20, 2026), the same source the dashboard uses. 2015–2025 are estimates; **2026 is a projection** (`population_type`). Deaths ÷ population reproduces every dashboard rate (yearly and monthly).
-2. **2026 is half a year and preliminary.** Numbers change as investigations close. The source says to read 2026 rates with caution.
-3. **Monthly data only covers 13 months.** The dashboard only shows a rolling 13-month window. Older months by region are not in this snapshot.
-4. **Blanks in monthly and age tables = 0.** The dashboard leaves a cell empty when the count is 0. The totals confirm this, so these are stored as 0.
-5. **Blanks in the LHA table = suppressed.** Small counts are hidden for privacy. They are left empty, with `value_status` = "blank in source (suppressed)".
-6. **LHA totals can be 1–3 lower than HSDA totals.** BCCDC prepares the LHA data, and a few deaths cannot be placed in an LHA. The gap is always small and always in the same direction.
-7. **Place of injury per HA was derived.** In the snapshot, each filtered page showed "all of BC except one HA". Each HA's numbers were calculated as BC minus that page. The results add up exactly to each HA's total.
-8. **Some LHA year positions were read from the image layout.** Haida Gwaii and Stikine and Snow Country have many blank cells. The `row_note` column flags them. Peace River South and Fort Nelson were confirmed using Northeast totals.
-9. **Not in this snapshot:** Fentanyl Concentration (p.13), Expedited Tox 2 (p.15), Mode of Consumption (p.16), Occupation Industry (p.18). Also missing: the Carfentanil, Xylazine and Medetomidine views on p.12, and monthly views for age, sex and township.
+> Kits are counted by the address of the site they were shipped to. Kits can be carried and used in other regions.
 
-## Quality checks
+---
 
-Run `python build_data.py`, then `python add_population.py` (in that order; the second adds population to `hsda_yearly.csv`). Together they run **3,232 checks**. All pass, for example:
-- Female + male = total population, and HSDA populations add up to each health authority.
-- Deaths ÷ population matches the dashboard rate for all 192 HSDA-years and 208 HSDA-months.
-- HSDAs add up to each HA, and HAs add up to BC, for every year and month.
-- Jan–Jun 2026 months add up to the 2026 yearly totals.
-- Age groups, sex, townships and place of injury add up to the published totals.
-- Each filtered page matches the HA it claims to show.
+## 2. Data evidence
+
+All data is **public, aggregated** (no personal information), and **already downloaded** into this repo.
+
+| Data | Source | Level | Years |
+|---|---|---|---|
+| Drug deaths | BC Coroners Service dashboard | 16 regions, by month | 2015 – Jun 2026 |
+| Paramedic-attended opioid overdoses | BCCDC dashboard (BC Emergency Health Services) | 16 regions, by month | 2015 – Jul 2026 |
+| Naloxone sites and kits shipped | BCCDC dashboard (Take Home Naloxone Program) | 16 regions, by month | 2015 – Jul 2026 |
+| Opioid agonist treatment clients | BCCDC dashboard | 16 regions, by month | 2015 – Jun 2026 |
+| Population | BC Stats (P.E.O.P.L.E.) | 16 regions, by year | 2015 – 2026 |
+| Region boundaries | BC Geographic Warehouse | 16 regions | 2022 boundaries |
+
+**Quality checks we ran**
+- Deaths from two separate sources (Coroners Service and BCCDC) **match exactly** for all 192 region-years.
+- Our calculated rates (deaths ÷ population) **match the official published rates** for every region, year and month.
+- 3,000+ automated checks in `build_data.py` and `add_population.py`. All pass.
+
+**Known limits**
+- 2026 is part of the year only (Jan–Jun or Jan–Jul) and preliminary.
+- Paramedic-attended overdoses nearly doubled from mid-2025 into 2026 while deaths fell. **We have not yet confirmed** whether this is real or a change in how BCCDC counts them.
+- Overdose prevention site data is only available for the 5 health authorities, not the 16 regions.
+- Small regions can change a lot from year to year.
+
+See [`DATA.md`](DATA.md) for every file and column.
+
+---
+
+## 3. What we built so far
+
+An interactive map ([`index.html`](index.html)) with a year slider (2015–2026) and four views:
+1. **Deaths** per 100,000 people
+2. **Paramedic overdoses** per 100,000 people
+3. **Naloxone sites** per 100,000 people
+4. **Gap:** flags regions with **more overdoses and fewer naloxone sites** than the BC rate. In 2024–2026 this is **Okanagan**.
+
+---
+
+## 4. Why this is different
+
+We did not find a public tool that puts harm and supplies side by side by region. Each existing source answers only part of the question:
+
+| Source | What it has | What is missing |
+|---|---|---|
+| BC Coroners Service dashboard | Deaths | No services or supplies |
+| BCCDC dashboard | Harms and services | Each on a separate page; no combined comparison |
+| BC Stats | Population | No health data |
+
+**What we add**
+- **Harm and supplies in one view**, for the same region and year.
+- **A direct answer:** the gap view and kits-per-overdose show where supplies fall short of need.
+- **Fair comparison:** everything is per 100,000 people or per overdose, compared with the BC rate.
+- **Early warning:** paramedic overdoses can rise before deaths are confirmed.
+- **Free and easy to refresh** from public downloads.
+
+---
+
+## 5. What we are taking into Build Session 2
+
+1. **Supplies view on the map:** naloxone kits shipped per overdose, by region, with the year slider.
+2. **Confirm the overdose increase** with BCCDC before using it in our pitch.
+3. **Talk to 1–2 people** at harm reduction non-profits: how do they decide where supplies go today?
+4. **Trend alert:** flag regions where overdoses have risen several months in a row.
+5. **Add opioid agonist treatment** as another support measure.
+
+---
+
+## Repository contents
+
+| Path | What it is |
+|---|---|
+| `index.html` | The live map |
+| `evidence_2025_by_region.csv` | Harm and supplies for all 16 regions, 2025 |
+| `hsda_yearly.csv`, `bccdc_*.csv` | Cleaned data tables |
+| `*-Population_Projections*.csv` | Original BC Stats population downloads |
+| `build_data.py`, `add_population.py` | Scripts that rebuild and check the data |
+| `make_map.py`, `simplify_boundaries.py`, `hsda_boundaries_simplified.geojson` | Map build scripts and region boundaries |
+| `DATA.md` | Data dictionary and notes |
+
+## Sources
+
+- BC Coroners Service, [Statistical Reports on Deaths in BC](https://www2.gov.bc.ca/gov/content/life-events/death/coroners-service/statistical-reports) (data to June 30, 2026)
+- BCCDC, [Unregulated Drug Poisoning Emergency Dashboard](http://www.bccdc.ca/health-professionals/data-reports/substance-use-harm-reduction-dashboard) (updated Aug 6, 2026)
+- BC Stats, [Population Estimates & Projections](https://www.bcstats.gov.bc.ca/apps/PopulationProjections.aspx) (released May 20, 2026)
+- BC Data Catalogue, [Health Service Delivery Area Boundaries](https://catalogue.data.gov.bc.ca/) (2022)
