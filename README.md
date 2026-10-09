@@ -123,9 +123,9 @@ We did not find a public tool that puts harm and supplies side by side by region
 | `index.html` | The live map |
 | `evidence_2025_by_region.csv` | Harm and supplies for all 16 regions, 2025 |
 | `hsda_yearly.csv`, `bccdc_*.csv` | Cleaned data tables |
-| `*-Population_Projections*.csv` | Original BC Stats population downloads |
-| `build_data.py`, `add_population.py` | Scripts that rebuild and check the data |
-| `make_map.py`, `simplify_boundaries.py`, `hsda_boundaries_simplified.geojson` | Map build scripts and region boundaries |
+| `*-Population_Projections*.csv`, `raw_population/`, `raw_bccdc/` | Original BC Stats and source downloads |
+| `build_data.py`, `build_bccdc.py`, `add_population.py` | Scripts that rebuild and check the data |
+| `make_map.py`, `simplify_boundaries.py`, `hsda_boundaries_simplified.geojson`, `map/` | Map build scripts, boundaries, and source |
 | `DATA.md` | Data dictionary and notes |
 
 ## Sources
