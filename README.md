@@ -8,16 +8,20 @@ A map of BC's 16 health regions that puts **drug harm** (deaths, paramedic-atten
 
 ## Job story
 
-> **When** I am deciding, for a non-profit, where to send outreach staff and naloxone supplies each month,
-> **I want** to see in one place which regions have high overdose harm but few support services,
-> **So that I can** put limited resources where they are most likely to prevent deaths.
+Written from the point of view of the **user**: a staff member at a harm reduction non-profit (for example, an outreach coordinator).
+
+> **When** I am planning outreach and funding requests for my non-profit,
+> **I want** to see in one place where overdose harm is high and naloxone supply is thin,
+> **So that I can** focus outreach staff where they are most needed and make a stronger case for more support.
 
 ## Main proposition
 
-**One map that shows where harm is high and support is thin, so limited resources go where they save the most lives.**
+**Help non-profits see where overdose harm is high and naloxone supply is thin, so they can focus their own outreach and make a stronger case for more resources.**
 
-- **The problem we solve:** outreach resources are limited, and people keep dying. Teams need to know where to send supplies first.
-- **Our goal:** help teams use the same resources more efficiently, by matching supplies to need.
+- **The problem we solve:** outreach resources are limited, and people keep dying. Non-profits need clear evidence of where need is highest.
+- **What is realistic:** the provincial naloxone program (BCCDC) and the health authorities decide most supply. Non-profits control their own outreach, can order kits if they are a registered naloxone site, can apply to become one, and can bring evidence to funders and their health authority.
+- **Our goal:** give non-profits that evidence in one place, so the same resources go where they matter most.
+- **Limit:** the map works at the level of 16 health regions. Non-profits know their own streets better. The map gives the bigger picture and the evidence, not street-level decisions.
 
 ---
 
@@ -88,8 +92,9 @@ A live map ([`index.html`](index.html)) for **harm reduction non-profits**, with
 
 Tools to act on it:
 - **Zoom to a health authority**, or click a region.
-- **Where to send naloxone first:** a ranked list of regions with more overdoses **and** fewer kits per overdose than BC. In 2025: Fraser East, Vancouver, Kootenay Boundary, Okanagan.
+- **Where naloxone supply looks lowest for the need:** a ranked list of regions with more overdoses **and** fewer kits per overdose than BC. In 2025: Fraser East, Vancouver, Kootenay Boundary, Okanagan.
 - **Early warning:** regions where overdoses rose 25% or more in the latest 3 months compared with the 3 months before (purple dots on the map).
+- **What your organization can do:** realistic actions for a non-profit, with links (focus outreach, order more kits if you are a site, become a site, staff response boxes, make the case to funders, warn your team).
 - **Copy summary:** one click copies the numbers for the area you're looking at, ready for an email or funding request.
 - **How to use** tip, **About the data** panel (definitions, sources, limits), and a **Give feedback** link.
 

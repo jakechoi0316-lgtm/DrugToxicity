@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,600&family=Public+Sans:wght@400;500;600;700&display=swap">
 <style>
 /* Layout: header (title, help links, year control), how-to tip, view switcher, then a panel with the map on the left and
-   "send naloxone first" + early warning on the right (stacked on phones), legend under the map, "About the data" at the end. */
+   "naloxone supply lowest for the need" + early warning + "what you can do" on the right (stacked on phones), legend under the map, "About the data" at the end. */
 :root {
   --bg: #f5f7f9; --surface: #ffffff; --fg: #141920; --muted: #586273; --line: #d8dee6; --accent: #2a78d6; --tipbg: #eaf2fc;
   /* deaths: blue */
@@ -147,6 +147,8 @@ svg { display: block; width: 100%; height: auto; }
 .copied { font-size: 12px; color: var(--muted); margin: 0; min-height: 1.2em; }
 #copyFallback { width: 100%; min-height: 140px; font: 12px/1.4 var(--font-body); color: var(--fg); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px; }
 .fb { font-size: 13px; margin: 0; }
+.todo ul { margin: 6px 0 0; padding-left: 18px; display: grid; gap: 6px; font-size: 13px; color: var(--muted); }
+.todo li b { color: var(--fg); }
 
 details.about { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 0 16px; }
 details.about summary { cursor: pointer; font-weight: 700; padding: 12px 0; }
@@ -174,7 +176,7 @@ details.about[open] summary { border-bottom: 1px solid var(--line); }
 <div class="wrap">
   <div class="top">
     <div>
-      <h1>BC Drug Harms Map<small>For harm reduction non-profits deciding where to send outreach and naloxone · by health region</small></h1>
+      <h1>BC Drug Harms Map<small>For harm reduction non-profits: see where overdose harm is high and naloxone supply is thin · by health region</small></h1>
       <div class="links">
         <button type="button" class="linkbtn" id="showHowto">How to use</button>
         <button type="button" class="linkbtn" id="showAbout">About the data</button>
@@ -198,7 +200,7 @@ details.about[open] summary { border-bottom: 1px solid var(--line); }
       <li>Pick what to show: deaths, overdoses, naloxone sites, kits per overdose, or the gap.</li>
       <li>Pick a year with the slider.</li>
       <li>Zoom to your health authority, or click a region.</li>
-      <li>Hover a region for its numbers. The list beside the map shows where to send naloxone first.</li>
+      <li>Hover a region for its numbers. The panel beside the map shows where naloxone supply looks lowest for the need, and what you can do.</li>
     </ol>
     </div>
     <button type="button" class="ok" id="hideHowto">Got it</button>
@@ -233,7 +235,7 @@ details.about[open] summary { border-bottom: 1px solid var(--line); }
       </div>
       <aside class="side" aria-label="Where to act">
         <div>
-          <h2 id="prioTitle">Where to send naloxone first</h2>
+          <h2 id="prioTitle">Where naloxone supply looks lowest for the need</h2>
           <p class="rule">Regions with <b>more paramedic overdoses</b> than BC and <b>fewer naloxone kits per overdose</b> than BC. Lowest kits per overdose first.</p>
           <div id="prio"></div>
         </div>
@@ -241,6 +243,17 @@ details.about[open] summary { border-bottom: 1px solid var(--line); }
           <h2>Early warning: overdoses rising</h2>
           <p class="rule" id="ewRule"></p>
           <div id="ew"></div>
+        </div>
+        <div class="todo">
+          <h2>What your organization can do</h2>
+          <ul>
+            <li><b>Focus outreach.</b> Shift staff time toward regions that are high on this map or marked <span class="dotc">●</span> rising.</li>
+            <li><b>Order more kits.</b> If you are a registered naloxone site, you can order more kits from the provincial program. <a href="https://towardtheheart.com/thn-sites" target="_blank" rel="noopener">Ordering for sites</a></li>
+            <li><b>Become a site.</b> Not registered yet? Ask your health authority's harm reduction team about joining the <a href="https://towardtheheart.com/naloxone" target="_blank" rel="noopener">Take Home Naloxone program</a>.</li>
+            <li><b>Protect your staff.</b> Non-profits can get naloxone for staff to use on site through the <a href="https://towardtheheart.com/forb" target="_blank" rel="noopener">Facility Overdose Response Box program</a>.</li>
+            <li><b>Make the case.</b> Copy the summary below into a funding request, or share it with your health authority's harm reduction team.</li>
+            <li><b>Warn your team.</b> Tell outreach staff when a region near you is rising.</li>
+          </ul>
         </div>
         <div class="actions">
           <button type="button" class="copy" id="copy">Copy summary</button>
@@ -453,7 +466,7 @@ d3.selectAll(".region")
   .on("click", (ev, d) => { const h = INFO[d.properties.hsda_code].ha; if (h !== ha) setHA(h); });
 const highlight = code => d3.selectAll("#map .region").classed("hl", d => d.properties.hsda_code === code);
 
-// ---------- "send naloxone first" and early warning
+// ---------- "naloxone supply lowest for the need" and early warning
 function priorityList() {
   const b = BC[year];
   return DATA.hsda.filter(h => inScope(h.code) && R[h.code][year].or > b.or && R[h.code][year].kpo < b.kpo)
@@ -464,7 +477,7 @@ function risingList() {
 }
 function renderSide() {
   const b = BC[year], where = ha ? ` in ${HA_NAME[ha]}` : "";
-  document.getElementById("prioTitle").textContent = `Where to send naloxone first, ${year}${year === 2026 ? " (Jan–Jul)" : ""}`;
+  document.getElementById("prioTitle").textContent = `Where naloxone supply looks lowest for the need, ${year}${year === 2026 ? " (Jan–Jul)" : ""}`;
   const list = priorityList(), box = document.getElementById("prio");
   if (list.length) {
     box.innerHTML = `<ol class="plist">${list.map((h, i) => {
@@ -498,7 +511,7 @@ function summaryText() {
   lines.push(`Per 100,000 people: ${f1(a.dr)} deaths${vs(f1(b.dr))}, ${f0(a.or)} paramedic overdoses${vs(f0(b.or))}, ${f1(a.sr)} naloxone sites${vs(f1(b.sr))}.`);
   lines.push(`Naloxone kits per overdose: ${f1(a.kpo)}${vs(f1(b.kpo))}.`, "");
   const pl = priorityList();
-  lines.push("Where to send naloxone first (more overdoses and fewer kits per overdose than BC):");
+  lines.push("Where naloxone supply looks lowest for the need (more overdoses and fewer kits per overdose than BC):");
   if (pl.length) pl.forEach((h, i) => { const v = R[h.code][year]; lines.push(`${i + 1}. ${h.name}: ${f1(v.kpo)} kits per overdose, ${f0(v.or)} overdoses per 100,000`); });
   else lines.push("None in this area.");
   lines.push("", `Early warning (${EW.recent} vs ${EW.prior}, up ${EW_MIN_RISE}% or more):`);
