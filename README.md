@@ -79,11 +79,21 @@ See [`DATA.md`](DATA.md) for every file and column.
 
 ## 3. What we built so far
 
-An interactive map ([`index.html`](index.html)) with a year slider (2015–2026) and four views:
+A live map ([`index.html`](index.html)) for **harm reduction non-profits**, with a year slider (2015–2026) and five views:
 1. **Deaths** per 100,000 people
 2. **Paramedic overdoses** per 100,000 people
 3. **Naloxone sites** per 100,000 people
-4. **Gap:** flags regions with **more overdoses and fewer naloxone sites** than the BC rate. In 2024–2026 this is **Okanagan**.
+4. **Kits per overdose:** naloxone kits shipped for each paramedic-attended overdose, compared with BC. Red means fewer kits for the need.
+5. **Gap:** regions with **more overdoses and fewer naloxone sites** than the BC rate.
+
+Tools to act on it:
+- **Zoom to a health authority**, or click a region.
+- **Where to send naloxone first:** a ranked list of regions with more overdoses **and** fewer kits per overdose than BC. In 2025: Fraser East, Vancouver, Kootenay Boundary, Okanagan.
+- **Early warning:** regions where overdoses rose 25% or more in the latest 3 months compared with the 3 months before (purple dots on the map).
+- **Copy summary:** one click copies the numbers for the area you're looking at, ready for an email or funding request.
+- **How to use** tip, **About the data** panel (definitions, sources, limits), and a **Give feedback** link.
+
+Link straight to a view: add `#kits`, `#gap`, `#overdoses` or `#naloxone`, plus a health authority (`-interior`, `-fraser`, `-vch`, `-island`, `-northern`), e.g. `#kits-fraser`.
 
 ---
 
@@ -106,13 +116,11 @@ We did not find a public tool that puts harm and supplies side by side by region
 
 ---
 
-## 5. What we are taking into Build Session 2
+## 5. Build Session 3: getting it used
 
-1. **Supplies view on the map:** naloxone kits shipped per overdose, by region, with the year slider.
-2. **Confirm the overdose increase** with BCCDC before using it in our pitch.
-3. **Talk to 1–2 people** at harm reduction non-profits: how do they decide where supplies go today?
-4. **Trend alert:** flag regions where overdoses have risen several months in a row.
-5. **Add opioid agonist treatment** as another support measure.
+- **Users first:** staff at harm reduction non-profits. Test plan, outreach message, feedback form questions and results table: [`USER_TESTING.md`](USER_TESTING.md).
+- **Still to confirm:** the mid-2025 jump in paramedic overdoses with BCCDC, before showing 2026 overdose numbers publicly.
+- **Next data to add:** opioid agonist treatment as another support measure.
 
 ---
 
@@ -123,10 +131,11 @@ We did not find a public tool that puts harm and supplies side by side by region
 | `index.html` | The live map |
 | `evidence_2025_by_region.csv` | Harm and supplies for all 16 regions, 2025 |
 | `hsda_yearly.csv`, `bccdc_*.csv` | Cleaned data tables |
-| `*-Population_Projections*.csv`, `raw_population/`, `raw_bccdc/` | Original BC Stats and source downloads |
-| `build_data.py`, `build_bccdc.py`, `add_population.py` | Scripts that rebuild and check the data |
-| `make_map.py`, `simplify_boundaries.py`, `hsda_boundaries_simplified.geojson`, `map/` | Map build scripts, boundaries, and source |
+| `*-Population_Projections*.csv` | Original BC Stats population downloads |
+| `build_data.py`, `add_population.py` | Scripts that rebuild and check the data |
+| `make_map.py`, `simplify_boundaries.py`, `hsda_boundaries_simplified.geojson` | Map build scripts and region boundaries |
 | `DATA.md` | Data dictionary and notes |
+| `USER_TESTING.md` | User testing plan for non-profits |
 
 ## Sources
 
